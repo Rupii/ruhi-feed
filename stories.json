@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T04:16:25+00:00",
+ "updated": "2026-10-19T04:20:47+00:00",
  "count": 20,
  "stories": [
   {
@@ -36,35 +36,35 @@
   },
   {
    "category": "Crypto",
-   "headline": "Qubic freezes chain after attacker drains 1.4K wallets with weak seeds",
-   "blurb": "Qubic says 87.1% of the stolen funds remain onchain and the rest were frozen at crypto exchange MEXC, as network validators prepare to vote on a recovery plan.",
-   "source": "Cointelegraph",
-   "ts": "2026-10-19T01:03:27+00:00",
-   "url": "https://cointelegraph.com/news/qubic-freezes-chain-after-attacker-drains-14k-wallets-with-weak-seeds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+   "headline": "Bitcoin, Korea’s Kospi and Nasdaq futures rally as China GDP beats estimates",
+   "blurb": "Bitcoin, Nasdaq futures and Asian stocks rally as stronger-than-expected China GDP and falling oil prices lift risk appetite.",
+   "source": "CoinDesk",
+   "ts": "2026-10-19T03:36:58+00:00",
+   "url": "https://www.coindesk.com/markets/2026/10/19/bitcoin-korea-s-kospi-and-nasdaq-futures-rally-as-china-gdp-beats-estimates"
   },
   {
    "category": "Crypto",
-   "headline": "Richard Heart caught ‘off-guard,’ QDay gets even closer: Hodler’s Digest",
-   "blurb": "HEX founder Richard Heart detained in early morning raid in Istanbul, Starknet plunges almost 50% as it votes to become an L1, and Bitwise says all signs point to Crypto Spring.",
-   "source": "Cointelegraph",
-   "ts": "2026-10-18T22:58:17+00:00",
-   "url": "https://cointelegraph.com/magazine/richard-heart-caught-with-pants-down-qday-gets-even-closer-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+   "headline": "Deutsche Bank targets Asia crypto custody expansion in 2027 as German launch nears",
+   "blurb": "The service will initially support bitcoin, ether and the stablecoins USDC, EURC and EURAU, with the bank managing clients’ wallets and private keys.",
+   "source": "CoinDesk",
+   "ts": "2026-10-19T02:00:00+00:00",
+   "url": "https://www.coindesk.com/business/2026/10/18/deutsche-bank-targets-asia-crypto-custody-expansion-in-2027-as-german-launch-nears"
   },
   {
    "category": "Crypto",
-   "headline": "Here’s what happened in crypto today",
-   "blurb": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-   "source": "Cointelegraph",
-   "ts": "2026-10-18T13:54:00+00:00",
-   "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+   "headline": "SEC tokenized stock framework faces issuer pushback as Broadcom, Verizon object to OKX-ICE listing",
+   "blurb": "Eight more companies objected to trading on the planned OKX-ICE venue, while Nasdaq has separately said it would opt out under the SEC’s framework.",
+   "source": "CoinDesk",
+   "ts": "2026-10-18T23:28:06+00:00",
+   "url": "https://www.coindesk.com/business/2026/10/18/sec-tokenized-stock-framework-faces-issuer-pushback-as-broadcom-verizon-object-to-okx-ice-listing"
   },
   {
    "category": "Crypto",
-   "headline": "Most Americans polled oppose betting on elections: Reuters",
-   "blurb": "The prediction market industry enables people to bet on US ‌elections and sporting events.",
-   "source": "Cointelegraph",
-   "ts": "2026-10-18T13:48:00+00:00",
-   "url": "https://cointelegraph.com/news/most-americans-polled-oppose-betting-on-elections-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+   "headline": "The White House's crypto chief departs: State of Crypto",
+   "blurb": "Patrick Witt announced his departure from the White House last week.",
+   "source": "CoinDesk",
+   "ts": "2026-10-18T18:30:00+00:00",
+   "url": "https://www.coindesk.com/policy/2026/10/18/the-white-house-s-crypto-chief-departs-state-of-crypto"
   },
   {
    "category": "Gold",
