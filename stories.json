@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T17:25:37+00:00",
+ "updated": "2026-10-19T19:42:49+00:00",
  "count": 23,
  "stories": [
   {
@@ -7,32 +7,32 @@
    "headline": "Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why",
    "blurb": "The history of technological progress suggests that as AI spreads, the employment impact will hit women more than men.",
    "source": "CNBC",
-   "ts": "2026-10-19T14:20:08+00:00",
+   "ts": "2026-10-19T18:36:21+00:00",
    "url": "https://www.cnbc.com/2026/10/19/ai-job-losses-women-automation-risk.html"
   },
   {
    "category": "Crypto",
-   "headline": "U.S. CFTC rebuffs CME legal stance in consequential fight over perpetual futures",
-   "blurb": "The future of perps in the U.S. may be at stake as the CFTC argues that CME hasn't shown the new policy is hurting it after the agency OK'd its first bitcoin perp.",
-   "source": "CoinDesk",
-   "ts": "2026-10-19T16:47:00+00:00",
-   "url": "https://www.coindesk.com/policy/2026/10/19/u-s-cftc-rebuffs-cme-legal-stance-in-consequential-fight-over-perpetual-futures"
+   "headline": "Visa, Mesh partner to enable crypto spending at 175M merchant locations",
+   "blurb": "Mesh will connect crypto and stablecoin wallets to Visa’s global payment network, allowing users to spend digital assets without a separate card.",
+   "source": "Cointelegraph",
+   "ts": "2026-10-19T19:16:19+00:00",
+   "url": "https://cointelegraph.com/news/visa-mesh-partner-crypto-spending-175m-merchant-locations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
   {
    "category": "Gold",
-   "headline": "These 2 Gold Miners Just Flashed Golden Crosses—Is a Breakout Coming?",
+   "headline": "Central Banks Are Buying Gold - So Why Is the Yellow Metal Still Under Pressure?",
    "blurb": "",
    "source": "Investing.com",
-   "ts": "2026-10-19T17:01:00+00:00",
-   "url": "https://www.investing.com/analysis/these-2-gold-miners-just-flashed-golden-crossesis-a-breakout-coming-200689847"
+   "ts": "2026-10-19T18:12:00+00:00",
+   "url": "https://www.investing.com/analysis/central-banks-are-buying-gold--so-why-is-the-yellow-metal-still-under-pressure-200689820"
   },
   {
    "category": "Geopolitics",
-   "headline": "Kenya cult leader who told parents to starve children guilty of 191 murders",
-   "blurb": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children.",
+   "headline": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
+   "blurb": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing.",
    "source": "BBC",
-   "ts": "2026-10-19T17:18:04+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-19T18:23:50+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
@@ -44,27 +44,27 @@
   },
   {
    "category": "US Politics",
-   "headline": "Rural America can't grow if its workers can't find a place to live",
-   "blurb": "Rep. Max Miller argues that housing shortages in rural Ohio hinder economic development and calls for federal support to ensure workers can afford to live in their communities.",
+   "headline": "Hassett dismisses negative economic polls: ‘We are in a boom’",
+   "blurb": "Kevin Hassett, the director of the National Economic Council (NEC), dismissed recent polling on Monday, instead arguing the U.S. economy is “in a boom.” During an interview on CNBC’s “Squawk Box,” Hassett said consumer spending indicates the economy remains strong. \"If economic polls … were correct, then people wouldn't be taking trips to nice hotels,...",
    "source": "The Hill",
-   "ts": "2026-10-19T17:00:00+00:00",
-   "url": "https://thehill.com/opinion/finance/6157253-rural-ohio-worker-housing-crisis/"
+   "ts": "2026-10-19T19:10:39+00:00",
+   "url": "https://thehill.com/homenews/administration/6158494-hassett-dismisses-economic-polls/"
   },
   {
    "category": "India Politics",
-   "headline": "CISF jawan nabs ‘suspicious’ man in escalator-stairs chase at Delhi Metro station",
-   "blurb": "The CISF said in the post that it recovered an ‘unidentified semi-solid substance’, suspected to be gold, concealed in a stitched portion of the man's undergarment, kept in his bag",
+   "headline": "Jaishankar receives UAE’s Foreign Minister Al Nahyan at Mumbai airport",
+   "blurb": "PM Al Nahyan, who is also the UAE's Foreign Minister, will hold wide-ranging talks with External Affairs Minister S. Jaishankar on October 20",
    "source": "The Hindu",
-   "ts": "2026-10-19T17:12:57+00:00",
-   "url": "https://www.thehindu.com/news/cities/Delhi/cisf-jawan-nabs-suspicious-man-in-escalator-stairs-chase-at-delhi-metro-station/article71603033.ece"
+   "ts": "2026-10-19T19:39:29+00:00",
+   "url": "https://www.thehindu.com/news/national/jaishankar-receives-uaes-foreign-minister-al-nahyan-at-mumbai-airport/article71603083.ece"
   },
   {
    "category": "AI",
-   "headline": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
-   "blurb": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind of unexpected political realignment — and with the midterms coming […]",
+   "headline": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+   "blurb": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targets, Reuters reports that the victims included companies like John Deere, SharkNinja, and Cummins. Concerns over AI-powered cybersecurity breaches have grown […]",
    "source": "The Verge",
-   "ts": "2026-10-19T15:46:56+00:00",
-   "url": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws"
+   "ts": "2026-10-19T17:33:16+00:00",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins"
   },
   {
    "category": "Equities",
@@ -76,27 +76,27 @@
   },
   {
    "category": "Crypto",
-   "headline": "Zerohash rolls out a new tool to move crypto without copying wallet addresses",
-   "blurb": "The launch comes as Zerohash bids for a federal trust charter.",
-   "source": "CoinDesk",
-   "ts": "2026-10-19T14:58:40+00:00",
-   "url": "https://www.coindesk.com/business/2026/10/19/zerohash-rolls-out-a-new-tool-to-move-crypto-without-copying-wallet-addresses"
+   "headline": "Mastercard launches stablecoin risk screening for banks and payment providers",
+   "blurb": "The new service combines payment data and blockchain analytics to help banks detect suspicious stablecoin transactions before settlement.",
+   "source": "Cointelegraph",
+   "ts": "2026-10-19T19:03:23+00:00",
+   "url": "https://cointelegraph.com/news/mastercard-stablecoin-risk-screening-banks-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
   {
    "category": "Gold",
-   "headline": "The Energy Report: The Diesel Dump",
+   "headline": "Gold Faces Pre-November 3 Sell-Off Risk as Trump Strategy Comes Into Focus",
    "blurb": "",
    "source": "Investing.com",
-   "ts": "2026-10-19T15:58:00+00:00",
-   "url": "https://www.investing.com/analysis/the-energy-report-the-diesel-dump-200689845"
+   "ts": "2026-10-19T17:18:00+00:00",
+   "url": "https://www.investing.com/analysis/gold-faces-prenovember-3-selloff-risk-as-trump-strategy-comes-into-focus-200689851"
   },
   {
    "category": "Geopolitics",
-   "headline": "Warning signs over threats to Australian politicians were rising before MP hit by car",
-   "blurb": "The apparent attack on MP Helen Haines suggests the worst fears of politicians and public figures appear to have been realised.",
+   "headline": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
+   "blurb": "The blaze that killed four men and injured dozens of others spread with alarming speed, accounts suggest.",
    "source": "BBC",
-   "ts": "2026-10-19T16:32:47+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-19T18:22:48+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
@@ -108,27 +108,27 @@
   },
   {
    "category": "US Politics",
-   "headline": "Meta apologizes for suspending 'No Kings' Instagram account, blaming bot traffic increase",
-   "blurb": "Facebook's parent company Meta on Sunday apologized for suspending the \"No Kings\" Instagram account, saying the suspension was caused by a high increase in traffic by bots. Meta spokesperson Andy Stone wrote in a statement that the company's engineering team found that the \"spike that triggered the incorrect…",
+   "headline": "Zelensky disputes US resumed intelligence sharing with Ukraine",
+   "blurb": "Ukrainian President Volodymyr Zelensky on Monday again called into question whether the U.S. has continued to share intelligence with the war-torn country a day after he said Washington resumed providing Kyiv with such information to ‌help defend against Russian missile strikes. Zelensky said Russia overnight launched ballistic missiles and drones at Ukraine’s energy infrastructure, with...",
    "source": "The Hill",
-   "ts": "2026-10-19T16:42:17+00:00",
-   "url": "https://thehill.com/policy/technology/6157957-meta-apologizes-no-kings-account-suspension/"
+   "ts": "2026-10-19T19:06:35+00:00",
+   "url": "https://thehill.com/policy/international/6158701-zelensky-questions-us-intel/"
   },
   {
    "category": "India Politics",
-   "headline": "Watch: One killed, several injured in clashes in Manipur’s Thoubal",
-   "blurb": "At least one person was killed and several others injured in clashes between two communities in Manipur’s Thoubal district on October 18, 2026. Houses and vehicles were set on fire in Khangabok and Sangaiyumpham, prompting prohibitory orders and the deployment of additional security forces.",
+   "headline": "Naveen Patnaik questions Odisha government’s 'silence' on Andhra's poll notification for disputed Kotia villages",
+   "blurb": "The decades-old dispute involves both Odisha and Andhra Pradesh claiming their right over 21 of the 28 villages of Kotia Gram Panchayat",
    "source": "The Hindu",
-   "ts": "2026-10-19T17:10:04+00:00",
-   "url": "https://www.thehindu.com/videos/watch-one-killed-several-injured-in-clashes-in-manipurs-thoubal/article71603043.ece"
+   "ts": "2026-10-19T17:28:21+00:00",
+   "url": "https://www.thehindu.com/news/national/odisha/naveen-patnaik-questions-odisha-governments-silence-on-andhras-poll-notification-for-disputed-kotia-villages/article71603050.ece"
   },
   {
    "category": "AI",
-   "headline": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
-   "blurb": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targets, Reuters reports that the victims included companies like John Deere, SharkNinja, and Cummins. Concerns over…",
+   "headline": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
+   "blurb": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind of unexpected political realignment — and with the midterms coming […]",
    "source": "The Verge",
-   "ts": "2026-10-19T14:42:18+00:00",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins"
+   "ts": "2026-10-19T15:46:56+00:00",
+   "url": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws"
   },
   {
    "category": "Equities",
@@ -140,19 +140,19 @@
   },
   {
    "category": "Crypto",
-   "headline": "Cardano founder Charles Hoskinson is building a new programming language for the network",
-   "blurb": "Hoskinson said on X the language will bundle transaction requests with cryptographic proofs. He hasn’t shared a name, specs or a release date.",
-   "source": "CoinDesk",
-   "ts": "2026-10-19T12:16:58+00:00",
-   "url": "https://www.coindesk.com/tech/2026/10/19/cardano-founder-charles-hoskinson-is-building-a-new-programming-language-for-the-network"
+   "headline": "Revolut secures Gibraltar crypto license to support global expansion",
+   "blurb": "The UK-based fintech will use the authorization to offer crypto services in additional international markets, though it has not disclosed specific countries or launch dates.",
+   "source": "Cointelegraph",
+   "ts": "2026-10-19T17:24:49+00:00",
+   "url": "https://cointelegraph.com/news/revolut-secures-gibraltar-crypto-license-to-support-global-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
   {
    "category": "Geopolitics",
-   "headline": "Ex-OpenAI worker accused of planting device had Saudi support says court filing",
-   "blurb": "The Saudi government did not immediately respond to BBC requests for comment.",
+   "headline": "Kenya cult leader who told parents to starve children guilty of 191 murders",
+   "blurb": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children.",
    "source": "BBC",
-   "ts": "2026-10-19T16:22:12+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-19T17:18:04+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
@@ -164,24 +164,24 @@
   },
   {
    "category": "US Politics",
-   "headline": "No Kings account suspended by Meta during protests — not a coincidence?",
-   "blurb": "Whether we’re talking about Brazil or the United States, the issue is bigger than one Instagram account or one algorithm. It’s about transparency, accountability and whether the digital platforms shaping political conversations are applying their rules fairly.",
+   "headline": "Democratic senator: Zelensky says Ukraine doesn’t have full access to Starshield, intelligence sharing",
+   "blurb": "Sen. Richard Blumenthal (D-Conn.) says that Ukrainian President Volodymyr Zelensky told senators that Ukraine still does not have full access to the critical satellite-based Starshield network or U.S. intelligence sharing amid growing tensions with President Trump. Zelensky provided the update to a bipartisan group of senators on a call hosted by Sen. Thom Tillis (R-N.C.)....",
    "source": "The Hill",
-   "ts": "2026-10-19T16:41:59+00:00",
-   "url": "https://thehill.com/opinion/lindseys-lens/6158179-meta-suspends-no-kings-account/"
+   "ts": "2026-10-19T18:58:41+00:00",
+   "url": "https://thehill.com/homenews/senate/6158647-bipartisan-outrage-ukraine-starshield-access/"
   },
   {
    "category": "India Politics",
-   "headline": "Jaishankar meets Swift CEO in Delhi",
-   "blurb": "Headquartered in Belgium, Swift is a globally inclusive organisation that serves institutions and individuals all over the world, according to its website",
+   "headline": "Kuki group announces shutdown of key Manipur highway after attacks on villages",
+   "blurb": "State government transfers Superintendent of Police in charge of Kamjong district",
    "source": "The Hindu",
-   "ts": "2026-10-19T17:06:11+00:00",
-   "url": "https://www.thehindu.com/news/national/jaishankar-meets-swift-ceo-in-delhi/article71603032.ece"
+   "ts": "2026-10-19T17:27:16+00:00",
+   "url": "https://www.thehindu.com/news/national/manipur/kuki-group-announces-shutdown-of-key-manipur-highway-after-attacks-on-villages/article71600255.ece"
   },
   {
    "category": "AI",
    "headline": "Democrats think cracking down on AI could give them an edge",
-   "blurb": "Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newest and thorniest political issues: AI. Polls predict Democrats will flip at least one chamber of Congress in the midterm elections, which would put committee leadership back in…",
+   "blurb": "Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newest and thorniest political issues: AI. Polls predict Democrats will flip at least one chamber of Congress in the midterm elections, which would put committee leadership back in their hands. That […]",
    "source": "The Verge",
    "ts": "2026-10-19T12:37:05+00:00",
    "url": "https://www.theverge.com/policy/1013113/democrats-ai-midterms"
