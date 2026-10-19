@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-19T19:42:49+00:00",
- "count": 23,
+ "updated": "2026-10-19T20:26:01+00:00",
+ "count": 58,
  "stories": [
   {
    "category": "Equities",
@@ -12,11 +12,11 @@
   },
   {
    "category": "Crypto",
-   "headline": "Visa, Mesh partner to enable crypto spending at 175M merchant locations",
-   "blurb": "Mesh will connect crypto and stablecoin wallets to Visa’s global payment network, allowing users to spend digital assets without a separate card.",
+   "headline": "Here’s what happened in crypto today",
+   "blurb": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
    "source": "Cointelegraph",
-   "ts": "2026-10-19T19:16:19+00:00",
-   "url": "https://cointelegraph.com/news/visa-mesh-partner-crypto-spending-175m-merchant-locations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+   "ts": "2026-10-19T20:02:30+00:00",
+   "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
   {
    "category": "Gold",
@@ -31,7 +31,7 @@
    "headline": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
    "blurb": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing.",
    "source": "BBC",
-   "ts": "2026-10-19T18:23:50+00:00",
+   "ts": "2026-10-19T20:13:27+00:00",
    "url": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss"
   },
   {
@@ -44,18 +44,18 @@
   },
   {
    "category": "US Politics",
-   "headline": "Hassett dismisses negative economic polls: ‘We are in a boom’",
-   "blurb": "Kevin Hassett, the director of the National Economic Council (NEC), dismissed recent polling on Monday, instead arguing the U.S. economy is “in a boom.” During an interview on CNBC’s “Squawk Box,” Hassett said consumer spending indicates the economy remains strong. \"If economic polls … were correct, then people wouldn't be taking trips to nice hotels,...",
+   "headline": "91 percent in Texas poll say Iran war raising oil and gas prices",
+   "blurb": "Over 90 percent of Texas voters believe the Iran war is raising oil and gas prices, according to a new poll. In the CBS News/YouGov poll, 91 percent said the war against Iran is causing oil and gas prices in the U.S. to be “a lot higher” or “a little higher.” Seven percent said the...",
    "source": "The Hill",
-   "ts": "2026-10-19T19:10:39+00:00",
-   "url": "https://thehill.com/homenews/administration/6158494-hassett-dismisses-economic-polls/"
+   "ts": "2026-10-19T20:11:03+00:00",
+   "url": "https://thehill.com/homenews/campaign/6158897-texas-voters-iran-war-oil/"
   },
   {
    "category": "India Politics",
-   "headline": "Jaishankar receives UAE’s Foreign Minister Al Nahyan at Mumbai airport",
+   "headline": "Jaishankar welcomes UAE’s Foreign Minister Al Nahyan in Mumbai",
    "blurb": "PM Al Nahyan, who is also the UAE's Foreign Minister, will hold wide-ranging talks with External Affairs Minister S. Jaishankar on October 20",
    "source": "The Hindu",
-   "ts": "2026-10-19T19:39:29+00:00",
+   "ts": "2026-10-19T19:48:25+00:00",
    "url": "https://www.thehindu.com/news/national/jaishankar-receives-uaes-foreign-minister-al-nahyan-at-mumbai-airport/article71603083.ece"
   },
   {
@@ -76,11 +76,11 @@
   },
   {
    "category": "Crypto",
-   "headline": "Mastercard launches stablecoin risk screening for banks and payment providers",
-   "blurb": "The new service combines payment data and blockchain analytics to help banks detect suspicious stablecoin transactions before settlement.",
+   "headline": "Market participants weigh in on SEC’s proposed crypto regulations",
+   "blurb": "The financial agency is scheduled to close public comments on its ‘Regulation Crypto Assets’ proposed in August.",
    "source": "Cointelegraph",
-   "ts": "2026-10-19T19:03:23+00:00",
-   "url": "https://cointelegraph.com/news/mastercard-stablecoin-risk-screening-banks-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+   "ts": "2026-10-19T19:54:38+00:00",
+   "url": "https://cointelegraph.com/news/public-comments-us-sec-proposed-crypto-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
   {
    "category": "Gold",
@@ -108,11 +108,11 @@
   },
   {
    "category": "US Politics",
-   "headline": "Zelensky disputes US resumed intelligence sharing with Ukraine",
-   "blurb": "Ukrainian President Volodymyr Zelensky on Monday again called into question whether the U.S. has continued to share intelligence with the war-torn country a day after he said Washington resumed providing Kyiv with such information to ‌help defend against Russian missile strikes. Zelensky said Russia overnight launched ballistic missiles and drones at Ukraine’s energy infrastructure, with...",
+   "headline": "Trump says he would be open to trilateral meeting with Putin, Xi",
+   "blurb": "President Trump said Monday he has not yet agreed to a trilateral meeting with Russian President Vladimir Putin and Chinese President Xi Jinping, but he said he is open to it. \"I would do it,\" Trump told reporters on the White House's South Lawn before heading to a midterm rally in Kansas. \"Not so much...",
    "source": "The Hill",
-   "ts": "2026-10-19T19:06:35+00:00",
-   "url": "https://thehill.com/policy/international/6158701-zelensky-questions-us-intel/"
+   "ts": "2026-10-19T20:07:15+00:00",
+   "url": "https://thehill.com/homenews/administration/6158904-trump-open-putin-xi-summit/"
   },
   {
    "category": "India Politics",
@@ -140,11 +140,11 @@
   },
   {
    "category": "Crypto",
-   "headline": "Revolut secures Gibraltar crypto license to support global expansion",
-   "blurb": "The UK-based fintech will use the authorization to offer crypto services in additional international markets, though it has not disclosed specific countries or launch dates.",
+   "headline": "Visa, Mesh partner to enable crypto spending at 175M merchant locations",
+   "blurb": "Mesh will connect crypto and stablecoin wallets to Visa’s global payment network, allowing users to spend digital assets without a separate card.",
    "source": "Cointelegraph",
-   "ts": "2026-10-19T17:24:49+00:00",
-   "url": "https://cointelegraph.com/news/revolut-secures-gibraltar-crypto-license-to-support-global-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+   "ts": "2026-10-19T19:16:19+00:00",
+   "url": "https://cointelegraph.com/news/visa-mesh-partner-crypto-spending-175m-merchant-locations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
   {
    "category": "Geopolitics",
@@ -164,11 +164,11 @@
   },
   {
    "category": "US Politics",
-   "headline": "Democratic senator: Zelensky says Ukraine doesn’t have full access to Starshield, intelligence sharing",
-   "blurb": "Sen. Richard Blumenthal (D-Conn.) says that Ukrainian President Volodymyr Zelensky told senators that Ukraine still does not have full access to the critical satellite-based Starshield network or U.S. intelligence sharing amid growing tensions with President Trump. Zelensky provided the update to a bipartisan group of senators on a call hosted by Sen. Thom Tillis (R-N.C.)....",
+   "headline": "Trump says security cameras installed at Reflecting Pool, threatens to jail future vandals",
+   "blurb": "President Trump said security cameras have been installed at the Lincoln Memorial Reflecting Pool and warned possible future vandals they would face jail time. “This will be different, but any Vandals that try to prove the point otherwise, will GO TO JAIL! We are watching very closely, and security cameras have been installed. Reports are...",
    "source": "The Hill",
-   "ts": "2026-10-19T18:58:41+00:00",
-   "url": "https://thehill.com/homenews/senate/6158647-bipartisan-outrage-ukraine-starshield-access/"
+   "ts": "2026-10-19T19:23:16+00:00",
+   "url": "https://thehill.com/homenews/administration/6158770-trump-installs-reflecting-pool-cameras/"
   },
   {
    "category": "India Politics",
@@ -185,6 +185,286 @@
    "source": "The Verge",
    "ts": "2026-10-19T12:37:05+00:00",
    "url": "https://www.theverge.com/policy/1013113/democrats-ai-midterms"
+  },
+  {
+   "category": "Equities",
+   "headline": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
+   "blurb": "Treasury yields above 5% are raising borrowing costs for households and the federal government, highlighting the challenge of financing $2 trillion deficits.",
+   "source": "CNBC",
+   "ts": "2026-10-16T22:33:05+00:00",
+   "url": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html"
+  },
+  {
+   "category": "Crypto",
+   "headline": "Mastercard launches stablecoin risk screening for banks and payment providers",
+   "blurb": "The new service combines payment data and blockchain analytics to help banks detect suspicious stablecoin transactions before settlement.",
+   "source": "Cointelegraph",
+   "ts": "2026-10-19T19:03:23+00:00",
+   "url": "https://cointelegraph.com/news/mastercard-stablecoin-risk-screening-banks-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+   "category": "Geopolitics",
+   "headline": "Warning signs over threats to Australian politicians were rising before MP hit by car",
+   "blurb": "The apparent attack on MP Helen Haines suggests the worst fears of politicians and public figures appear to have been realised.",
+   "source": "BBC",
+   "ts": "2026-10-19T16:32:47+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "category": "Macro",
+   "headline": "Bereaved families could face 'unjust' tax bill after civil service pension delays",
+   "blurb": "The chairman of Parliament's Public Accounts Committee says families should not be taxed through no fault of their own.",
+   "source": "BBC",
+   "ts": "2026-10-19T12:16:32+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cq1m4zz9e44go?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "category": "US Politics",
+   "headline": "Max Miller comes out against Trump waiving Russia sanctions",
+   "blurb": "Rep. Max Miller (R-Ohio) on Monday said he opposes President Trump's waiver on Russian sanctions after striking a deal with the Kremlin to permit diesel into the U.S. and global marketplace amid the energy shortage brought on by the Iran war. \"The Administration should not waive sanctions passed by Congress to punish Russia for its...",
+   "source": "The Hill",
+   "ts": "2026-10-19T19:22:59+00:00",
+   "url": "https://thehill.com/homenews/house/6158588-miller-opposes-trump-russia-sanctions-waiver/"
+  },
+  {
+   "category": "India Politics",
+   "headline": "Kolkata Metro services disrupted for around 1 hour due to technical glitch",
+   "blurb": "The disruption came at a time when large numbers of people use the Metro to visit Durga Puja pandals across the city on Maha Ashtami",
+   "source": "The Hindu",
+   "ts": "2026-10-19T17:24:06+00:00",
+   "url": "https://www.thehindu.com/news/cities/kolkata/kolkata-metro-services-disrupted-for-around-1-hour-due-to-technical-glitch/article71603037.ece"
+  },
+  {
+   "category": "AI",
+   "headline": "A woman was arrested in Philly for blocking a delivery robot",
+   "blurb": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery workers and so, I have been protesting them whenever I saw them by standing in front […]",
+   "source": "The Verge",
+   "ts": "2026-10-18T18:28:10+00:00",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot"
+  },
+  {
+   "category": "Equities",
+   "headline": "Analysis: Everyone expects the Fed to hold rates in October. Kevin Warsh could surprise us all",
+   "blurb": "Investors expect the Fed to pause rate hikes in October, but Kevin Warsh's rejection of traditional communications practices and continued concern about inflation leave the decision uncertain.",
+   "source": "CNBC",
+   "ts": "2026-10-16T16:27:31+00:00",
+   "url": "https://www.cnbc.com/2026/10/16/kevin-warsh-fed-october-rate-hike-interest-rates-markets.html"
+  },
+  {
+   "category": "Crypto",
+   "headline": "Revolut secures Gibraltar crypto license to support global expansion",
+   "blurb": "The UK-based fintech will use the authorization to offer crypto services in additional international markets, though it has not disclosed specific countries or launch dates.",
+   "source": "Cointelegraph",
+   "ts": "2026-10-19T17:24:49+00:00",
+   "url": "https://cointelegraph.com/news/revolut-secures-gibraltar-crypto-license-to-support-global-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+   "category": "Geopolitics",
+   "headline": "Ex-OpenAI worker accused of planting device had Saudi support says court filing",
+   "blurb": "The Saudi government did not immediately respond to BBC requests for comment.",
+   "source": "BBC",
+   "ts": "2026-10-19T16:22:12+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "category": "Macro",
+   "headline": "People playing loud music on buses could face £100 fine",
+   "blurb": "Antisocial behaviour on buses in England could lead to fines while a new campaign is also being launched for trains. A national campaign asking rail passengers \"share the carriage, not the noise\" is being launched.",
+   "source": "BBC",
+   "ts": "2026-10-19T09:49:58+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cm89z008x7xdo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "category": "US Politics",
+   "headline": "Hinojosa sues to review confidential emails between Musk, Abbott",
+   "blurb": "The communications were deemed confidential due to their \"embarrassing\" and \"intimate\" nature.",
+   "source": "The Hill",
+   "ts": "2026-10-19T19:20:06+00:00",
+   "url": "https://thehill.com/homenews/campaign/6158459-hinojosa-sues-to-review-confidential-emails-between-musk-abbott/"
+  },
+  {
+   "category": "India Politics",
+   "headline": "CISF jawan nabs ‘suspicious’ man in escalator-stairs chase at Delhi Metro station",
+   "blurb": "The CISF said in the post that it recovered an ‘unidentified semi-solid substance’, suspected to be gold, concealed in a stitched portion of the man's undergarment, kept in his bag",
+   "source": "The Hindu",
+   "ts": "2026-10-19T17:12:57+00:00",
+   "url": "https://www.thehindu.com/news/cities/Delhi/cisf-jawan-nabs-suspicious-man-in-escalator-stairs-chase-at-delhi-metro-station/article71603033.ece"
+  },
+  {
+   "category": "AI",
+   "headline": "Meta’s new terms may allow it to train AI on news sites for free",
+   "blurb": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on October 30th, say Meta can use this outside content to \"develop, improve, research,\" and \"train\" […]",
+   "source": "The Verge",
+   "ts": "2026-10-17T15:08:35+00:00",
+   "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers"
+  },
+  {
+   "category": "Equities",
+   "headline": "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022",
+   "blurb": "September producer prices were expected to increase 0.6% month over month and 5.5% annually, according to the consensus estimate by Dow Jones.",
+   "source": "CNBC",
+   "ts": "2026-10-15T16:15:44+00:00",
+   "url": "https://www.cnbc.com/2026/10/15/september-producer-price-index-retail-sales-data.html"
+  },
+  {
+   "category": "Crypto",
+   "headline": "Metaplanet to take 93.7% stake in Super League through 2,100 BTC deal",
+   "blurb": "The transaction would give Metaplanet access to US capital markets, where it plans to use preferred stock offerings to finance additional Bitcoin purchases.",
+   "source": "Cointelegraph",
+   "ts": "2026-10-19T16:41:55+00:00",
+   "url": "https://cointelegraph.com/news/metaplanet-super-league-2100-btc-us-bitcoin-treasury-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+   "category": "Geopolitics",
+   "headline": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
+   "blurb": "Three missiles hit a camp in government-controlled Shabwa province that officials say was being used as a training centre for new recruits.",
+   "source": "BBC",
+   "ts": "2026-10-19T16:20:51+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "category": "Macro",
+   "headline": "What are the new faces coming to UK bank notes?",
+   "blurb": "Banknotes are getting a nature-themed makeover – and the Bank of England has revealed the four creatures that will feature on our money.",
+   "source": "BBC",
+   "ts": "2026-10-19T09:48:35+00:00",
+   "url": "https://www.bbc.co.uk/news/videos/c9zrd6d12ll8o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "category": "US Politics",
+   "headline": "Hassett dismisses negative economic polls: ‘We are in a boom’",
+   "blurb": "Kevin Hassett, the director of the National Economic Council (NEC), dismissed recent polling Monday, instead arguing the U.S. economy is “in a boom.” During an interview on CNBC’s “Squawk Box,” Hassett said consumer spending indicates the economy remains strong. \"If economic polls … were correct, then people wouldn't be taking trips to nice hotels, they...",
+   "source": "The Hill",
+   "ts": "2026-10-19T19:10:39+00:00",
+   "url": "https://thehill.com/homenews/administration/6158494-hassett-dismisses-economic-polls/"
+  },
+  {
+   "category": "India Politics",
+   "headline": "Watch: One killed, several injured in clashes in Manipur’s Thoubal",
+   "blurb": "At least one person was killed and several others injured in clashes between two communities in Manipur’s Thoubal district on October 18, 2026. Houses and vehicles were set on fire in Khangabok and Sangaiyumpham, prompting prohibitory orders and the deployment of additional security forces.",
+   "source": "The Hindu",
+   "ts": "2026-10-19T17:10:04+00:00",
+   "url": "https://www.thehindu.com/videos/watch-one-killed-several-injured-in-clashes-in-manipurs-thoubal/article71603043.ece"
+  },
+  {
+   "category": "AI",
+   "headline": "Meta removes language that may have allowed it to scrape news sites",
+   "blurb": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such domains, web pages, or URLs to provide, develop, improve, […]",
+   "source": "The Verge",
+   "ts": "2026-10-17T15:04:36+00:00",
+   "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites"
+  },
+  {
+   "category": "Equities",
+   "headline": "Economists: Hot PPI shows Fed's work is not done",
+   "blurb": "'We see real risks the Fed will deliver another rate hike in two weeks' time,' one Fedwatcher warns",
+   "source": "CNBC",
+   "ts": "2026-10-15T15:37:59+00:00",
+   "url": "https://www.cnbc.com/2026/10/15/pce-ppi-september-fed-reserve-rate-hike.html"
+  },
+  {
+   "category": "Crypto",
+   "headline": "Strive buys $335M in Bitcoin, boosting holdings to 36,818 BTC",
+   "blurb": "The Bitcoin treasury company added another 1,223 BTC after an earlier purchase pushed it past MARA Holdings, while continuing to expand its reserves through equity financing.",
+   "source": "Cointelegraph",
+   "ts": "2026-10-19T16:30:18+00:00",
+   "url": "https://cointelegraph.com/news/strive-buys-335m-in-bitcoin-boosting-holdings-to-36818-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+   "category": "Geopolitics",
+   "headline": "Obama blasts federal probe of congresswoman Ilhan Omar as 'so appalling'",
+   "blurb": "Obama says federal agents' search of the Democrat's home was an effort to intimidate a Trump critic.",
+   "source": "BBC",
+   "ts": "2026-10-19T16:16:51+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cr15jl7dd42vo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "category": "Macro",
+   "headline": "Musk and Anthropic pledge public share giveaways",
+   "blurb": "Musk's announcement comes after Anthropic pledged to create a public benefit fund ahead of its blockbuster stock market listing.",
+   "source": "BBC",
+   "ts": "2026-10-19T09:38:25+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "category": "US Politics",
+   "headline": "Zelensky disputes US resumed intelligence sharing with Ukraine",
+   "blurb": "Ukrainian President Volodymyr Zelensky on Monday again called into question whether the U.S. has continued to share intelligence with the war-torn country a day after he said Washington resumed providing Kyiv with such information to ‌help defend against Russian missile strikes. Zelensky said Russia launched ballistic missiles and drones at Ukraine’s energy infrastructure overnight, with...",
+   "source": "The Hill",
+   "ts": "2026-10-19T19:06:35+00:00",
+   "url": "https://thehill.com/policy/international/6158701-zelensky-questions-us-intel/"
+  },
+  {
+   "category": "India Politics",
+   "headline": "Jaishankar meets Swift CEO in Delhi",
+   "blurb": "Headquartered in Belgium, Swift is a globally inclusive organisation that serves institutions and individuals all over the world, according to its website",
+   "source": "The Hindu",
+   "ts": "2026-10-19T17:06:11+00:00",
+   "url": "https://www.thehindu.com/news/national/jaishankar-meets-swift-ceo-in-delhi/article71603032.ece"
+  },
+  {
+   "category": "AI",
+   "headline": "Websites are closing their doors to AI agents",
+   "blurb": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won't play nice? In recent weeks, […]",
+   "source": "The Verge",
+   "ts": "2026-10-16T22:31:39+00:00",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web"
+  },
+  {
+   "category": "Equities",
+   "headline": "U.S. Treasury dismisses IMF debt warning and 'messy' forecasting",
+   "blurb": "The exchange comes as U.S. debt exceeds $40 trillion and 10-year Treasury yields remain above 5%, intensifying scrutiny of the fiscal outlook.",
+   "source": "CNBC",
+   "ts": "2026-10-15T13:42:32+00:00",
+   "url": "https://www.cnbc.com/2026/10/15/zervos-imf-us-debt-warning.html"
+  },
+  {
+   "category": "Crypto",
+   "headline": "Bitcoin is rejected at $83K as US bond yields reverse higher with equities",
+   "blurb": "Bitcoin price action failed to improve with equities as a sell wall at $83,000 kept BTC in a tight range.",
+   "source": "Cointelegraph",
+   "ts": "2026-10-19T16:05:57+00:00",
+   "url": "https://cointelegraph.com/markets/bitcoin-is-rejected-at-83k-as-us-bond-yields-reverse-higher-with-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+   "category": "Geopolitics",
+   "headline": "In pictures: French landmarks damaged and destroyed by violent protesters",
+   "blurb": "France is used to protests but the violence and damage seen across the country is shocking many people.",
+   "source": "BBC",
+   "ts": "2026-10-19T15:21:03+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cmq8n7l0le11o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "category": "Macro",
+   "headline": "What is the Budget and what could be in it?",
+   "blurb": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
+   "source": "BBC",
+   "ts": "2026-10-19T09:01:40+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "category": "US Politics",
+   "headline": "Democratic senator: Zelensky says Ukraine doesn’t have full access to Starshield, intelligence sharing",
+   "blurb": "Sen. Richard Blumenthal (D-Conn.) said Ukrainian President Volodymyr Zelensky told senators Ukraine still does not have full access to the critical satellite-based Starshield network or U.S. intelligence sharing amid growing tensions with President Trump. Zelensky provided the update to a bipartisan group of senators on a call hosted by Sen. Thom Tillis (R-N.C.). “Joined Senator...",
+   "source": "The Hill",
+   "ts": "2026-10-19T18:58:41+00:00",
+   "url": "https://thehill.com/homenews/senate/6158647-bipartisan-outrage-ukraine-starshield-access/"
+  },
+  {
+   "category": "India Politics",
+   "headline": "Kavitha accuses Congress government of neglecting farmers’ woes",
+   "blurb": "She urged Chief Minister A. Revanth Reddy to take immediate steps to protect farmers’ interests and alleged that no government official had visited the village to assess the crop damage",
+   "source": "The Hindu",
+   "ts": "2026-10-19T17:05:03+00:00",
+   "url": "https://www.thehindu.com/news/national/telangana/kavitha-accuses-congress-government-of-neglecting-farmers-woes/article71602979.ece"
+  },
+  {
+   "category": "AI",
+   "headline": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+   "blurb": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-performing Arm-based SoC for laptops and small desktop computers, rivaling the best from Apple, Intel, AMD, and Qualcomm. It has loads of cores, Nvidia […]",
+   "source": "The Verge",
+   "ts": "2026-10-16T15:26:47+00:00",
+   "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions"
   }
  ]
 }

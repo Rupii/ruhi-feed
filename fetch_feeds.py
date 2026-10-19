@@ -55,7 +55,7 @@ FEEDS = {
     ],
 }
 
-PER_CATEGORY_DEFAULT = 3  # stories per category
+PER_CATEGORY_DEFAULT = 8  # stories per category
 PER_CAT = {"Gold": 2}     # reduced gold per user request
 BLURB_MAX = 1000          # mechanical clip for file size (not a summary)
 UA = "Mozilla/5.0 (compatible; RuhiFeed/1.0; +https://github.com/rupii/ruhi-feed)"
