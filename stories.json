@@ -1,0 +1,166 @@
+{
+ "updated": "2026-10-19T04:16:25+00:00",
+ "count": 20,
+ "stories": [
+  {
+   "category": "Equities",
+   "headline": "India’s Finance Minister blames easy exits and excess liquidity for equity market's underperformance",
+   "blurb": "India's finance minister said that continued capital outflows are one of the biggest risks for the country in 2027.",
+   "source": "CNBC",
+   "ts": "2026-10-18T23:00:01+00:00",
+   "url": "https://www.cnbc.com/2026/10/18/india-ai-nifty50-sensex-investors.html"
+  },
+  {
+   "category": "Equities",
+   "headline": "U.S. budget deficit swells to almost $2 trillion for fiscal 2026, up 12% in a single year",
+   "blurb": "The Treasury Department published the U.S. budget deficit for the 2026 fiscal year.",
+   "source": "CNBC",
+   "ts": "2026-10-16T22:34:29+00:00",
+   "url": "https://www.cnbc.com/2026/10/16/us-budget-deficit-2026.html"
+  },
+  {
+   "category": "Equities",
+   "headline": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
+   "blurb": "Treasury yields above 5% are raising borrowing costs for households and the federal government, highlighting the challenge of financing $2 trillion deficits.",
+   "source": "CNBC",
+   "ts": "2026-10-16T22:33:05+00:00",
+   "url": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html"
+  },
+  {
+   "category": "Equities",
+   "headline": "Analysis: Everyone expects the Fed to hold rates in October. Kevin Warsh could surprise us all",
+   "blurb": "Investors expect the Fed to pause rate hikes in October, but Kevin Warsh's rejection of traditional communications practices and continued concern about inflation leave the decision uncertain.",
+   "source": "CNBC",
+   "ts": "2026-10-16T16:27:31+00:00",
+   "url": "https://www.cnbc.com/2026/10/16/kevin-warsh-fed-october-rate-hike-interest-rates-markets.html"
+  },
+  {
+   "category": "Crypto",
+   "headline": "Qubic freezes chain after attacker drains 1.4K wallets with weak seeds",
+   "blurb": "Qubic says 87.1% of the stolen funds remain onchain and the rest were frozen at crypto exchange MEXC, as network validators prepare to vote on a recovery plan.",
+   "source": "Cointelegraph",
+   "ts": "2026-10-19T01:03:27+00:00",
+   "url": "https://cointelegraph.com/news/qubic-freezes-chain-after-attacker-drains-14k-wallets-with-weak-seeds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+   "category": "Crypto",
+   "headline": "Richard Heart caught ‘off-guard,’ QDay gets even closer: Hodler’s Digest",
+   "blurb": "HEX founder Richard Heart detained in early morning raid in Istanbul, Starknet plunges almost 50% as it votes to become an L1, and Bitwise says all signs point to Crypto Spring.",
+   "source": "Cointelegraph",
+   "ts": "2026-10-18T22:58:17+00:00",
+   "url": "https://cointelegraph.com/magazine/richard-heart-caught-with-pants-down-qday-gets-even-closer-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+   "category": "Crypto",
+   "headline": "Here’s what happened in crypto today",
+   "blurb": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+   "source": "Cointelegraph",
+   "ts": "2026-10-18T13:54:00+00:00",
+   "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+   "category": "Crypto",
+   "headline": "Most Americans polled oppose betting on elections: Reuters",
+   "blurb": "The prediction market industry enables people to bet on US ‌elections and sporting events.",
+   "source": "Cointelegraph",
+   "ts": "2026-10-18T13:48:00+00:00",
+   "url": "https://cointelegraph.com/news/most-americans-polled-oppose-betting-on-elections-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+   "category": "Gold",
+   "headline": "The Trouble With Safe Assets",
+   "blurb": "",
+   "source": "Investing.com",
+   "ts": "2026-10-17T04:11:00+00:00",
+   "url": "https://www.investing.com/analysis/the-trouble-with-safe-assets-200689727"
+  },
+  {
+   "category": "Gold",
+   "headline": "Gold’s CPI Selloff Looks More Like a Rate-Fear Overreaction Than a Trend Break",
+   "blurb": "",
+   "source": "Investing.com",
+   "ts": "2026-10-16T18:58:00+00:00",
+   "url": "https://www.investing.com/analysis/golds-cpi-selloff-looks-more-like-a-ratefear-overreaction-than-a-trend-break-200689742"
+  },
+  {
+   "category": "Gold",
+   "headline": "Gold Faces a Crucial Technical Test as Iran War Risks Collide With Fed Uncertainty",
+   "blurb": "",
+   "source": "Investing.com",
+   "ts": "2026-10-16T17:19:00+00:00",
+   "url": "https://www.investing.com/analysis/gold-faces-a-crucial-technical-test-as-iran-war-risks-collide-with-fed-uncertainty-200689744"
+  },
+  {
+   "category": "Gold",
+   "headline": "The Energy Report: Roll Out the Barrels",
+   "blurb": "",
+   "source": "Investing.com",
+   "ts": "2026-10-16T15:48:00+00:00",
+   "url": "https://www.investing.com/analysis/the-energy-report-roll-out-the-barrels-200689739"
+  },
+  {
+   "category": "Geopolitics",
+   "headline": "Kenya pastor accused of ordering parents to starve their children to death faces verdict",
+   "blurb": "Prosecutors say Paul Mackenzie lured the latest victims to their deaths by writing notes from his prison cell.",
+   "source": "BBC",
+   "ts": "2026-10-19T03:44:02+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "category": "Geopolitics",
+   "headline": "Threat forces Israel to Austria flight into emergency landing",
+   "blurb": "The Airbus jet landed safely in Bulgaria and all passengers and crew aboard were unharmed, officials said.",
+   "source": "BBC",
+   "ts": "2026-10-19T02:41:50+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c680zdmn100lo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "category": "Geopolitics",
+   "headline": "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
+   "blurb": "The announcement comes as Anthropic lays the ground for a blockbuster stock market listing.",
+   "source": "BBC",
+   "ts": "2026-10-19T02:41:41+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "category": "Geopolitics",
+   "headline": "Bollywood actor Tiger Shroff survives shooting in Mumbai",
+   "blurb": "Video published by several news outlets shows gunmen firing multiple shots at a car while it is moving past a crowd.",
+   "source": "BBC",
+   "ts": "2026-10-19T01:50:48+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c6jdmy872r7vo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "category": "Macro",
+   "headline": "China's growth accelerates as AI export boom outweighs domestic weakness",
+   "blurb": "Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook.",
+   "source": "BBC",
+   "ts": "2026-10-19T03:17:46+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "category": "Macro",
+   "headline": "People playing loud music on buses could face £100 fine",
+   "blurb": "Antisocial behaviour on buses in England could lead to fines while a new campaign is also being launched for trains. A national campaign asking rail passengers \"share the carriage, not the noise\" is being launched.",
+   "source": "BBC",
+   "ts": "2026-10-19T00:22:20+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cm89z008x7xdo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "category": "Macro",
+   "headline": "EU tariffs aimed at China hitting Ukraine, steel boss says",
+   "blurb": "The boss of one of Ukraine's biggest steel companies says the country has been \"bundled together\" in measures aimed at curbing cheap imports.",
+   "source": "BBC",
+   "ts": "2026-10-18T23:28:45+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "category": "Macro",
+   "headline": "Don't fall for this - how to protect yourself from AI scams",
+   "blurb": "Trading standards officers say AI is \"super-charging\" existing scams through clones and fake websites.",
+   "source": "BBC",
+   "ts": "2026-10-18T23:24:59+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss"
+  }
+ ]
+}

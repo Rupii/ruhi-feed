@@ -1,0 +1,31 @@
+name: hourly-feed
+
+on:
+  schedule:
+    - cron: '7 * * * *'      # every hour at :07 (UTC); GitHub may delay a few min
+  workflow_dispatch: {}       # lets you run it on demand from the Actions tab
+
+permissions:
+  contents: write             # allow the job to commit stories.json back
+
+concurrency:
+  group: feed
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Build stories.json
+        run: python fetch_feeds.py
+      - name: Commit if changed
+        run: |
+          git config user.name "ruhi-feed-bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add stories.json
+          git diff --quiet --staged || git commit -m "feed: update stories.json [skip ci]"
+          git push
