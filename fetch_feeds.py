@@ -41,9 +41,22 @@ FEEDS = {
         ("BBC", "https://feeds.bbci.co.uk/news/business/rss.xml"),
         ("Investing.com", "https://www.investing.com/rss/news_25.rss"),
     ],
+    "US Politics": [
+        ("The Hill", "https://thehill.com/news/feed/"),
+        ("NPR", "https://feeds.npr.org/1014/rss.xml"),
+    ],
+    "India Politics": [
+        ("The Hindu", "https://www.thehindu.com/news/national/feeder/default.rss"),
+        ("Times of India", "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms"),
+    ],
+    "AI": [
+        ("VentureBeat", "https://venturebeat.com/category/ai/feed/"),
+        ("The Verge", "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"),
+    ],
 }
 
-PER_CATEGORY = 4          # up to 4 stories per category -> ~20 total
+PER_CATEGORY_DEFAULT = 3  # stories per category
+PER_CAT = {"Gold": 2}     # reduced gold per user request
 BLURB_MAX = 320           # mechanical clip for file size (not a summary)
 UA = "Mozilla/5.0 (compatible; RuhiFeed/1.0; +https://github.com/rupii/ruhi-feed)"
 
@@ -124,13 +137,14 @@ def parse_items(raw):
 
 
 def main():
-    stories = []
+    by_cat = {}
     seen = set()
     log = []
     for category, feeds in FEEDS.items():
-        picked = 0
+        limit = PER_CAT.get(category, PER_CATEGORY_DEFAULT)
+        picked = []
         for source, url in feeds:
-            if picked >= PER_CATEGORY:
+            if len(picked) >= limit:
                 break
             try:
                 items = parse_items(fetch(url))
@@ -139,13 +153,13 @@ def main():
                 continue
             items.sort(key=lambda x: x["dt"] or datetime.min.replace(tzinfo=timezone.utc), reverse=True)
             for it in items:
-                if picked >= PER_CATEGORY:
+                if len(picked) >= limit:
                     break
                 key = it["title"].lower()[:80]
                 if key in seen:
                     continue
                 seen.add(key)
-                stories.append({
+                picked.append({
                     "category": category,
                     "headline": it["title"],
                     "blurb": it["blurb"],
@@ -153,8 +167,22 @@ def main():
                     "ts": it["dt"].isoformat() if it["dt"] else None,
                     "url": it["link"],
                 })
-                picked += 1
             log.append("  [ok]   %s %s: %d items" % (category, source, len(items)))
+        by_cat[category] = picked
+
+    # interleave categories round-robin so the TV's first ~20 cover every category
+    stories = []
+    rank = 0
+    while True:
+        added = False
+        for category in FEEDS:
+            lst = by_cat.get(category, [])
+            if rank < len(lst):
+                stories.append(lst[rank])
+                added = True
+        if not added:
+            break
+        rank += 1
 
     payload = {
         "updated": datetime.now(timezone.utc).isoformat(timespec="seconds"),

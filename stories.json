@@ -1,7 +1,71 @@
 {
- "updated": "2026-10-19T10:40:24+00:00",
- "count": 20,
+ "updated": "2026-10-19T15:44:22+00:00",
+ "count": 23,
  "stories": [
+  {
+   "category": "Equities",
+   "headline": "Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why",
+   "blurb": "The history of technological progress suggests that as AI spreads, the employment impact will hit women more than men.",
+   "source": "CNBC",
+   "ts": "2026-10-19T14:20:08+00:00",
+   "url": "https://www.cnbc.com/2026/10/19/ai-job-losses-women-automation-risk.html"
+  },
+  {
+   "category": "Crypto",
+   "headline": "Made an ‘honest’ mistake with crypto taxes? New bill offers way out",
+   "blurb": "A proposed US bill would let crypto investors correct past tax reporting mistakes through a dedicated disclosure program, with reduced penalties for eligible taxpayers.",
+   "source": "Cointelegraph",
+   "ts": "2026-10-19T13:30:00+00:00",
+   "url": "https://cointelegraph.com/magazine/made-an-honest-mistake-with-crypto-taxes-new-bill-offers-way-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+   "category": "Gold",
+   "headline": "Gold Remains in Focus as Midterm and Market Uncertainty Weigh on Risk",
+   "blurb": "",
+   "source": "Investing.com",
+   "ts": "2026-10-19T13:30:00+00:00",
+   "url": "https://www.investing.com/analysis/gold-remains-in-focus-as-midterm-and-market-uncertainty-weigh-on-risk-200689835"
+  },
+  {
+   "category": "Geopolitics",
+   "headline": "Kenya cult leader who told parents to starve children guilty of 191 murders",
+   "blurb": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children.",
+   "source": "BBC",
+   "ts": "2026-10-19T15:40:28+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "category": "Macro",
+   "headline": "Vinted blocks French looters listing stolen goods for sale",
+   "blurb": "The platform said since the weekend it had \"taken immediate action to idenitify and remove listings linked to looting\".",
+   "source": "BBC",
+   "ts": "2026-10-19T15:25:44+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cm8xzrljv72ro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "category": "US Politics",
+   "headline": "Trump, Vance blame immigration for French riots",
+   "blurb": "President Trump and Vice President Vance are placing the blame on immigration for the riots in France that grew violent over the weekend. “The migrants have taken over France,” Trump wrote on Truth Social Monday morning. “They must CLOSE THE BORDERS, FAST!” Vance over the weekend said, “Western liberals imported the…",
+   "source": "The Hill",
+   "ts": "2026-10-19T15:11:56+00:00",
+   "url": "https://thehill.com/homenews/administration/6157897-trump-vance-france-riots/"
+  },
+  {
+   "category": "India Politics",
+   "headline": "Telangana plans 14-month foodgrain buffer to cover over 3 crore people amid El Niño threat",
+   "blurb": "Telangana has 28.03 lakh tonnes of rice available and expected, enough for 11.7 months; wheat flour and other essentials under PDS being considered, says Minister Uttam Kumar Reddy",
+   "source": "The Hindu",
+   "ts": "2026-10-19T15:35:42+00:00",
+   "url": "https://www.thehindu.com/news/national/telangana/telangana-plans-14-month-foodgrain-buffer-to-cover-over-three-crore-people-amid-el-nino-threat/article71602858.ece"
+  },
+  {
+   "category": "AI",
+   "headline": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+   "blurb": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targets, Reuters reports that the victims included companies like John Deere, SharkNinja, and Cummins. Concerns over…",
+   "source": "The Verge",
+   "ts": "2026-10-19T14:42:18+00:00",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins"
+  },
   {
    "category": "Equities",
    "headline": "India’s finance minister says market liquidity makes it easier for investors to exit",
@@ -9,6 +73,62 @@
    "source": "CNBC",
    "ts": "2026-10-19T08:23:33+00:00",
    "url": "https://www.cnbc.com/2026/10/18/india-ai-nifty50-sensex-investors.html"
+  },
+  {
+   "category": "Crypto",
+   "headline": "Here’s what happened in crypto today",
+   "blurb": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+   "source": "Cointelegraph",
+   "ts": "2026-10-19T13:19:50+00:00",
+   "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+   "category": "Gold",
+   "headline": "The Missile Race Is Becoming a Race for Critical Minerals",
+   "blurb": "",
+   "source": "Investing.com",
+   "ts": "2026-10-19T12:37:00+00:00",
+   "url": "https://www.investing.com/analysis/the-missile-race-is-becoming-a-race-for-critical-minerals-200689831"
+  },
+  {
+   "category": "Geopolitics",
+   "headline": "US airman dies as daredevil descent goes wrong before Texas college football game",
+   "blurb": "The game continued after the incident. The American Conference said the decision was made before his death was known.",
+   "source": "BBC",
+   "ts": "2026-10-19T14:13:18+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/crd6dn63j2xwo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "category": "Macro",
+   "headline": "Home sellers cut asking prices on 3,000 properties a day",
+   "blurb": "More property asking prices are being cut than at any time in 15 years, data shared with the BBC shows.",
+   "source": "BBC",
+   "ts": "2026-10-19T12:54:03+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "category": "US Politics",
+   "headline": "The pill in your medicine cabinet is a national security issue",
+   "blurb": "Rep. Bob Onder argues that the United States must reduce its dependence on foreign pharmaceutical supplies and rebuild domestic manufacturing capacity to address national security vulnerabilities exposed by recent drug contaminations.",
+   "source": "The Hill",
+   "ts": "2026-10-19T15:00:00+00:00",
+   "url": "https://thehill.com/opinion/healthcare/6156327-trump-secures-domestic-drug-production/"
+  },
+  {
+   "category": "India Politics",
+   "headline": "Srinagar-bound bus attacked in Ludhiana's Khanna; no one injured",
+   "blurb": "The incident took place on Sunday night when the bus was passing through Doraha in Khanna",
+   "source": "The Hindu",
+   "ts": "2026-10-19T15:27:42+00:00",
+   "url": "https://www.thehindu.com/news/national/srinagar-bound-bus-attacked-in-ludhianas-khanna-no-one-injured/article71602956.ece"
+  },
+  {
+   "category": "AI",
+   "headline": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
+   "blurb": "Today, I’m talking with Illinois Governor JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind of unexpected political realignment — and with the midterms coming […]",
+   "source": "The Verge",
+   "ts": "2026-10-19T14:19:51+00:00",
+   "url": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws"
   },
   {
    "category": "Equities",
@@ -19,148 +139,52 @@
    "url": "https://www.cnbc.com/2026/10/16/us-budget-deficit-2026.html"
   },
   {
-   "category": "Equities",
-   "headline": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
-   "blurb": "Treasury yields above 5% are raising borrowing costs for households and the federal government, highlighting the challenge of financing $2 trillion deficits.",
-   "source": "CNBC",
-   "ts": "2026-10-16T22:33:05+00:00",
-   "url": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html"
-  },
-  {
-   "category": "Equities",
-   "headline": "Analysis: Everyone expects the Fed to hold rates in October. Kevin Warsh could surprise us all",
-   "blurb": "Investors expect the Fed to pause rate hikes in October, but Kevin Warsh's rejection of traditional communications practices and continued concern about inflation leave the decision uncertain.",
-   "source": "CNBC",
-   "ts": "2026-10-16T16:27:31+00:00",
-   "url": "https://www.cnbc.com/2026/10/16/kevin-warsh-fed-october-rate-hike-interest-rates-markets.html"
-  },
-  {
    "category": "Crypto",
-   "headline": "Bitcoin extends bounce above $82,000 as stocks rebound, DeFi tokens lead altcoin gains",
-   "blurb": "Bitcoin rose 0.8% to around $82,700 as China’s GDP beat estimates and Nasdaq futures rebounded, while the CoinDesk 80 gained 1.3% and DeFi led gains.",
-   "source": "CoinDesk",
-   "ts": "2026-10-19T10:26:33+00:00",
-   "url": "https://www.coindesk.com/markets/2026/10/19/bitcoin-extends-bounce-above-usd82-000-as-stocks-rebound-defi-tokens-lead-altcoin-gains"
-  },
-  {
-   "category": "Crypto",
-   "headline": "JPMorgan's JPM Coin, representing dollar deposits, is coming to Ethereum: Bloomberg",
-   "blurb": "JPMorgan's dollar deposit token is heading to Ethereum as the lender looks to offer it to wider selection of institutional clients.",
-   "source": "CoinDesk",
-   "ts": "2026-10-19T10:03:47+00:00",
-   "url": "https://www.coindesk.com/markets/2026/10/19/jpmorgan-s-jpm-coin-representing-dollar-deposits-is-coming-to-ethereum-bloomberg"
-  },
-  {
-   "category": "Crypto",
-   "headline": "Crypto vault deposits top $10 billion as lending risks draw regulatory scrutiny",
-   "blurb": "Curator-managed lending strategies are attracting institutional capital, while exposing depositors to collateral, liquidity and smart-contract risks.",
-   "source": "CoinDesk",
-   "ts": "2026-10-19T09:32:38+00:00",
-   "url": "https://www.coindesk.com/markets/2026/10/19/crypto-vault-deposits-top-usd10-billion-as-lending-risks-draw-regulatory-scrutiny"
-  },
-  {
-   "category": "Crypto",
-   "headline": "CME’s bitcoin cash, uniswap futures, global PMIs: Crypto Week Ahead",
-   "blurb": "Your look at what's coming in the week starting Oct. 19.",
-   "source": "CoinDesk",
-   "ts": "2026-10-19T09:12:39+00:00",
-   "url": "https://www.coindesk.com/markets/2026/10/19/cme-s-bitcoin-cash-uniswap-futures-global-pmis-crypto-week-ahead"
-  },
-  {
-   "category": "Gold",
-   "headline": "Crude Oil Clears the $93 Trigger: Wave Five Rally in Focus",
-   "blurb": "",
-   "source": "Investing.com",
-   "ts": "2026-10-19T09:57:00+00:00",
-   "url": "https://www.investing.com/analysis/crude-oil-clears-the-93-trigger-wave-five-rally-in-focus-200689815"
-  },
-  {
-   "category": "Gold",
-   "headline": "Gold Outlook Is Negative for the Start of This Week",
-   "blurb": "",
-   "source": "Investing.com",
-   "ts": "2026-10-19T09:10:00+00:00",
-   "url": "https://www.investing.com/analysis/gold-outlook-is-negative-for-the-start-of-this-week-200689809"
-  },
-  {
-   "category": "Gold",
-   "headline": "Gold: Has It Found the Firepower for a Surge?",
-   "blurb": "",
-   "source": "Investing.com",
-   "ts": "2026-10-19T08:34:00+00:00",
-   "url": "https://www.investing.com/analysis/gold-has-it-found-the-firepower-for-a-surge-200689807"
-  },
-  {
-   "category": "Gold",
-   "headline": "Will Oil Prices Decline as Middle East Supply Recovers?",
-   "blurb": "",
-   "source": "Investing.com",
-   "ts": "2026-10-19T08:20:00+00:00",
-   "url": "https://www.investing.com/analysis/will-oil-prices-decline-as-middle-east-supply-recovers-200689805"
+   "headline": "Public companies object to OKX-ICE’s tokenized stock plan",
+   "blurb": "Nine public companies objected to having their shares offered in tokenized form by OKX and ICE, testing whether platforms can create blockchain-based markets without issuer consent.",
+   "source": "Cointelegraph",
+   "ts": "2026-10-19T13:13:53+00:00",
+   "url": "https://cointelegraph.com/news/public-companies-object-okx-ice-tokenized-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
   {
    "category": "Geopolitics",
-   "headline": "Kenya pastor accused of ordering parents to starve their children to death faces verdict",
-   "blurb": "Self-proclaimed pastor Paul Mackenzie faces 191 murder charges - all but one of them children.",
+   "headline": "Australian MP critically injured after being hit by car in apparent attack",
+   "blurb": "The independent politician is in hospital after what the prime minister says may have been a deliberate attack.",
    "source": "BBC",
-   "ts": "2026-10-19T10:33:12+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "category": "Geopolitics",
-   "headline": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
-   "blurb": "The blaze that killed four men and injured dozens of others spread with alarming speed, accounts suggest.",
-   "source": "BBC",
-   "ts": "2026-10-19T09:40:44+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "category": "Geopolitics",
-   "headline": "Musk and Anthropic pledge public share giveaways",
-   "blurb": "Musk's announcement comes after Anthropic pledged to create a public benefit fund ahead of its blockbuster stock market listing.",
-   "source": "BBC",
-   "ts": "2026-10-19T09:38:25+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "category": "Geopolitics",
-   "headline": "Alberta heads to polls to decide whether to hold vote on separation from Canada",
-   "blurb": "Polling suggests most Albertans favour remaining part of the country, although the debate alone has proven divisive.",
-   "source": "BBC",
-   "ts": "2026-10-19T09:24:33+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cxvgd0ymgzgyo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-19T14:09:54+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "People playing loud music on buses could face £100 fine",
-   "blurb": "Antisocial behaviour on buses in England could lead to fines while a new campaign is also being launched for trains. A national campaign asking rail passengers \"share the carriage, not the noise\" is being launched.",
+   "headline": "Bereaved families could face 'unjust' tax bill after civil service pension delays",
+   "blurb": "The chairman of Parliament's Public Accounts Committee says families should not be taxed through no fault of their own.",
    "source": "BBC",
-   "ts": "2026-10-19T09:49:58+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cm89z008x7xdo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-19T12:16:32+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cq1m4zz9e44go?at_medium=RSS&at_campaign=rss"
   },
   {
-   "category": "Macro",
-   "headline": "What are the new faces coming to UK bank notes?",
-   "blurb": "Banknotes are getting a nature-themed makeover – and the Bank of England has revealed the four creatures that will feature on our money.",
-   "source": "BBC",
-   "ts": "2026-10-19T09:48:35+00:00",
-   "url": "https://www.bbc.co.uk/news/videos/c9zrd6d12ll8o?at_medium=RSS&at_campaign=rss"
+   "category": "US Politics",
+   "headline": "Warren warns against Sysco-Restaurant Depot merger",
+   "blurb": "Democratic Sen. Elizabeth Warren (Mass.) on Sunday warned against a merger between Sysco and Restaurant Depot, arguing it could lead to an increase in restaurant prices. “Watch out: going out to eat at your favorite restaurant could become even more expensive,” Warren wrote on the social platform X. “The Trump…",
+   "source": "The Hill",
+   "ts": "2026-10-19T14:54:43+00:00",
+   "url": "https://thehill.com/homenews/senate/6157693-warren-warns-sysco-merger/"
   },
   {
-   "category": "Macro",
-   "headline": "What is the Budget and what could be in it?",
-   "blurb": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
-   "source": "BBC",
-   "ts": "2026-10-19T09:01:40+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss"
+   "category": "India Politics",
+   "headline": "RSS leader, W.B. Minister oppose attacks on book stalls set up by Left parties at Durga Puja pandals",
+   "blurb": "West Bengal Chief Minister Suvendu Adhikari continued to target the Left parties and said its supporters are trying to create anarchy in the country",
+   "source": "The Hindu",
+   "ts": "2026-10-19T15:24:54+00:00",
+   "url": "https://www.thehindu.com/news/national/west-bengal/rss-leader-wb-minister-oppose-attacks-on-book-stalls-set-up-by-left-parties-at-durga-puja-pandals/article71602923.ece"
   },
   {
-   "category": "Macro",
-   "headline": "China's growth accelerates as AI boom helps boost exports",
-   "blurb": "Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook.",
-   "source": "BBC",
-   "ts": "2026-10-19T06:08:02+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss"
+   "category": "AI",
+   "headline": "Democrats think cracking down on AI could give them an edge",
+   "blurb": "Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newest and thorniest political issues: AI. Polls predict Democrats will flip at least one chamber of Congress in the midterm elections, which would put committee leadership back in…",
+   "source": "The Verge",
+   "ts": "2026-10-19T12:37:05+00:00",
+   "url": "https://www.theverge.com/policy/1013113/democrats-ai-midterms"
   }
  ]
 }
