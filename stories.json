@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-19T04:20:47+00:00",
+ "updated": "2026-10-19T10:40:24+00:00",
  "count": 20,
  "stories": [
   {
    "category": "Equities",
-   "headline": "India’s Finance Minister blames easy exits and excess liquidity for equity market's underperformance",
-   "blurb": "India's finance minister said that continued capital outflows are one of the biggest risks for the country in 2027.",
+   "headline": "India’s finance minister says market liquidity makes it easier for investors to exit",
+   "blurb": "Sitharaman identified fuel, fertilizer and access to capital as risks for India’s economy in 2027.",
    "source": "CNBC",
-   "ts": "2026-10-18T23:00:01+00:00",
+   "ts": "2026-10-19T08:23:33+00:00",
    "url": "https://www.cnbc.com/2026/10/18/india-ai-nifty50-sensex-investors.html"
   },
   {
@@ -36,131 +36,131 @@
   },
   {
    "category": "Crypto",
-   "headline": "Bitcoin, Korea’s Kospi and Nasdaq futures rally as China GDP beats estimates",
-   "blurb": "Bitcoin, Nasdaq futures and Asian stocks rally as stronger-than-expected China GDP and falling oil prices lift risk appetite.",
+   "headline": "Bitcoin extends bounce above $82,000 as stocks rebound, DeFi tokens lead altcoin gains",
+   "blurb": "Bitcoin rose 0.8% to around $82,700 as China’s GDP beat estimates and Nasdaq futures rebounded, while the CoinDesk 80 gained 1.3% and DeFi led gains.",
    "source": "CoinDesk",
-   "ts": "2026-10-19T03:36:58+00:00",
-   "url": "https://www.coindesk.com/markets/2026/10/19/bitcoin-korea-s-kospi-and-nasdaq-futures-rally-as-china-gdp-beats-estimates"
+   "ts": "2026-10-19T10:26:33+00:00",
+   "url": "https://www.coindesk.com/markets/2026/10/19/bitcoin-extends-bounce-above-usd82-000-as-stocks-rebound-defi-tokens-lead-altcoin-gains"
   },
   {
    "category": "Crypto",
-   "headline": "Deutsche Bank targets Asia crypto custody expansion in 2027 as German launch nears",
-   "blurb": "The service will initially support bitcoin, ether and the stablecoins USDC, EURC and EURAU, with the bank managing clients’ wallets and private keys.",
+   "headline": "JPMorgan's JPM Coin, representing dollar deposits, is coming to Ethereum: Bloomberg",
+   "blurb": "JPMorgan's dollar deposit token is heading to Ethereum as the lender looks to offer it to wider selection of institutional clients.",
    "source": "CoinDesk",
-   "ts": "2026-10-19T02:00:00+00:00",
-   "url": "https://www.coindesk.com/business/2026/10/18/deutsche-bank-targets-asia-crypto-custody-expansion-in-2027-as-german-launch-nears"
+   "ts": "2026-10-19T10:03:47+00:00",
+   "url": "https://www.coindesk.com/markets/2026/10/19/jpmorgan-s-jpm-coin-representing-dollar-deposits-is-coming-to-ethereum-bloomberg"
   },
   {
    "category": "Crypto",
-   "headline": "SEC tokenized stock framework faces issuer pushback as Broadcom, Verizon object to OKX-ICE listing",
-   "blurb": "Eight more companies objected to trading on the planned OKX-ICE venue, while Nasdaq has separately said it would opt out under the SEC’s framework.",
+   "headline": "Crypto vault deposits top $10 billion as lending risks draw regulatory scrutiny",
+   "blurb": "Curator-managed lending strategies are attracting institutional capital, while exposing depositors to collateral, liquidity and smart-contract risks.",
    "source": "CoinDesk",
-   "ts": "2026-10-18T23:28:06+00:00",
-   "url": "https://www.coindesk.com/business/2026/10/18/sec-tokenized-stock-framework-faces-issuer-pushback-as-broadcom-verizon-object-to-okx-ice-listing"
+   "ts": "2026-10-19T09:32:38+00:00",
+   "url": "https://www.coindesk.com/markets/2026/10/19/crypto-vault-deposits-top-usd10-billion-as-lending-risks-draw-regulatory-scrutiny"
   },
   {
    "category": "Crypto",
-   "headline": "The White House's crypto chief departs: State of Crypto",
-   "blurb": "Patrick Witt announced his departure from the White House last week.",
+   "headline": "CME’s bitcoin cash, uniswap futures, global PMIs: Crypto Week Ahead",
+   "blurb": "Your look at what's coming in the week starting Oct. 19.",
    "source": "CoinDesk",
-   "ts": "2026-10-18T18:30:00+00:00",
-   "url": "https://www.coindesk.com/policy/2026/10/18/the-white-house-s-crypto-chief-departs-state-of-crypto"
+   "ts": "2026-10-19T09:12:39+00:00",
+   "url": "https://www.coindesk.com/markets/2026/10/19/cme-s-bitcoin-cash-uniswap-futures-global-pmis-crypto-week-ahead"
   },
   {
    "category": "Gold",
-   "headline": "The Trouble With Safe Assets",
+   "headline": "Crude Oil Clears the $93 Trigger: Wave Five Rally in Focus",
    "blurb": "",
    "source": "Investing.com",
-   "ts": "2026-10-17T04:11:00+00:00",
-   "url": "https://www.investing.com/analysis/the-trouble-with-safe-assets-200689727"
+   "ts": "2026-10-19T09:57:00+00:00",
+   "url": "https://www.investing.com/analysis/crude-oil-clears-the-93-trigger-wave-five-rally-in-focus-200689815"
   },
   {
    "category": "Gold",
-   "headline": "Gold’s CPI Selloff Looks More Like a Rate-Fear Overreaction Than a Trend Break",
+   "headline": "Gold Outlook Is Negative for the Start of This Week",
    "blurb": "",
    "source": "Investing.com",
-   "ts": "2026-10-16T18:58:00+00:00",
-   "url": "https://www.investing.com/analysis/golds-cpi-selloff-looks-more-like-a-ratefear-overreaction-than-a-trend-break-200689742"
+   "ts": "2026-10-19T09:10:00+00:00",
+   "url": "https://www.investing.com/analysis/gold-outlook-is-negative-for-the-start-of-this-week-200689809"
   },
   {
    "category": "Gold",
-   "headline": "Gold Faces a Crucial Technical Test as Iran War Risks Collide With Fed Uncertainty",
+   "headline": "Gold: Has It Found the Firepower for a Surge?",
    "blurb": "",
    "source": "Investing.com",
-   "ts": "2026-10-16T17:19:00+00:00",
-   "url": "https://www.investing.com/analysis/gold-faces-a-crucial-technical-test-as-iran-war-risks-collide-with-fed-uncertainty-200689744"
+   "ts": "2026-10-19T08:34:00+00:00",
+   "url": "https://www.investing.com/analysis/gold-has-it-found-the-firepower-for-a-surge-200689807"
   },
   {
    "category": "Gold",
-   "headline": "The Energy Report: Roll Out the Barrels",
+   "headline": "Will Oil Prices Decline as Middle East Supply Recovers?",
    "blurb": "",
    "source": "Investing.com",
-   "ts": "2026-10-16T15:48:00+00:00",
-   "url": "https://www.investing.com/analysis/the-energy-report-roll-out-the-barrels-200689739"
+   "ts": "2026-10-19T08:20:00+00:00",
+   "url": "https://www.investing.com/analysis/will-oil-prices-decline-as-middle-east-supply-recovers-200689805"
   },
   {
    "category": "Geopolitics",
    "headline": "Kenya pastor accused of ordering parents to starve their children to death faces verdict",
-   "blurb": "Prosecutors say Paul Mackenzie lured the latest victims to their deaths by writing notes from his prison cell.",
+   "blurb": "Self-proclaimed pastor Paul Mackenzie faces 191 murder charges - all but one of them children.",
    "source": "BBC",
-   "ts": "2026-10-19T03:44:02+00:00",
+   "ts": "2026-10-19T10:33:12+00:00",
    "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Geopolitics",
-   "headline": "Threat forces Israel to Austria flight into emergency landing",
-   "blurb": "The Airbus jet landed safely in Bulgaria and all passengers and crew aboard were unharmed, officials said.",
+   "headline": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
+   "blurb": "The blaze that killed four men and injured dozens of others spread with alarming speed, accounts suggest.",
    "source": "BBC",
-   "ts": "2026-10-19T02:41:50+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c680zdmn100lo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-19T09:40:44+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Geopolitics",
-   "headline": "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
-   "blurb": "The announcement comes as Anthropic lays the ground for a blockbuster stock market listing.",
+   "headline": "Musk and Anthropic pledge public share giveaways",
+   "blurb": "Musk's announcement comes after Anthropic pledged to create a public benefit fund ahead of its blockbuster stock market listing.",
    "source": "BBC",
-   "ts": "2026-10-19T02:41:41+00:00",
+   "ts": "2026-10-19T09:38:25+00:00",
    "url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Geopolitics",
-   "headline": "Bollywood actor Tiger Shroff survives shooting in Mumbai",
-   "blurb": "Video published by several news outlets shows gunmen firing multiple shots at a car while it is moving past a crowd.",
+   "headline": "Alberta heads to polls to decide whether to hold vote on separation from Canada",
+   "blurb": "Polling suggests most Albertans favour remaining part of the country, although the debate alone has proven divisive.",
    "source": "BBC",
-   "ts": "2026-10-19T01:50:48+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c6jdmy872r7vo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "category": "Macro",
-   "headline": "China's growth accelerates as AI export boom outweighs domestic weakness",
-   "blurb": "Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook.",
-   "source": "BBC",
-   "ts": "2026-10-19T03:17:46+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-19T09:24:33+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cxvgd0ymgzgyo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
    "headline": "People playing loud music on buses could face £100 fine",
    "blurb": "Antisocial behaviour on buses in England could lead to fines while a new campaign is also being launched for trains. A national campaign asking rail passengers \"share the carriage, not the noise\" is being launched.",
    "source": "BBC",
-   "ts": "2026-10-19T00:22:20+00:00",
+   "ts": "2026-10-19T09:49:58+00:00",
    "url": "https://www.bbc.co.uk/news/articles/cm89z008x7xdo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "EU tariffs aimed at China hitting Ukraine, steel boss says",
-   "blurb": "The boss of one of Ukraine's biggest steel companies says the country has been \"bundled together\" in measures aimed at curbing cheap imports.",
+   "headline": "What are the new faces coming to UK bank notes?",
+   "blurb": "Banknotes are getting a nature-themed makeover – and the Bank of England has revealed the four creatures that will feature on our money.",
    "source": "BBC",
-   "ts": "2026-10-18T23:28:45+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-19T09:48:35+00:00",
+   "url": "https://www.bbc.co.uk/news/videos/c9zrd6d12ll8o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Don't fall for this - how to protect yourself from AI scams",
-   "blurb": "Trading standards officers say AI is \"super-charging\" existing scams through clones and fake websites.",
+   "headline": "What is the Budget and what could be in it?",
+   "blurb": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
    "source": "BBC",
-   "ts": "2026-10-18T23:24:59+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-19T09:01:40+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "category": "Macro",
+   "headline": "China's growth accelerates as AI boom helps boost exports",
+   "blurb": "Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook.",
+   "source": "BBC",
+   "ts": "2026-10-19T06:08:02+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss"
   }
  ]
 }
