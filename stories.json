@@ -1,14 +1,14 @@
 {
- "updated": "2026-10-20T22:13:34+00:00",
+ "updated": "2026-10-21T01:27:06+00:00",
  "count": 58,
  "stories": [
   {
    "category": "Equities",
-   "headline": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
-   "blurb": "Housing data deteriorated further in September, according to separate reports Tuesday.",
+   "headline": "Car buyers are demanding lower prices and better tech. Automakers must deliver both",
+   "blurb": "Bain says tech leads purchase considerations in China while price remains No. 1 in the U.S. and Europe, as pressure mounts on Western carmakers.",
    "source": "CNBC",
-   "ts": "2026-10-20T19:28:43+00:00",
-   "url": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html"
+   "ts": "2026-10-21T01:01:01+00:00",
+   "url": "https://www.cnbc.com/2026/10/20/car-buyers-china-tech-price-europe.html"
   },
   {
    "category": "Crypto",
@@ -28,51 +28,51 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
-   "blurb": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington.",
+   "headline": "France is divided over who to blame for and what to learn from weekend riots",
+   "blurb": "In France and beyond there is widespread disagreement over what led to some of the worst unrest seen in French cities in modern history.",
    "source": "BBC",
-   "ts": "2026-10-20T21:27:39+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-21T01:22:51+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Elon Musk says Tesla-SpaceX merger would be a 'good idea'",
-   "blurb": "Musk says special committees within both companies have been formed to consider a possible mega-merger.",
+   "headline": "The tech helping crack decades-old cold cases",
+   "blurb": "Investigative genetic genealogy can help hunt down criminals but raises worries over privacy.",
    "source": "BBC",
-   "ts": "2026-10-20T22:06:48+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-20T23:13:24+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Ocasio-Cortez, Garcia latest Democrats to report receiving suspicious letter",
-   "blurb": "Reps. Alexandria Ocasio-Cortez (D-N.Y.) and Robert Garcia (D-Calif.) are the latest among several officials across the country who have reported receiving suspicious packages at their offices ahead of the midterm elections. Ocasio-Cortez released a statement Tuesday evening saying a suspicious letter was delivered to her district office in Hunts Point, N.Y. The letter is being...",
+   "headline": "Trump snaps at White House reporter: 'Are you a sick person?'",
+   "blurb": "President Trump snapped at a reporter in the Oval Office on Tuesday, telling him to be “quiet.” As the president took questions from journalists in the Oval Office earlier Tuesday, one reporter appeared to begin asking about changes to East Potomac Park that include a new golf course. “On the golf course, sir, you own...",
    "source": "The Hill",
-   "ts": "2026-10-20T21:52:53+00:00",
-   "url": "https://thehill.com/homenews/house/6161365-ocasio-cortez-garcia-suspicious-mailings/"
+   "ts": "2026-10-21T00:51:22+00:00",
+   "url": "https://thehill.com/homenews/media/6161621-trump-snaps-at-white-house-reporter-are-you-a-sick-person/"
   },
   {
    "category": "India Politics",
-   "headline": "Bengal CM defends decision to shift stampede injured to private hospital, cites better care",
-   "blurb": "\"We moved those injured to private hospitals because we realised that the best treatment could be provided there so that there is no more loss of life. I am happy to announce that there was no death among the 25 injured in the stampede. We decided on the spot. There is nothing controversial behind this,\" says West Bengal CM",
+   "headline": "Rising Crimes And Farmer’s Plight Dominate Conversations at 60th Shiv Sena (UBT) Dussera Rally",
+   "blurb": "In a separate bid, the Eknath Shinde-led faction staged its own event in Goregaon, as rally participants urged accountability from officials and warned of political consequences if justice for students amid recent paper leaks is not delivered",
    "source": "The Hindu",
-   "ts": "2026-10-20T20:02:06+00:00",
-   "url": "https://www.thehindu.com/news/national/west-bengal/bengal-cm-defends-decision-to-shift-stampede-injured-to-private-hospital-cites-better-care/article71605499.ece"
+   "ts": "2026-10-20T23:33:29+00:00",
+   "url": "https://www.thehindu.com/news/national/maharashtra/rising-crimes-and-farmers-plight-dominate-conversations-at-60th-shiv-sena-ubt-dussera-rally/article71605414.ece"
   },
   {
    "category": "AI",
-   "headline": "Meta pauses Muse sharing after researchers find AI chats on the web",
-   "blurb": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica. In a report published this week, researchers at the security firm Claroc say they found more than 6,800 Muse links through public DNS records. […]",
+   "headline": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
+   "blurb": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the judge wrote that over the past year, Ann had failed to appear for an independent medical examination or […]",
    "source": "The Verge",
-   "ts": "2026-10-20T18:07:34+00:00",
-   "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats"
+   "ts": "2026-10-20T23:37:55+00:00",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed"
   },
   {
    "category": "Equities",
-   "headline": "Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why",
-   "blurb": "The history of technological progress suggests that as AI spreads, the employment impact will hit women more than men.",
+   "headline": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
+   "blurb": "Housing data deteriorated further in September, according to separate reports Tuesday.",
    "source": "CNBC",
-   "ts": "2026-10-19T18:36:21+00:00",
-   "url": "https://www.cnbc.com/2026/10/19/ai-job-losses-women-automation-risk.html"
+   "ts": "2026-10-20T19:28:43+00:00",
+   "url": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html"
   },
   {
    "category": "Crypto",
@@ -92,11 +92,11 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "Suspect arrested after historic town hall set alight - French media",
-   "blurb": "The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday.",
+   "headline": "Borneo burning: Life on the frontline of South East Asia's toxic haze",
+   "blurb": "A \"Super El Niño\" has fuelled months-long fires in Indonesia, making hundreds of thousands of people sick.",
    "source": "BBC",
-   "ts": "2026-10-20T21:05:50+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-20T23:51:43+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cqm2dzwdmmywo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
@@ -108,35 +108,35 @@
   },
   {
    "category": "US Politics",
-   "headline": "North Carolina mail-in ballot restrictions to remain through midterms, judge rules",
-   "blurb": "A federal judge ruled Monday that North Carolina is permitted to keep its strict mail-in ballot rules in place for November’s election, which were changed just before ballots were mailed in September. In the ruling, Judge Thomas D. Shroeder wrote that it was too close to the election to change the rules again, and that...",
+   "headline": "Brown calls on Husted to condemn ad featuring Acton's mother",
+   "blurb": "Ohio Democratic Senate candidate Sherrod Brown pressed his Republican rival, Sen. Jon Husted (Ohio), to condemn a recent advertisement allegedly from Republican gubernatorial candidate Vivek Ramaswamy. “The ad released by Vivek Ramaswamy is disgusting. Everyone, including Jon Husted, should be willing to condemn this ad,” Brown said in a post on the social platform X...",
    "source": "The Hill",
-   "ts": "2026-10-20T21:39:12+00:00",
-   "url": "https://thehill.com/homenews/state-watch/6161350-judge-upholds-nc-mailballot-rules/"
+   "ts": "2026-10-20T23:40:13+00:00",
+   "url": "https://thehill.com/homenews/campaign/6161562-brown-demands-husted-condemn-ad/"
   },
   {
    "category": "India Politics",
-   "headline": "Haryana power staff call 3-day strike against giving licence to private discom",
-   "blurb": "HERC grants Eleven Power 25-year licence to distribute power in Gurugram, Nuh; Power Minister says State will contest move before tribunal; staff allege decision will ‘undermine’ State-owned firm",
+   "headline": "Left parties should sell books from party offices, not at Durga Puja pandals, says West Bengal CM",
+   "blurb": "The remarks by the Chief Minister, Suvendu Adhikari, come at a time after a section of leaders of his own party condemned attacks on the book stalls set up by the Left parties at Durga Puja pandals",
    "source": "The Hindu",
-   "ts": "2026-10-20T19:29:28+00:00",
-   "url": "https://www.thehindu.com/news/national/haryana/haryana-power-staff-call-3-day-strike-against-giving-licence-to-private-discom/article71605055.ece"
+   "ts": "2026-10-20T23:16:25+00:00",
+   "url": "https://www.thehindu.com/news/national/west-bengal/left-parties-should-sell-books-from-party-offices-not-at-durga-puja-pandals-says-west-bengal-cm/article71605199.ece"
   },
   {
    "category": "AI",
-   "headline": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
-   "blurb": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday that says Spotify has also made changes to its recommendation system to highlight more music made by human artists. \"Our editors hold the same standard and […]",
+   "headline": "Google’s more personalized Gemini AI is heading to your car",
+   "blurb": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search. As an example, Google says you can ask Gemini about your flight status if you're driving […]",
    "source": "The Verge",
-   "ts": "2026-10-20T15:53:21+00:00",
-   "url": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed"
+   "ts": "2026-10-20T22:42:47+00:00",
+   "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto"
   },
   {
    "category": "Equities",
-   "headline": "India’s finance minister says market liquidity makes it easier for investors to exit",
-   "blurb": "Sitharaman identified fuel, fertilizer and access to capital as risks for India’s economy in 2027.",
+   "headline": "Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why",
+   "blurb": "The history of technological progress suggests that as AI spreads, the employment impact will hit women more than men.",
    "source": "CNBC",
-   "ts": "2026-10-19T08:23:33+00:00",
-   "url": "https://www.cnbc.com/2026/10/18/india-ai-nifty50-sensex-investors.html"
+   "ts": "2026-10-19T18:36:21+00:00",
+   "url": "https://www.cnbc.com/2026/10/19/ai-job-losses-women-automation-risk.html"
   },
   {
    "category": "Crypto",
@@ -148,11 +148,11 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "Trump and Zelensky appear at loggerheads despite Oslo optimism",
-   "blurb": "The Ukrainian leader's hug with Steve Witkoff in the Norwegian capital is unlikely to dispel misgivings about US policy towards his country, writes Paul Adams.",
+   "headline": "Is Ebola under control in Kenya after nine cases confirmed?",
+   "blurb": "The US has advised its citizens to reconsider travelling to Kenya but the government tries to reassure people.",
    "source": "BBC",
-   "ts": "2026-10-20T20:00:57+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-20T23:41:30+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c693z948px0jo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
@@ -164,35 +164,35 @@
   },
   {
    "category": "US Politics",
-   "headline": "How bond yields are slowing AI-fueled stock rally",
-   "blurb": "Welcome to The Hill's Business & Economy newsletter {beacon} Business & Economy Business & Economy The Big Story How bond yields are slowing AI-fueled stock rally Bond yields in the U.S. have risen this year, slowing down a stock market that has risen for years on the back of the artificial intelligence (AI) buildout. ...",
+   "headline": "Cornell responds to Jane Doe's letter saying she felt 'unsupported' by university president",
+   "blurb": "A woman known as Jane Doe who accused seven men at Cornell University of sexual assault at a fraternity house sent a letter to the school saying she “felt unsupported and disebelieved” by the Ivy League institution’s president, Michael Kotlikoff. Cornell has responded to the letter, first obtained by The New York Times, and sent...",
    "source": "The Hill",
-   "ts": "2026-10-20T21:36:03+00:00",
-   "url": "https://thehill.com/newsletters/business-economy/6161353-how-bond-yields-are-slowing-ai-fueled-stock-rally/"
+   "ts": "2026-10-20T23:14:13+00:00",
+   "url": "https://thehill.com/homenews/education/6161542-jane-doe-cornell-letter/"
   },
   {
    "category": "India Politics",
-   "headline": "One dead, few injured in firing inside SGNP",
-   "blurb": "The incident occurred in the SGNP's Chena beat in the Yeoor Range, Thane, police said. After being alerted, forest department personnel along with police teams rushed to the spot for inspection",
+   "headline": "Dasara gift for Singareni officers, Dy CM fulfils long-pending demand",
+   "blurb": "Singareni management issued orders on evening of October 19 implementing the revised pay structure after securing the approval of the company’s Board. The orders were issued by Director (Personnel) Gautam Potru",
    "source": "The Hindu",
-   "ts": "2026-10-20T19:18:04+00:00",
-   "url": "https://www.thehindu.com/news/cities/mumbai/one-dead-few-injured-in-firing-inside-sgnp/article71605463.ece"
+   "ts": "2026-10-20T23:04:31+00:00",
+   "url": "https://www.thehindu.com/news/national/telangana/dasara-gift-for-singareni-officers-dy-cm-fulfils-long-pending-demand/article71604614.ece"
   },
   {
    "category": "AI",
-   "headline": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
-   "blurb": "Adobe announced yesterday that the mobile version of Lightroom, available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap. When the app detects a person, or a group of people, have their eyes closed in a photo it will automatically present users with a […]",
+   "headline": "Meta pauses Muse sharing after researchers find AI chats on the web",
+   "blurb": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica. In a report published this week, researchers at the security firm Claroc say they found more than 6,800 Muse links through public DNS records. […]",
    "source": "The Verge",
-   "ts": "2026-10-20T13:12:02+00:00",
-   "url": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair"
+   "ts": "2026-10-20T18:07:34+00:00",
+   "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats"
   },
   {
    "category": "Equities",
-   "headline": "U.S. budget deficit swells to almost $2 trillion for fiscal 2026, up 12% in a single year",
-   "blurb": "The Treasury Department published the U.S. budget deficit for the 2026 fiscal year.",
+   "headline": "India’s finance minister says market liquidity makes it easier for investors to exit",
+   "blurb": "Sitharaman identified fuel, fertilizer and access to capital as risks for India’s economy in 2027.",
    "source": "CNBC",
-   "ts": "2026-10-16T22:34:29+00:00",
-   "url": "https://www.cnbc.com/2026/10/16/us-budget-deficit-2026.html"
+   "ts": "2026-10-19T08:23:33+00:00",
+   "url": "https://www.cnbc.com/2026/10/18/india-ai-nifty50-sensex-investors.html"
   },
   {
    "category": "Crypto",
@@ -204,6 +204,14 @@
   },
   {
    "category": "Geopolitics",
+   "headline": "Elon Musk says Tesla-SpaceX merger being considered",
+   "blurb": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
+   "source": "BBC",
+   "ts": "2026-10-20T23:24:47+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "category": "Macro",
    "headline": "Trump sued over Canadian tariffs in latest legal challenge",
    "blurb": "The lawsuit argues the White House exceeded its authority in imposing the latest tariffs on the country and caused \"immediate harm to American businesses\".",
    "source": "BBC",
@@ -211,44 +219,36 @@
    "url": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss"
   },
   {
-   "category": "Macro",
-   "headline": "Google resolves cloud outage affecting UK banks and websites",
-   "blurb": "Revolut was one of the hardest hit, with banking services going down for many customers.",
-   "source": "BBC",
-   "ts": "2026-10-20T18:03:19+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss"
-  },
-  {
    "category": "US Politics",
-   "headline": "Trump bets existing laws can police AI. Will they be enough?",
-   "blurb": "The Trump administration is taking the position that existing criminal and civil laws will be enough to hold artificial intelligence developers accountable in an age of unpredictable AI agents, even as legal experts question whether this will suffice. President Trump’s so-called “Super Intelligence (SI) Force” argues it can create standards for AI firms with laws...",
+   "headline": "Trump administration launches national kidney care plan",
+   "blurb": "Click in for more news from The Hill {beacon} Healthcare Healthcare The Big Story Trump launches national kidney care plan The Trump administration launched the Kidney Care National Plan Tuesday, aiming to improve structural kidney care deficiencies the Health and Human Services (HHS) Department says lead to higher costs and lower quality. © Rich Pedroncelli,...",
    "source": "The Hill",
-   "ts": "2026-10-20T21:35:21+00:00",
-   "url": "https://thehill.com/policy/technology/6161259-trump-ai-regulation-strategy/"
+   "ts": "2026-10-20T23:13:12+00:00",
+   "url": "https://thehill.com/newsletters/healthcare/6161527-trump-administration-national-kidney-care-plan/"
   },
   {
    "category": "India Politics",
-   "headline": "Guest lecturers yet to get hike in honorarium announced in the budget",
-   "blurb": "Higher Education Minister had announced in Assembly that the honorarium for guest lecturers would be hiked by ₹5,000 to ₹35,000",
+   "headline": "Rubio pushes for India to buy more U.S., Venezuelan oil",
+   "blurb": "S. Jaishankar hosts U.S. Secretary of State, UAE FM in Mumbai, holds trilateral talks on trade, energy, and connectivity",
    "source": "The Hindu",
-   "ts": "2026-10-20T19:16:30+00:00",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/guest-lecturers-yet-to-get-hike-in-honorarium-announced-in-the-budget/article71604876.ece"
+   "ts": "2026-10-20T22:27:35+00:00",
+   "url": "https://www.thehindu.com/business/Economy/marco-rubio-oil-purchases-india-mumbai-october-20-2026/article71604269.ece"
   },
   {
    "category": "AI",
-   "headline": "CoreWeave’s debt is becoming the whole AI industry’s problem",
-   "blurb": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesday Chamath \"SPAC King\" Palihapitiya noticed the distressed debt, and also asked whether the AI buildout was a private credit bubble. […]",
+   "headline": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
+   "blurb": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday that says Spotify has also made changes to its recommendation system to highlight more music made by human artists. \"Our editors hold the same standard and […]",
    "source": "The Verge",
-   "ts": "2026-10-20T10:26:38+00:00",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai"
+   "ts": "2026-10-20T15:53:21+00:00",
+   "url": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed"
   },
   {
    "category": "Equities",
-   "headline": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
-   "blurb": "Treasury yields above 5% are raising borrowing costs for households and the federal government, highlighting the challenge of financing $2 trillion deficits.",
+   "headline": "U.S. budget deficit swells to almost $2 trillion for fiscal 2026, up 12% in a single year",
+   "blurb": "The Treasury Department published the U.S. budget deficit for the 2026 fiscal year.",
    "source": "CNBC",
-   "ts": "2026-10-16T22:33:05+00:00",
-   "url": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html"
+   "ts": "2026-10-16T22:34:29+00:00",
+   "url": "https://www.cnbc.com/2026/10/16/us-budget-deficit-2026.html"
   },
   {
    "category": "Crypto",
@@ -260,51 +260,51 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
-   "blurb": "A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted.",
+   "headline": "Is Donald Trump ready to do business with Myanmar?",
+   "blurb": "There are signs the United States is shifting its policy towards Myanmar, formerly a global pariah.",
    "source": "BBC",
-   "ts": "2026-10-20T17:30:15+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-20T23:21:39+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cw203zx1x1rno?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "UK government to make Jackdaw gas field announcement",
-   "blurb": "The long-awaited decision about the controversial North Sea field is expected on Wednesday morning.",
+   "headline": "Google resolves cloud outage affecting UK banks and websites",
+   "blurb": "Revolut was one of the hardest hit, with banking services going down for many customers.",
    "source": "BBC",
-   "ts": "2026-10-20T17:33:42+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cvze4wx3elj1o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-20T18:03:19+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Musk endorses Paxton in Texas Senate race",
-   "blurb": "Tech mogul Elon Musk has formally endorsed Republican Ken Paxton in the Texas Senate race after bankrolling his campaign for several weeks. The tech billionaire and one-time trillionaire has spent more than $150 million on Paxton’s candidacy as the lone donor to Texas PAC, a political action committee supporting Paxton. In a post to the...",
+   "headline": "White House relies on existing laws to regulate AI",
+   "blurb": "{beacon} Technology Technology The Big Story Can existing laws take on AI? Trump is betting on it. The Trump administration is relying on existing criminal and civil laws to hold artificial intelligence developers accountable in an age of unpredictable AI agents. But legal experts are uncertain whether this will be enough. © UPI Photo...",
    "source": "The Hill",
-   "ts": "2026-10-20T21:23:40+00:00",
-   "url": "https://thehill.com/homenews/campaign/6161202-musk-endorses-paxton-in-texas-senate-race/"
+   "ts": "2026-10-20T22:37:24+00:00",
+   "url": "https://thehill.com/newsletters/technology/6161499-white-house-relies-on-existing-laws-to-regulate-ai/"
   },
   {
    "category": "India Politics",
-   "headline": "Kashmir clerics, including Mirwaiz, say eviction of Delhi’s historic Race Course mosque ‘deeply disturbing’",
-   "blurb": "“If even a legally recognised mosque cannot be protected, what safeguards remain for others?” says Mirwaiz",
+   "headline": "Bengal CM defends decision to shift stampede injured to private hospital, cites better care",
+   "blurb": "\"We moved those injured to private hospitals because we realised that the best treatment could be provided there so that there is no more loss of life. I am happy to announce that there was no death among the 25 injured in the stampede. We decided on the spot. There is nothing controversial behind this,\" says West Bengal CM",
    "source": "The Hindu",
-   "ts": "2026-10-20T19:08:02+00:00",
-   "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/kashmir-clerics-including-mirwaiz-say-eviction-of-delhis-historic-race-course-mosque-deeply-disturbing/article71605010.ece"
+   "ts": "2026-10-20T20:02:06+00:00",
+   "url": "https://www.thehindu.com/news/national/west-bengal/bengal-cm-defends-decision-to-shift-stampede-injured-to-private-hospital-cites-better-care/article71605499.ece"
   },
   {
    "category": "AI",
-   "headline": "The fossil fuel comeback is here",
-   "blurb": "The US is building more fossil fuel infrastructure than it has in a decade while renewable energy growth slows down, a new report shows. Electricity demand is also climbing faster than it has in more than a decade with more data centers, factories, and electric vehicles plugging into the grid. Despite those growing demands, the […]",
+   "headline": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
+   "blurb": "Adobe announced yesterday that the mobile version of Lightroom, available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap. When the app detects a person, or a group of people, have their eyes closed in a photo it will automatically present users with a […]",
    "source": "The Verge",
-   "ts": "2026-10-19T21:48:01+00:00",
-   "url": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report"
+   "ts": "2026-10-20T13:12:02+00:00",
+   "url": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair"
   },
   {
    "category": "Equities",
-   "headline": "Analysis: Everyone expects the Fed to hold rates in October. Kevin Warsh could surprise us all",
-   "blurb": "Investors expect the Fed to pause rate hikes in October, but Kevin Warsh's rejection of traditional communications practices and continued concern about inflation leave the decision uncertain.",
+   "headline": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
+   "blurb": "Treasury yields above 5% are raising borrowing costs for households and the federal government, highlighting the challenge of financing $2 trillion deficits.",
    "source": "CNBC",
-   "ts": "2026-10-16T16:27:31+00:00",
-   "url": "https://www.cnbc.com/2026/10/16/kevin-warsh-fed-october-rate-hike-interest-rates-markets.html"
+   "ts": "2026-10-16T22:33:05+00:00",
+   "url": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html"
   },
   {
    "category": "Crypto",
@@ -316,51 +316,51 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "'Great result for Canada', says Carney as Alberta votes to reject separatism",
-   "blurb": "The Canadian province has voted overwhelmingly to remain part of Canada, though deep political divisions endure.",
+   "headline": "Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump",
+   "blurb": "The overwhelming vote by Alberta to stay in Canada gives Mark Carney political capital to focus on remaking the country's economy, writes the BBC's Lyse Doucet.",
    "source": "BBC",
-   "ts": "2026-10-20T16:59:06+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cxr5yqqd7nlpo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-20T22:22:17+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cr62ylj832vxo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Paddy Power cuts 1,400 jobs and blames betting tax rises",
-   "blurb": "The government increased taxes on online casino and sports betting in last year's Budget.",
+   "headline": "UK government to make Jackdaw gas field announcement",
+   "blurb": "The long-awaited decision about the controversial North Sea field is expected on Wednesday morning.",
    "source": "BBC",
-   "ts": "2026-10-20T15:53:13+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cqzrdpkm3g84o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-20T17:33:42+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cvze4wx3elj1o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Acton’s brother slams Ramaswamy in new ad: 'Not fit to lead'",
-   "blurb": "The brother of Amy Acton, the Democrat running in Ohio’s gubernatorial race, denounced GOP nominee Vivek Ramaswamy after a new video circulated online featuring Acton's estranged mother calling her a liar and urging Ohioans to vote against her daughter. In a new ad for Actor, Philip Stearns blamed GOP candidate Vivek Ramaswamy for the video...",
+   "headline": "Americans likely to associate tech CEOs, even fake ones, with GOP: Poll",
+   "blurb": "Americans are more likely to assume the executives heading up the largest technology firms are Republican, marking a drastic shift in perception of what was once known as a liberal Silicon Valley, according to a new poll. In a new poll published by Politico on Monday, American respondents were asked about eight current or former...",
    "source": "The Hill",
-   "ts": "2026-10-20T21:20:47+00:00",
-   "url": "https://thehill.com/homenews/campaign/6161320-amy-acton-brother-denounces-ramaswamy/"
+   "ts": "2026-10-20T22:13:49+00:00",
+   "url": "https://thehill.com/policy/technology/6161382-americans-view-tech-ceos-republican/"
   },
   {
    "category": "India Politics",
-   "headline": "The ECI’s unfinished lessons",
-   "blurb": "While the ECI need not accept every allegation made by political parties, constitutional authority cannot substitute for verifiable evidence",
+   "headline": "Chennai Mayor alleges online harassment; lodges complaint with police",
+   "blurb": "",
    "source": "The Hindu",
-   "ts": "2026-10-20T18:57:25+00:00",
-   "url": "https://www.thehindu.com/opinion/op-ed/the-ecis-unfinished-lessons/article71605299.ece"
+   "ts": "2026-10-20T19:42:40+00:00",
+   "url": "https://www.thehindu.com/news/cities/chennai/chennai-mayor-alleges-online-harassment-lodges-complaint-with-police/article71605434.ece"
   },
   {
    "category": "AI",
-   "headline": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
-   "blurb": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targets, Reuters reports that the victims included companies like John Deere, SharkNinja, and Cummins. Concerns over AI-powered cybersecurity breaches have grown […]",
+   "headline": "CoreWeave’s debt is becoming the whole AI industry’s problem",
+   "blurb": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesday Chamath \"SPAC King\" Palihapitiya noticed the distressed debt, and also asked whether the AI buildout was a private credit bubble. […]",
    "source": "The Verge",
-   "ts": "2026-10-19T17:33:16+00:00",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins"
+   "ts": "2026-10-20T10:26:38+00:00",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai"
   },
   {
    "category": "Equities",
-   "headline": "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022",
-   "blurb": "September producer prices were expected to increase 0.6% month over month and 5.5% annually, according to the consensus estimate by Dow Jones.",
+   "headline": "Analysis: Everyone expects the Fed to hold rates in October. Kevin Warsh could surprise us all",
+   "blurb": "Investors expect the Fed to pause rate hikes in October, but Kevin Warsh's rejection of traditional communications practices and continued concern about inflation leave the decision uncertain.",
    "source": "CNBC",
-   "ts": "2026-10-15T16:15:44+00:00",
-   "url": "https://www.cnbc.com/2026/10/15/september-producer-price-index-retail-sales-data.html"
+   "ts": "2026-10-16T16:27:31+00:00",
+   "url": "https://www.cnbc.com/2026/10/16/kevin-warsh-fed-october-rate-hike-interest-rates-markets.html"
   },
   {
    "category": "Crypto",
@@ -372,51 +372,51 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "Swimmer, 65, killed in shark attack off South Africa's east coast",
-   "blurb": "Janine Lochrenberg, 65, was out on her daily morning swim with her club when she was attacked, her family tell the BBC.",
+   "headline": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
+   "blurb": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington.",
    "source": "BBC",
-   "ts": "2026-10-20T15:58:57+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cqx297pxg1djo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-20T21:27:39+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Union attacks NatWest plans to get workers back to the office",
-   "blurb": "The bank says workers will be required to attend the office at least two days a week from February.",
+   "headline": "Paddy Power cuts 1,400 jobs and blames betting tax rises",
+   "blurb": "The government increased taxes on online casino and sports betting in last year's Budget.",
    "source": "BBC",
-   "ts": "2026-10-20T14:50:19+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cmly0qwnlgdvo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-20T15:53:13+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cqzrdpkm3g84o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Kyle Kennedy, granddaughter of RFK, dies at 42",
-   "blurb": "Kennedy died Sept. 21 at her home in Massachusetts. Her cause of death has not been disclosed.",
+   "headline": "Spanberger pushes for 6-year rate-hike freeze if Dominion-Next Era merger approved",
+   "blurb": "Virginia Gov. Abigail Spanberger (D) is pushing for a six-year pause on electricity rate hikes in the commonwealth as part of a merger between NextEra Energy and Dominion Energy. Spanberger on Monday filed expert testimony with the State Corporation Commission (SCC), urging it to reject the proposed merger if the two companies do not agree...",
    "source": "The Hill",
-   "ts": "2026-10-20T21:07:06+00:00",
-   "url": "https://thehill.com/homenews/administration/6161309-kyle-kennedy-granddaughter-of-rfk-dies-at-42/"
+   "ts": "2026-10-20T22:10:55+00:00",
+   "url": "https://thehill.com/homenews/state-watch/6161285-spanberger-demands-utility-rate-pause/"
   },
   {
    "category": "India Politics",
-   "headline": "On paddy field conservation in Keralam",
-   "blurb": "Neglecting paddy fields as a socio-ecological system that regulates local biodiversity, the hydrological cycle, and microclimate constitutes a grave failure, amid rising food insecurity and floods",
+   "headline": "Haryana power staff call 3-day strike against giving licence to private discom",
+   "blurb": "HERC grants Eleven Power 25-year licence to distribute power in Gurugram, Nuh; Power Minister says State will contest move before tribunal; staff allege decision will ‘undermine’ State-owned firm",
    "source": "The Hindu",
-   "ts": "2026-10-20T18:43:33+00:00",
-   "url": "https://www.thehindu.com/opinion/op-ed/on-paddy-field-conservation-in-keralam/article71605301.ece"
+   "ts": "2026-10-20T19:29:28+00:00",
+   "url": "https://www.thehindu.com/news/national/haryana/haryana-power-staff-call-3-day-strike-against-giving-licence-to-private-discom/article71605055.ece"
   },
   {
    "category": "AI",
-   "headline": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
-   "blurb": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind of unexpected political realignment — and with the midterms coming […]",
+   "headline": "The fossil fuel comeback is here",
+   "blurb": "The US is building more fossil fuel infrastructure than it has in a decade while renewable energy growth slows down, a new report shows. Electricity demand is also climbing faster than it has in more than a decade with more data centers, factories, and electric vehicles plugging into the grid. Despite those growing demands, the […]",
    "source": "The Verge",
-   "ts": "2026-10-19T15:46:56+00:00",
-   "url": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws"
+   "ts": "2026-10-19T21:48:01+00:00",
+   "url": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report"
   },
   {
    "category": "Equities",
-   "headline": "Economists: Hot PPI shows Fed's work is not done",
-   "blurb": "'We see real risks the Fed will deliver another rate hike in two weeks' time,' one Fedwatcher warns",
+   "headline": "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022",
+   "blurb": "September producer prices were expected to increase 0.6% month over month and 5.5% annually, according to the consensus estimate by Dow Jones.",
    "source": "CNBC",
-   "ts": "2026-10-15T15:37:59+00:00",
-   "url": "https://www.cnbc.com/2026/10/15/pce-ppi-september-fed-reserve-rate-hike.html"
+   "ts": "2026-10-15T16:15:44+00:00",
+   "url": "https://www.cnbc.com/2026/10/15/september-producer-price-index-retail-sales-data.html"
   },
   {
    "category": "Crypto",
@@ -428,43 +428,43 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "Houthi missile strike on Yemen camp kills 73 security recruits, local authorities say",
-   "blurb": "Three missiles hit a camp in government-controlled Shabwa province on Monday that was being used as a training centre, Yemen's army says.",
+   "headline": "Suspect arrested after historic town hall set alight - French media",
+   "blurb": "The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday.",
    "source": "BBC",
-   "ts": "2026-10-20T14:09:42+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-20T21:05:50+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Bereaved families could face 'unjust' tax bill after civil service pension delays",
-   "blurb": "The chairman of Parliament's Public Accounts Committee says families should not be taxed through no fault of their own.",
+   "headline": "Union attacks NatWest plans to get workers back to the office",
+   "blurb": "The bank says workers will be required to attend the office at least two days a week from February.",
    "source": "BBC",
-   "ts": "2026-10-20T12:36:43+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cq1m4zz9e44go?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-20T14:50:19+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cmly0qwnlgdvo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Who is Ana Reyes, federal judge Trump called a ‘crazed lunatic’?",
-   "blurb": "U.S. District Judge Ana Reyes shot down the Justice Department’s (DOJ) demand to not participate in a key hearing on Monday on the future of East Potomac Park, which President Trump wants to turn into a championship-style golf course. The Trump administration has alleged that Reyes is biased after she yelled at a government attorney...",
+   "headline": "Ohio governor’s race takes ugly turn with viral video featuring Acton’s mother",
+   "blurb": "A new viral video targeting Amy Acton is roiling the increasingly ugly Ohio governor’s race, where the Democrat is running against GOP nominee Vivek Ramaswamy. The clip features Acton's estranged mother, Donna Arthur, calling the Democrat “a liar” and urging Ohioans to vote against her. It’s unclear who is behind the 60-second spot, which did...",
    "source": "The Hill",
-   "ts": "2026-10-20T21:03:52+00:00",
-   "url": "https://thehill.com/regulation/court-battles/6161270-ana-reyes-federal-judge/"
+   "ts": "2026-10-20T22:05:29+00:00",
+   "url": "https://thehill.com/homenews/campaign/6161344-ramaswamy-ohio-governor-race-controversy/"
   },
   {
    "category": "India Politics",
-   "headline": "At Dussehra rally, Uddhav bats for 'regime change', promises 'acche din' after ousting BJP",
-   "blurb": "Addressing the annual Dussehra rally at Shivaji Park in Mumbai, Mr. Thackeray insisted that staging a protest is the right of youth because 'vote chori' (vote theft) is happening with everyone, especially new voters",
+   "headline": "One dead, few injured in firing inside SGNP",
+   "blurb": "The incident occurred in the SGNP's Chena beat in the Yeoor Range, Thane, police said. After being alerted, forest department personnel along with police teams rushed to the spot for inspection",
    "source": "The Hindu",
-   "ts": "2026-10-20T18:41:19+00:00",
-   "url": "https://www.thehindu.com/news/national/maharashtra/at-dussehra-rally-uddhav-bats-for-regime-change-promises-acche-din-after-ousting-bjp/article71605421.ece"
+   "ts": "2026-10-20T19:18:04+00:00",
+   "url": "https://www.thehindu.com/news/cities/mumbai/one-dead-few-injured-in-firing-inside-sgnp/article71605463.ece"
   },
   {
    "category": "AI",
-   "headline": "Democrats think cracking down on AI could give them an edge",
-   "blurb": "Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newest and thorniest political issues: AI. Polls predict Democrats will flip at least one chamber of Congress in the midterm elections, which would put committee leadership back in their hands. That […]",
+   "headline": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+   "blurb": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targets, Reuters reports that the victims included companies like John Deere, SharkNinja, and Cummins. Concerns over AI-powered cybersecurity breaches have grown […]",
    "source": "The Verge",
-   "ts": "2026-10-19T12:37:05+00:00",
-   "url": "https://www.theverge.com/policy/1013113/democrats-ai-midterms"
+   "ts": "2026-10-19T17:33:16+00:00",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins"
   }
  ]
 }
