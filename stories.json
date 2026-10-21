@@ -1,62 +1,62 @@
 {
- "updated": "2026-10-21T07:27:04+00:00",
+ "updated": "2026-10-21T13:41:19+00:00",
  "count": 58,
  "stories": [
   {
    "category": "Equities",
-   "headline": "UK inflation jumps to 3.5% — cementing rate hike expectations",
-   "blurb": "U.K. inflation rose by a hotter-than-expected 3.5% in the 12 months to September, driven by the surging cost of motor fuels.",
+   "headline": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
+   "blurb": "Housing data deteriorated further in September, according to separate reports Tuesday.",
    "source": "CNBC",
-   "ts": "2026-10-21T07:08:25+00:00",
-   "url": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html"
+   "ts": "2026-10-21T11:20:58+00:00",
+   "url": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html"
   },
   {
    "category": "Crypto",
-   "headline": "Ripple brings Wall Street into 24/7 stock bets, but HSBC warns markets are still thin",
-   "blurb": "Institutions can trade through Ripple Prime and post RLUSD as collateral. Finding enough buyers and sellers for large positions could prove harder.",
+   "headline": "Why centralized exchanges refuse to list legacy crypto tokens without explicit SEC immunity",
+   "blurb": "Vault12 raised $17.45 million selling VGT in 2018 and says it met or dropped every promise, yet the token has never traded on a centralized exchange.",
    "source": "CoinDesk",
-   "ts": "2026-10-21T05:25:57+00:00",
-   "url": "https://www.coindesk.com/markets/2026/10/21/ripple-brings-wall-street-into-24-7-stock-bets-but-hsbc-warns-markets-are-still-thin"
+   "ts": "2026-10-21T12:12:36+00:00",
+   "url": "https://www.coindesk.com/policy/2026/10/21/why-centralized-exchanges-refuse-to-list-legacy-crypto-tokens-without-explicit-sec-immunity"
   },
   {
    "category": "Gold",
-   "headline": "Silver at a Decision Point: $58.21 Holds the Key to Recovery",
+   "headline": "Diesel Shortages Push Washington Toward Emergency Refinery Measures",
    "blurb": "",
    "source": "Investing.com",
-   "ts": "2026-10-21T06:56:00+00:00",
-   "url": "https://www.investing.com/analysis/silver-at-a-decision-point-5821-holds-the-key-to-recovery-200689943"
+   "ts": "2026-10-21T13:19:00+00:00",
+   "url": "https://www.investing.com/analysis/diesel-shortages-push-washington-toward-emergency-refinery-measures-200689996"
   },
   {
    "category": "Geopolitics",
-   "headline": "Katya Adler: France divided over who to blame for riots and what to learn from them",
-   "blurb": "In France and beyond there is widespread disagreement over what led to some of the worst unrest seen in French cities in modern history.",
+   "headline": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
+   "blurb": "The 74-year-old former teacher, who was captured, has been released without any \"swap\" required, Trump says.",
    "source": "BBC",
-   "ts": "2026-10-21T06:50:40+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-21T12:32:01+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Surging fuel prices push UK inflation rate to 3.5% ahead of Budget",
-   "blurb": "Inflation accelerated to 3.5% from 3.1% in the year to September, according to the Office for National Statistics (ONS).",
+   "headline": "Civil servant admits he 'made mistakes' juggling five government jobs",
+   "blurb": "Kashim Chowdhury was contracted for 183 hours a week, more than the number of hours in seven days.",
    "source": "BBC",
-   "ts": "2026-10-21T06:53:25+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-21T12:17:12+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cmze4w63ly42o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Ramaswamy takes responsibility for attack ad featuring Acton’s estranged mother",
-   "blurb": "Ohio gubernatorial candidate Vivek Ramaswamy (R) confirmed to reporters Tuesday evening that his campaign was behind a new attack ad featuring his Democratic opponent Amy Acton's mother calling her a \"liar\" and insinuating she suffers from mental health issues. Ramaswamy acknowledged that his campaign produced the ad, which began circulating on social media Monday night...",
+   "headline": "Becerra holds 27-point lead over Hilton in California governor's race: Poll",
+   "blurb": "Democrat Xavier Becerra is maintaining his strong lead in California’s gubernatorial race with only weeks to go until Election Day, according to a new poll released Wednesday. The Emerson College survey found that 60 percent of likely voters backed the former Health and Human Services secretary over his Republican opponent Steve Hilton to replace outgoing...",
    "source": "The Hill",
-   "ts": "2026-10-21T02:05:45+00:00",
-   "url": "https://thehill.com/homenews/campaign/6161654-ramaswamy-attack-ad-amy-acton/"
+   "ts": "2026-10-21T13:00:00+00:00",
+   "url": "https://thehill.com/homenews/campaign/6161100-becerra-leads-california-poll/"
   },
   {
    "category": "India Politics",
-   "headline": "Supreme Court finds prima facie case in YSRCP plea for more time to file nominations in Andhra civic polls",
-   "blurb": "The State Election Commission is directed to postpone the publication of the final list of candidates till October 25",
+   "headline": "Shivamogga Jamboo Savari: Scary scenes as howdah elephant Somanna runs amok",
+   "blurb": "Elephant Sagar had carried the howdah for the last six years, but Somanna was chosen for the task on October 21 morning.",
    "source": "The Hindu",
-   "ts": "2026-10-21T07:25:19+00:00",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/supreme-court-finds-prima-facie-case-in-ysrcp-plea-for-more-time-to-file-nominations-in-andhra-civic-polls/article71606630.ece"
+   "ts": "2026-10-21T13:35:01+00:00",
+   "url": "https://www.thehindu.com/news/national/karnataka/shivamogga-jamboo-savari-scary-scenes-as-howdah-elephant-somanna-runs-amok/article71607370.ece"
   },
   {
    "category": "AI",
@@ -68,59 +68,59 @@
   },
   {
    "category": "Equities",
-   "headline": "Car buyers are demanding lower prices and better tech. Automakers must deliver both",
-   "blurb": "Bain says tech leads purchase considerations in China while price remains No. 1 in the U.S. and Europe, as pressure mounts on Western carmakers.",
+   "headline": "UK inflation jumps to 3.5% — cementing rate hike expectations",
+   "blurb": "U.K. inflation rose by a hotter-than-expected 3.5% in the 12 months to September, driven by the surging cost of motor fuels.",
    "source": "CNBC",
-   "ts": "2026-10-21T01:01:01+00:00",
-   "url": "https://www.cnbc.com/2026/10/20/car-buyers-china-tech-price-europe.html"
+   "ts": "2026-10-21T07:50:10+00:00",
+   "url": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html"
   },
   {
    "category": "Crypto",
-   "headline": "Solana’s Alpenglow, its biggest network overhaul since 2020, goes live Wednesday",
-   "blurb": "Alpenglow will replace the voting system Solana has used since 2020, targeting roughly 150-millisecond finality after months of testing that included a failed migration and rollback.",
+   "headline": "Japanese visitors may be able to pay with yen stablecoins in South Korea under Shinhan-SBI pact",
+   "blurb": "The collaboration will explore card-linked merchant payments for Japanese visitors in South Korea and peer-to-peer wallet transfers among broader cross-border trade remittances.",
    "source": "CoinDesk",
-   "ts": "2026-10-21T04:35:52+00:00",
-   "url": "https://www.coindesk.com/tech/2026/10/21/solana-s-alpenglow-its-biggest-network-overhaul-since-2020-goes-live-wednesday"
+   "ts": "2026-10-21T12:10:39+00:00",
+   "url": "https://www.coindesk.com/business/2026/10/21/japanese-visitors-may-be-able-to-pay-with-yen-stablecoins-in-south-korea-under-shinhan-sbi-pact"
   },
   {
    "category": "Gold",
-   "headline": "API: Crude, Product Inventories Continue to Draw",
+   "headline": "Oil Shipping Costs Add a New Upside Risk to Brent Prices",
    "blurb": "",
    "source": "Investing.com",
-   "ts": "2026-10-21T06:13:00+00:00",
-   "url": "https://www.investing.com/analysis/api-crude-product-inventories-continue-to-draw-200689952"
+   "ts": "2026-10-21T12:51:00+00:00",
+   "url": "https://www.investing.com/analysis/oil-shipping-costs-add-a-new-upside-risk-to-brent-prices-200689993"
   },
   {
    "category": "Geopolitics",
-   "headline": "US envoy arrives in Russia ahead of meeting with Putin as Zelensky says intelligence sharing 'works now'",
-   "blurb": "Steve Witkoff is in St Petersburg to discuss proposals on ending Russia's years-long conflict with Ukraine.",
+   "headline": "Is Ebola under control in Kenya after nine cases confirmed?",
+   "blurb": "The US has advised its citizens to reconsider travelling to Kenya but the government tries to reassure people.",
    "source": "BBC",
-   "ts": "2026-10-21T06:37:55+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-21T09:55:15+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c693z948px0jo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Watch: 'We don't pay' - lawyer advises how to avoid £45,000 illegal-worker fine",
-   "blurb": "Mohammad Alias Yousaf made his claim to an undercover reporter posing as a mini-mart owner.",
+   "headline": "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget challenge",
+   "blurb": "The economic figures released on Wednesday show the constraints for John Healey as he puts the finishing touches to his Budget.",
    "source": "BBC",
-   "ts": "2026-10-21T05:00:54+00:00",
-   "url": "https://www.bbc.co.uk/news/videos/cm93z1j33dkpo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-21T10:20:15+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Trump says Pentagon will invest $1.5 billion into North Carolina chip production",
-   "blurb": "President Trump on Tuesday announced a $1.5 billion dollar investment from the Pentagon to expand semiconductor production in North Carolina, as the administration pushes to reshore manufacturing to the U.S. “The Department of War will be investing $1.5 billion dollars to produce cutting-edge semiconductor chips right here in North Carolina,” Trump said while speaking at...",
+   "headline": "Gen Z is abandoning the Republicans and giving Democrats a second chance",
+   "blurb": "Both parties have ignored Gen Z’s warnings that their votes should not be taken for granted. Now it’s Republicans’ turn to pay the political price.",
    "source": "The Hill",
-   "ts": "2026-10-21T01:26:11+00:00",
-   "url": "https://thehill.com/homenews/administration/6161642-trump-pentagon-semiconductor-investment/"
+   "ts": "2026-10-21T13:00:00+00:00",
+   "url": "https://thehill.com/opinion/campaign/6160988-democrats-youth-voter-shift/"
   },
   {
    "category": "India Politics",
-   "headline": "Telangana CM Revanth celebrates Dasara with family at Kondareddipalli in Nagarkurnool",
-   "blurb": "",
+   "headline": "Cargo vessel sinks off Beypore coast; all eight crew members rescued",
+   "blurb": "The vessel, MSV Jesus Heart, was on its way from Beypore to Kavaratti in Lakshadweep when the accident occurred at around 11.25 p.m. on Tuesday.",
    "source": "The Hindu",
-   "ts": "2026-10-21T07:16:30+00:00",
-   "url": "https://www.thehindu.com/news/national/telangana/telangana-cm-revanth-celebrates-dasara-with-family-at-kondareddipalli-in-nagarkurnool/article71606603.ece"
+   "ts": "2026-10-21T13:33:59+00:00",
+   "url": "https://www.thehindu.com/news/national/kerala/cargo-vessel-sinks-off-beypore-coast-all-eight-crew-members-rescued/article71607186.ece"
   },
   {
    "category": "AI",
@@ -132,51 +132,51 @@
   },
   {
    "category": "Equities",
-   "headline": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
-   "blurb": "Housing data deteriorated further in September, according to separate reports Tuesday.",
+   "headline": "Car buyers are demanding lower prices and better tech. Automakers must deliver both",
+   "blurb": "Bain says tech leads purchase considerations in China while price remains No. 1 in the U.S. and Europe, as pressure mounts on Western carmakers.",
    "source": "CNBC",
-   "ts": "2026-10-20T19:28:43+00:00",
-   "url": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html"
+   "ts": "2026-10-21T01:01:01+00:00",
+   "url": "https://www.cnbc.com/2026/10/20/car-buyers-china-tech-price-europe.html"
   },
   {
    "category": "Crypto",
-   "headline": "A company that vouches for websites had secret keys so weak that 8 of them were cracked",
-   "blurb": "Eight secret keys at eMudhra, an Indian firm that vouches for websites, were compromised. This is a generic, not crypto-specific, risk.",
+   "headline": "Dogecoin wallet, app teams unite in push to give DOGE more everyday uses",
+   "blurb": "Dogecoin Labs will combine MyDoge, DogeOS and merchant payment tools as developers try to turn coin holders into customers for applications and businesses.",
    "source": "CoinDesk",
-   "ts": "2026-10-21T04:11:58+00:00",
-   "url": "https://www.coindesk.com/tech/2026/10/21/a-company-that-vouches-for-websites-had-secret-keys-so-weak-that-8-of-them-were-cracked"
+   "ts": "2026-10-21T12:00:00+00:00",
+   "url": "https://www.coindesk.com/tech/2026/10/21/dogecoin-wallet-app-teams-unite-in-push-to-give-doge-more-everyday-uses"
   },
   {
    "category": "Geopolitics",
-   "headline": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
-   "blurb": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history.",
+   "headline": "Elon Musk confirms he is considering merging Tesla and SpaceX",
+   "blurb": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
    "source": "BBC",
-   "ts": "2026-10-21T06:36:39+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-21T08:42:49+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "The tech helping crack decades-old cold cases",
-   "blurb": "Investigative genetic genealogy can help hunt down criminals but raises worries over privacy.",
+   "headline": "Inflation and government borrowing highest for a year ahead of next week's Budget",
+   "blurb": "Inflation accelerated to 3.5% from 3.1% in the year to September, according to the Office for National Statistics (ONS).",
    "source": "BBC",
-   "ts": "2026-10-20T23:13:24+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-21T10:16:17+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Trump snaps at White House reporter: 'Are you a sick person?'",
-   "blurb": "President Trump snapped at a reporter in the Oval Office on Tuesday, telling him to be “quiet.” As the president took questions from journalists in the Oval Office earlier Tuesday, one reporter appeared to begin asking about changes to East Potomac Park that include a new golf course. “On the golf course, sir, you own...",
+   "headline": "Live updates: Trump lauds Russia's release of American; Vance to campaign with Ramaswamy in Ohio",
+   "blurb": "President Trump on Wednesday morning praised Russia's release of American teacher Stephen Hubbard after four years of wrongful imprisonment. \"Stephen is on his way back home and will soon be with his family. The United States, out of respect for President Trump, was not required to give anything in return - an unprecedented situation for...",
    "source": "The Hill",
-   "ts": "2026-10-21T00:51:22+00:00",
-   "url": "https://thehill.com/homenews/media/6161621-trump-snaps-at-white-house-reporter-are-you-a-sick-person/"
+   "ts": "2026-10-21T12:55:16+00:00",
+   "url": "https://thehill.com/homenews/administration/6161584-trump-midterm-tour-clemson/"
   },
   {
    "category": "India Politics",
-   "headline": "Thunderstorms likely in Nellore, Tirupati on October 21; heavy rain forecast on October 22",
-   "blurb": "Andhra Pradesh received 59% less rain than normal between October 1 and 20, the IMD says",
+   "headline": "CPI(M) warns against undermining democratic processes in local body elections",
+   "blurb": "Party seeks fresh nomination opportunity at places where irregularities have been reported, releases manifesto demanding greater financial autonomy for local bodies",
    "source": "The Hindu",
-   "ts": "2026-10-21T07:16:25+00:00",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/thunderstorms-likely-in-nellore-tirupati-on-october-21-heavy-rain-forecast-on-october-2/article71606405.ece"
+   "ts": "2026-10-21T13:32:08+00:00",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/cpim-warns-against-undermining-democratic-processes-in-local-body-elections/article71607346.ece"
   },
   {
    "category": "AI",
@@ -196,43 +196,43 @@
   },
   {
    "category": "Crypto",
-   "headline": "Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11%",
-   "blurb": "Strong results from SpaceX and Super Micro sent Asian chip stocks surging, and ZEC led crypto higher after developers set a date for its next network upgrade.",
+   "headline": "Bitcoin risk management grows more popular as the 'just bet on price' era fades",
+   "blurb": "Your day-ahead look for Oct. 21, 2026",
    "source": "CoinDesk",
-   "ts": "2026-10-21T04:07:07+00:00",
-   "url": "https://www.coindesk.com/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11"
+   "ts": "2026-10-21T11:15:00+00:00",
+   "url": "https://www.coindesk.com/daybook-us/2026/10/21/bitcoin-risk-management-grows-more-popular-as-the-just-bet-on-price-era-fades"
   },
   {
    "category": "Geopolitics",
-   "headline": "Elon Musk confirms talks to merge Tesla and SpaceX",
-   "blurb": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
+   "headline": "Gambia to pay victims of Yahya Jammeh's rule from proceeds of his seized US mansion",
+   "blurb": "The Gambia has confirmed receiving $2.5m from the sale of the house in Maryland.",
    "source": "BBC",
-   "ts": "2026-10-21T05:48:46+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-21T08:31:48+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cmn8wx75l2n8o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Audit regulator looking into Manchester City accounting",
-   "blurb": "No formal investigation has started, but the regulator is making inquiries into the case.",
+   "headline": "What is happening to UK prices?",
+   "blurb": "UK inflation rose in September, pushed up by higher petrol and diesel prices.",
    "source": "BBC",
-   "ts": "2026-10-20T20:56:53+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cm93z1xlgqxqo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-21T08:35:47+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c17rgd8e9gjo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Brown calls on Husted to condemn ad featuring Acton's mother",
-   "blurb": "Ohio Democratic Senate candidate Sherrod Brown pressed his Republican rival, Sen. Jon Husted (Ohio), to condemn a recent advertisement allegedly from Republican gubernatorial candidate Vivek Ramaswamy. “The ad released by Vivek Ramaswamy is disgusting. Everyone, including Jon Husted, should be willing to condemn this ad,” Brown said in a post on the social platform X...",
+   "headline": "Trump: Implementing Russia sanctions would have halted Stephen Hubbard release talks",
+   "blurb": "President Trump defended his waiver of Russian sanctions, saying it would have halted negotiations with Russian President Vladimir Putin regarding the release of Stephen Hubbard, a retired schoolteacher who was arrested by Russian authorities when it invaded Ukraine. “Numerous people, who requested that sanctions be immediately imposed on Russia, have called to apologize to President...",
    "source": "The Hill",
-   "ts": "2026-10-20T23:40:13+00:00",
-   "url": "https://thehill.com/homenews/campaign/6161562-brown-demands-husted-condemn-ad/"
+   "ts": "2026-10-21T12:51:47+00:00",
+   "url": "https://thehill.com/homenews/administration/6161902-donald-trump-stephen-hubbard-russia-sanctions-waiver/"
   },
   {
    "category": "India Politics",
-   "headline": "Tamil Nadu rains LIVE: CM Vijay to chair meeting on Northeast monsoon preparedness",
-   "blurb": "A fresh system, over the Bay of Bengal, is likely to sustain intense rainfall across Tamil Nadu till October 26, the Regional Meteorological Centre (RMC) said",
+   "headline": "Rahul’s foreign trip to seek guidance from Soros-linked body to bring regime change: BJP",
+   "blurb": "BJP national spokesperson Sambit Patra says attempts were made to create an impression that the Union Government was so dictatorial that it was preventing people from unfurling the National Flag",
    "source": "The Hindu",
-   "ts": "2026-10-21T07:10:31+00:00",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-rains-live-updates-chennai-school-holiday-october-21-2026/article71606190.ece"
+   "ts": "2026-10-21T13:31:56+00:00",
+   "url": "https://www.thehindu.com/news/national/rahuls-foreign-trip-to-seek-guidance-from-soros-linked-body-to-bring-regime-change-bjp/article71607463.ece"
   },
   {
    "category": "AI",
@@ -252,43 +252,43 @@
   },
   {
    "category": "Crypto",
-   "headline": "U.S. CFTC sets agenda for AI forum, exploring trading and agentic finance",
-   "blurb": "A Commodity Futures Trading Commission task force is scheduled for October 28 to talk about how the latest \"super intelligence\" technology may impact markets.",
+   "headline": "OCC's final rule to start fresh in weighing stablecoin rewards against GENIUS Act ban",
+   "blurb": "The U.S. Office of the Comptroller of the Currency is the first of several federal agencies to finish writing regulations under the act.",
    "source": "CoinDesk",
-   "ts": "2026-10-20T21:12:21+00:00",
-   "url": "https://www.coindesk.com/policy/2026/10/20/u-s-cftc-sets-agenda-for-ai-forum-exploring-trading-and-agentic-finance"
+   "ts": "2026-10-21T11:00:00+00:00",
+   "url": "https://www.coindesk.com/policy/2026/10/21/occ-s-final-rule-to-start-fresh-in-weighing-stablecoin-rewards-against-genius-act-ban"
   },
   {
    "category": "Geopolitics",
-   "headline": "Pakistan arrests man hunted by US over $126m postage fraud case",
-   "blurb": "Faheem Akram allegedly sold more than 5 million fake postage labels for a fixed price of $2 a piece.",
+   "headline": "Huge crowds watch attempt to rescue shark stranded in South Korean canal",
+   "blurb": "A third attempt has been made to guide the 9ft 10in (3m) shark back to the open sea.",
    "source": "BBC",
-   "ts": "2026-10-21T05:46:33+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/ckdd8m1z1z3yo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-21T08:19:32+00:00",
+   "url": "https://www.bbc.co.uk/news/videos/ckq6n56e5qrqo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit",
-   "blurb": "A US district judge dismissed the case after Ann Altman had refused to attend an independent medical examination.",
+   "headline": "Watch: 'We don't pay' - lawyer advises how to avoid £45,000 illegal-worker fine",
+   "blurb": "Mohammad Alias Yousaf made his claim to an undercover reporter posing as a mini-mart owner.",
    "source": "BBC",
-   "ts": "2026-10-20T19:42:32+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c94g1502el58o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-21T05:00:54+00:00",
+   "url": "https://www.bbc.co.uk/news/videos/cm93z1j33dkpo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Cornell responds to Jane Doe's letter saying she felt 'unsupported' by university president",
-   "blurb": "A woman known as Jane Doe who accused seven men at Cornell University of sexual assault at a fraternity house sent a letter to the school saying she “felt unsupported and disebelieved” by the Ivy League institution’s president, Michael Kotlikoff. Cornell has responded to the letter, first obtained by The New York Times, and sent...",
+   "headline": "Who is Stephen Hubbard, imprisoned American released by Russia?",
+   "blurb": "Russia on Wednesday released American teacher Stephen Hubbard, who was serving a seven-year prison sentence after prosecutors accused him of working with Ukraine as a mercenary following the Russian invasion that launched the war between both countries. President Trump announced the development on Truth Social after U.S. special envoy Steve Witkoff said Hubbard was released...",
    "source": "The Hill",
-   "ts": "2026-10-20T23:14:13+00:00",
-   "url": "https://thehill.com/homenews/education/6161542-jane-doe-cornell-letter/"
+   "ts": "2026-10-21T12:50:51+00:00",
+   "url": "https://thehill.com/policy/international/6161825-stephen-hubbard-released-russia-mercenary-charges/"
   },
   {
    "category": "India Politics",
-   "headline": "Why are book stalls set up by Left parties at Durga Puja Pandals being attacked in West Bengal? Explained",
-   "blurb": "The targeting of book stalls run by Left parties is part of the political contest that has emerged in West Bengal since the BJP government came to power in May 2026",
+   "headline": "Fake cash offer link: Milma files police complaint",
+   "blurb": "Milma officials said they have filed a police complaint and has also moved legally to take down the fake links that are being circulated.",
    "source": "The Hindu",
-   "ts": "2026-10-21T07:04:38+00:00",
-   "url": "https://www.thehindu.com/news/national/west-bengal/why-are-book-stalls-set-up-by-left-parties-at-durga-puja-pandals-being-attacked-in-west-bengal-explained/article71606618.ece"
+   "ts": "2026-10-21T13:30:41+00:00",
+   "url": "https://www.thehindu.com/news/national/kerala/fake-cash-offer-link-milma-files-police-complaint/article71607540.ece"
   },
   {
    "category": "AI",
@@ -308,43 +308,43 @@
   },
   {
    "category": "Crypto",
-   "headline": "OKX-ICE co-chair Andrew Cuomo calls corporate objections a ‘natural response’ to tokenized stock plans",
-   "blurb": "The former NY governor, who co-chairs the joint venture between the crypto exchange and Intercontinental Exchange, said companies were expected to take a wait-and-see approach.",
+   "headline": "Crypto rises with Asian tech stocks, zcash extends gain after setting upgrade date",
+   "blurb": "Bitcoin rose to a one-week high as Asian tech stocks rebounded and SpaceX and Tesla formed committees to explore a merger.",
    "source": "CoinDesk",
-   "ts": "2026-10-20T18:26:29+00:00",
-   "url": "https://www.coindesk.com/business/2026/10/20/okx-ice-s-andrew-cuomo-calls-issuer-objections-a-natural-response-to-tokenized-stock-plans"
+   "ts": "2026-10-21T10:34:37+00:00",
+   "url": "https://www.coindesk.com/markets/2026/10/21/crypto-rises-with-asian-tech-stocks-zcash-extends-gain-after-setting-upgrade-date"
   },
   {
    "category": "Geopolitics",
-   "headline": "BBC inside Australian court as man charged with attacking MP stays silent in first hearing",
-   "blurb": "BBC's Katy Watson describes what unfolded in Wangaratta as 43-year-old Brendan Nugent appeared before court over the alleged attack of Helen Haines.",
+   "headline": "Australian MP loses both legs after alleged car attack, husband says",
+   "blurb": "Her alleged attacker, 43-year-old Brendan Nugent, faces multiple charges and appeared in court for the first time on Wednesday.",
    "source": "BBC",
-   "ts": "2026-10-21T03:58:16+00:00",
-   "url": "https://www.bbc.co.uk/news/videos/cq398rg0lnd1o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-21T07:56:30+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Trump sued over Canadian tariffs in latest legal challenge",
-   "blurb": "The lawsuit argues the White House exceeded its authority in imposing the latest tariffs on the country and caused \"immediate harm to American businesses\".",
+   "headline": "The tech helping crack decades-old cold cases",
+   "blurb": "Investigative genetic genealogy can help hunt down criminals but raises worries over privacy.",
    "source": "BBC",
-   "ts": "2026-10-20T19:30:05+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-20T23:13:24+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Trump administration launches national kidney care plan",
-   "blurb": "Click in for more news from The Hill {beacon} Healthcare Healthcare The Big Story Trump launches national kidney care plan The Trump administration launched the Kidney Care National Plan Tuesday, aiming to improve structural kidney care deficiencies the Health and Human Services (HHS) Department says lead to higher costs and lower quality. © Rich Pedroncelli,...",
+   "headline": "Republican-aligned PAC spends $1.2M to boost socialist",
+   "blurb": "The PAC has spent over $1.2 million on \"media placement/media production\" and \"printing/postage\" on Levy's campaign.",
    "source": "The Hill",
-   "ts": "2026-10-20T23:13:12+00:00",
-   "url": "https://thehill.com/newsletters/healthcare/6161527-trump-administration-national-kidney-care-plan/"
+   "ts": "2026-10-21T12:41:53+00:00",
+   "url": "https://thehill.com/homenews/6161271-republican-aligned-pac-spends-1-2m-to-boost-socialist/"
   },
   {
    "category": "India Politics",
-   "headline": "Real-time air pollution monitoring stations in Keralam’s Vyttila and Kaloor non-functional",
-   "blurb": "Officials said that manual testing of air pollution levels is being carried out; the third station at Eloor is functional, though its annual maintenance contract had expired a year ago",
+   "headline": "Dharwad Jamboo Savari draws huge crowds",
+   "blurb": "The 22nd Dharwad Dasara procession organised as part of the Navaratri celebrations features an elephant carrying the ceremonial howdah and traditional folk troupes",
    "source": "The Hindu",
-   "ts": "2026-10-21T06:50:14+00:00",
-   "url": "https://www.thehindu.com/news/national/kerala/real-time-air-pollution-monitoring-stations-in-keralams-vyttila-and-kaloor-non-functional/article71606493.ece"
+   "ts": "2026-10-21T13:29:47+00:00",
+   "url": "https://www.thehindu.com/news/national/karnataka/dharwad-jamboo-savari-draws-huge-crowds/article71607415.ece"
   },
   {
    "category": "AI",
@@ -364,43 +364,43 @@
   },
   {
    "category": "Crypto",
-   "headline": "The Coinbase allegations expose Bitcoin's corporate governance gap",
-   "blurb": "Corporate adoption of bitcoin will stall as long as companies can't show who controls the money, who approves its movement, or whether it's still there, argues Onramp CEO Michael Tanguma.",
+   "headline": "Live updates: Bitcoin rises above $83,000 as SpaceX results, possible Tesla merger, lift markets",
+   "blurb": "South Korea data center player Elice surged 30% after plunging about the same amount following its IPO one day earlier.",
    "source": "CoinDesk",
-   "ts": "2026-10-20T17:02:31+00:00",
-   "url": "https://www.coindesk.com/opinion/2026/10/20/the-coinbase-allegations-expose-bitcoin-s-corporate-governance-gap"
+   "ts": "2026-10-21T10:30:40+00:00",
+   "url": "https://www.coindesk.com/markets/2026/10/21/live-updates-bitcoin-clings-to-usd82-500-as-spacex-results-lift-stock-futures"
   },
   {
    "category": "Geopolitics",
-   "headline": "'Trash Island' or DC landmark? How a golf course got Trump in a messy legal dispute",
-   "blurb": "Trump said he has plans to turn a 106-year-old public golf course in Washington DC into a tournament-capable golf course for pros, but local golfers are not happy.",
+   "headline": "Katya Adler: France divided over who to blame for riots and what to learn from them",
+   "blurb": "In France and beyond there is widespread disagreement over what led to some of the worst unrest seen in French cities in modern history.",
    "source": "BBC",
-   "ts": "2026-10-21T03:45:52+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c6ly3dlm0dr2o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-21T06:50:40+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Google resolves cloud outage affecting UK banks and websites",
-   "blurb": "Revolut was one of the hardest hit, with banking services going down for many customers.",
+   "headline": "Audit regulator looking into Manchester City accounting",
+   "blurb": "No formal investigation has started, but the regulator is making inquiries into the case.",
    "source": "BBC",
-   "ts": "2026-10-20T18:03:19+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-20T20:56:53+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cm93z1xlgqxqo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "White House relies on existing laws to regulate AI",
-   "blurb": "{beacon} Technology Technology The Big Story Can existing laws take on AI? Trump is betting on it. The Trump administration is relying on existing criminal and civil laws to hold artificial intelligence developers accountable in an age of unpredictable AI agents. But legal experts are uncertain whether this will be enough. © UPI Photo...",
+   "headline": "Not just gas and groceries: Childcare costs weigh on voters before midterm elections",
+   "blurb": "About three-quarters of U.S. adults saw the expense of childcare as a “major problem” in the U.S.",
    "source": "The Hill",
-   "ts": "2026-10-20T22:37:24+00:00",
-   "url": "https://thehill.com/newsletters/technology/6161499-white-house-relies-on-existing-laws-to-regulate-ai/"
+   "ts": "2026-10-21T12:41:36+00:00",
+   "url": "https://thehill.com/homenews/6161754-not-just-gas-and-groceries-childcare-costs-weigh-on-voters-before-midterm-elections/"
   },
   {
    "category": "India Politics",
-   "headline": "Motorcycle stunts, horse riding shows await spectators at Mysuru Torchlight Parade",
-   "blurb": "Eighteen platoons, each comprising 28 cadets, along with two horse platoons, will participate in the parade",
+   "headline": "Several houses torched in abandoned Manipur village amid ethnic tensions",
+   "blurb": "Khoikai Kuki village, located near Chassad village, was set ablaze by suspected militants around 5.30 a.m., police said",
    "source": "The Hindu",
-   "ts": "2026-10-21T06:43:46+00:00",
-   "url": "https://www.thehindu.com/news/national/karnataka/spectacular-torchlight-parade-in-mysuru/article71604368.ece"
+   "ts": "2026-10-21T13:28:43+00:00",
+   "url": "https://www.thehindu.com/news/national/manipur/several-houses-torched-in-abandoned-manipur-village-amid-ethnic-tensions/article71607044.ece"
   },
   {
    "category": "AI",
@@ -420,43 +420,43 @@
   },
   {
    "category": "Crypto",
-   "headline": "BlackRock seeks to shield bitcoin investors from losses after rival fund weathers 50% crash",
-   "blurb": "BlackRock's proposed fund follows similar products from Calamos that helped investors avoid steep losses during bitcoin's selloff.",
+   "headline": "SpaceX and Tesla explore merger that would unite more than 30,000 bitcoin",
+   "blurb": "Independent committees are assessing a potential tie-up, while strong SpaceX earnings lift shares ahead of Tesla’s results.",
    "source": "CoinDesk",
-   "ts": "2026-10-20T14:28:39+00:00",
-   "url": "https://www.coindesk.com/markets/2026/10/20/blackrock-seeks-to-shield-bitcoin-investors-from-losses-after-rival-fund-weathers-50-crash"
+   "ts": "2026-10-21T09:23:00+00:00",
+   "url": "https://www.coindesk.com/markets/2026/10/21/spacex-and-tesla-explore-merger-that-would-unite-more-than-30-000-bitcoin"
   },
   {
    "category": "Geopolitics",
-   "headline": "Haitian migrants changed this US town - Trump's deportation drive is reshaping it again",
-   "blurb": "The president thrust Springfield, Ohio, into the spotlight with a false pet-eating claim - years later, it remains at the heart of the immigration debate.",
+   "headline": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
+   "blurb": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history.",
    "source": "BBC",
-   "ts": "2026-10-21T02:37:13+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/crp3gvpek8njo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-21T06:36:39+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Paddy Power cuts 1,400 jobs and blames betting tax rises",
-   "blurb": "The government increased taxes on online casino and sports betting in last year's Budget.",
+   "headline": "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit",
+   "blurb": "A US district judge dismissed the case after Ann Altman had refused to attend an independent medical examination.",
    "source": "BBC",
-   "ts": "2026-10-20T15:53:13+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cqzrdpkm3g84o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-20T19:42:32+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c94g1502el58o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Americans likely to associate tech CEOs, even fake ones, with GOP: Poll",
-   "blurb": "Americans are more likely to assume the executives heading up the largest technology firms are Republican, marking a drastic shift in perception of what was once known as a liberal Silicon Valley, according to a new poll. In a new poll published by Politico on Monday, American respondents were asked about eight current or former...",
+   "headline": "2026 midterms: 7 key governor races to watch and where they stand",
+   "blurb": "DDHQ's forecast, last updated Oct. 17, has Democrats favored in 20 of the 36 races, with four rated as toss-ups.",
    "source": "The Hill",
-   "ts": "2026-10-20T22:13:49+00:00",
-   "url": "https://thehill.com/policy/technology/6161382-americans-view-tech-ceos-republican/"
+   "ts": "2026-10-21T12:41:32+00:00",
+   "url": "https://thehill.com/homenews/6161759-2026-midterms-7-key-governor-races-to-watch-and-where-they-stand/"
   },
   {
    "category": "India Politics",
-   "headline": "Eight web security keys of eMudhra firm used by Govt. and PSUs leaked",
-   "blurb": "Many government websites, including the Aadhaar issuer UIDAI and the income tax filing portal, use digital certificates or other technology from the Bengaluru-headquartered firm; no indication that the firm’s root certificates itself — which sit above the tier that was leaked — have been compromised",
+   "headline": "CAPFs strengthen internal security, stay vigilant in protests, elections, festivals: Home Minister",
+   "blurb": "The Ministry of Home Affairs had set the target to free the country from the drug menace by December 31, 2029, Amit Shah says",
    "source": "The Hindu",
-   "ts": "2026-10-21T06:42:37+00:00",
-   "url": "https://www.thehindu.com/sci-tech/technology/eight-web-security-keys-of-firm-used-by-govt-and-psus-leaked/article71606342.ece"
+   "ts": "2026-10-21T13:28:10+00:00",
+   "url": "https://www.thehindu.com/news/national/police-forces-across-the-country-should-work-together-to-make-india-drug-free-amit-shah/article71607550.ece"
   },
   {
    "category": "AI",
