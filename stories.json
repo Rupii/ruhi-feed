@@ -1,7 +1,71 @@
 {
- "updated": "2026-10-21T01:27:06+00:00",
+ "updated": "2026-10-21T07:27:04+00:00",
  "count": 58,
  "stories": [
+  {
+   "category": "Equities",
+   "headline": "UK inflation jumps to 3.5% — cementing rate hike expectations",
+   "blurb": "U.K. inflation rose by a hotter-than-expected 3.5% in the 12 months to September, driven by the surging cost of motor fuels.",
+   "source": "CNBC",
+   "ts": "2026-10-21T07:08:25+00:00",
+   "url": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html"
+  },
+  {
+   "category": "Crypto",
+   "headline": "Ripple brings Wall Street into 24/7 stock bets, but HSBC warns markets are still thin",
+   "blurb": "Institutions can trade through Ripple Prime and post RLUSD as collateral. Finding enough buyers and sellers for large positions could prove harder.",
+   "source": "CoinDesk",
+   "ts": "2026-10-21T05:25:57+00:00",
+   "url": "https://www.coindesk.com/markets/2026/10/21/ripple-brings-wall-street-into-24-7-stock-bets-but-hsbc-warns-markets-are-still-thin"
+  },
+  {
+   "category": "Gold",
+   "headline": "Silver at a Decision Point: $58.21 Holds the Key to Recovery",
+   "blurb": "",
+   "source": "Investing.com",
+   "ts": "2026-10-21T06:56:00+00:00",
+   "url": "https://www.investing.com/analysis/silver-at-a-decision-point-5821-holds-the-key-to-recovery-200689943"
+  },
+  {
+   "category": "Geopolitics",
+   "headline": "Katya Adler: France divided over who to blame for riots and what to learn from them",
+   "blurb": "In France and beyond there is widespread disagreement over what led to some of the worst unrest seen in French cities in modern history.",
+   "source": "BBC",
+   "ts": "2026-10-21T06:50:40+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "category": "Macro",
+   "headline": "Surging fuel prices push UK inflation rate to 3.5% ahead of Budget",
+   "blurb": "Inflation accelerated to 3.5% from 3.1% in the year to September, according to the Office for National Statistics (ONS).",
+   "source": "BBC",
+   "ts": "2026-10-21T06:53:25+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "category": "US Politics",
+   "headline": "Ramaswamy takes responsibility for attack ad featuring Acton’s estranged mother",
+   "blurb": "Ohio gubernatorial candidate Vivek Ramaswamy (R) confirmed to reporters Tuesday evening that his campaign was behind a new attack ad featuring his Democratic opponent Amy Acton's mother calling her a \"liar\" and insinuating she suffers from mental health issues. Ramaswamy acknowledged that his campaign produced the ad, which began circulating on social media Monday night...",
+   "source": "The Hill",
+   "ts": "2026-10-21T02:05:45+00:00",
+   "url": "https://thehill.com/homenews/campaign/6161654-ramaswamy-attack-ad-amy-acton/"
+  },
+  {
+   "category": "India Politics",
+   "headline": "Supreme Court finds prima facie case in YSRCP plea for more time to file nominations in Andhra civic polls",
+   "blurb": "The State Election Commission is directed to postpone the publication of the final list of candidates till October 25",
+   "source": "The Hindu",
+   "ts": "2026-10-21T07:25:19+00:00",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/supreme-court-finds-prima-facie-case-in-ysrcp-plea-for-more-time-to-file-nominations-in-andhra-civic-polls/article71606630.ece"
+  },
+  {
+   "category": "AI",
+   "headline": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
+   "blurb": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the judge wrote that over the past year, Ann had failed to appear for an independent medical examination or […]",
+   "source": "The Verge",
+   "ts": "2026-10-20T23:37:55+00:00",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed"
+  },
   {
    "category": "Equities",
    "headline": "Car buyers are demanding lower prices and better tech. Automakers must deliver both",
@@ -12,27 +76,83 @@
   },
   {
    "category": "Crypto",
-   "headline": "U.S. CFTC sets agenda for AI forum, exploring trading and agentic finance",
-   "blurb": "A Commodity Futures Trading Commission task force is scheduled for October 28 to talk about how the latest \"super intelligence\" technology may impact markets.",
+   "headline": "Solana’s Alpenglow, its biggest network overhaul since 2020, goes live Wednesday",
+   "blurb": "Alpenglow will replace the voting system Solana has used since 2020, targeting roughly 150-millisecond finality after months of testing that included a failed migration and rollback.",
    "source": "CoinDesk",
-   "ts": "2026-10-20T21:12:21+00:00",
-   "url": "https://www.coindesk.com/policy/2026/10/20/u-s-cftc-sets-agenda-for-ai-forum-exploring-trading-and-agentic-finance"
+   "ts": "2026-10-21T04:35:52+00:00",
+   "url": "https://www.coindesk.com/tech/2026/10/21/solana-s-alpenglow-its-biggest-network-overhaul-since-2020-goes-live-wednesday"
   },
   {
    "category": "Gold",
-   "headline": "Gold’s Long-Term Bull Case Is Shifting From Rates to Sovereign and Fiat Risk",
+   "headline": "API: Crude, Product Inventories Continue to Draw",
    "blurb": "",
    "source": "Investing.com",
-   "ts": "2026-10-20T16:27:00+00:00",
-   "url": "https://www.investing.com/analysis/golds-longterm-bull-case-is-shifting-from-rates-to-sovereign-and-fiat-risk-200689926"
+   "ts": "2026-10-21T06:13:00+00:00",
+   "url": "https://www.investing.com/analysis/api-crude-product-inventories-continue-to-draw-200689952"
   },
   {
    "category": "Geopolitics",
-   "headline": "France is divided over who to blame for and what to learn from weekend riots",
-   "blurb": "In France and beyond there is widespread disagreement over what led to some of the worst unrest seen in French cities in modern history.",
+   "headline": "US envoy arrives in Russia ahead of meeting with Putin as Zelensky says intelligence sharing 'works now'",
+   "blurb": "Steve Witkoff is in St Petersburg to discuss proposals on ending Russia's years-long conflict with Ukraine.",
    "source": "BBC",
-   "ts": "2026-10-21T01:22:51+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-21T06:37:55+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "category": "Macro",
+   "headline": "Watch: 'We don't pay' - lawyer advises how to avoid £45,000 illegal-worker fine",
+   "blurb": "Mohammad Alias Yousaf made his claim to an undercover reporter posing as a mini-mart owner.",
+   "source": "BBC",
+   "ts": "2026-10-21T05:00:54+00:00",
+   "url": "https://www.bbc.co.uk/news/videos/cm93z1j33dkpo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "category": "US Politics",
+   "headline": "Trump says Pentagon will invest $1.5 billion into North Carolina chip production",
+   "blurb": "President Trump on Tuesday announced a $1.5 billion dollar investment from the Pentagon to expand semiconductor production in North Carolina, as the administration pushes to reshore manufacturing to the U.S. “The Department of War will be investing $1.5 billion dollars to produce cutting-edge semiconductor chips right here in North Carolina,” Trump said while speaking at...",
+   "source": "The Hill",
+   "ts": "2026-10-21T01:26:11+00:00",
+   "url": "https://thehill.com/homenews/administration/6161642-trump-pentagon-semiconductor-investment/"
+  },
+  {
+   "category": "India Politics",
+   "headline": "Telangana CM Revanth celebrates Dasara with family at Kondareddipalli in Nagarkurnool",
+   "blurb": "",
+   "source": "The Hindu",
+   "ts": "2026-10-21T07:16:30+00:00",
+   "url": "https://www.thehindu.com/news/national/telangana/telangana-cm-revanth-celebrates-dasara-with-family-at-kondareddipalli-in-nagarkurnool/article71606603.ece"
+  },
+  {
+   "category": "AI",
+   "headline": "Google’s more personalized Gemini AI is heading to your car",
+   "blurb": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search. As an example, Google says you can ask Gemini about your flight status if you're driving […]",
+   "source": "The Verge",
+   "ts": "2026-10-20T22:42:47+00:00",
+   "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto"
+  },
+  {
+   "category": "Equities",
+   "headline": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
+   "blurb": "Housing data deteriorated further in September, according to separate reports Tuesday.",
+   "source": "CNBC",
+   "ts": "2026-10-20T19:28:43+00:00",
+   "url": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html"
+  },
+  {
+   "category": "Crypto",
+   "headline": "A company that vouches for websites had secret keys so weak that 8 of them were cracked",
+   "blurb": "Eight secret keys at eMudhra, an Indian firm that vouches for websites, were compromised. This is a generic, not crypto-specific, risk.",
+   "source": "CoinDesk",
+   "ts": "2026-10-21T04:11:58+00:00",
+   "url": "https://www.coindesk.com/tech/2026/10/21/a-company-that-vouches-for-websites-had-secret-keys-so-weak-that-8-of-them-were-cracked"
+  },
+  {
+   "category": "Geopolitics",
+   "headline": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
+   "blurb": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history.",
+   "source": "BBC",
+   "ts": "2026-10-21T06:36:39+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
@@ -52,51 +172,43 @@
   },
   {
    "category": "India Politics",
-   "headline": "Rising Crimes And Farmer’s Plight Dominate Conversations at 60th Shiv Sena (UBT) Dussera Rally",
-   "blurb": "In a separate bid, the Eknath Shinde-led faction staged its own event in Goregaon, as rally participants urged accountability from officials and warned of political consequences if justice for students amid recent paper leaks is not delivered",
+   "headline": "Thunderstorms likely in Nellore, Tirupati on October 21; heavy rain forecast on October 22",
+   "blurb": "Andhra Pradesh received 59% less rain than normal between October 1 and 20, the IMD says",
    "source": "The Hindu",
-   "ts": "2026-10-20T23:33:29+00:00",
-   "url": "https://www.thehindu.com/news/national/maharashtra/rising-crimes-and-farmers-plight-dominate-conversations-at-60th-shiv-sena-ubt-dussera-rally/article71605414.ece"
+   "ts": "2026-10-21T07:16:25+00:00",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/thunderstorms-likely-in-nellore-tirupati-on-october-21-heavy-rain-forecast-on-october-2/article71606405.ece"
   },
   {
    "category": "AI",
-   "headline": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
-   "blurb": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the judge wrote that over the past year, Ann had failed to appear for an independent medical examination or […]",
+   "headline": "Meta pauses Muse sharing after researchers find AI chats on the web",
+   "blurb": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica. In a report published this week, researchers at the security firm Claroc say they found more than 6,800 Muse links through public DNS records. […]",
    "source": "The Verge",
-   "ts": "2026-10-20T23:37:55+00:00",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed"
+   "ts": "2026-10-20T18:07:34+00:00",
+   "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats"
   },
   {
    "category": "Equities",
-   "headline": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
-   "blurb": "Housing data deteriorated further in September, according to separate reports Tuesday.",
+   "headline": "Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why",
+   "blurb": "The history of technological progress suggests that as AI spreads, the employment impact will hit women more than men.",
    "source": "CNBC",
-   "ts": "2026-10-20T19:28:43+00:00",
-   "url": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html"
+   "ts": "2026-10-19T18:36:21+00:00",
+   "url": "https://www.cnbc.com/2026/10/19/ai-job-losses-women-automation-risk.html"
   },
   {
    "category": "Crypto",
-   "headline": "OKX-ICE co-chair Andrew Cuomo calls corporate objections a ‘natural response’ to tokenized stock plans",
-   "blurb": "The former NY governor, who co-chairs the joint venture between the crypto exchange and Intercontinental Exchange, said companies were expected to take a wait-and-see approach.",
+   "headline": "Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11%",
+   "blurb": "Strong results from SpaceX and Super Micro sent Asian chip stocks surging, and ZEC led crypto higher after developers set a date for its next network upgrade.",
    "source": "CoinDesk",
-   "ts": "2026-10-20T18:26:29+00:00",
-   "url": "https://www.coindesk.com/business/2026/10/20/okx-ice-s-andrew-cuomo-calls-issuer-objections-a-natural-response-to-tokenized-stock-plans"
-  },
-  {
-   "category": "Gold",
-   "headline": "Silver Surplus Calls May Overstate the Impact of Weaker Solar Demand",
-   "blurb": "",
-   "source": "Investing.com",
-   "ts": "2026-10-20T16:23:00+00:00",
-   "url": "https://www.investing.com/analysis/silver-surplus-calls-may-overstate-the-impact-of-weaker-solar-demand-200689925"
+   "ts": "2026-10-21T04:07:07+00:00",
+   "url": "https://www.coindesk.com/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11"
   },
   {
    "category": "Geopolitics",
-   "headline": "Borneo burning: Life on the frontline of South East Asia's toxic haze",
-   "blurb": "A \"Super El Niño\" has fuelled months-long fires in Indonesia, making hundreds of thousands of people sick.",
+   "headline": "Elon Musk confirms talks to merge Tesla and SpaceX",
+   "blurb": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
    "source": "BBC",
-   "ts": "2026-10-20T23:51:43+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cqm2dzwdmmywo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-21T05:48:46+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
@@ -116,43 +228,43 @@
   },
   {
    "category": "India Politics",
-   "headline": "Left parties should sell books from party offices, not at Durga Puja pandals, says West Bengal CM",
-   "blurb": "The remarks by the Chief Minister, Suvendu Adhikari, come at a time after a section of leaders of his own party condemned attacks on the book stalls set up by the Left parties at Durga Puja pandals",
+   "headline": "Tamil Nadu rains LIVE: CM Vijay to chair meeting on Northeast monsoon preparedness",
+   "blurb": "A fresh system, over the Bay of Bengal, is likely to sustain intense rainfall across Tamil Nadu till October 26, the Regional Meteorological Centre (RMC) said",
    "source": "The Hindu",
-   "ts": "2026-10-20T23:16:25+00:00",
-   "url": "https://www.thehindu.com/news/national/west-bengal/left-parties-should-sell-books-from-party-offices-not-at-durga-puja-pandals-says-west-bengal-cm/article71605199.ece"
+   "ts": "2026-10-21T07:10:31+00:00",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-rains-live-updates-chennai-school-holiday-october-21-2026/article71606190.ece"
   },
   {
    "category": "AI",
-   "headline": "Google’s more personalized Gemini AI is heading to your car",
-   "blurb": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search. As an example, Google says you can ask Gemini about your flight status if you're driving […]",
+   "headline": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
+   "blurb": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday that says Spotify has also made changes to its recommendation system to highlight more music made by human artists. \"Our editors hold the same standard and […]",
    "source": "The Verge",
-   "ts": "2026-10-20T22:42:47+00:00",
-   "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto"
+   "ts": "2026-10-20T15:53:21+00:00",
+   "url": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed"
   },
   {
    "category": "Equities",
-   "headline": "Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why",
-   "blurb": "The history of technological progress suggests that as AI spreads, the employment impact will hit women more than men.",
+   "headline": "India’s finance minister says market liquidity makes it easier for investors to exit",
+   "blurb": "Sitharaman identified fuel, fertilizer and access to capital as risks for India’s economy in 2027.",
    "source": "CNBC",
-   "ts": "2026-10-19T18:36:21+00:00",
-   "url": "https://www.cnbc.com/2026/10/19/ai-job-losses-women-automation-risk.html"
+   "ts": "2026-10-19T08:23:33+00:00",
+   "url": "https://www.cnbc.com/2026/10/18/india-ai-nifty50-sensex-investors.html"
   },
   {
    "category": "Crypto",
-   "headline": "The Coinbase allegations expose Bitcoin's corporate governance gap",
-   "blurb": "Corporate adoption of bitcoin will stall as long as companies can't show who controls the money, who approves its movement, or whether it's still there, argues Onramp CEO Michael Tanguma.",
+   "headline": "U.S. CFTC sets agenda for AI forum, exploring trading and agentic finance",
+   "blurb": "A Commodity Futures Trading Commission task force is scheduled for October 28 to talk about how the latest \"super intelligence\" technology may impact markets.",
    "source": "CoinDesk",
-   "ts": "2026-10-20T17:02:31+00:00",
-   "url": "https://www.coindesk.com/opinion/2026/10/20/the-coinbase-allegations-expose-bitcoin-s-corporate-governance-gap"
+   "ts": "2026-10-20T21:12:21+00:00",
+   "url": "https://www.coindesk.com/policy/2026/10/20/u-s-cftc-sets-agenda-for-ai-forum-exploring-trading-and-agentic-finance"
   },
   {
    "category": "Geopolitics",
-   "headline": "Is Ebola under control in Kenya after nine cases confirmed?",
-   "blurb": "The US has advised its citizens to reconsider travelling to Kenya but the government tries to reassure people.",
+   "headline": "Pakistan arrests man hunted by US over $126m postage fraud case",
+   "blurb": "Faheem Akram allegedly sold more than 5 million fake postage labels for a fixed price of $2 a piece.",
    "source": "BBC",
-   "ts": "2026-10-20T23:41:30+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c693z948px0jo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-21T05:46:33+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/ckdd8m1z1z3yo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
@@ -172,43 +284,43 @@
   },
   {
    "category": "India Politics",
-   "headline": "Dasara gift for Singareni officers, Dy CM fulfils long-pending demand",
-   "blurb": "Singareni management issued orders on evening of October 19 implementing the revised pay structure after securing the approval of the company’s Board. The orders were issued by Director (Personnel) Gautam Potru",
+   "headline": "Why are book stalls set up by Left parties at Durga Puja Pandals being attacked in West Bengal? Explained",
+   "blurb": "The targeting of book stalls run by Left parties is part of the political contest that has emerged in West Bengal since the BJP government came to power in May 2026",
    "source": "The Hindu",
-   "ts": "2026-10-20T23:04:31+00:00",
-   "url": "https://www.thehindu.com/news/national/telangana/dasara-gift-for-singareni-officers-dy-cm-fulfils-long-pending-demand/article71604614.ece"
+   "ts": "2026-10-21T07:04:38+00:00",
+   "url": "https://www.thehindu.com/news/national/west-bengal/why-are-book-stalls-set-up-by-left-parties-at-durga-puja-pandals-being-attacked-in-west-bengal-explained/article71606618.ece"
   },
   {
    "category": "AI",
-   "headline": "Meta pauses Muse sharing after researchers find AI chats on the web",
-   "blurb": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica. In a report published this week, researchers at the security firm Claroc say they found more than 6,800 Muse links through public DNS records. […]",
+   "headline": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
+   "blurb": "Adobe announced yesterday that the mobile version of Lightroom, available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap. When the app detects a person, or a group of people, have their eyes closed in a photo it will automatically present users with a […]",
    "source": "The Verge",
-   "ts": "2026-10-20T18:07:34+00:00",
-   "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats"
+   "ts": "2026-10-20T13:12:02+00:00",
+   "url": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair"
   },
   {
    "category": "Equities",
-   "headline": "India’s finance minister says market liquidity makes it easier for investors to exit",
-   "blurb": "Sitharaman identified fuel, fertilizer and access to capital as risks for India’s economy in 2027.",
+   "headline": "U.S. budget deficit swells to almost $2 trillion for fiscal 2026, up 12% in a single year",
+   "blurb": "The Treasury Department published the U.S. budget deficit for the 2026 fiscal year.",
    "source": "CNBC",
-   "ts": "2026-10-19T08:23:33+00:00",
-   "url": "https://www.cnbc.com/2026/10/18/india-ai-nifty50-sensex-investors.html"
+   "ts": "2026-10-16T22:34:29+00:00",
+   "url": "https://www.cnbc.com/2026/10/16/us-budget-deficit-2026.html"
   },
   {
    "category": "Crypto",
-   "headline": "BlackRock seeks to shield bitcoin investors from losses after rival fund weathers 50% crash",
-   "blurb": "BlackRock's proposed fund follows similar products from Calamos that helped investors avoid steep losses during bitcoin's selloff.",
+   "headline": "OKX-ICE co-chair Andrew Cuomo calls corporate objections a ‘natural response’ to tokenized stock plans",
+   "blurb": "The former NY governor, who co-chairs the joint venture between the crypto exchange and Intercontinental Exchange, said companies were expected to take a wait-and-see approach.",
    "source": "CoinDesk",
-   "ts": "2026-10-20T14:28:39+00:00",
-   "url": "https://www.coindesk.com/markets/2026/10/20/blackrock-seeks-to-shield-bitcoin-investors-from-losses-after-rival-fund-weathers-50-crash"
+   "ts": "2026-10-20T18:26:29+00:00",
+   "url": "https://www.coindesk.com/business/2026/10/20/okx-ice-s-andrew-cuomo-calls-issuer-objections-a-natural-response-to-tokenized-stock-plans"
   },
   {
    "category": "Geopolitics",
-   "headline": "Elon Musk says Tesla-SpaceX merger being considered",
-   "blurb": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
+   "headline": "BBC inside Australian court as man charged with attacking MP stays silent in first hearing",
+   "blurb": "BBC's Katy Watson describes what unfolded in Wangaratta as 43-year-old Brendan Nugent appeared before court over the alleged attack of Helen Haines.",
    "source": "BBC",
-   "ts": "2026-10-20T23:24:47+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-21T03:58:16+00:00",
+   "url": "https://www.bbc.co.uk/news/videos/cq398rg0lnd1o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
@@ -228,43 +340,43 @@
   },
   {
    "category": "India Politics",
-   "headline": "Rubio pushes for India to buy more U.S., Venezuelan oil",
-   "blurb": "S. Jaishankar hosts U.S. Secretary of State, UAE FM in Mumbai, holds trilateral talks on trade, energy, and connectivity",
+   "headline": "Real-time air pollution monitoring stations in Keralam’s Vyttila and Kaloor non-functional",
+   "blurb": "Officials said that manual testing of air pollution levels is being carried out; the third station at Eloor is functional, though its annual maintenance contract had expired a year ago",
    "source": "The Hindu",
-   "ts": "2026-10-20T22:27:35+00:00",
-   "url": "https://www.thehindu.com/business/Economy/marco-rubio-oil-purchases-india-mumbai-october-20-2026/article71604269.ece"
+   "ts": "2026-10-21T06:50:14+00:00",
+   "url": "https://www.thehindu.com/news/national/kerala/real-time-air-pollution-monitoring-stations-in-keralams-vyttila-and-kaloor-non-functional/article71606493.ece"
   },
   {
    "category": "AI",
-   "headline": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
-   "blurb": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday that says Spotify has also made changes to its recommendation system to highlight more music made by human artists. \"Our editors hold the same standard and […]",
+   "headline": "CoreWeave’s debt is becoming the whole AI industry’s problem",
+   "blurb": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesday Chamath \"SPAC King\" Palihapitiya noticed the distressed debt, and also asked whether the AI buildout was a private credit bubble. […]",
    "source": "The Verge",
-   "ts": "2026-10-20T15:53:21+00:00",
-   "url": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed"
+   "ts": "2026-10-20T10:26:38+00:00",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai"
   },
   {
    "category": "Equities",
-   "headline": "U.S. budget deficit swells to almost $2 trillion for fiscal 2026, up 12% in a single year",
-   "blurb": "The Treasury Department published the U.S. budget deficit for the 2026 fiscal year.",
+   "headline": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
+   "blurb": "Treasury yields above 5% are raising borrowing costs for households and the federal government, highlighting the challenge of financing $2 trillion deficits.",
    "source": "CNBC",
-   "ts": "2026-10-16T22:34:29+00:00",
-   "url": "https://www.cnbc.com/2026/10/16/us-budget-deficit-2026.html"
+   "ts": "2026-10-16T22:33:05+00:00",
+   "url": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html"
   },
   {
    "category": "Crypto",
-   "headline": "Kazakhstan court bars Coinbase, five others from unlicensed crypto services in Astana International Financial Centre",
-   "blurb": "The court injunctions apply strictly to users within the AIFC and do not extend across the rest of Kazakhstan.",
+   "headline": "The Coinbase allegations expose Bitcoin's corporate governance gap",
+   "blurb": "Corporate adoption of bitcoin will stall as long as companies can't show who controls the money, who approves its movement, or whether it's still there, argues Onramp CEO Michael Tanguma.",
    "source": "CoinDesk",
-   "ts": "2026-10-20T13:35:08+00:00",
-   "url": "https://www.coindesk.com/business/2026/10/20/kazakhstan-court-bars-coinbase-five-others-from-unlicensed-crypto-services-in-astana-international-financial-centre"
+   "ts": "2026-10-20T17:02:31+00:00",
+   "url": "https://www.coindesk.com/opinion/2026/10/20/the-coinbase-allegations-expose-bitcoin-s-corporate-governance-gap"
   },
   {
    "category": "Geopolitics",
-   "headline": "Is Donald Trump ready to do business with Myanmar?",
-   "blurb": "There are signs the United States is shifting its policy towards Myanmar, formerly a global pariah.",
+   "headline": "'Trash Island' or DC landmark? How a golf course got Trump in a messy legal dispute",
+   "blurb": "Trump said he has plans to turn a 106-year-old public golf course in Washington DC into a tournament-capable golf course for pros, but local golfers are not happy.",
    "source": "BBC",
-   "ts": "2026-10-20T23:21:39+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cw203zx1x1rno?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-21T03:45:52+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c6ly3dlm0dr2o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
@@ -284,123 +396,11 @@
   },
   {
    "category": "India Politics",
-   "headline": "Bengal CM defends decision to shift stampede injured to private hospital, cites better care",
-   "blurb": "\"We moved those injured to private hospitals because we realised that the best treatment could be provided there so that there is no more loss of life. I am happy to announce that there was no death among the 25 injured in the stampede. We decided on the spot. There is nothing controversial behind this,\" says West Bengal CM",
+   "headline": "Motorcycle stunts, horse riding shows await spectators at Mysuru Torchlight Parade",
+   "blurb": "Eighteen platoons, each comprising 28 cadets, along with two horse platoons, will participate in the parade",
    "source": "The Hindu",
-   "ts": "2026-10-20T20:02:06+00:00",
-   "url": "https://www.thehindu.com/news/national/west-bengal/bengal-cm-defends-decision-to-shift-stampede-injured-to-private-hospital-cites-better-care/article71605499.ece"
-  },
-  {
-   "category": "AI",
-   "headline": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
-   "blurb": "Adobe announced yesterday that the mobile version of Lightroom, available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap. When the app detects a person, or a group of people, have their eyes closed in a photo it will automatically present users with a […]",
-   "source": "The Verge",
-   "ts": "2026-10-20T13:12:02+00:00",
-   "url": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair"
-  },
-  {
-   "category": "Equities",
-   "headline": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
-   "blurb": "Treasury yields above 5% are raising borrowing costs for households and the federal government, highlighting the challenge of financing $2 trillion deficits.",
-   "source": "CNBC",
-   "ts": "2026-10-16T22:33:05+00:00",
-   "url": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html"
-  },
-  {
-   "category": "Crypto",
-   "headline": "Microsoft, Alphabet and Goldman Sachs join objections to OKX-ICE tokenized stock trading",
-   "blurb": "Seven more issuers have opted out of being listed on the planned tokenized stock venue under the SEC's framework, bringing its disclosed objection count to 16.",
-   "source": "CoinDesk",
-   "ts": "2026-10-20T12:40:17+00:00",
-   "url": "https://www.coindesk.com/business/2026/10/19/microsoft-alphabet-and-goldman-sachs-join-objections-to-okx-ice-tokenized-stock-trading"
-  },
-  {
-   "category": "Geopolitics",
-   "headline": "Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump",
-   "blurb": "The overwhelming vote by Alberta to stay in Canada gives Mark Carney political capital to focus on remaking the country's economy, writes the BBC's Lyse Doucet.",
-   "source": "BBC",
-   "ts": "2026-10-20T22:22:17+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cr62ylj832vxo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "category": "Macro",
-   "headline": "UK government to make Jackdaw gas field announcement",
-   "blurb": "The long-awaited decision about the controversial North Sea field is expected on Wednesday morning.",
-   "source": "BBC",
-   "ts": "2026-10-20T17:33:42+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cvze4wx3elj1o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "category": "US Politics",
-   "headline": "Americans likely to associate tech CEOs, even fake ones, with GOP: Poll",
-   "blurb": "Americans are more likely to assume the executives heading up the largest technology firms are Republican, marking a drastic shift in perception of what was once known as a liberal Silicon Valley, according to a new poll. In a new poll published by Politico on Monday, American respondents were asked about eight current or former...",
-   "source": "The Hill",
-   "ts": "2026-10-20T22:13:49+00:00",
-   "url": "https://thehill.com/policy/technology/6161382-americans-view-tech-ceos-republican/"
-  },
-  {
-   "category": "India Politics",
-   "headline": "Chennai Mayor alleges online harassment; lodges complaint with police",
-   "blurb": "",
-   "source": "The Hindu",
-   "ts": "2026-10-20T19:42:40+00:00",
-   "url": "https://www.thehindu.com/news/cities/chennai/chennai-mayor-alleges-online-harassment-lodges-complaint-with-police/article71605434.ece"
-  },
-  {
-   "category": "AI",
-   "headline": "CoreWeave’s debt is becoming the whole AI industry’s problem",
-   "blurb": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesday Chamath \"SPAC King\" Palihapitiya noticed the distressed debt, and also asked whether the AI buildout was a private credit bubble. […]",
-   "source": "The Verge",
-   "ts": "2026-10-20T10:26:38+00:00",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai"
-  },
-  {
-   "category": "Equities",
-   "headline": "Analysis: Everyone expects the Fed to hold rates in October. Kevin Warsh could surprise us all",
-   "blurb": "Investors expect the Fed to pause rate hikes in October, but Kevin Warsh's rejection of traditional communications practices and continued concern about inflation leave the decision uncertain.",
-   "source": "CNBC",
-   "ts": "2026-10-16T16:27:31+00:00",
-   "url": "https://www.cnbc.com/2026/10/16/kevin-warsh-fed-october-rate-hike-interest-rates-markets.html"
-  },
-  {
-   "category": "Crypto",
-   "headline": "France's parliament approves vote to hit stablecoin trades with 31% capital gains tax",
-   "blurb": "Amendment I-3898 removes tax deferral for MiCA-compliant stablecoins starting January 2027.",
-   "source": "CoinDesk",
-   "ts": "2026-10-20T11:25:00+00:00",
-   "url": "https://www.coindesk.com/policy/2026/10/20/france-s-parliament-approves-vote-to-hit-crypto-to-stablecoin-trades-with-31-levy"
-  },
-  {
-   "category": "Geopolitics",
-   "headline": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
-   "blurb": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington.",
-   "source": "BBC",
-   "ts": "2026-10-20T21:27:39+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "category": "Macro",
-   "headline": "Paddy Power cuts 1,400 jobs and blames betting tax rises",
-   "blurb": "The government increased taxes on online casino and sports betting in last year's Budget.",
-   "source": "BBC",
-   "ts": "2026-10-20T15:53:13+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cqzrdpkm3g84o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "category": "US Politics",
-   "headline": "Spanberger pushes for 6-year rate-hike freeze if Dominion-Next Era merger approved",
-   "blurb": "Virginia Gov. Abigail Spanberger (D) is pushing for a six-year pause on electricity rate hikes in the commonwealth as part of a merger between NextEra Energy and Dominion Energy. Spanberger on Monday filed expert testimony with the State Corporation Commission (SCC), urging it to reject the proposed merger if the two companies do not agree...",
-   "source": "The Hill",
-   "ts": "2026-10-20T22:10:55+00:00",
-   "url": "https://thehill.com/homenews/state-watch/6161285-spanberger-demands-utility-rate-pause/"
-  },
-  {
-   "category": "India Politics",
-   "headline": "Haryana power staff call 3-day strike against giving licence to private discom",
-   "blurb": "HERC grants Eleven Power 25-year licence to distribute power in Gurugram, Nuh; Power Minister says State will contest move before tribunal; staff allege decision will ‘undermine’ State-owned firm",
-   "source": "The Hindu",
-   "ts": "2026-10-20T19:29:28+00:00",
-   "url": "https://www.thehindu.com/news/national/haryana/haryana-power-staff-call-3-day-strike-against-giving-licence-to-private-discom/article71605055.ece"
+   "ts": "2026-10-21T06:43:46+00:00",
+   "url": "https://www.thehindu.com/news/national/karnataka/spectacular-torchlight-parade-in-mysuru/article71604368.ece"
   },
   {
    "category": "AI",
@@ -412,51 +412,51 @@
   },
   {
    "category": "Equities",
-   "headline": "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022",
-   "blurb": "September producer prices were expected to increase 0.6% month over month and 5.5% annually, according to the consensus estimate by Dow Jones.",
+   "headline": "Analysis: Everyone expects the Fed to hold rates in October. Kevin Warsh could surprise us all",
+   "blurb": "Investors expect the Fed to pause rate hikes in October, but Kevin Warsh's rejection of traditional communications practices and continued concern about inflation leave the decision uncertain.",
    "source": "CNBC",
-   "ts": "2026-10-15T16:15:44+00:00",
-   "url": "https://www.cnbc.com/2026/10/15/september-producer-price-index-retail-sales-data.html"
+   "ts": "2026-10-16T16:27:31+00:00",
+   "url": "https://www.cnbc.com/2026/10/16/kevin-warsh-fed-october-rate-hike-interest-rates-markets.html"
   },
   {
    "category": "Crypto",
-   "headline": "Equity weakness could damp demand for bitcoin after biggest ETF inflows in a month",
-   "blurb": "Your day-ahead look for Oct. 20, 2026",
+   "headline": "BlackRock seeks to shield bitcoin investors from losses after rival fund weathers 50% crash",
+   "blurb": "BlackRock's proposed fund follows similar products from Calamos that helped investors avoid steep losses during bitcoin's selloff.",
    "source": "CoinDesk",
-   "ts": "2026-10-20T11:14:21+00:00",
-   "url": "https://www.coindesk.com/daybook-us/2026/10/20/equity-weakness-could-damp-demand-for-bitcoin-after-biggest-etf-inflows-in-a-month"
+   "ts": "2026-10-20T14:28:39+00:00",
+   "url": "https://www.coindesk.com/markets/2026/10/20/blackrock-seeks-to-shield-bitcoin-investors-from-losses-after-rival-fund-weathers-50-crash"
   },
   {
    "category": "Geopolitics",
-   "headline": "Suspect arrested after historic town hall set alight - French media",
-   "blurb": "The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday.",
+   "headline": "Haitian migrants changed this US town - Trump's deportation drive is reshaping it again",
+   "blurb": "The president thrust Springfield, Ohio, into the spotlight with a false pet-eating claim - years later, it remains at the heart of the immigration debate.",
    "source": "BBC",
-   "ts": "2026-10-20T21:05:50+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-21T02:37:13+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/crp3gvpek8njo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Union attacks NatWest plans to get workers back to the office",
-   "blurb": "The bank says workers will be required to attend the office at least two days a week from February.",
+   "headline": "Paddy Power cuts 1,400 jobs and blames betting tax rises",
+   "blurb": "The government increased taxes on online casino and sports betting in last year's Budget.",
    "source": "BBC",
-   "ts": "2026-10-20T14:50:19+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cmly0qwnlgdvo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-20T15:53:13+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cqzrdpkm3g84o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Ohio governor’s race takes ugly turn with viral video featuring Acton’s mother",
-   "blurb": "A new viral video targeting Amy Acton is roiling the increasingly ugly Ohio governor’s race, where the Democrat is running against GOP nominee Vivek Ramaswamy. The clip features Acton's estranged mother, Donna Arthur, calling the Democrat “a liar” and urging Ohioans to vote against her. It’s unclear who is behind the 60-second spot, which did...",
+   "headline": "Americans likely to associate tech CEOs, even fake ones, with GOP: Poll",
+   "blurb": "Americans are more likely to assume the executives heading up the largest technology firms are Republican, marking a drastic shift in perception of what was once known as a liberal Silicon Valley, according to a new poll. In a new poll published by Politico on Monday, American respondents were asked about eight current or former...",
    "source": "The Hill",
-   "ts": "2026-10-20T22:05:29+00:00",
-   "url": "https://thehill.com/homenews/campaign/6161344-ramaswamy-ohio-governor-race-controversy/"
+   "ts": "2026-10-20T22:13:49+00:00",
+   "url": "https://thehill.com/policy/technology/6161382-americans-view-tech-ceos-republican/"
   },
   {
    "category": "India Politics",
-   "headline": "One dead, few injured in firing inside SGNP",
-   "blurb": "The incident occurred in the SGNP's Chena beat in the Yeoor Range, Thane, police said. After being alerted, forest department personnel along with police teams rushed to the spot for inspection",
+   "headline": "Eight web security keys of eMudhra firm used by Govt. and PSUs leaked",
+   "blurb": "Many government websites, including the Aadhaar issuer UIDAI and the income tax filing portal, use digital certificates or other technology from the Bengaluru-headquartered firm; no indication that the firm’s root certificates itself — which sit above the tier that was leaked — have been compromised",
    "source": "The Hindu",
-   "ts": "2026-10-20T19:18:04+00:00",
-   "url": "https://www.thehindu.com/news/cities/mumbai/one-dead-few-injured-in-firing-inside-sgnp/article71605463.ece"
+   "ts": "2026-10-21T06:42:37+00:00",
+   "url": "https://www.thehindu.com/sci-tech/technology/eight-web-security-keys-of-firm-used-by-govt-and-psus-leaked/article71606342.ece"
   },
   {
    "category": "AI",
