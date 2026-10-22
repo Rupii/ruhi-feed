@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T01:25:41+00:00",
+ "updated": "2026-10-22T07:27:54+00:00",
  "count": 58,
  "stories": [
   {
@@ -12,51 +12,51 @@
   },
   {
    "category": "Crypto",
-   "headline": "Trump to throw spotlight on overseas crypto abuses at White House event",
-   "blurb": "The president is hosting a cybercrime event that will highlight U.S. authorities' efforts to crack down on crypto scams run by foreign criminal organizations.",
+   "headline": "China seeks to seize 61,800 BTC tied to $5.7 billion fraud scheme",
+   "blurb": "Chinese prosecutors are seeking to confiscate more than 61,800 Bitcoin tied to a $5.7 billion fraud scheme, days after a U.K. court ruled Chinese law governs victims’ claims to the coins.",
    "source": "CoinDesk",
-   "ts": "2026-10-21T16:23:44+00:00",
-   "url": "https://www.coindesk.com/policy/2026/10/21/trump-to-throw-spotlight-on-overseas-crypto-abuses-in-white-house-event"
+   "ts": "2026-10-22T06:24:10+00:00",
+   "url": "https://www.coindesk.com/markets/2026/10/22/china-seeks-to-seize-61-800-btc-tied-to-usd5-7-billion-fraud-scheme"
   },
   {
    "category": "Gold",
-   "headline": "Oil’s $74-to-$130 Range Exposes the Market’s Geopolitical Pricing Problem",
+   "headline": "Gold Breaks Below $4,100 as Middle East Tensions Escalate",
    "blurb": "",
    "source": "Investing.com",
-   "ts": "2026-10-21T21:17:00+00:00",
-   "url": "https://www.investing.com/analysis/oils-74to130-range-exposes-the-markets-geopolitical-pricing-problem-200690029"
+   "ts": "2026-10-22T06:56:00+00:00",
+   "url": "https://www.investing.com/analysis/gold-breaks-below-4100-as-middle-east-tensions-escalate-200690047"
   },
   {
    "category": "Geopolitics",
-   "headline": "The real reasons US politicians are getting older",
-   "blurb": "No country for young men and women: why do older politicians seem to have such a tight grip on the US political system?",
+   "headline": "What is PHP and why did it spark a global cyber-security scramble?",
+   "blurb": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
    "source": "BBC",
-   "ts": "2026-10-21T23:52:12+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cmde8rr2d6eno?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-22T06:24:59+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "The 'trillion pound' oil fund the government believes Britain could have built",
-   "blurb": "For the first time, the Treasury calculates how much the UK could have raised by investing North Sea proceeds.",
+   "headline": "Children in care to get £10 a week savings",
+   "blurb": "Eligible people in the care system will be able to access the savings once they turn 18.",
    "source": "BBC",
-   "ts": "2026-10-21T23:27:05+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-22T06:57:45+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c6vg0klve484o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Democrats sue Trump administration over 'threats and intimidation' ahead of election",
-   "blurb": "Democratic leaders and election groups filed a lawsuit against President Trump and the Justice Department (DOJ) on Tuesday, seeking to block federal officials from pressuring states to remove voters from their rolls ahead of the November midterm elections. The 44-page complaint, filed in the U.S. District Court for the District of Columbia, accuses the DOJ...",
+   "headline": "Tiffany, Crowley tangle in only Wisconsin governor's debate: 3 takeaways",
+   "blurb": "Democrat David Crowley and Republican Tom Tiffany faced off in their first and only debate in the race to succeed retiring Wisconsin Gov. Tony Evers (D). Crowley, the Milwaukee County executive, and Tiffany, a House Republican, tangled on hot-button issues, including the 2020 election results and Democratic Socialists of America (DSA), in the debate hosted...",
    "source": "The Hill",
-   "ts": "2026-10-22T00:56:13+00:00",
-   "url": "https://thehill.com/regulation/court-battles/6164426-democrats-sue-trump-doj-voter-rolls/"
+   "ts": "2026-10-22T03:42:57+00:00",
+   "url": "https://thehill.com/homenews/campaign/6164326-tiffany-crowley-wisconsin-governor-debate-takeaways/"
   },
   {
    "category": "India Politics",
-   "headline": "U.P. CM Yogi issues directions for strict legal action in cases of land encroachment",
-   "blurb": "Officials must impose strict legal action on anyone who illegally occupies land or dispossesses vulnerable people, while urging dialogue to resolve familial property disputes and promising swift assistance to victims seeking government benefits or medical treatment, says Uttar Pradesh CM",
+   "headline": "BJD’s dilemma of being anti-BJP and anti-Congress",
+   "blurb": "The dilemma resurfaced on October 7, 2026, when the BJD clarified that it neither supported nor opposed the Odisha bandh called by INDIA bloc parties, maintaining that it had taken an independent and principled position",
    "source": "The Hindu",
-   "ts": "2026-10-22T01:23:37+00:00",
-   "url": "https://www.thehindu.com/news/national/uttar-pradesh/up-cm-yogi-issues-directions-for-strict-legal-action-in-cases-of-land-encroachment/article71607946.ece"
+   "ts": "2026-10-22T07:25:31+00:00",
+   "url": "https://www.thehindu.com/news/national/odisha/bjds-dilemma-of-being-anti-bjp-and-anti-congress/article71610385.ece"
   },
   {
    "category": "AI",
@@ -76,51 +76,51 @@
   },
   {
    "category": "Crypto",
-   "headline": "How a16z-backed DATA is rethinking its blockchain strategy after $30 million Sui deal",
-   "blurb": "The startup is retiring its own blockchain and moving to Sui with a $30 million investment as it narrows its focus to AI training data.",
+   "headline": "Solana’s biggest network change since 2020 is live. Here’s how users benefit",
+   "blurb": "The new voting system targets settlement in about 150 milliseconds, potentially shortening waits for payments and deposits. Users can keep their existing wallets.",
    "source": "CoinDesk",
-   "ts": "2026-10-21T15:22:46+00:00",
-   "url": "https://www.coindesk.com/business/2026/10/21/how-a16z-backed-data-is-rethinking-its-blockchain-strategy-after-usd30-million-sui-deal"
+   "ts": "2026-10-22T05:24:58+00:00",
+   "url": "https://www.coindesk.com/tech/2026/10/22/solana-completes-alpenglow-upgrade-here-s-what-it-means-for-users"
   },
   {
    "category": "Gold",
-   "headline": "Gold’s Rebound From Arc Support Keeps the Bullish Structure Intact",
+   "headline": "Gold, Jobless Claims and the Fed: The Labor Market May Be Weaker Than the Headline",
    "blurb": "",
    "source": "Investing.com",
-   "ts": "2026-10-21T20:22:00+00:00",
-   "url": "https://www.investing.com/analysis/golds-rebound-from-arc-support-keeps-the-bullish-structure-intact-200690025"
+   "ts": "2026-10-22T06:56:00+00:00",
+   "url": "https://www.investing.com/analysis/gold-jobless-claims-and-the-fed-the-labor-market-may-be-weaker-than-the-headline-200690046"
   },
   {
    "category": "Geopolitics",
-   "headline": "Trump's green card curbs test Indian tech workers' American dream",
-   "blurb": "With immigration curbs and tech firms cutting foreign hiring, US residency is becoming a distant dream for many Indians.",
+   "headline": "How Arab parties could hold critical balance of power in Israeli election",
+   "blurb": "Disaffection has often driven down turnout among Arab Israelis, but there is a strong push to get rid of the right-wing governing coalition.",
    "source": "BBC",
-   "ts": "2026-10-21T23:06:37+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-22T05:30:22+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "The grads ditching the UK for a fresh start abroad",
-   "blurb": "With graduate jobs hard to come by, more young adults are reported to be considering emigrating.",
+   "headline": "Woman 'scared to turn heating on' due to oil cost",
+   "blurb": "Roslynn Garner-Gatley starts using a hot water bottle, bed socks and earlier bedtimes to stay warm.",
    "source": "BBC",
-   "ts": "2026-10-21T23:12:06+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cmzxj4e8w44vo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-22T05:29:22+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cmgel220j7nvo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "1 killed, 8 wounded in Saudi Arabia airport attack",
-   "blurb": "An attack on an airport in Saudi Arabia by the Iranian-backed Houthis killed one person and injured eight others, officials confirmed Wednesday. Saudi Arabia’s General Authority of Civil Aviation said in a statement that the rebel group targeted the King Fahd International Airport in the eastern city of Dammam on Wednesday evening. Eight people were...",
+   "headline": "Marshall, Hamilton clash in battleground Kansas Senate debate: 4 takeaways",
+   "blurb": "Sen. Roger Marshall (R-Kansas) faced Democrat Adam Hamilton, a pastor, in their final debate Wednesday night, amid signs that the race is tighter than Republicans had anticipated. Both men walked a narrow political tightrope at the debate hosted by Nexstar Media Group. Hamilton sought distance from high-profile Democrats — like former President Biden and Senate...",
    "source": "The Hill",
-   "ts": "2026-10-22T00:05:52+00:00",
-   "url": "https://thehill.com/policy/international/6164397-houthi-attacked-king-fahd-airport/"
+   "ts": "2026-10-22T02:47:21+00:00",
+   "url": "https://thehill.com/homenews/campaign/6164323-marshall-hamilton-clash-in-battleground-kansas-senate-debate-4-takeaways/"
   },
   {
    "category": "India Politics",
-   "headline": "Controversy erupts after ‘protest’ photographs by Priyanka Gandhi’s son allegedly get removed from Bikaner House exhibition",
-   "blurb": "“Five hours ago, the Bikaner House Management forced me to remove the bulk of the artworks displayed in my show 'No Idea Is Final”, which opens this evening at 7 p.m.. The photos were of the youth protests in Delhi. Apparently the content is objectionable,” says Raihan Vadra",
+   "headline": "French quartet blends music, storytelling and live art at Hyderabad performance",
+   "blurb": "",
    "source": "The Hindu",
-   "ts": "2026-10-22T01:13:41+00:00",
-   "url": "https://www.thehindu.com/news/national/controversy-erupts-after-protest-photographs-by-priyanka-gandhis-son-allegedly-get-removed-from-bikaner-house-exhibition/article71608800.ece"
+   "ts": "2026-10-22T07:21:26+00:00",
+   "url": "https://www.thehindu.com/news/cities/Hyderabad/french-quartet-blends-music-storytelling-and-live-art-at-hyderabad-performance/article71610285.ece"
   },
   {
    "category": "AI",
@@ -140,43 +140,43 @@
   },
   {
    "category": "Crypto",
-   "headline": "Bybit will look for big broker partnerships to take on Robinhood in the U.S.",
-   "blurb": "When it comes to the U.S., Bybit will look to work with with someone like Interactive Brokers (IB), for example, said CEO Ben Zhou.",
+   "headline": "Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally",
+   "blurb": "Past steep rallies ran on about $235 million a day of net inflows into ETFs. The funds are yet to match that pace, according to data analyzed by CoinDesk.",
    "source": "CoinDesk",
-   "ts": "2026-10-21T15:09:22+00:00",
-   "url": "https://www.coindesk.com/business/2026/10/16/bybit-will-look-for-big-broker-partnerships-to-take-on-robinhood-in-the-u-s"
+   "ts": "2026-10-22T04:41:59+00:00",
+   "url": "https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally"
   },
   {
    "category": "Geopolitics",
-   "headline": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
-   "blurb": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history.",
+   "headline": "No order, no seat: Starbucks China rolls out new store policy",
+   "blurb": "Starbucks says it is improving customers' in-store experience as it competes with homegrown rivals.",
    "source": "BBC",
-   "ts": "2026-10-21T23:04:03+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-22T04:02:29+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
-   "blurb": "The updated policy will apply to all reservations booked on the accommodation site on or after 20 November.",
+   "headline": "'I can't afford to heat my home on my pension'",
+   "blurb": "Teresa Goubert says heating is \"very expensive\" and she was struggling on her pension.",
    "source": "BBC",
-   "ts": "2026-10-21T22:54:58+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-22T05:24:13+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cm4g19jnjgpno?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Greene says El-Sayed could win Senate seat if Trump attacks Iran again",
-   "blurb": "Former Rep. Marjorie Taylor Greene (D-Ga.) lashed out at President Trump’s military operations against Iran on Wednesday, warning a further escalation could cost Republicans in the November elections. “If Trump is dumb enough to attack Iran again before the midterms, @AbdulElSayed will win the senate seat in Michigan,” Greene wrote on social media Wednesday. “It’s...",
+   "headline": "WHCA condemns removal of journalist from White House pool",
+   "blurb": "White House Correspondents’ Association (WHCA) President Jacqui Heinrich on Wednesday condemned the White House’s decision to restrict a journalist’s access to cover President Trump after the president lashed out at him in the Oval Office earlier this week. Andrew Feinberg, a correspondent for The Independent, was scheduled to serve as the print pool reporter on...",
    "source": "The Hill",
-   "ts": "2026-10-22T00:01:41+00:00",
-   "url": "https://thehill.com/homenews/campaign/6164392-greene-warns-trump-iran-strikes/"
+   "ts": "2026-10-22T02:43:50+00:00",
+   "url": "https://thehill.com/media/6164506-whca-condemns-trump-retaliation/"
   },
   {
    "category": "India Politics",
-   "headline": "'Much, much bigger leaders than me': Dipke hails Saurav Das, Ashutosh Ranka after release",
-   "blurb": "Das and Ranka were released after the expiry of judicial custody in connection with the October 14 protest at Jantar Mantar.",
+   "headline": "Bike crash leads to discovery of 21 gm of MDMA in Keralam man’s pocket",
+   "blurb": "Narcotic substance found during a medical examination at hospital",
    "source": "The Hindu",
-   "ts": "2026-10-22T00:54:48+00:00",
-   "url": "https://www.thehindu.com/news/cities/Delhi/dipke-hails-cjp-leaders-saurav-das-and-ashutosh-ranka-as-much-much-bigger-leaders/article71609856.ece"
+   "ts": "2026-10-22T07:21:22+00:00",
+   "url": "https://www.thehindu.com/news/national/kerala/bike-crash-leads-to-discovery-of-21-gm-of-mdma-in-keralam-mans-pocket/article71609995.ece"
   },
   {
    "category": "AI",
@@ -196,43 +196,43 @@
   },
   {
    "category": "Crypto",
-   "headline": "Crypto Long & Short: Why real-world assets need fixed-rate loans onchain",
-   "blurb": "Real-world assets already back the largest stablecoins, yet borrowing against them onchain still runs through variable-rate pools. Peter Gaffney of O2O Capital Partners explains why fixed-rate, fixed-term lending is the missing piece, and how a 5% shift in Sky and Ethena reserves could create $1.8 billion of demand for real-world assets.",
+   "headline": "XRP Ledger bug fix moved to November after validator support dipped for two hours",
+   "blurb": "The fix lost its two-week countdown less than two days from the finish after support slipped to 26 of 35 validators. It’s now back at 31.",
    "source": "CoinDesk",
-   "ts": "2026-10-21T15:00:53+00:00",
-   "url": "https://www.coindesk.com/coindesk-indices/2026/10/21/crypto-long-and-short-why-real-world-assets-need-fixed-rate-loans-onchain"
+   "ts": "2026-10-22T04:36:20+00:00",
+   "url": "https://www.coindesk.com/tech/2026/10/22/xrp-ledger-bug-fix-moved-to-november-after-validator-support-dipped-for-two-hours"
   },
   {
    "category": "Geopolitics",
-   "headline": "Vance tells Republicans to 'stop whining' about controversial Ohio attack ad",
-   "blurb": "The ad by Ohio Republican Vivek Ramaswamy features his Democratic rival's estranged mother, who she has not seen since her stepfather was charged with sexual abuse in her childhood.",
+   "headline": "US embassy accuses Canada of election meddling ahead of midterms",
+   "blurb": "Prime Minister Mark Carney dismissed the claim, noting that it was the that US initiated trade actions against Canada.",
    "source": "BBC",
-   "ts": "2026-10-21T22:59:18+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cm98zn3l2rn7o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-22T03:05:28+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cmn06g29522lo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Websites taken down worldwide as critical cyber-security update issued",
-   "blurb": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
+   "headline": "'An £8k service charge left me unable to pay bills'",
+   "blurb": "Housing association Curo defends large increases to leaseholder bills.",
    "source": "BBC",
-   "ts": "2026-10-21T19:54:57+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-22T05:19:53+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/ckr5ye6mvr33o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Trump to hold rally in Mississippi",
-   "blurb": "President Trump is scheduled to hold a rally in Mississippi next Monday, a notable choice for a last-minute midterm event given the state’s reliably Republican history. The visit is raising alarm that even redder GOP strongholds are in play weeks out from the election. The Republican National Committee announced Wednesday that Trump is speaking at...",
+   "headline": "El-Sayed, Rogers face off in last Michigan Senate debate: 3 takeaways",
+   "blurb": "Democrat Abdul El-Sayed and Republican Mike Rogers faced off in their second and final debate in the race for Michigan’s open Senate seat, a pivotal contest that could determine control of the upper chamber. The debate was less fiery than their first meeting earlier this month, but the former Wayne County health offical and ex-House...",
    "source": "The Hill",
-   "ts": "2026-10-21T23:15:18+00:00",
-   "url": "https://thehill.com/homenews/campaign/6164347-trump-mississippi-rally-midterms/"
+   "ts": "2026-10-22T02:15:22+00:00",
+   "url": "https://thehill.com/homenews/campaign/6164307-michigan-senate-debate-el-sayed-rogers-takeaways/"
   },
   {
    "category": "India Politics",
-   "headline": "BJD slams BJP for personal attack on Naveen over his demand for CJP leaders’ release",
-   "blurb": "Naveen wants to create a situation like Bangladesh in the country to promote his own politics, alleges BJP",
+   "headline": "Was Tiger Shroff the real target? | Pulse Maharashtra",
+   "blurb": "A celebrity shootout in Mumbai has sent shockwaves through the financial capital and has spread fear in the Hindi film industry. This wasn’t the first shootout in the city this year. And now, the industry is scared of the dark shadows of the past, when the underworld called the shots in Bollywood. And just like the past, this time too, the masterminds seem to be operating from foreign shores. But was Tiger Shroff the real target? Is this shootout related to incidents like the firing outside actor Salman Khan’s residence, the murder of NCP leader Baba Siddique, the shooting outside filmmaker Rohit Shetty’s residence and the reported threats to actors Ranveer Singh and Aamir Khan? In this week’s Pulse Maharashtra with Vinaya Deshpande, we take you through what we know so far and what the unanswered questions are. And how this attack leads to an old fear in the heart of an industry which is one of India’s greatest soft powers in the world – Bollywood.",
    "source": "The Hindu",
-   "ts": "2026-10-21T23:35:55+00:00",
-   "url": "https://www.thehindu.com/news/national/odisha/bjd-slams-bjp-for-personal-attack-on-naveen-over-his-demand-for-cjp-leaders-release/article71608506.ece"
+   "ts": "2026-10-22T07:20:08+00:00",
+   "url": "https://www.thehindu.com/videos/was-tiger-shroff-the-real-target-pulse-maharashtra/article71610527.ece"
   },
   {
    "category": "AI",
@@ -252,43 +252,43 @@
   },
   {
    "category": "Crypto",
-   "headline": "Why centralized exchanges refuse to list legacy crypto tokens without explicit SEC immunity",
-   "blurb": "Vault12 raised $17.45 million selling VGT in 2018 and says it met or dropped every promise, yet the token has never traded on a centralized exchange.",
+   "headline": "Bitcoin gives back its run at $85,000 as Tesla and Meta fail to calm AI nerves",
+   "blurb": "BTC broke through its $84,000 ceiling late Wednesday, then slid back to the $82,500 support analysts are watching as tech futures fell.",
    "source": "CoinDesk",
-   "ts": "2026-10-21T12:12:36+00:00",
-   "url": "https://www.coindesk.com/policy/2026/10/21/why-centralized-exchanges-refuse-to-list-legacy-crypto-tokens-without-explicit-sec-immunity"
+   "ts": "2026-10-22T03:51:34+00:00",
+   "url": "https://www.coindesk.com/markets/2026/10/22/bitcoin-gives-back-its-run-at-usd85-000-as-tesla-and-meta-fail-to-calm-ai-nerves"
   },
   {
    "category": "Geopolitics",
-   "headline": "Why is a peat fire so bad? BBC is in Indonesia to find out",
-   "blurb": "The BBC's Liza Tambunan is in central Kalimantan, to explain what peat is and why Indonesia is facing its worst wildfire season in a decade.",
+   "headline": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate",
+   "blurb": "The warning to US officials comes as at least three people die in the latest strikes at an airport and an oil field.",
    "source": "BBC",
-   "ts": "2026-10-21T22:02:18+00:00",
-   "url": "https://www.bbc.co.uk/news/videos/cmx2302xe931o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-22T01:07:34+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "A warning to anyone with credit card debt...",
-   "blurb": "Martin’s leading this week’s podcast with an urgent warning for anyone carrying credit card: now is the time to act.",
+   "headline": "Calls to cut employer National Insurance contributions for under-25s",
+   "blurb": "Yorkshire businesses set out what they want from the chancellor ahead of the Budget.",
    "source": "BBC",
-   "ts": "2026-10-21T17:06:28+00:00",
-   "url": "https://www.bbc.co.uk/news/videos/c620reny4e1no?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-22T05:10:36+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c35ynekpnz74o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Major hostilities brewing? US orders departure of some embassy staff, families from Gulf region",
-   "blurb": "Welcome to The Hill's Defense & NatSec newsletter {beacon} Defense &National Security Defense &National Security The Big Story Major hostilities brewing? US orders departure of some embassy staff, families from Gulf region The State Department ordered the departure of nonemergency U.S. government employees and their family members from Saudi Arabia on Wednesday as the...",
+   "headline": "Omar said she will have to move due to threats following federal raid",
+   "blurb": "Rep. Ilhan Omar (D-Minn.) said she will have to move out of her apartment in Washington, D.C., because of threats she’s received after federal agents executed a search warrant at her residence last week as part of an immigration fraud probe. “Obviously, I can’t continue to live there … Because our address has been public...",
    "source": "The Hill",
-   "ts": "2026-10-21T23:06:52+00:00",
-   "url": "https://thehill.com/newsletters/defense-national-security/6164305-major-hostilities-brewing-us-orders-departure-of-some-embassy-staff-families-from-gulf-region/"
+   "ts": "2026-10-22T01:38:25+00:00",
+   "url": "https://thehill.com/homenews/house/6164465-omar-to-move-dc-residence/"
   },
   {
    "category": "India Politics",
-   "headline": "Haryana Congress flays BJP government over its failure to keep poll promises",
-   "blurb": "Deteriorating law and order, farmers’ grievances, unemployment, corruption, poor healthcare services and drug abuse are among other issues. The Congress leaders cornered the BJP on the government’s completion of two years of its third term in Haryana",
+   "headline": "CJP leaders released after court rejects police plea for extended custody",
+   "blurb": "After spending seven days in jail, Cockroach Janta Party leaders Saurav Das and Ashutosh Ranka have been released following an order by a Special Executive Magistrate court in Delhi. The two leaders were detained after the October 13 protest at Jantar Mantar and had been held in judicial custody while police sought preventive action against them. The court eventually ordered their release after they submitted undertakings promising not to organise protests at Jantar Mantar while the site remains denotified and not to disturb public peace.",
    "source": "The Hindu",
-   "ts": "2026-10-21T21:15:57+00:00",
-   "url": "https://www.thehindu.com/news/national/haryana/haryana-congress-flays-bjp-government-over-its-failure-to-keep-poll-promises/article71607864.ece"
+   "ts": "2026-10-22T07:19:42+00:00",
+   "url": "https://www.thehindu.com/videos/cjp-leaders-released-after-court-rejects-police-plea-for-extended-custody/article71610520.ece"
   },
   {
    "category": "AI",
@@ -308,43 +308,43 @@
   },
   {
    "category": "Crypto",
-   "headline": "Japanese visitors may be able to pay with yen stablecoins in South Korea under Shinhan-SBI pact",
-   "blurb": "The collaboration will explore card-linked merchant payments for Japanese visitors in South Korea and peer-to-peer wallet transfers among broader cross-border trade remittances.",
+   "headline": "Trump to throw spotlight on overseas crypto abuses at White House event",
+   "blurb": "The president is hosting a cybercrime event that will highlight U.S. authorities' efforts to crack down on crypto scams run by foreign criminal organizations.",
    "source": "CoinDesk",
-   "ts": "2026-10-21T12:10:39+00:00",
-   "url": "https://www.coindesk.com/business/2026/10/21/japanese-visitors-may-be-able-to-pay-with-yen-stablecoins-in-south-korea-under-shinhan-sbi-pact"
+   "ts": "2026-10-21T16:23:44+00:00",
+   "url": "https://www.coindesk.com/policy/2026/10/21/trump-to-throw-spotlight-on-overseas-crypto-abuses-in-white-house-event"
   },
   {
    "category": "Geopolitics",
-   "headline": "Japan is known for world-class events - but the Asian Games were chaotic",
-   "blurb": "Hotel chaos, transport mishaps and diplomatic blunders cast a spotlight on organisers and the firm hired to deliver the games.",
+   "headline": "The real reasons US politicians are getting older",
+   "blurb": "No country for young men and women: why do older politicians seem to have such a tight grip on the US political system?",
    "source": "BBC",
-   "ts": "2026-10-21T22:00:58+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cvze414811jlo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-21T23:52:12+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cmde8rr2d6eno?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Burnham proposes plan to cut standing charges from gas bills",
-   "blurb": "The prime minister provided little detail, and there are questions over shifting the fees onto unit costs.",
+   "headline": "Is an 'AI war' complicating your job search?",
+   "blurb": "How fair are AI recruitment tools that help decide our future, and what happens when we click \"apply\"?",
    "source": "BBC",
-   "ts": "2026-10-21T17:06:16+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cw0541p65dyzo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-22T05:01:31+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cm9qzgg5z89no?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Pennsylvania warns of congenital measles risk as cases rise",
-   "blurb": "Click in for more news from The Hill {beacon} Healthcare Healthcare The Big Story Pennsylvania warns of congenital measles risk as cases rise Pennsylvania officials warned doctors this week about an increase in congenital measles as the state continues to battle the worst outbreak in the disease it has seen in decades. © Matt...",
+   "headline": "Democrats sue Trump administration over 'threats and intimidation' ahead of election",
+   "blurb": "Democratic leaders and election groups filed a lawsuit against President Trump and the Justice Department (DOJ) on Tuesday, seeking to block federal officials from pressuring states to remove voters from their rolls ahead of the November midterm elections. The 44-page complaint, filed in the U.S. District Court for the District of Columbia, accuses the DOJ...",
    "source": "The Hill",
-   "ts": "2026-10-21T23:01:18+00:00",
-   "url": "https://thehill.com/newsletters/healthcare/6164325-congenital-measles-cases-rise-pennsylvania/"
+   "ts": "2026-10-22T00:56:13+00:00",
+   "url": "https://thehill.com/regulation/court-battles/6164426-democrats-sue-trump-doj-voter-rolls/"
   },
   {
    "category": "India Politics",
-   "headline": "Surrendered Maoist found dead in rehabilitation facility: Police",
-   "blurb": "“Around 7 a.m., fellow surrendered Maoists in the facility informed the police that Baddu was found dead in one of the bathrooms,” said Bijapur SP",
+   "headline": "What are the powers and functions of Special Executive Magistrates? | Explained",
+   "blurb": "State governments appoint SEMs for specific areas or purposes and give them the powers exercised by the Executive Magistrates under the BNSS, 2023",
    "source": "The Hindu",
-   "ts": "2026-10-21T21:04:25+00:00",
-   "url": "https://www.thehindu.com/news/national/madhya-pradesh/surrendered-maoist-found-dead-in-rehabilitation-facility-police/article71608246.ece"
+   "ts": "2026-10-22T07:17:10+00:00",
+   "url": "https://www.thehindu.com/news/national/what-are-the-powers-and-functions-of-special-executive-magistrates-explained/article71610056.ece"
   },
   {
    "category": "AI",
@@ -364,43 +364,43 @@
   },
   {
    "category": "Crypto",
-   "headline": "Dogecoin wallet, app teams unite in push to give DOGE more everyday uses",
-   "blurb": "Dogecoin Labs will combine MyDoge, DogeOS and merchant payment tools as developers try to turn coin holders into customers for applications and businesses.",
+   "headline": "How a16z-backed DATA is rethinking its blockchain strategy after $30 million Sui deal",
+   "blurb": "The startup is retiring its own blockchain and moving to Sui with a $30 million investment as it narrows its focus to AI training data.",
    "source": "CoinDesk",
-   "ts": "2026-10-21T12:00:00+00:00",
-   "url": "https://www.coindesk.com/tech/2026/10/21/dogecoin-wallet-app-teams-unite-in-push-to-give-doge-more-everyday-uses"
+   "ts": "2026-10-21T15:22:46+00:00",
+   "url": "https://www.coindesk.com/business/2026/10/21/how-a16z-backed-data-is-rethinking-its-blockchain-strategy-after-usd30-million-sui-deal"
   },
   {
    "category": "Geopolitics",
-   "headline": "Meta fined $25bn for 'lies' over user data privacy",
-   "blurb": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
+   "headline": "Trump's green card curbs test Indian tech workers' American dream",
+   "blurb": "With immigration curbs and tech firms cutting foreign hiring, US residency is becoming a distant dream for many Indians.",
    "source": "BBC",
-   "ts": "2026-10-21T21:49:07+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-21T23:06:37+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Just Eat apologises for AI food mistakes after social media ridicule",
-   "blurb": "A spokesperson said it was removing inaccurate AI images and pausing the rollout of the tool.",
+   "headline": "The 'trillion pound' oil fund the government believes Britain could have built",
+   "blurb": "For the first time, the Treasury calculates how much the UK could have raised by investing North Sea proceeds.",
    "source": "BBC",
-   "ts": "2026-10-21T17:04:13+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/crz981p0klvgo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-21T23:27:05+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Live updates: Kansas, Michigan Senate candidates make final pitches as Trump heads to South Carolina",
-   "blurb": "Candidates in two gubernatorial races, as well as Kansas's Senate candidates and Michigan Senate hopefuls, will debate on Wednesday night. President Trump, meanwhile, is campaigning Wednesday evening in Clemson, S.C., with Sen. Darline Graham (R-S.C.). He's expected to speak at 7 p.m. EDT. Trump on Wednesday morning praised Russia's release of American teacher Stephen Hubbard...",
+   "headline": "1 killed, 8 wounded in Saudi Arabia airport attack",
+   "blurb": "An attack on an airport in Saudi Arabia by the Iranian-backed Houthis killed one person and injured eight others, officials confirmed Wednesday. Saudi Arabia’s General Authority of Civil Aviation said in a statement that the rebel group targeted the King Fahd International Airport in the eastern city of Dammam on Wednesday evening. Eight people were...",
    "source": "The Hill",
-   "ts": "2026-10-21T23:00:50+00:00",
-   "url": "https://thehill.com/homenews/administration/6161584-trump-midterm-tour-clemson/"
+   "ts": "2026-10-22T00:05:52+00:00",
+   "url": "https://thehill.com/policy/international/6164397-houthi-attacked-king-fahd-airport/"
   },
   {
    "category": "India Politics",
-   "headline": "West Bengal government sets up SIT headed by retired justice to probe Durga Puja pandal stampede",
-   "blurb": "After the incident, Chief Minister Suvendu Adhikari said that the SIT will be headed by a sitting judge of Calcutta High Court",
+   "headline": "Rajya Sabha bypoll in Madhya Pradesh to fill seat vacated by Union Minister Murugan to be held on November 12",
+   "blurb": "While the issue of notification will be on October 26, the ECI said that the last date for withdrawal of nominations will be on November 5",
    "source": "The Hindu",
-   "ts": "2026-10-21T20:52:43+00:00",
-   "url": "https://www.thehindu.com/news/cities/kolkata/west-bengal-government-sets-up-sit-headed-by-retired-justice-to-probe-durga-puja-pandalstampede/article71607999.ece"
+   "ts": "2026-10-22T07:10:14+00:00",
+   "url": "https://www.thehindu.com/news/national/rajya-sabha-bypoll-in-madhya-pradesh-to-fill-seat-vacated-by-union-minister-murugan-to-be-held-on-november-12/article71610418.ece"
   },
   {
    "category": "AI",
@@ -420,43 +420,43 @@
   },
   {
    "category": "Crypto",
-   "headline": "Bitcoin risk management grows more popular as the 'just bet on price' era fades",
-   "blurb": "Your day-ahead look for Oct. 21, 2026",
+   "headline": "Bybit will look for big broker partnerships to take on Robinhood in the U.S.",
+   "blurb": "When it comes to the U.S., Bybit will look to work with with someone like Interactive Brokers (IB), for example, said CEO Ben Zhou.",
    "source": "CoinDesk",
-   "ts": "2026-10-21T11:15:00+00:00",
-   "url": "https://www.coindesk.com/daybook-us/2026/10/21/bitcoin-risk-management-grows-more-popular-as-the-just-bet-on-price-era-fades"
+   "ts": "2026-10-21T15:09:22+00:00",
+   "url": "https://www.coindesk.com/business/2026/10/16/bybit-will-look-for-big-broker-partnerships-to-take-on-robinhood-in-the-u-s"
   },
   {
    "category": "Geopolitics",
-   "headline": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
-   "blurb": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
+   "headline": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
+   "blurb": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history.",
    "source": "BBC",
-   "ts": "2026-10-21T21:27:41+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-21T23:04:03+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Civil servant admits he 'made mistakes' juggling five government jobs",
-   "blurb": "Kashim Chowdhury was contracted for 183 hours a week, more than the number of hours in seven days.",
+   "headline": "The grads ditching the UK for a fresh start abroad",
+   "blurb": "With graduate jobs hard to come by, more young adults are reported to be considering emigrating.",
    "source": "BBC",
-   "ts": "2026-10-21T15:58:05+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cmze4w63ly42o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-21T23:12:06+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cmzxj4e8w44vo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Nancy Mace says Vivek Ramaswamy has run the most offensive ad of the cycle",
-   "blurb": "Rep. Nancy Mace (R-S.C.) called a controversial political ad run by Ohio gubernatorial candidate Vivek Ramaswamy (R) “shameful,” saying she thinks it will hurt Republicans up and down the ballot in Ohio. “This ad is going to go down as the most shameful, disgusting, offensive ad this election season,” Mace told CNN’s Jake Tapper on...",
+   "headline": "Greene says El-Sayed could win Senate seat if Trump attacks Iran again",
+   "blurb": "Former Rep. Marjorie Taylor Greene (D-Ga.) lashed out at President Trump’s military operations against Iran on Wednesday, warning a further escalation could cost Republicans in the November elections. “If Trump is dumb enough to attack Iran again before the midterms, @AbdulElSayed will win the senate seat in Michigan,” Greene wrote on social media Wednesday. “It’s...",
    "source": "The Hill",
-   "ts": "2026-10-21T22:05:48+00:00",
-   "url": "https://thehill.com/homenews/campaign/6164220-nancy-mace-vivek-ramaswamy-political-ad/"
+   "ts": "2026-10-22T00:01:41+00:00",
+   "url": "https://thehill.com/homenews/campaign/6164392-greene-warns-trump-iran-strikes/"
   },
   {
    "category": "India Politics",
-   "headline": "Kochi pharma firm loses ₹99 lakh in alleged impersonation fraud",
-   "blurb": "According to the FIR, the accused hacked a mobile phone used by the company’s accounts department and managed to save a phone number as that of the CEO, using the WhatsApp display picture used by him",
+   "headline": "ESA row triggers political showdown in Keralam’s central Travancore",
+   "blurb": "CPI(M) and Congress trade charges over Keralam government’s handling of the issue. Pathanamthitta emerges as focal point of controversy, with CPI(M) calling a hartal in seven villages on October 24",
    "source": "The Hindu",
-   "ts": "2026-10-21T19:50:03+00:00",
-   "url": "https://www.thehindu.com/news/national/kerala/kochi-pharma-firm-loses-99-lakh-in-alleged-impersonation-fraud/article71608822.ece"
+   "ts": "2026-10-22T06:58:09+00:00",
+   "url": "https://www.thehindu.com/news/national/kerala/esa-row-triggers-political-showdown-in-keralams-central-travancore/article71610319.ece"
   },
   {
    "category": "AI",
