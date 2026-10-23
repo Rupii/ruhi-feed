@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T22:14:33+00:00",
+ "updated": "2026-10-23T01:24:14+00:00",
  "count": 58,
  "stories": [
   {
@@ -12,11 +12,11 @@
   },
   {
    "category": "Crypto",
-   "headline": "A16z is the latest VC giant to widen bets beyond crypto and into AI and emerging tech",
-   "blurb": "The venture investor behind early bets on Coinbase, Solana and Uniswap said is broadening its focus, joining other crypto investment firms looking beyond blockchain to artificial intelligence and tech themes.",
+   "headline": "Senate's top Democratic investigator looking into Tether payments to Bo Hines' firm",
+   "blurb": "Senator Richard Blumenthal, the ranking Democrat on the investigations subcommittee, added a probe of the ex-White House crypto adviser to his list of crypto interests.",
    "source": "CoinDesk",
-   "ts": "2026-10-22T18:30:57+00:00",
-   "url": "https://www.coindesk.com/business/2026/10/22/a16z-is-the-latest-vc-giant-to-widen-bets-beyond-crypto-and-into-ai-and-emerging-tech"
+   "ts": "2026-10-22T22:43:36+00:00",
+   "url": "https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm"
   },
   {
    "category": "Gold",
@@ -28,35 +28,35 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "Trump says Musk has restored Ukraine's access after Starlink row",
-   "blurb": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.",
+   "headline": "Trump ordered to answer questions under oath in BBC lawsuit",
+   "blurb": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021.",
    "source": "BBC",
-   "ts": "2026-10-22T21:42:39+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-23T00:10:46+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "'I wasn't thinking straight' says five jobs civil servant",
-   "blurb": "Kashim Chowdhury is accused of fraudulently juggling multiple public sector jobs.",
+   "headline": "'I'm 96 and have 15 million followers': The grannies taking over TikTok",
+   "blurb": "Grandma Droniak, Nonna Gracie, Viv Truran and Barbara Costello have all found fame on social media in their later years.",
    "source": "BBC",
-   "ts": "2026-10-22T15:05:47+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cmx23dwp3qzro?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-22T23:20:38+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c63r5xpezz51o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Trump signs executive order geared at lowering housing, mortgage costs",
-   "blurb": "President Trump on Thursday signed an executive order aimed at lowering mortgage payments, as elevated borrowing costs have stifled the housing market. Trump’s order directs Federal Housing Finance Agency (FHFA) Director Bill Pulte to create a pilot program to cancel insurance premiums for government-backed mortgages once a borrower has satisfied equity requirements. The president also...",
+   "headline": "Rollins: Trump administration going 'full-bore ahead' on Forest Service reorganization",
+   "blurb": "Agriculture Secretary Brooke reiterated Thursday the Trump administration’s commitment to major restructuring at the U.S. Forest Service despite legal hurdles. “We are full-bore ahead in the reorganization,” Rollins said during a media call, according to The Associated Press. “We believe in it more today than we ever have — taking the USDA to our constituents,...",
    "source": "The Hill",
-   "ts": "2026-10-22T21:52:10+00:00",
-   "url": "https://thehill.com/homenews/administration/6166832-trump-signs-mortgage-order/"
+   "ts": "2026-10-23T00:44:57+00:00",
+   "url": "https://thehill.com/homenews/administration/6167143-trump-forest-service-restructuring-agriculture-secretary/"
   },
   {
    "category": "India Politics",
-   "headline": "Congress MLAs burn Punjab CM effigy over poor law-and-order following anti-drugs crusaders murder",
-   "blurb": "“It is the voice of the entire Punjab that law and order has completely ended in Punjab,” says Partap Singh Bajwa",
+   "headline": "SEBI cautions investors against fraudulent stock-tip WhatsApp groups",
+   "blurb": "“To make these calls look credible, certain members, acting in concert with the operators, post false claims of profit and praise the 'expert'. This practice, known as astroturfing, creates a false impression of genuine support and induces unsuspecting investors to act on the call,” says SEBI",
    "source": "The Hindu",
-   "ts": "2026-10-22T21:57:56+00:00",
-   "url": "https://www.thehindu.com/news/national/punjab/congress-mlas-burn-punjab-cm-effigy-over-poor-law-and-order-following-anti-drugs-crusaders-murder/article71612209.ece"
+   "ts": "2026-10-22T23:14:38+00:00",
+   "url": "https://www.thehindu.com/business/sebi-cautions-investors-against-fraudulent-stock-tip-whatsapp-groups/article71613503.ece"
   },
   {
    "category": "AI",
@@ -76,11 +76,11 @@
   },
   {
    "category": "Crypto",
-   "headline": "Irish central bank fines Coinbase Ireland $3.6 million over fund safeguarding failures",
-   "blurb": "When Silvergate was on the verge of collapse in 2023, Coinbase instructed 30 customers to deposit funds into an alternate account held by Coinbase at another U.S. bank.",
+   "headline": "A16z is the latest VC giant to widen bets beyond crypto and into AI and emerging tech",
+   "blurb": "The venture investor behind early bets on Coinbase, Solana and Uniswap said is broadening its focus, joining other crypto investment firms looking beyond blockchain to artificial intelligence and tech themes.",
    "source": "CoinDesk",
-   "ts": "2026-10-22T15:40:25+00:00",
-   "url": "https://www.coindesk.com/policy/2026/10/22/irish-central-bank-fines-coinbase-ireland-usd3-6-million-over-fund-safeguarding-failures"
+   "ts": "2026-10-22T18:30:57+00:00",
+   "url": "https://www.coindesk.com/business/2026/10/22/a16z-is-the-latest-vc-giant-to-widen-bets-beyond-crypto-and-into-ai-and-emerging-tech"
   },
   {
    "category": "Gold",
@@ -92,35 +92,35 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "New York bans horse-drawn carriages over safety and abuse concerns",
-   "blurb": "As the council voted to banish the carriages, views in Central Park were divided over the 160-year-old tradition.",
+   "headline": "Surveillance and 'constant paranoia': Western diplomats tell BBC of life in war-time Moscow",
+   "blurb": "Officials compare working in Russia since its full-scale invasion of Ukraine to the Cold War era.",
    "source": "BBC",
-   "ts": "2026-10-22T20:49:12+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-22T23:16:20+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cj75p1xr7p7vo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Barclays cutting 5,000 jobs as it increases reliance on AI",
-   "blurb": "The bank says it is using more AI leading to a 5% reduction in its workforce.",
+   "headline": "Grid operator says lights will stay on this winter after concerns",
+   "blurb": "The assurance from the National Energy System Operator comes amid concern from its engineers about their ability to ensure adequate supply.",
    "source": "BBC",
-   "ts": "2026-10-22T14:28:59+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-22T23:04:38+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "CDC pushes Ebola requirements for international passengers traveling to US",
-   "blurb": "The Centers for Disease Control and Prevention (CDC) will require foreign travelers heading to the U.S. to certify that they have not traveled to the Democratic Republic of Congo (DRC) in the last three weeks amid a widespread outbreak of Ebola. Reuters first reported on the new requirement on Thursday, citing a CDC memo. The...",
+   "headline": "Blanche: DOJ could block election certification in 'doomsday scenario'",
+   "blurb": "Attorney General Todd Blanche left the door open on whether the Department of Justice (DOJ) would intervene in states' midterm elections verification processes, telling reporters Thursday there are hypothetical \"scenarios\" in which it could block the certification of votes. \"Yes, of course there's scenarios that we can all come up with hypothetically, you know, some...",
    "source": "The Hill",
-   "ts": "2026-10-22T21:47:37+00:00",
-   "url": "https://thehill.com/policy/healthcare/6166661-cdc-ebola-travel-requirement/"
+   "ts": "2026-10-23T00:29:26+00:00",
+   "url": "https://thehill.com/homenews/administration/6167033-todd-blanche-doj-election-certification-block/"
   },
   {
    "category": "India Politics",
-   "headline": "Bihar Council elections today; Patna Graduates’ seat in focus as JD(U) faces internal tussle",
-   "blurb": "The seat, from which party MLC Neeraj Kumar is seeking a fourth consecutive term, has become the centre of attention after JD(U)’s Mokama MLA Anant Singh declared support for Jan Suraaj Party candidate Anuj Kumar Singh",
+   "headline": "BJP President Nitin Nabin on a three-day visit to Jharkhand from October 23",
+   "blurb": "During his visit, Mr.Nabin will address the party workers and leaders at the inaugural session of the Jharkhand BJP State Working Committee meeting on October 24",
    "source": "The Hindu",
-   "ts": "2026-10-22T20:55:08+00:00",
-   "url": "https://www.thehindu.com/news/national/bihar/bihar-council-elections-today-patna-graduates-seat-in-focus-as-jdu-faces-internal-tussle/article71611532.ece"
+   "ts": "2026-10-22T22:38:26+00:00",
+   "url": "https://www.thehindu.com/news/national/bihar/bjp-president-nitin-nabin-on-a-three-day-visit-to-jharkhand-from-october-23/article71611494.ece"
   },
   {
    "category": "AI",
@@ -140,43 +140,43 @@
   },
   {
    "category": "Crypto",
-   "headline": "Crypto for Advisors: Stablecoins are ready for prime time",
-   "blurb": "",
+   "headline": "Irish central bank fines Coinbase Ireland $3.6 million over fund safeguarding failures",
+   "blurb": "When Silvergate was on the verge of collapse in 2023, Coinbase instructed 30 customers to deposit funds into an alternate account held by Coinbase at another U.S. bank.",
    "source": "CoinDesk",
-   "ts": "2026-10-22T14:58:31+00:00",
-   "url": "https://www.coindesk.com/coindesk-indices/2026/10/22/crypto-for-advisors-stablecoins-are-ready-for-prime-time"
+   "ts": "2026-10-22T15:40:25+00:00",
+   "url": "https://www.coindesk.com/policy/2026/10/22/irish-central-bank-fines-coinbase-ireland-usd3-6-million-over-fund-safeguarding-failures"
   },
   {
    "category": "Geopolitics",
-   "headline": "'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother",
-   "blurb": "Her Republican opponent Vivek Ramaswamy is airing the ad featuring her mother, whose husband was charged with sexual abuse in her childhood.",
+   "headline": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds",
+   "blurb": "The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes.",
    "source": "BBC",
-   "ts": "2026-10-22T19:27:57+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c6z981l59wnwo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-22T23:16:16+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Tank barrel production returns to UK after 20 years",
-   "blurb": "The defence secretary says the UK is \"back in the business of making weapons\" for its armed forces.",
+   "headline": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
+   "blurb": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
    "source": "BBC",
-   "ts": "2026-10-22T13:45:19+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cm70pj51zdk4o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-22T18:26:56+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Prominent Texas lawyer who donated over 600K to pro-Paxton PAC endorses Talarico",
-   "blurb": "One of Texas’ most prominent personal injury lawyers has endorsed state Rep. James Talarico (D) in the Lone Star State’s widely watched Senate race. Thomas J. Henry, a fixture of Texas TV ads and billboards, posted a video to the social platform X Thursday announcing he would support Talarico’s candidacy. “The reason I'm supporting James...",
+   "headline": "Canadian diplomats barred interacting with US midterm candidates: Reports",
+   "blurb": "Canada has allegedly barred its diplomats from interacting with U.S. midterm candidates to avoid any allegations of election interference from the Trump administration, according to multiple reports. Written guidance issued earlier this week reportedly ordered Canadian officials based in the U.S. not to meet with candidates — or even be in the same room with...",
    "source": "The Hill",
-   "ts": "2026-10-22T21:46:35+00:00",
-   "url": "https://thehill.com/homenews/campaign/6166806-thomas-henry-endorses-talarico/"
+   "ts": "2026-10-22T23:37:06+00:00",
+   "url": "https://thehill.com/policy/international/6166951-canada-diplomats-barred-american-midterm-candidates/"
   },
   {
    "category": "India Politics",
-   "headline": "Legal action ordered against officials over irregularities in voter list in Pilibhit",
-   "blurb": "Legal action will be taken against both the current and former election officials responsible for the discrepancies found in the voter list for constituency 127 – Pilibhit, reads an official statement by the State election commission",
+   "headline": "Congress MLAs burn Punjab CM effigy over poor law-and-order following anti-drugs crusaders murder",
+   "blurb": "“It is the voice of the entire Punjab that law and order has completely ended in Punjab,” says Partap Singh Bajwa",
    "source": "The Hindu",
-   "ts": "2026-10-22T20:47:44+00:00",
-   "url": "https://www.thehindu.com/news/national/uttar-pradesh/legal-action-ordered-against-officials-over-irregularities-in-voter-list-in-pilibhit/article71613043.ece"
+   "ts": "2026-10-22T21:57:56+00:00",
+   "url": "https://www.thehindu.com/news/national/punjab/congress-mlas-burn-punjab-cm-effigy-over-poor-law-and-order-following-anti-drugs-crusaders-murder/article71612209.ece"
   },
   {
    "category": "AI",
@@ -196,43 +196,43 @@
   },
   {
    "category": "Crypto",
-   "headline": "Crypto custody specialist Fireblocks denies it's in talks to be acquired by Visa",
-   "blurb": "The company is in talks with Visa over a potential $2.5 billion acquisition, Axios reported.",
+   "headline": "Crypto for Advisors: Stablecoins are ready for prime time",
+   "blurb": "",
    "source": "CoinDesk",
-   "ts": "2026-10-22T14:37:12+00:00",
-   "url": "https://www.coindesk.com/business/2026/10/22/crypto-custody-specialist-fireblocks-denies-its-in-talks-to-be-acquired-by-visa"
+   "ts": "2026-10-22T14:58:31+00:00",
+   "url": "https://www.coindesk.com/coindesk-indices/2026/10/22/crypto-for-advisors-stablecoins-are-ready-for-prime-time"
   },
   {
    "category": "Geopolitics",
-   "headline": "Paris extends curfew as Marseille and Lyon ban protests after riots",
-   "blurb": "Protests will only be allowed in some towns and cities if organised by unions, and top museums will be closed on Saturday.",
+   "headline": "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
+   "blurb": "The beauty giant's CEO says the use of GLP-1s is \"a very important phenomenon for us\".",
    "source": "BBC",
-   "ts": "2026-10-22T19:25:26+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-22T22:27:53+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "The Briefing Room",
-   "blurb": "After mass protests and violence, what will persuade the French to accept economic reform?",
+   "headline": "'I wasn't thinking straight' says five jobs civil servant",
+   "blurb": "Kashim Chowdhury is accused of fraudulently juggling multiple public sector jobs.",
    "source": "BBC",
-   "ts": "2026-10-22T13:19:00+00:00",
-   "url": "https://www.bbc.co.uk/sounds/play/m00333cg?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-22T15:05:47+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cmx23dwp3qzro?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Mortgage rates decline for first time in 2 months",
-   "blurb": "Welcome to The Hill's Business & Economy newsletter {beacon} Business & Economy Business & Economy The Big Story Mortgage rates decline for first time in 2 months The average 30-year fixed mortgage rate dipped this week to 7.32 percent, according to new data from Freddie Mac. © George Walker IV, The Associated Press That...",
+   "headline": "Supreme Court rules NH can block voters from using student IDs",
+   "blurb": "The Supreme Court on Thursday ruled New Hampshire’s top election official can fully stop voters from using their student IDs when showing up to the polls in the midterms — a request backed by the Republican National Committee (RNC). A lower judge ruled officials had improperly gone further than a new state law placing restrictions on...",
    "source": "The Hill",
-   "ts": "2026-10-22T21:38:46+00:00",
-   "url": "https://thehill.com/newsletters/business-economy/6166732-mortgage-rates-decline-for-first-time-in-2-months/"
+   "ts": "2026-10-22T22:50:58+00:00",
+   "url": "https://thehill.com/homenews/campaign/6166987-supreme-court-new-hampshire-student-ids/"
   },
   {
    "category": "India Politics",
-   "headline": "The grandmothers hitting patriarchy and weights",
-   "blurb": "Grandmothers in areas surrounding Delhi are rewriting the rules of engagement, one reel at a time. From challenging patriarchy and lifting weights to dancing to Haryanvi pop and inspiring other seniors to embrace fitness, they are turning social media into a platform for self-expression, defiance, and a new-found freedom, finds Ashok Kumar",
+   "headline": "Bihar Council elections today; Patna Graduates’ seat in focus as JD(U) faces internal tussle",
+   "blurb": "The seat, from which party MLC Neeraj Kumar is seeking a fourth consecutive term, has become the centre of attention after JD(U)’s Mokama MLA Anant Singh declared support for Jan Suraaj Party candidate Anuj Kumar Singh",
    "source": "The Hindu",
-   "ts": "2026-10-22T20:32:20+00:00",
-   "url": "https://www.thehindu.com/news/national/haryana/the-grandmothers-hitting-patriarchy-and-weights/article71608262.ece"
+   "ts": "2026-10-22T20:55:08+00:00",
+   "url": "https://www.thehindu.com/news/national/bihar/bihar-council-elections-today-patna-graduates-seat-in-focus-as-jdu-faces-internal-tussle/article71611532.ece"
   },
   {
    "category": "AI",
@@ -252,43 +252,43 @@
   },
   {
    "category": "Crypto",
-   "headline": "Crypto is making a splash in U.S. elections — but chiefly in jabs about industry influence",
-   "blurb": "Boosters often say crypto voters can swing elections, but Democrats are seeking mileage out of tying crypto to Trump, corruption and attempts to buy seats in Congress.",
+   "headline": "Crypto custody specialist Fireblocks denies it's in talks to be acquired by Visa",
+   "blurb": "The company is in talks with Visa over a potential $2.5 billion acquisition, Axios reported.",
    "source": "CoinDesk",
-   "ts": "2026-10-22T13:00:00+00:00",
-   "url": "https://www.coindesk.com/news-analysis/2026/10/21/crypto-is-making-a-splash-in-u-s-elections-but-chiefly-in-jabs-about-industry-influence"
+   "ts": "2026-10-22T14:37:12+00:00",
+   "url": "https://www.coindesk.com/business/2026/10/22/crypto-custody-specialist-fireblocks-denies-its-in-talks-to-be-acquired-by-visa"
   },
   {
    "category": "Geopolitics",
-   "headline": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
-   "blurb": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
+   "headline": "Trump says Musk has restored access to Ukraine's Starlink network",
+   "blurb": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.",
    "source": "BBC",
-   "ts": "2026-10-22T18:26:56+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-22T21:42:39+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "What is PHP and why did it spark a global cyber-security scramble?",
-   "blurb": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
+   "headline": "Barclays cutting 5,000 jobs as it increases reliance on AI",
+   "blurb": "The bank says it is using more AI leading to a 5% reduction in its workforce.",
    "source": "BBC",
-   "ts": "2026-10-22T11:15:58+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-22T14:28:59+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Trump offers comments on whether he called Musk to restore Starlink to Ukraine",
-   "blurb": "President Trump wouldn’t say Thursday whether he was the one who called SpaceX founder Elon Musk to restore Starlink for Ukraine. “Well, I don’t want to say but I know it was a very interesting situation,” he told reporters before departing the White House. “I don’t want to comment one way or the other.” “Whether...",
+   "headline": "Trump on Lewandowski probe reports: 'I want my people to be honest'",
+   "blurb": "President Trump said Thursday that he has “no idea” why the Department of Justice (DOJ) is investigating Corey Lewandowski for misconduct, but that anyone working for him has to be honest. Those that are not honest, Trump went on to say, will face the DOJ. \"I want my people to be honest, and if they're...",
    "source": "The Hill",
-   "ts": "2026-10-22T21:27:24+00:00",
-   "url": "https://thehill.com/homenews/administration/6166784-trump-musk-starlink-ukraine/"
+   "ts": "2026-10-22T22:47:06+00:00",
+   "url": "https://thehill.com/homenews/administration/6166995-trump-calls-for-honest-staff/"
   },
   {
    "category": "India Politics",
-   "headline": "Use of Chief Minister C. Joseph Vijay’s deep fake videos to collect money: Rajasthan youth moves Madras High Court seeking bail",
-   "blurb": "Justice N. Ramesh will hear on Friday the bail plea made by J. Shyabu Khan of Boontoli village in Alwar district",
+   "headline": "Legal action ordered against officials over irregularities in voter list in Pilibhit",
+   "blurb": "Legal action will be taken against both the current and former election officials responsible for the discrepancies found in the voter list for constituency 127 – Pilibhit, reads an official statement by the State election commission",
    "source": "The Hindu",
-   "ts": "2026-10-22T20:25:44+00:00",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/use-of-chief-minister-c-joseph-vijays-deep-fake-videos-to-collect-money-rajasthan-youth-moves-madras-high-court-seeking-bail/article71611607.ece"
+   "ts": "2026-10-22T20:47:44+00:00",
+   "url": "https://www.thehindu.com/news/national/uttar-pradesh/legal-action-ordered-against-officials-over-irregularities-in-voter-list-in-pilibhit/article71613043.ece"
   },
   {
    "category": "AI",
@@ -308,43 +308,43 @@
   },
   {
    "category": "Crypto",
-   "headline": "Ethereum’s four-minute settlement plan could lower the cost of moving crypto",
-   "blurb": "A new draft targets a fourfold cut in the time it takes Ethereum transactions to become final, which could free up money transfer services tie up while customers’ payments clear.",
+   "headline": "Crypto is making a splash in U.S. elections — but chiefly in jabs about industry influence",
+   "blurb": "Boosters often say crypto voters can swing elections, but Democrats are seeking mileage out of tying crypto to Trump, corruption and attempts to buy seats in Congress.",
    "source": "CoinDesk",
-   "ts": "2026-10-22T12:14:29+00:00",
-   "url": "https://www.coindesk.com/tech/2026/10/22/ethereum-s-four-minute-settlement-plan-could-lower-the-cost-of-moving-crypto"
+   "ts": "2026-10-22T13:00:00+00:00",
+   "url": "https://www.coindesk.com/news-analysis/2026/10/21/crypto-is-making-a-splash-in-u-s-elections-but-chiefly-in-jabs-about-industry-influence"
   },
   {
    "category": "Geopolitics",
-   "headline": "Ukraine hit by strikes after Russia agrees to new peace talks",
-   "blurb": "The three waves of Russian missiles were launched at hours after Russia said it was \"ready in principle\" to resume peace talks with the US and Ukraine.",
+   "headline": "New York bans horse-drawn carriages after 160 years over safety and abuse concerns",
+   "blurb": "As the council voted to banish the carriages, views in Central Park were divided over the 160-year-old tradition.",
    "source": "BBC",
-   "ts": "2026-10-22T17:49:13+00:00",
-   "url": "https://www.bbc.co.uk/news/videos/c9146p1vx888o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-22T20:49:12+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Woman 'scared to turn heating on' due to oil cost",
-   "blurb": "Roslynn Garner-Gatley uses a hot water bottle bed socks and earlier bedtimes to stay warm.",
+   "headline": "Tank barrel production returns to UK after 20 years",
+   "blurb": "The defence secretary says the UK is \"back in the business of making weapons\" for its armed forces.",
    "source": "BBC",
-   "ts": "2026-10-22T09:55:16+00:00",
-   "url": "https://www.bbc.co.uk/news/videos/cmd7qr0ezrq7o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-22T13:45:19+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cm70pj51zdk4o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Collins calls for ad calling Jackson a 'creep' to be pulled",
-   "blurb": "Sen. Susan Collins (R-Maine) said a new radio ad calling her opponent, Democratic Senate nominee Troy Jackson, a “creep” should be taken down. The ad, airing on Maine radio, features a country song with the lyrics, “If he’ll screw his own family, he’ll screw yours too,” The Associated Press reported. The ad is from the...",
+   "headline": "Trump advances two wind projects",
+   "blurb": "{beacon} Energy & Environment Energy & Environment The Big Story Trump advances two wind projects The Trump administration is advancing some wind projects after a court order required it to do so. © Joshua A. Bickel, Associated Press file A White House official said Thursday that an initial set of wind projects under Pentagon...",
    "source": "The Hill",
-   "ts": "2026-10-22T21:15:24+00:00",
-   "url": "https://thehill.com/homenews/campaign/6166517-collins-denounces-jackson-ad/"
+   "ts": "2026-10-22T22:34:36+00:00",
+   "url": "https://thehill.com/newsletters/energy-environment/6166941-trump-advances-two-wind-projects/"
   },
   {
    "category": "India Politics",
-   "headline": "An ironclad resolve in the national interest",
-   "blurb": "Home Minister Amit Shah’s decision-making ability, commitment to national security, and role as one of the architects of modern India’s development will ensure that his name occupies a prominent place in the country’s political history",
+   "headline": "The grandmothers hitting patriarchy and weights",
+   "blurb": "Grandmothers in areas surrounding Delhi are rewriting the rules of engagement, one reel at a time. From challenging patriarchy and lifting weights to dancing to Haryanvi pop and inspiring other seniors to embrace fitness, they are turning social media into a platform for self-expression, defiance, and a new-found freedom, finds Ashok Kumar",
    "source": "The Hindu",
-   "ts": "2026-10-22T20:24:10+00:00",
-   "url": "https://www.thehindu.com/news/national/an-ironclad-resolve-in-the-national-interest/article71613326.ece"
+   "ts": "2026-10-22T20:32:20+00:00",
+   "url": "https://www.thehindu.com/news/national/haryana/the-grandmothers-hitting-patriarchy-and-weights/article71608262.ece"
   },
   {
    "category": "AI",
@@ -364,43 +364,43 @@
   },
   {
    "category": "Crypto",
-   "headline": "Crypto traders seek shelter in bitcoin as altcoins slide and ETF flows wobble",
-   "blurb": "Your day-ahead look for Oct. 21, 2026",
+   "headline": "Ethereum’s four-minute settlement plan could lower the cost of moving crypto",
+   "blurb": "A new draft targets a fourfold cut in the time it takes Ethereum transactions to become final, which could free up money transfer services tie up while customers’ payments clear.",
    "source": "CoinDesk",
-   "ts": "2026-10-22T11:20:04+00:00",
-   "url": "https://www.coindesk.com/daybook-us/2026/10/22/crypto-traders-seek-shelter-in-bitcoin-as-altcoins-slide-and-etf-flows-wobble"
+   "ts": "2026-10-22T12:14:29+00:00",
+   "url": "https://www.coindesk.com/tech/2026/10/22/ethereum-s-four-minute-settlement-plan-could-lower-the-cost-of-moving-crypto"
   },
   {
    "category": "Geopolitics",
-   "headline": "'Looksmaxxing' influencer Clavicular pleads not guilty to rape charge",
-   "blurb": "The influencer, whose real name is Braden Peters, is accused of sexually assaulting a 17-year-old girl in 2025.",
+   "headline": "'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother",
+   "blurb": "Her Republican opponent Vivek Ramaswamy is airing the ad featuring her mother, whose husband was charged with sexual abuse in her childhood.",
    "source": "BBC",
-   "ts": "2026-10-22T17:21:42+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cqwy71ldj3w9o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-22T19:27:57+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c6z981l59wnwo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Children in care to get £10 a week savings",
-   "blurb": "Eligible people in the care system will be able to access the savings once they turn 18.",
+   "headline": "The Briefing Room",
+   "blurb": "After mass protests and violence, what will persuade the French to accept economic reform?",
    "source": "BBC",
-   "ts": "2026-10-22T06:57:45+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c6vg0klve484o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-22T13:19:00+00:00",
+   "url": "https://www.bbc.co.uk/sounds/play/m00333cg?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Trump admin points finger at Musk in Starlink confusion",
-   "blurb": "{beacon} Technology Technology The Big Story Rubio, Hegseth point finger at Musk in Starlink slowdown Top Trump administration officials are starting to point fingers squarely at Elon Musk for the decision to slow down his company’s Starlink satellite internet services and its military counterpart Starshield for Ukraine. © Alex Brandon, Associated Press Looking to deflect...",
+   "headline": "MAHA leader resigns from administration",
+   "blurb": "Click in for more news from The Hill {beacon} Healthcare Healthcare The Big Story MAHA leader resigns from administration Calley Means, a top adviser to Health Secretary Robert F. Kennedy Jr. and a leader in the Make America Healthy Again (MAHA) movement, resigned from the Trump administration Thursday, less than two weeks before the...",
    "source": "The Hill",
-   "ts": "2026-10-22T21:09:58+00:00",
-   "url": "https://thehill.com/homenews/6166712-trump-admin-points-finger-at-musk-in-starlink-confusion/"
+   "ts": "2026-10-22T22:30:51+00:00",
+   "url": "https://thehill.com/newsletters/healthcare/6166975-maha-leader-resigns-from-administration/"
   },
   {
    "category": "India Politics",
-   "headline": "Election petitions cannot be filed merely on the basis of videos downloaded from internet: Madras High Court",
-   "blurb": "Justice G.K. Ilanthiraiyan says there must also be independent documentary material to establish returned candidate’s alleged involvement in corrupt practices",
+   "headline": "Use of Chief Minister C. Joseph Vijay’s deep fake videos to collect money: Rajasthan youth moves Madras High Court seeking bail",
+   "blurb": "Justice N. Ramesh will hear on Friday the bail plea made by J. Shyabu Khan of Boontoli village in Alwar district",
    "source": "The Hindu",
-   "ts": "2026-10-22T20:05:00+00:00",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/election-petitions-cannot-be-filed-merely-on-the-basis-of-videos-downloaded-from-internet-madras-high-court/article71612172.ece"
+   "ts": "2026-10-22T20:25:44+00:00",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/use-of-chief-minister-c-joseph-vijays-deep-fake-videos-to-collect-money-rajasthan-youth-moves-madras-high-court-seeking-bail/article71611607.ece"
   },
   {
    "category": "AI",
@@ -420,43 +420,43 @@
   },
   {
    "category": "Crypto",
-   "headline": "Bitcoin slides below $82,000 as AI doubts return, with DeFi tokens leading declines",
-   "blurb": "Bitcoin as much as 2.9% to around $81,600 as Nasdaq futures dropped, while the CoinDesk 80 lost 3.5% and DeFi index slid 6%.",
+   "headline": "Crypto traders seek shelter in bitcoin as altcoins slide and ETF flows wobble",
+   "blurb": "Your day-ahead look for Oct. 21, 2026",
    "source": "CoinDesk",
-   "ts": "2026-10-22T10:50:04+00:00",
-   "url": "https://www.coindesk.com/markets/2026/10/22/bitcoin-slides-below-usd82-000-as-ai-doubts-return-with-defi-tokens-leading-declines"
+   "ts": "2026-10-22T11:20:04+00:00",
+   "url": "https://www.coindesk.com/daybook-us/2026/10/22/crypto-traders-seek-shelter-in-bitcoin-as-altcoins-slide-and-etf-flows-wobble"
   },
   {
    "category": "Geopolitics",
-   "headline": "'Demeaning' and 'absurd': The backlash against a hugging grandparents consent ad",
-   "blurb": "Jim O'Callaghan described the video as \"inappropriate and demeaning to grandparents\".",
+   "headline": "Paris extends curfew as Marseille and Lyon ban protests after riots",
+   "blurb": "Protests will only be allowed in some towns and cities if organised by unions, and top museums will be closed on Saturday.",
    "source": "BBC",
-   "ts": "2026-10-22T17:18:17+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c83vqn6zwrx0o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-22T19:25:26+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "'I can't afford to heat my home on my pension'",
-   "blurb": "Teresa Goubert says heating is \"very expensive\" and she was struggling on her pension.",
+   "headline": "What is PHP and why did it spark a global cyber-security scramble?",
+   "blurb": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
    "source": "BBC",
-   "ts": "2026-10-22T05:24:13+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cm4g19jnjgpno?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-22T11:15:58+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Moskowitz says constituent arrested after making threat on his life",
-   "blurb": "Rep. Jared Moskowitz (D-Fla.) said Thursday afternoon a man in Florida’s 23rd District, which Moskowitz represents, was arrested after making death threats against the lawmaker. “A constituent of mine has just been arrested in Boca, just a few miles from my house, for threatening my life,” Moskowitz wrote on the social platform X. The Democratic...",
+   "headline": "Senators urge Hegseth, Rubio to release funding for Baltic Security Initiative",
+   "blurb": "Welcome to The Hill's Defense & NatSec newsletter {beacon} Defense &National Security Defense &National Security The Big Story Senators urge Hegseth, Rubio to release funding for Baltic Security Initiative A bipartisan group of senators are urging Defense Secretary Pete Hegseth and Secretary of State Marco Rubio to release the remaining congressional-approved funds for the...",
    "source": "The Hill",
-   "ts": "2026-10-22T21:08:34+00:00",
-   "url": "https://thehill.com/homenews/house/6166634-moskowitz-threatened-arrested-florida/"
+   "ts": "2026-10-22T22:25:06+00:00",
+   "url": "https://thehill.com/newsletters/defense-national-security/6166946-senators-urge-hegseth-rubio-to-release-funding-for-baltic-security-initiative/"
   },
   {
    "category": "India Politics",
-   "headline": "Chhattisgarh Police issue show-cause notice to SP Ankita Sharma after video of AK-47 firing goes viral",
-   "blurb": "The incident, filmed during Dussehra at the Rajnandgaon Police Lines, drew widespread criticism on social media, including from a former senior Army officer",
+   "headline": "An ironclad resolve in the national interest",
+   "blurb": "Home Minister Amit Shah’s decision-making ability, commitment to national security, and role as one of the architects of modern India’s development will ensure that his name occupies a prominent place in the country’s political history",
    "source": "The Hindu",
-   "ts": "2026-10-22T19:57:24+00:00",
-   "url": "https://www.thehindu.com/news/national/chhattisgarh/chhattisgarh-police-issue-show-cause-notice-to-sp-ankita-sharma-after-video-of-ak-47-firinggoes-viral/article71613114.ece"
+   "ts": "2026-10-22T20:24:10+00:00",
+   "url": "https://www.thehindu.com/news/national/an-ironclad-resolve-in-the-national-interest/article71613326.ece"
   },
   {
    "category": "AI",
