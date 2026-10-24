@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T21:58:59+00:00",
+ "updated": "2026-10-24T00:28:25+00:00",
  "count": 58,
  "stories": [
   {
@@ -36,27 +36,27 @@
   },
   {
    "category": "Macro",
-   "headline": "White House says the US is lifting tariffs on some Canadian goods",
-   "blurb": "Susan Collins, a Republican in a tight race to keep her senate seat in next month's elections, said she had been working with the White House on tariff relief.",
+   "headline": "How does the UK state pension compare with other countries?",
+   "blurb": "Do British pensioners have it better or worse than those in other countries?",
    "source": "BBC",
-   "ts": "2026-10-23T20:39:39+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-24T00:09:12+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Cook Political Report shifts Ohio governor's race from toss-up to lean Democrat",
-   "blurb": "The Cook Political Report is shifting a closely watched gubernatorial contest toward Democrats after a controversial campaign ad shook up the race. The nonpartisan election forecaster moved the governor’s race in Ohio from “toss up” to “lean Democrat,” now favoring Amy Acton (D) to beat Vivek Ramaswamy (R) in the Buckeye State. The race was...",
+   "headline": "Kennedy rolls out US-caught seafood labeling, Seafood.gov",
+   "blurb": "The Trump administration unveiled new initiatives for U.S. fishermen Friday, including a new government website known as Seafood.gov. At a rally in Fort Myers, Fla., Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. announced the creation of a voluntary label made for U.S.-caught fish, which the Food and Drug Administration (FDA) began offering...",
    "source": "The Hill",
-   "ts": "2026-10-23T21:57:30+00:00",
-   "url": "https://thehill.com/homenews/campaign/6169489-cook-political-report-shifts-ohio/"
+   "ts": "2026-10-23T23:40:48+00:00",
+   "url": "https://thehill.com/homenews/administration/6169656-trump-rfk-unveil-us-seafood-label/"
   },
   {
    "category": "India Politics",
-   "headline": "Legal action ordered against officials over irregularities in voter list in Pilibhit",
-   "blurb": "Legal action will be taken against both the current and former election officials responsible for the discrepancies found in the voter list for constituency 127 – Pilibhit, reads an official statement by the State election commission",
+   "headline": "Election Commission sought explanation from officials as goof-up in voter list went viral",
+   "blurb": "“There is a possibility of mistakes when doing any work for the first time. Out of 14,81,310 entries in the voter list, there are a total of 158 entries in which the names of the voters or their relatives appear strange. The strangeness of these names is due to such a mistake,” says statement released by Chief Electoral Officer, Uttar Pradesh",
    "source": "The Hindu",
-   "ts": "2026-10-23T20:27:00+00:00",
-   "url": "https://www.thehindu.com/news/national/uttar-pradesh/legal-action-ordered-against-officials-over-irregularities-in-voter-list-in-pilibhit/article71613043.ece"
+   "ts": "2026-10-23T23:56:51+00:00",
+   "url": "https://www.thehindu.com/news/national/uttar-pradesh/election-commission-sought-explanation-from-officials-as-goof-up-in-voter-list-went-viral/article71617002.ece"
   },
   {
    "category": "AI",
@@ -100,27 +100,27 @@
   },
   {
    "category": "Macro",
-   "headline": "The little-known investment Martin Lewis wants you to understand...",
-   "blurb": "The little-known investment Martin Lewis wants you to understand",
+   "headline": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+   "blurb": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
    "source": "BBC",
-   "ts": "2026-10-23T15:41:28+00:00",
-   "url": "https://www.bbc.co.uk/news/videos/c8ly0357prl7o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-24T00:05:45+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "How will Democrats address UFO sightings if returned to the majority?",
-   "blurb": "Unidentified flying objects (UFOs) have long captivated Americans — a majority of whom, recent polling suggests, believe the government is hiding information about the phenomena. And the debate has also made its way to Capitol Hill. In recent years, conversations surrounding UFOs, which the government now refers to as unidentified anomalous phenomena (UAPs), have heated...",
+   "headline": "About half concerned Republicans could try to overturn midterm results: Survey",
+   "blurb": "A new poll released Friday suggests half of Americans are concerned Republicans may try to overturn the results of November’s midterm election. Fifty percent of respondents to the New York Times/Siena University survey said they were either \"very\" or \"somewhat worried\" the GOP may use “illegal means” to overturn the election, compared to 49 percent...",
    "source": "The Hill",
-   "ts": "2026-10-23T21:43:56+00:00",
-   "url": "https://thehill.com/homenews/house/6169367-democrats-majority-congress-ufo-sightings-transparency/"
+   "ts": "2026-10-23T23:01:44+00:00",
+   "url": "https://thehill.com/blogs/ballot-box/6169602-americans-fear-gop-overturning-election-poll/"
   },
   {
    "category": "India Politics",
-   "headline": "CREDAI Chennai sets up anti-corruption panel, frames SOP for reporting graft",
-   "blurb": "",
+   "headline": "Students protest against SIR at Mumbai University, demand arrest of CEC Gyanesh Kumar",
+   "blurb": "Organised by the Disha Students’ Organisation and Bhagat Singh Jan Adhikar Yatra (BSJAY), the demonstration also called for the repeal of the 2023 law governing the appointment of Election Commissioners",
    "source": "The Hindu",
-   "ts": "2026-10-23T19:59:35+00:00",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/credai-chennai-sets-up-anti-corruption-panel-frames-sop-for-reporting-graft/article71617238.ece"
+   "ts": "2026-10-23T22:49:21+00:00",
+   "url": "https://www.thehindu.com/news/cities/mumbai/students-protest-against-sir-at-mumbai-university-demand-arrest-of-cec-gyanesh-kumar/article71616990.ece"
   },
   {
    "category": "AI",
@@ -156,27 +156,27 @@
   },
   {
    "category": "Macro",
-   "headline": "Civil servant who juggled five jobs says he was 'surprised' to be charged with fraud",
-   "blurb": "Kashim Chowdhury denied being dishonest when not telling employers he had other jobs.",
+   "headline": "Before you crank up the thermostat, try these tips to keep your house warmer for longer",
+   "blurb": "Make draught excluders from socks, leave your oven door open after cooking and opt for lots of thin layers of clothing to stay warm.",
    "source": "BBC",
-   "ts": "2026-10-23T15:15:13+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c6lykzwjkj1eo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-23T23:50:45+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cqr7yeed1ed7o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Musk ups midterm spending in final stretch",
-   "blurb": "{beacon} Technology Technology The Big Story Musk ups his midterm spending in final stretch The tech mogul has spent more than $442 million in the midterm elections, after pouring another $76.8 million into his super PAC over the past month, campaign finance filings show. © Susan Walsh, Associated Press America PAC, which Musk launched...",
+   "headline": "US officially doubles last year's measles numbers",
+   "blurb": "Click in for more news from The Hill {beacon} Healthcare Healthcare The Big Story US officially doubles last year's measles numbers The U.S. has officially doubled the number of measles cases it saw in 2025 according to the most up-to-date information from the Centers for Disease Control and Prevention (CDC), marking the worst year the...",
    "source": "The Hill",
-   "ts": "2026-10-23T21:37:48+00:00",
-   "url": "https://thehill.com/newsletters/technology/6169502-musk-ups-midterm-spending-in-final-stretch/"
+   "ts": "2026-10-23T22:45:52+00:00",
+   "url": "https://thehill.com/newsletters/healthcare/6169627-us-officially-doubles-last-years-measles-numbers/"
   },
   {
    "category": "India Politics",
-   "headline": "No local body polls in Amaravati capital region villages of Andhra Pradesh",
-   "blurb": "Elections in villages where land pooling is under way have been kept pending for the time being as the government is working on a separate governance framework for the mega capital city",
+   "headline": "Assam government to present 1st Bhupen Hazarika National Award to Usha Mangeshkar: Himanta",
+   "blurb": "Prime Minister Narendra Modi will present the award at the concluding ceremony of the singer's year-long birth centenary celebrations at Bharat Mandapam in New Delhi on November 29, says CM Sarma",
    "source": "The Hindu",
-   "ts": "2026-10-23T19:43:46+00:00",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/no-local-body-polls-in-amaravati-villages-in-andhra-pradesh/article71616273.ece"
+   "ts": "2026-10-23T22:38:44+00:00",
+   "url": "https://www.thehindu.com/news/national/assam-government-to-present-1st-bhupen-hazarika-national-award-to-usha-mangeshkar-himanta/article71617957.ece"
   },
   {
    "category": "AI",
@@ -205,34 +205,34 @@
   {
    "category": "Geopolitics",
    "headline": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
-   "blurb": "One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended.",
+   "blurb": "One person is killed and five wounded in a series of attacks. The suspected gunman has been apprehended.",
    "source": "BBC",
    "ts": "2026-10-23T19:42:08+00:00",
    "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "What is PHP and why did it spark a global cyber-security scramble?",
-   "blurb": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
+   "headline": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+   "blurb": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
    "source": "BBC",
-   "ts": "2026-10-23T12:24:17+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-23T22:54:57+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "West Virginia attorney general subpoenas environmental groups",
-   "blurb": "West Virginia’s attorney general has sent investigative subpoenas to environmental advocacy organizations — something the groups are describing as a retaliatory attack on their First Amendment rights. West Virginia Rivers Coalition and 350.org filed a lawsuit this week saying they and at least four other organizations received subpoenas from the office of West Virginia Attorney...",
+   "headline": "Pressure mounts on Trump administration over Starlink slowdown",
+   "blurb": "Welcome to The Hill's Defense & NatSec newsletter {beacon} Defense &National Security Defense &National Security The Big Story Pressure increases on Trump administration over Starlink slowdown Pressure is increasing on the Trump administration to restore and expand Ukraine’s access to Starshield satellite systems, as well as get to the bottom of who ordered the...",
    "source": "The Hill",
-   "ts": "2026-10-23T21:02:56+00:00",
-   "url": "https://thehill.com/policy/energy-environment/6169430-wv-ag-subpoenas-environmental-groups/"
+   "ts": "2026-10-23T22:34:38+00:00",
+   "url": "https://thehill.com/newsletters/defense-national-security/6169593-pressure-mounts-on-trump-administration-over-starlink-slowdown/"
   },
   {
    "category": "India Politics",
-   "headline": "Local body polls: 14 cases booked on the last day of nominations, says Andhra Pradesh DGP",
-   "blurb": "36 platoons of Andhra Pradesh Special Police have been deployed as part of election bandobust",
+   "headline": "Kolkata stampede: Death in the time of Durga Puja",
+   "blurb": "On October 17, a stampede broke out at a Durga Puja pandal in north Kolkata, claiming 19 lives. The pandal, erected in a narrow space with dim lighting, was filled with people soon after it started raining. Shrabana Chatterjee and Shiv Sahay Singh report on the lapses that led to the tragedy and the questions it has raised about accountability in West Bengal, where the new government’s first Durga Puja celebrations have been marred by controversy",
    "source": "The Hindu",
-   "ts": "2026-10-23T19:40:00+00:00",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/local-body-polls-14-cases-booked-on-the-last-day-of-nominations-says-andhra-pradesh-dgp/article71617034.ece"
+   "ts": "2026-10-23T21:56:03+00:00",
+   "url": "https://www.thehindu.com/news/national/west-bengal/kolkata-stampede-death-in-the-time-of-durga-puja/article71616855.ece"
   },
   {
    "category": "AI",
@@ -268,27 +268,27 @@
   },
   {
    "category": "Macro",
-   "headline": "Island inflation rate rises to 3%, figures show",
-   "blurb": "The rising cost of food and alcohol drives an increase in the inflation rate, figures show.",
+   "headline": "The little-known investment Martin Lewis wants you to understand...",
+   "blurb": "The little-known investment Martin Lewis wants you to understand",
    "source": "BBC",
-   "ts": "2026-10-23T11:58:19+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cmz6581p1ee8o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-23T15:41:28+00:00",
+   "url": "https://www.bbc.co.uk/news/videos/c8ly0357prl7o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Paxton sues OpenAI, Altman for failing to warn Texans about ChatGPT's 'dangers'",
-   "blurb": "Texas Attorney General Ken Paxton (R) sued OpenAI and its CEO Sam Altman on Friday, accusing the company of failing to warn consumers about the potential dangers from its AI models. The lawsuit alleges the ChatGPT maker is running afoul of a Texas consumer protection law and kids' online safety law, underscoring warnings about the...",
+   "headline": "Trump uses DPA to give $150M for gas and diesel",
+   "blurb": "{beacon} Energy & Environment Energy & Environment The Big Story Trump uses DPA to give $150M for gas and diesel President Trump invoked the Defense Production Act on Thursday night, announcing that the government would be spending $150 million toward boosting domestic gas and diesel production as the White House looks to ease consumer...",
    "source": "The Hill",
-   "ts": "2026-10-23T21:00:59+00:00",
-   "url": "https://thehill.com/policy/technology/6169375-paxton-sues-openai-chatgpt/"
+   "ts": "2026-10-23T22:24:42+00:00",
+   "url": "https://thehill.com/newsletters/energy-environment/6169571-trump-uses-dpa-to-give-150m-for-gas-and-diesel/"
   },
   {
    "category": "India Politics",
-   "headline": "Three arrested for allegedly stealing two-wheelers in Amberpet",
-   "blurb": "",
+   "headline": "Legal action ordered against officials over irregularities in voter list in Pilibhit",
+   "blurb": "Legal action will be taken against both the current and former election officials responsible for the discrepancies found in the voter list for constituency 127 – Pilibhit, reads an official statement by the State election commission",
    "source": "The Hindu",
-   "ts": "2026-10-23T19:38:10+00:00",
-   "url": "https://www.thehindu.com/news/national/telangana/three-arrested-for-allegedly-stealing-two-wheelers-in-amberpet/article71616901.ece"
+   "ts": "2026-10-23T20:27:00+00:00",
+   "url": "https://www.thehindu.com/news/national/uttar-pradesh/legal-action-ordered-against-officials-over-irregularities-in-voter-list-in-pilibhit/article71613043.ece"
   },
   {
    "category": "AI",
@@ -324,27 +324,27 @@
   },
   {
    "category": "Macro",
-   "headline": "Earnings limit of up to £140K for first-time buyers loan scheme",
-   "blurb": "The Your First Home scheme will offer government-backed loans for those buying new-builds in England.",
+   "headline": "Civil servant who juggled five jobs says he was 'surprised' to be charged with fraud",
+   "blurb": "Kashim Chowdhury denied being dishonest when not telling employers he had other jobs.",
    "source": "BBC",
-   "ts": "2026-10-23T11:48:04+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-23T15:15:13+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c6lykzwjkj1eo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Secret Service closes road near White House due to suspicious package",
-   "blurb": "The U.S. Secret Service and D.C. police are investigating reports of a “suspicious item” near the Eisenhower Executive Office Building, which resulted in a road closure. “Around 2:40 p.m., on October 23, 2026, Secret Service Police were notified of a suspicious item near 17th St. and Pennsylvania Avenue,” according to a statement from a Secret Service...",
+   "headline": "Stocks slide as oil prices rise again ahead of midterms",
+   "blurb": "Welcome to The Hill's Business & Economy newsletter {beacon} Business & Economy Business & Economy The Big Story Stocks slide as oil prices rise again ahead of midterms Stocks tumbled on Friday, as oil prices rose again amid the ongoing U.S.-Iran and Russia-Ukraine conflicts. © Yuki Iwamura, The Associated Press At closing, the...",
    "source": "The Hill",
-   "ts": "2026-10-23T20:51:25+00:00",
-   "url": "https://thehill.com/homenews/state-watch/6169374-secret-service-investigates-suspicious-item/"
+   "ts": "2026-10-23T22:21:05+00:00",
+   "url": "https://thehill.com/newsletters/business-economy/6169583-stocks-slide-as-oil-prices-rise-again-ahead-of-midterms/"
   },
   {
    "category": "India Politics",
-   "headline": "Cyclonic storm likely to hit North Andhra Pradesh coast on October 28, says IMD",
-   "blurb": "Red warnings for extremely heavy rain issued for October 27 and 28; fishermen who have ventured into the sea asked to return to shore",
+   "headline": "CREDAI Chennai sets up anti-corruption panel, frames SOP for reporting graft",
+   "blurb": "",
    "source": "The Hindu",
-   "ts": "2026-10-23T19:37:29+00:00",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclonic-storm-likely-to-hit-north-andhra-pradesh-coast-on-october-28-says-imd/article71617203.ece"
+   "ts": "2026-10-23T19:59:35+00:00",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/credai-chennai-sets-up-anti-corruption-panel-frames-sop-for-reporting-graft/article71617238.ece"
   },
   {
    "category": "AI",
@@ -380,27 +380,27 @@
   },
   {
    "category": "Macro",
-   "headline": "What is the Budget and what could be in it?",
-   "blurb": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
+   "headline": "What is PHP and why did it spark a global cyber-security scramble?",
+   "blurb": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
    "source": "BBC",
-   "ts": "2026-10-23T08:14:04+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-23T12:24:17+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Collins says certain Canadian goods now tariff-exempt",
-   "blurb": "Sen. Susan Collins (R-Maine) announced Friday that nine categories of Canadian products “crucial for Maine’s agricultural industries” will be exempted from U.S. tariffs. The types of exempted goods include paperboard cartons, plastic boxes, refrigeration equipment, agricultural cleaning and sorting machinery, packing and wrapping machinery and seaweed and algae products, among others, according to a press release...",
+   "headline": "Cook Political Report shifts Ohio governor's race from toss-up to lean Democrat",
+   "blurb": "The Cook Political Report is shifting a closely watched gubernatorial contest toward Democrats after a controversial campaign ad shook up the race. The nonpartisan election forecaster moved the governor’s race in Ohio from “toss up” to “lean Democrat,” now favoring Amy Acton (D) to beat Vivek Ramaswamy (R) in the Buckeye State. The race was...",
    "source": "The Hill",
-   "ts": "2026-10-23T20:20:46+00:00",
-   "url": "https://thehill.com/business/trade/6169025-maine-collins-exempts-canadian-products-tariffs/"
+   "ts": "2026-10-23T21:57:30+00:00",
+   "url": "https://thehill.com/homenews/campaign/6169489-cook-political-report-shifts-ohio/"
   },
   {
    "category": "India Politics",
-   "headline": "M.P. receives investment proposals of over ₹15,400 crore at semiconductor summit",
-   "blurb": "Chief Minister Mohan Yadav said that the government also received proposals worth around ₹5,800 that have potential to generate around 10,000 employment opportunities",
+   "headline": "No local body polls in Amaravati capital region villages of Andhra Pradesh",
+   "blurb": "Elections in villages where land pooling is under way have been kept pending for the time being as the government is working on a separate governance framework for the mega capital city",
    "source": "The Hindu",
-   "ts": "2026-10-23T19:35:21+00:00",
-   "url": "https://www.thehindu.com/news/national/madhya-pradesh/mp-receives-investment-proposals-of-over-15400-crore-at-semiconductor-summit/article71617335.ece"
+   "ts": "2026-10-23T19:43:46+00:00",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/no-local-body-polls-in-amaravati-villages-in-andhra-pradesh/article71616273.ece"
   },
   {
    "category": "AI",
@@ -436,27 +436,27 @@
   },
   {
    "category": "Macro",
-   "headline": "The Indian workers filming their work to train AI",
-   "blurb": "Indian workers are being paid to film themselves at work and the footage is used to train AI.",
+   "headline": "Island inflation rate rises to 3%, figures show",
+   "blurb": "The rising cost of food and alcohol drives an increase in the inflation rate, figures show.",
    "source": "BBC",
-   "ts": "2026-10-23T08:04:17+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-23T11:58:19+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cmz6581p1ee8o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Ukraine: Starlink still isn't working after Trump restoration promise",
-   "blurb": "Ukraine’s military on Friday struggled with a still-slowed Starlink satellite system despite President Trump’s promise a day earlier that SpaceX owner Elon Musk had restored the service. Connections with Starshield — the military version of Starlink, a major tool for Ukraine to defend itself from missile and drone attacks from Russia — continued to fail...",
+   "headline": "How will Democrats address UFO sightings if returned to the majority?",
+   "blurb": "Unidentified flying objects (UFOs) have long captivated Americans — a majority of whom, recent polling suggests, believe the government is hiding information about the phenomena. And the debate has also made its way to Capitol Hill. In recent years, conversations surrounding UFOs, which the government now refers to as unidentified anomalous phenomena (UAPs), have heated...",
    "source": "The Hill",
-   "ts": "2026-10-23T20:17:48+00:00",
-   "url": "https://thehill.com/policy/defense/6169204-ukraine-starlink-zelensky-trump-musk/"
+   "ts": "2026-10-23T21:43:56+00:00",
+   "url": "https://thehill.com/homenews/house/6169367-democrats-majority-congress-ufo-sightings-transparency/"
   },
   {
    "category": "India Politics",
-   "headline": "Bomb threat emails to Mumbai Mayor’s office, three Navi Mumbai schools trigger security alert",
-   "blurb": "Prompted by the threat, law enforcement authorities have launched a comprehensive investigation to verify the authenticity of the message",
+   "headline": "Local body polls: 14 cases booked on the last day of nominations, says Andhra Pradesh DGP",
+   "blurb": "36 platoons of Andhra Pradesh Special Police have been deployed as part of election bandobust",
    "source": "The Hindu",
-   "ts": "2026-10-23T19:29:49+00:00",
-   "url": "https://www.thehindu.com/news/cities/mumbai/email-warns-of-attacks-on-mumbai-mayors-office-bachchan-home-diljit-dosanjhs-concert/article71616086.ece"
+   "ts": "2026-10-23T19:40:00+00:00",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/local-body-polls-14-cases-booked-on-the-last-day-of-nominations-says-andhra-pradesh-dgp/article71617034.ece"
   },
   {
    "category": "AI",
