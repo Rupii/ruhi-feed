@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T10:46:32+00:00",
+ "updated": "2026-10-24T14:25:42+00:00",
  "count": 58,
  "stories": [
   {
@@ -12,11 +12,11 @@
   },
   {
    "category": "Crypto",
-   "headline": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
-   "blurb": "Two subscriptions on Thursday nearly quadrupled the fund’s tokens on the network. The receiving wallet shares its authorized signers with the issuer.",
+   "headline": "Wells Fargo, Cisco, Marvell among latest firms objecting to OKXICE's tokenized stock plan",
+   "blurb": "Six more companies have objected to listing tokenized versions of their stock on the venue, Reuters reported, bringing the total to 22.",
    "source": "CoinDesk",
-   "ts": "2026-10-24T04:45:43+00:00",
-   "url": "https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet"
+   "ts": "2026-10-24T14:06:24+00:00",
+   "url": "https://www.coindesk.com/business/2026/10/24/wells-fargo-cisco-marvell-among-latest-firms-objecting-to-okxice-s-tokenized-stock-plan"
   },
   {
    "category": "Gold",
@@ -29,34 +29,34 @@
   {
    "category": "Geopolitics",
    "headline": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
-   "blurb": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
+   "blurb": "Some 200 emergency personnel were deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
    "source": "BBC",
-   "ts": "2026-10-24T10:22:34+00:00",
+   "ts": "2026-10-24T14:16:05+00:00",
    "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Charity expects demand for Christmas present campaign",
-   "blurb": "The campaign, run by Little Stars, is running from today until 4 December.",
+   "headline": "Rising demand from families needing Christmas help",
+   "blurb": "Charlotte Riley says more families are reaching out for help for a variety of reasons.",
    "source": "BBC",
-   "ts": "2026-10-24T09:53:42+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cj62yvqvxd4qo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-24T11:55:35+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cqp8gjz4k7g6o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Early voting surges in battleground states as Democrats outpace GOP gains",
-   "blurb": "Early voting is surging in several key battleground states, giving Democrats hope that their strength in midterm polling could translate into a turnout advantage in November. In North Carolina, more than 1.2 million early ballots have been accepted, a 37 percent increase from the same point leading up to the 2022 midterms, according to an...",
+   "headline": "'You have this superpower' — how the left is weaponizing jury nullification",
+   "blurb": "The effort is to engineer \"Twelve Angry Men\" scenarios on real juries — but unlike in the movie, the jurors are actually being trained to ignore evidence and deliberations in favor of political outcomes.",
    "source": "The Hill",
-   "ts": "2026-10-24T10:00:00+00:00",
-   "url": "https://thehill.com/homenews/campaign/6169626-early-voting-battleground-states-democrats-republicans/"
+   "ts": "2026-10-24T14:00:00+00:00",
+   "url": "https://thehill.com/opinion/judiciary/6169577-jury-nullification-training-investigation/"
   },
   {
    "category": "India Politics",
-   "headline": "Delhi NEET protest: SC panel to hear evidence on pellet gun use, harassment claims on Oct 29, 30",
-   "blurb": "Members of the public and anyone affected by the violence can walk in between 11.30 a.m. and 3 p.m. on October 29 and 30 to submit complaints or representations, or present evidenc",
+   "headline": "NMC withdraws 2023 rules on medical education standards, raising accountability concerns",
+   "blurb": "MSMER-2023 withdrawal removes overlapping procedures, eliminates duplication, says NMC; medical activists say the move dilutes regulatory oversight, will ultimately put patients at risk",
    "source": "The Hindu",
-   "ts": "2026-10-24T10:36:23+00:00",
-   "url": "https://www.thehindu.com/news/cities/Delhi/delhi-neet-protest-sc-panel-to-hear-evidence-on-pellet-gun-use-harassment-claims-on-oct-29-30/article71619518.ece"
+   "ts": "2026-10-24T14:23:22+00:00",
+   "url": "https://www.thehindu.com/sci-tech/health/nmc-withdraws-2023-rules-on-medical-education-standards-raising-accountability-concerns/article71620086.ece"
   },
   {
    "category": "AI",
@@ -76,11 +76,11 @@
   },
   {
    "category": "Crypto",
-   "headline": "Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports",
-   "blurb": "The company's head of futures and prediction markets said bitcoin, gold and oil contracts are among its fastest-growing prediction markets.",
+   "headline": "Bitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO",
+   "blurb": "Borrowing against bitcoin and earning income to build their BTC holdings are becoming priorities for long-term investors, Xapo Bank CEO Seamus Rocca told CoinDesk.",
    "source": "CoinDesk",
-   "ts": "2026-10-23T13:58:56+00:00",
-   "url": "https://www.coindesk.com/markets/2026/10/23/robinhood-sees-surge-in-bitcoin-gold-prediction-markets-as-traders-move-beyond-sports"
+   "ts": "2026-10-24T14:00:00+00:00",
+   "url": "https://www.coindesk.com/"
   },
   {
    "category": "Gold",
@@ -92,35 +92,35 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "Woman, 65, becomes second patient to die of Ebola in Kenya",
-   "blurb": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.",
+   "headline": "Ukraine says Starlink connection 'now stable' after network limits",
+   "blurb": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
    "source": "BBC",
-   "ts": "2026-10-24T09:46:53+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-24T12:12:40+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "White House lifts tariffs on some Canadian goods as midterm elections loom",
-   "blurb": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
+   "headline": "Charity expects demand for Christmas present campaign",
+   "blurb": "The campaign, run by Little Stars, is running from today until 4 December.",
    "source": "BBC",
-   "ts": "2026-10-24T00:36:47+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-24T09:53:42+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cj62yvqvxd4qo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Why a blue wave might miss Minnesota's Senate race",
-   "blurb": "Political headwinds are blowing in Democrats’ favor nationally, with high gas prices and President Trump’s record-low approval rating creating a difficult midterm environment for Republicans. But in Minnesota’s open Senate race to replace retiring Sen. Tina Smith (D), Democrats are facing an unexpectedly competitive race. Lt. Gov. Peggy Flanagan (D) holds a slim lead over...",
+   "headline": "Government contractor arrested for allegedly leaking national defense information",
+   "blurb": "Federal authorities arrested a government contractor and charged him with leaking classified national defense information, the Department of Justice (DOJ) announced on Friday. FBI investigators have accused 42-year-old Ian Brinksman, an employee of a third-party company which provided services to a government agency, of leaking national defense information to his girlfriend, who writes an online...",
    "source": "The Hill",
-   "ts": "2026-10-24T10:00:00+00:00",
-   "url": "https://thehill.com/homenews/campaign/6169517-minnesota-senate-flanagan-tafoya/"
+   "ts": "2026-10-24T13:58:43+00:00",
+   "url": "https://thehill.com/policy/defense/6169997-contractor-arrested-leaking-defense-info/"
   },
   {
    "category": "India Politics",
-   "headline": "Prime accused are being spared without questioning, remarks Kerala HC on PSC exam irregularities case",
-   "blurb": "The PSC had approached the Court to quash the prosecution sanction granted by the government against the Commission’s employees, and the FIR registered in the case with the Crime Branch",
+   "headline": "Education, legal awareness key to preventing child abuse and child marriage: Women’s commission chief",
+   "blurb": "Education and legal awareness are essential to prevent child abuse and eradicate child marriage, says Karnataka State Commission for Women chairperson Nagalakshmi Chowdhary",
    "source": "The Hindu",
-   "ts": "2026-10-24T10:31:44+00:00",
-   "url": "https://www.thehindu.com/news/national/kerala/kerala-hc-flags-slow-probe-into-kpsc-planning-board-exam-irregularities/article71619524.ece"
+   "ts": "2026-10-24T14:22:33+00:00",
+   "url": "https://www.thehindu.com/news/national/karnataka/education-legal-awareness-key-to-preventing-child-abuse-and-child-marriage-womens-commission-chief/article71620108.ece"
   },
   {
    "category": "AI",
@@ -140,43 +140,43 @@
   },
   {
    "category": "Crypto",
-   "headline": "Bitcoin Core changes security rules as AI makes finding code bugs dangerously easy",
-   "blurb": "Developers merged a policy change that ends the months-long embargo for flaws a chatbot could rediscover, after a summer in which AI found hundreds of bitcoin bugs before the humans did.",
+   "headline": "U.S. Clarity Act failure gives Asia and Middle East a competitive edge, says Apex Group CEO",
+   "blurb": "Apex Group CEO Peter Hughes warned that the failure of the U.S. Clarity Act will drive digital asset businesses toward faster-moving jurisdictions in Asia and the Middle East.",
    "source": "CoinDesk",
-   "ts": "2026-10-23T12:03:53+00:00",
-   "url": "https://www.coindesk.com/tech/2026/10/23/bitcoin-will-now-stop-hiding-bugs-an-ai-can-find-in-one-prompt"
+   "ts": "2026-10-24T12:00:00+00:00",
+   "url": "https://www.coindesk.com/policy/2026/10/24/u-s-clarity-act-failure-gives-asia-and-middle-east-a-competitive-edge-says-apex-group-ceo"
   },
   {
    "category": "Geopolitics",
-   "headline": "Seven missing after multi-storey building collapses in Kenya's capital",
-   "blurb": "Rescue efforts are under way to find people trapped under the block, which was still under construction when it buckled.",
+   "headline": "Woman, 65, becomes second patient to die of Ebola in Kenya",
+   "blurb": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.",
    "source": "BBC",
-   "ts": "2026-10-24T09:44:01+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-24T09:46:53+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "How does the UK state pension compare with other countries?",
-   "blurb": "Do British pensioners have it better or worse than those in other countries?",
+   "headline": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+   "blurb": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
    "source": "BBC",
-   "ts": "2026-10-24T00:09:12+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-24T00:36:47+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Trump’s $8 billion farm lifeline won’t fully solve farmers’ diesel problem",
-   "blurb": "The Trump administration’s $8 billion relief program for farmers is throwing a lifeline to the industry, but producers are still facing lower margins due to high diesel prices amid the Iran war — and experts say the move might only buy time for solving deeper challenges. Through the initiative announced earlier this week, farmers will...",
+   "headline": "Trump hints that White House press area may be moved to another location",
+   "blurb": "President Trump pushed back Saturday morning against reports he was considering replacing the White House press briefing room with an indoor swimming pool but said he was considering moving media “to a less obnoxious location.” On Tuesday, The New York Times reported Trump expressed to aides he would like to bring back an indoor pool...",
    "source": "The Hill",
-   "ts": "2026-10-24T10:00:00+00:00",
-   "url": "https://thehill.com/business/6169485-trump-farm-relief-diesel-prices/"
+   "ts": "2026-10-24T13:51:47+00:00",
+   "url": "https://thehill.com/homenews/administration/6169992-trump-denies-press-room-swimming-pool/"
   },
   {
    "category": "India Politics",
-   "headline": "Current struggle not merely limited to resignation Gyanesh Kumar, it is also a fight to regain democratic space: CPI(M) MP John Brittas",
-   "blurb": "The Union government resorted to more repressive tactics against the second round of protests because the BJP leaders feel that if they buckle once more, it would be a disaster with far reaching consequences, Mr. Brittas said",
+   "headline": "Telangana would have weathered El Nino better but for BRS regime mistakes: Uttam Kumar Reddy",
+   "blurb": "He says the finalisation of designs for rehabilitation of Kaleshwaram Barrages is in advanced stage",
    "source": "The Hindu",
-   "ts": "2026-10-24T10:20:11+00:00",
-   "url": "https://www.thehindu.com/news/national/kerala/current-struggle-not-merely-limited-to-resignation-gyanesh-kumar-it-is-also-a-fight-to-regain-democratic-space-cpim-mp-john-brittas/article71619246.ece"
+   "ts": "2026-10-24T14:20:07+00:00",
+   "url": "https://www.thehindu.com/news/national/telangana/telangana-would-have-weathered-el-nino-better-but-for-brs-regime-mistakes-uttam-kumar-reddy/article71620155.ece"
   },
   {
    "category": "AI",
@@ -196,43 +196,43 @@
   },
   {
    "category": "Crypto",
-   "headline": "Bitcoin's price is as jumpy as Nvidia's and eight times more turbulent than the euro",
-   "blurb": "Your day-ahead look for Oct. 23, 2026",
+   "headline": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
+   "blurb": "Two subscriptions on Thursday nearly quadrupled the fund’s tokens on the network. The receiving wallet shares its authorized signers with the issuer.",
    "source": "CoinDesk",
-   "ts": "2026-10-23T11:22:33+00:00",
-   "url": "https://www.coindesk.com/daybook-us/2026/10/23/bitcoin-s-volatility-is-well-above-euro-dollar-gyrations-though-it-has-calmed-to-rival-nvidia-s"
+   "ts": "2026-10-24T04:45:43+00:00",
+   "url": "https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet"
   },
   {
    "category": "Geopolitics",
-   "headline": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
-   "blurb": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
+   "headline": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
+   "blurb": "The children were subsequently rescued from the water, police say.",
    "source": "BBC",
-   "ts": "2026-10-24T07:17:44+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-24T09:45:47+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "UK to invest £100m in 'world first' AI Biosecurity Lab",
-   "blurb": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
+   "headline": "How does the UK state pension compare with other countries?",
+   "blurb": "Do British pensioners have it better or worse than those in other countries?",
    "source": "BBC",
-   "ts": "2026-10-24T00:05:45+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-24T00:09:12+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "DNI warned Rubio of 'advanced' Iranian efforts to target US personnel, memo shows",
-   "blurb": "Iranian plots to target and kill U.S. officials in the Middle East have \"substantially increased,\" according to a declassified intelligence memo dated Friday, with these efforts reportedly reaching \"advanced stages.\" The warning, addressed to Secretary of State Marco Rubio from Director of National Intelligence Jay Clayton, came days after the State Department ordered the departure...",
+   "headline": "DOJ demands California counties identify noncitizen voters: Reports",
+   "blurb": "The Department of Justice (DOJ) on Friday sent letters to election officials in every California county asking that they identify potential noncitizens on their voter rolls, according to several reports. The letter warned local officials would “risk significant federal scrutiny” if they failed to comply with this request, The New York Times reported, citing a...",
    "source": "The Hill",
-   "ts": "2026-10-24T03:24:37+00:00",
-   "url": "https://thehill.com/policy/international/6169784-clayton-warns-rubio-iran-threats/"
+   "ts": "2026-10-24T13:10:41+00:00",
+   "url": "https://thehill.com/homenews/administration/6169959-doj-warns-california-election-officials/"
   },
   {
    "category": "India Politics",
-   "headline": "Courts cannot be unmindful when precious water bodies remain unprotected: SC",
-   "blurb": "The Court directed States and Wetland Authorities to undertake physical ground-truthing of water bodies, if not already done, and file a compliance affidavit detailing the mode and method adopted for the exercise",
+   "headline": "Shivamogga Dasara: Did MLA instruct officers to change order of elephants?",
+   "blurb": "",
    "source": "The Hindu",
-   "ts": "2026-10-24T10:14:23+00:00",
-   "url": "https://www.thehindu.com/news/national/supreme-court-mandates-ground-truthing-and-demarcation-of-wetlands/article71619623.ece"
+   "ts": "2026-10-24T14:19:49+00:00",
+   "url": "https://www.thehindu.com/news/national/karnataka/shivamogga-dasara-did-mla-instruct-officers-to-change-order-of-elephants/article71619499.ece"
   },
   {
    "category": "AI",
@@ -252,43 +252,43 @@
   },
   {
    "category": "Crypto",
-   "headline": "Live updates: Bitcoin holds above $81,000 as oil prices hit six-month high",
-   "blurb": "Brent crude oil surged above $116 per barrel for the first time since late April.",
+   "headline": "Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports",
+   "blurb": "The company's head of futures and prediction markets said bitcoin, gold and oil contracts are among its fastest-growing prediction markets.",
    "source": "CoinDesk",
-   "ts": "2026-10-23T11:13:01+00:00",
-   "url": "https://www.coindesk.com/markets/2026/10/23/live-updates-bitcoin-holds-above-usd81-000-as-the-ai-rout-fades-and-oil-climbs"
+   "ts": "2026-10-23T13:58:56+00:00",
+   "url": "https://www.coindesk.com/markets/2026/10/23/robinhood-sees-surge-in-bitcoin-gold-prediction-markets-as-traders-move-beyond-sports"
   },
   {
    "category": "Geopolitics",
-   "headline": "Minneapolis withdrawal was 'surrender', Trump's ex-border patrol chief tells BBC",
-   "blurb": "Greg Bovino was the public face of the controversial immigration enforcement operation in the city earlier this year.",
+   "headline": "Seven missing after multi-storey building collapses in Kenya's capital",
+   "blurb": "Rescue efforts are under way to find people trapped under the block, which was still under construction when it buckled.",
    "source": "BBC",
-   "ts": "2026-10-24T05:31:01+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/ck20rery78lro?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-24T09:44:01+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Before you crank up the thermostat, try these tips to keep your house warmer for longer",
-   "blurb": "Make draught excluders from socks, leave your oven door open after cooking and opt for lots of thin layers of clothing to stay warm.",
+   "headline": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+   "blurb": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
    "source": "BBC",
-   "ts": "2026-10-23T23:50:45+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cqr7yeed1ed7o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-24T00:05:45+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Rubio floats CIA 'partnership' to Cubans tired of 'failed promises, corruption'",
-   "blurb": "Secretary of State Marco Rubio offered Cubans a discreet CIA partnership opportunity in a Friday social media post, saying \"now is the time\" for those looking to \"create positive change” in the Caribbean country. “The disappointment of failed promises, corruption, and the privileged lives of only a few; seize this opportunity to create the change...",
+   "headline": "Live Updates: Obama, Harris to campaign for Democrats in 3 battleground states; Trump travels to Georgia",
+   "blurb": "President Trump has held rallies throughout the week in Iowa, Kansas, Florida and more, but leaders of the Democratic Party are set to hold a midterm blitz of their own on Saturday ahead of Election Day. Former President Obama is expected to make two Midwest trips to Cleveland, Ohio and Detroit, Mich. to help move...",
    "source": "The Hill",
-   "ts": "2026-10-24T02:51:14+00:00",
-   "url": "https://thehill.com/homenews/administration/6169754-rubio-offers-cia-cuban-partnership/"
+   "ts": "2026-10-24T13:00:00+00:00",
+   "url": "https://thehill.com/homenews/administration/6169684-live-updates-obama-harris-to-campaign-for-democrats-in-3-battleground-states-trump-travels-to-georgia/"
   },
   {
    "category": "India Politics",
-   "headline": "Low pressure over Bay of Bengal likely to turn into cyclonic storm | Live",
-   "blurb": "Andhra Pradesh State Disaster Management Authority (APSDMA) lists Konaseema, West Godavari, Krishna, Guntur, Bapatla, Prakasam and the Rayalaseema districts for rain",
+   "headline": "Kanneri Mutt seer to launch Basavadhama Centre of Excellence in 2027",
+   "blurb": "Adrushya Kadasiddheshwar Swami of Kanneri Mutt has proposed establishing the Basavadhama Centre of Excellence, an initiative to provide coaching for competitive examinations and career development opportunities for young people. The centre is expected to commence operations by June 2027.",
    "source": "The Hindu",
-   "ts": "2026-10-24T10:12:36+00:00",
-   "url": "https://www.thehindu.com/news/national/bay-of-bengal-weather-update-cyclone-alert-latest-weather-news-live-updates-october-24-2026/article71619022.ece"
+   "ts": "2026-10-24T14:12:06+00:00",
+   "url": "https://www.thehindu.com/news/national/karnataka/kanneri-mutt-seer-to-launch-basavadhama-centre-of-excellence-in-2027/article71620382.ece"
   },
   {
    "category": "AI",
@@ -308,43 +308,43 @@
   },
   {
    "category": "Crypto",
-   "headline": "Bitcoin steadies near $81,700 as altcoins rebound, pepe climbs 13%",
-   "blurb": "Bitcoin rose 0.5% to around $81,700 since midnight UTC while the CoinDesk 80 gained 1.4% and memecoins climbed 2.9%.",
+   "headline": "Bitcoin Core changes security rules as AI makes finding code bugs dangerously easy",
+   "blurb": "Developers merged a policy change that ends the months-long embargo for flaws a chatbot could rediscover, after a summer in which AI found hundreds of bitcoin bugs before the humans did.",
    "source": "CoinDesk",
-   "ts": "2026-10-23T10:54:41+00:00",
-   "url": "https://www.coindesk.com/markets/2026/10/23/bitcoin-steadies-near-usd81-700-as-altcoins-rebound-pepe-climbs-13"
+   "ts": "2026-10-23T12:03:53+00:00",
+   "url": "https://www.coindesk.com/tech/2026/10/23/bitcoin-will-now-stop-hiding-bugs-an-ai-can-find-in-one-prompt"
   },
   {
    "category": "Geopolitics",
-   "headline": "How Brazil's changing working class is reshaping the presidential race",
-   "blurb": "Calls for change present a challenge to President Lula in the second round of the election on Sunday.",
+   "headline": "Three released without charge after fatal arson attack in Ireland",
+   "blurb": "Three people - two women and one man - have been released, and one person remains in custody, gardaí say.",
    "source": "BBC",
-   "ts": "2026-10-24T05:05:44+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cw80zx79nkvno?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-24T09:38:28+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cv0ld9571511o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "The little-known investment Martin Lewis wants you to understand...",
-   "blurb": "The little-known investment Martin Lewis wants you to understand",
+   "headline": "Before you crank up the thermostat, try these tips to keep you and your home warmer for longer",
+   "blurb": "Make draught excluders from socks, leave your oven door open after cooking and opt for lots of thin layers of clothing to stay warm.",
    "source": "BBC",
-   "ts": "2026-10-23T15:41:28+00:00",
-   "url": "https://www.bbc.co.uk/news/videos/c8ly0357prl7o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-23T23:50:45+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cqr7yeed1ed7o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Peltola calls Alaska lawsuit a 'desperate attempt' for GOP to 'cling to power'",
-   "blurb": "Alaska Senate candidate Mary Peltola (D) responded to the Justice Department's (DOJ) lawsuit seeking to block her state from certifying its election results should her Republican challenger lose, saying Friday the move was \"frivolous.\" “This is clearly corruption. This is clearly a very desperate attempt to cling to power, using his allies in Washington, D.C....",
+   "headline": "A dangerous El Niño could turn hunger into famine",
+   "blurb": "The developing El Niño could push millions more people into hunger.",
    "source": "The Hill",
-   "ts": "2026-10-24T01:53:56+00:00",
-   "url": "https://thehill.com/blogs/ballot-box/6169725-peltola-slams-alaska-doj-lawsuit-sullivan/"
+   "ts": "2026-10-24T13:00:00+00:00",
+   "url": "https://thehill.com/opinion/international/6166650-el-nino-hunger-warnings/"
   },
   {
    "category": "India Politics",
-   "headline": "Residents block road seeking removal of tree in Gobichettipalayam",
-   "blurb": "Waterlogging had weakened the roots of the tree, leaving it in a precarious condition, residents said",
+   "headline": "YSRCP mayor candidate promises Vizianagaram development on par with metro cities",
+   "blurb": "",
    "source": "The Hindu",
-   "ts": "2026-10-24T10:11:28+00:00",
-   "url": "https://www.thehindu.com/news/cities/Coimbatore/residents-block-road-seeking-removal-of-tree-in-gobichettipalayam/article71619335.ece"
+   "ts": "2026-10-24T14:12:03+00:00",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-mayor-candidate-promises-vizianagaram-development-on-par-with-metro-cities/article71619904.ece"
   },
   {
    "category": "AI",
@@ -364,43 +364,43 @@
   },
   {
    "category": "Crypto",
-   "headline": "Bitcoin appears to have decoupled from midterm cycle bottom history",
-   "blurb": "Previous bitcoin bear-market lows followed U.S. midterms, but this year’s recovery raises the possibility that the bottom arrived months earlier.",
+   "headline": "Bitcoin's price is as jumpy as Nvidia's and eight times more turbulent than the euro",
+   "blurb": "Your day-ahead look for Oct. 23, 2026",
    "source": "CoinDesk",
-   "ts": "2026-10-23T10:53:09+00:00",
-   "url": "https://www.coindesk.com/markets/2026/10/23/bitcoin-approaches-midterms-as-july-low-challenges-historical-cycle-pattern"
+   "ts": "2026-10-23T11:22:33+00:00",
+   "url": "https://www.coindesk.com/daybook-us/2026/10/23/bitcoin-s-volatility-is-well-above-euro-dollar-gyrations-though-it-has-calmed-to-rival-nvidia-s"
   },
   {
    "category": "Geopolitics",
-   "headline": "The rise of AI election ads in US midterms campaign",
-   "blurb": "BBC Verify has tracked dozens of AI ads to assess how they are being used by campaigns in the midterms.",
+   "headline": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
+   "blurb": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
    "source": "BBC",
-   "ts": "2026-10-24T05:03:44+00:00",
-   "url": "https://www.bbc.co.uk/news/videos/cm62y59zw8zko?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-24T07:17:44+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Civil servant who juggled five jobs says he was 'surprised' to be charged with fraud",
-   "blurb": "Kashim Chowdhury denied being dishonest when not telling employers he had other jobs.",
+   "headline": "The little-known investment Martin Lewis wants you to understand...",
+   "blurb": "The little-known investment Martin Lewis wants you to understand",
    "source": "BBC",
-   "ts": "2026-10-23T15:15:13+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c6lykzwjkj1eo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-23T15:41:28+00:00",
+   "url": "https://www.bbc.co.uk/news/videos/c8ly0357prl7o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Kennedy rolls out US-caught seafood labeling, Seafood.gov",
-   "blurb": "The Trump administration unveiled new initiatives for U.S. fishermen Friday, including a new government website known as Seafood.gov. At a rally in Fort Myers, Fla., Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. announced the creation of a voluntary label made for U.S.-caught fish, which the Food and Drug Administration (FDA) began offering...",
+   "headline": "Jennings: Ramaswamy's campaign tactics 'worst politics you could imagine'",
+   "blurb": "Republican commentator Scott Jennings took a swipe at Ohio gubernatorial candidate Vivek Ramaswamy (R) for using a controversial campaign ad featuring his opponent’s estranged mother. The ad, which Ramaswamy’s campaign is now spending $4 million to broadcast statewide, features Democratic gubernatorial candidate Amy Acton’s mother, Donna Arthur, accusing Acton of being a “liar” her whole...",
    "source": "The Hill",
-   "ts": "2026-10-23T23:40:48+00:00",
-   "url": "https://thehill.com/homenews/administration/6169656-trump-rfk-unveil-us-seafood-label/"
+   "ts": "2026-10-24T12:57:46+00:00",
+   "url": "https://thehill.com/homenews/campaign/6169950-ramaswamy-campaign-ad-jennings/"
   },
   {
    "category": "India Politics",
-   "headline": "Ray of hope for drought-hit Telangana as low pressure over Bay of Bengal likely to bring heavy rain",
-   "blurb": "The IMD has issued a red alert for Mulugu, Bhadradri Kothagudem and Khammam districts, forecasting heavy to very heavy rainfall, with isolated extremely heavy rainfall likely",
+   "headline": "Meeshapulimala opens to tourists as Neelakurinji blooms",
+   "blurb": "It is a rare occurrence as Neelakurinji usually does not bloom at such high altitudes",
    "source": "The Hindu",
-   "ts": "2026-10-24T10:10:56+00:00",
-   "url": "https://www.thehindu.com/news/national/telangana/ray-of-hope-for-drought-hit-telangana-as-low-pressure-over-bay-of-bengal-likely-to-bring-heavy-rain/article71619552.ece"
+   "ts": "2026-10-24T14:11:38+00:00",
+   "url": "https://www.thehindu.com/news/national/kerala/meeshapulimala-opens-to-tourists-as-neelakurinji-blooms/article71620134.ece"
   },
   {
    "category": "AI",
@@ -420,43 +420,43 @@
   },
   {
    "category": "Crypto",
-   "headline": "HSBC rolls out its first stablecoin to over 3 million everyday app users",
-   "blurb": "HSBC and Standard Chartered-led Anchorpoint received Hong Kong’s first stablecoin issuer licenses in April. Anchorpoint began rolling out HKDAP in August.",
+   "headline": "Live updates: Bitcoin holds above $81,000 as oil prices hit six-month high",
+   "blurb": "Brent crude oil surged above $116 per barrel for the first time since late April.",
    "source": "CoinDesk",
-   "ts": "2026-10-23T10:22:56+00:00",
-   "url": "https://www.coindesk.com/business/2026/10/23/hsbc-rolls-out-its-first-stablecoin-to-over-3-million-everyday-app-users"
+   "ts": "2026-10-23T11:13:01+00:00",
+   "url": "https://www.coindesk.com/markets/2026/10/23/live-updates-bitcoin-holds-above-usd81-000-as-the-ai-rout-fades-and-oil-climbs"
   },
   {
    "category": "Geopolitics",
-   "headline": "Australian MP's condition improves after alleged car attack",
-   "blurb": "The independent MP is now in a serious but stable condition, according to the Melbourne hospital.",
+   "headline": "Minneapolis withdrawal was 'surrender', Trump's ex-border patrol chief tells BBC",
+   "blurb": "Greg Bovino was the public face of the controversial immigration enforcement operation in the city earlier this year.",
    "source": "BBC",
-   "ts": "2026-10-24T01:55:15+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-24T05:31:01+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/ck20rery78lro?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "What is PHP and why did it spark a global cyber-security scramble?",
-   "blurb": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
+   "headline": "Civil servant who juggled five jobs says he was 'surprised' to be charged with fraud",
+   "blurb": "Kashim Chowdhury denied being dishonest when not telling employers he had other jobs.",
    "source": "BBC",
-   "ts": "2026-10-23T12:24:17+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-23T15:15:13+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c6lykzwjkj1eo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "About half concerned Republicans could try to overturn midterm results: Survey",
-   "blurb": "A new poll released Friday suggests half of Americans are concerned Republicans may try to overturn the results of November’s midterm election. Fifty percent of respondents to the New York Times/Siena University survey said they were either \"very\" or \"somewhat worried\" the GOP may use “illegal means” to overturn the election, compared to 49 percent...",
+   "headline": "Ukraine reports Starlink operating again after slowdown",
+   "blurb": "Ukraine’s Starlink satellite links have been restored after the country experienced limitations with accessing this critical technology, the Ukrainian defense minister said Saturday. SpaceX’s military-grade version of Starlink, called Starshield, supports Ukraine’s drone operations and communication. Ukrainian Defense Minister Yevhenii Khmara told reporters on a call that the ministry’s monitoring systems now reported stable connections...",
    "source": "The Hill",
-   "ts": "2026-10-23T23:01:44+00:00",
-   "url": "https://thehill.com/blogs/ballot-box/6169602-americans-fear-gop-overturning-election-poll/"
+   "ts": "2026-10-24T12:07:11+00:00",
+   "url": "https://thehill.com/policy/international/6169915-starlink-starshield-access-restored/"
   },
   {
    "category": "India Politics",
-   "headline": "Delhi court remands content creator Amir Shokeen in five-day police custody in racial abuse case",
-   "blurb": "Police told the court that Shokeen needs to be taken to Ahmedabad for identification and arrest of other persons allegedly involved in the incident",
+   "headline": "Karnataka High Court orders regularisation of service of retired woman typist who worked 34 years on daily wages",
+   "blurb": "",
    "source": "The Hindu",
-   "ts": "2026-10-24T10:07:17+00:00",
-   "url": "https://www.thehindu.com/news/national/delhi-court-remands-content-creator-amir-shokeen-in-five-day-police-custody-in-racial-abuse-case/article71619384.ece"
+   "ts": "2026-10-24T14:11:35+00:00",
+   "url": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-orders-regularisation-of-service-of-retired-woman-typist-who-worked-34-years-on-daily-wages/article71619980.ece"
   },
   {
    "category": "AI",
