@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T11:12:39+00:00",
+ "updated": "2026-10-25T15:59:54+00:00",
  "count": 58,
  "stories": [
   {
@@ -12,11 +12,11 @@
   },
   {
    "category": "Crypto",
-   "headline": "Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends",
-   "blurb": "The securities have financed purchases of nearly 136,000 bitcoin, opening a funding channel that analysts expect to complement the larger ETF market.",
+   "headline": "Latvia targets tokenization rules in 2027 with commercial property in focus",
+   "blurb": "Economics Minister Viktors Valainis says rules could arrive in the first half of next year, but an overdue assessment remains unfinished and no sovereign-bond issuance was identified.",
    "source": "CoinDesk",
-   "ts": "2026-10-24T16:00:00+00:00",
-   "url": "https://www.coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends"
+   "ts": "2026-10-25T15:00:00+00:00",
+   "url": "https://www.coindesk.com/business/2026/10/25/latvia-targets-tokenization-rules-in-2027-with-commercial-property-in-focus"
   },
   {
    "category": "Gold",
@@ -28,11 +28,11 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "Voters in Brazil head to polls as Lula goes up against Bolsonaro's son",
-   "blurb": "Flávio Bolsonaro, the son of Brazil's imprisoned ex-president, is challenging Lula, who is seeking a fourth term in office.",
+   "headline": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
+   "blurb": "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said.",
    "source": "BBC",
-   "ts": "2026-10-25T11:00:26+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-25T15:32:51+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
@@ -44,27 +44,27 @@
   },
   {
    "category": "US Politics",
-   "headline": "The next wave of Trump cases headed toward the Supreme Court",
-   "blurb": "The Supreme Court is already confronting President Trump’s agenda this term, but a lot more is still coming. The administration is petitioning the justices to take up 13 additional cases, The Hill’s analysis of the court’s docket shows. Unlike lower courts, the justices choose which cases they hear. They’re still taking up cases for...",
+   "headline": "Scaramucci compares Ramaswamy to pigs in ‘Animal Farm,' predicts loss",
+   "blurb": "Former White House communications director Anthony Scaramucci on Sunday compared Ohio gubernatorial candidate Vivek Ramaswamy (R) to the pig characters in the George Orwell novel \"Animal Farm\" and predicted that the candidate will lose to opponent Amy Acton (D). \"Vivek Ramswamy has disgraced himself,\" Scaramucci wrote on the social platform X. \"Ramaswamy started with soaring...",
    "source": "The Hill",
-   "ts": "2026-10-25T10:00:00+00:00",
-   "url": "https://thehill.com/regulation/court-battles/6169487-supreme-court-trump-administration-petitions/"
+   "ts": "2026-10-25T15:00:01+00:00",
+   "url": "https://thehill.com/homenews/state-watch/6170719-scaramucci-animal-farm-ramaswamy/"
   },
   {
    "category": "India Politics",
-   "headline": "MCC renews push for ‘flex-free’ city beyond Dasara",
-   "blurb": "The MCC said the campaign had helped preserve Mysuru’s cleanliness, aesthetic appeal and heritage character during Dasara",
+   "headline": "Yamunotri, Kedarnath receive season’s first snowfall",
+   "blurb": "Pilgrims at Yamunotri were thrilled to witness the snowfall, with devotees who had arrived to seek the blessings of Goddess Yamuna taking the opportunity to enjoy the natural scenery amid the falling snow",
    "source": "The Hindu",
-   "ts": "2026-10-25T11:09:11+00:00",
-   "url": "https://www.thehindu.com/news/national/karnataka/mcc-renews-push-for-flex-free-city-beyond-dasara/article71623051.ece"
+   "ts": "2026-10-25T15:52:47+00:00",
+   "url": "https://www.thehindu.com/news/national/uttarakhand/yamunotri-kedarnath-receive-seasons-first-snowfall/article71623722.ece"
   },
   {
    "category": "AI",
-   "headline": "Blue Planet III is keeping the rough edges in the age of AI",
-   "blurb": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished and seamless. To counter that, Blue […]",
+   "headline": "r/opensource just banned AI, non-English speakers, and more",
+   "blurb": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today, is incongruent to this Open Source […]",
    "source": "The Verge",
-   "ts": "2026-10-24T21:29:12+00:00",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai"
+   "ts": "2026-10-25T13:52:12+00:00",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban"
   },
   {
    "category": "Equities",
@@ -76,11 +76,11 @@
   },
   {
    "category": "Crypto",
-   "headline": "Block's new voice AI sounds eerily human, sparking awe and scam fears",
-   "blurb": "Reactions split between amazement at how human it sounds and fears it could fuel scams and deception, with CZ eyeing uses in children’s education.",
+   "headline": "UK banks face 10,000 complaints in 3 months over crypto restrictions",
+   "blurb": "The U.K. claims to aspire to become a global cryptocurrency hub, an ambition that would appear to be at odds with the attitude to crypto purchases of its major banks.",
    "source": "CoinDesk",
-   "ts": "2026-10-24T15:21:06+00:00",
-   "url": "https://www.coindesk.com/tech/2026/10/24/block-s-new-voice-ai-sounds-eerily-human-sparking-awe-and-scam-fears"
+   "ts": "2026-10-25T13:00:00+00:00",
+   "url": "https://www.coindesk.com/policy/2026/10/22/uk-banks-face-10-000-complaints-in-3-months-over-crypto-restrictions"
   },
   {
    "category": "Gold",
@@ -92,11 +92,11 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "El Salvador president says bodies found in Haiti are not those of hostages",
-   "blurb": "Nayib Bukele says bodies delivered to soldiers are \"not our men\" amid search for Salvadorans abducted last week.",
+   "headline": "Early reports suggest record high turnout in Serbia elections",
+   "blurb": "Serbia is heading to the polls as a student movement attempts to oust longtime populist leader Aleksandar Vučić.",
    "source": "BBC",
-   "ts": "2026-10-25T10:55:33+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-25T15:07:00+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
@@ -108,19 +108,75 @@
   },
   {
    "category": "US Politics",
-   "headline": "7 nastiest moments of a mean campaign season",
-   "blurb": "Election season is known for fiery policy exchanges and personal attacks, but November’s midterms have been marked by notable moments that have been criticized for going beyond the pale. From a controversial campaign ad in Ohio to a candidate telling his opponent to “shut up” on the debate stage, closely contested battleground races have become...",
+   "headline": "SNAP winners and losers: Which states are facing possible funding cuts?",
+   "blurb": "Time is ticking for states to slash their error rates or risk losing a sizable amount of federal funding for SNAP.",
    "source": "The Hill",
-   "ts": "2026-10-25T10:00:00+00:00",
-   "url": "https://thehill.com/homenews/state-watch/6166259-seven-midterm-election-notable-attacks/"
+   "ts": "2026-10-25T15:00:00+00:00",
+   "url": "https://thehill.com/homenews/state-watch/6067157-snap-winners-and-losers-which-states-are-facing-possible-funding-cuts/"
   },
   {
    "category": "India Politics",
-   "headline": "Eminent painter Jogen Chowdhury dies at 87; Suvendu, Mamata pay tribute",
-   "blurb": "Jogen Chowdhury, a former TMC MP, had been suffering from a myeloproliferative neoplasm, a rare type of blood cancer, for the past 14 months and was undergoing chemotherapy",
+   "headline": "Monsoon tracker LIVE: Depression over Bay of Bengal to intensify into cyclonic storm by October 26",
+   "blurb": "Under the influence of the impending Very Severe Cyclonic Storm over the Westcentral Bay of Bengal, extremely heavy rainfall is likely over Coastal Andhra Pradesh, Odisha, Telangana and Chhattisgarh in the coming days",
    "source": "The Hindu",
-   "ts": "2026-10-25T11:05:32+00:00",
-   "url": "https://www.thehindu.com/news/national/west-bengal/eminent-painter-jogen-chowdhury-dies-at-87-suvendu-mamata-pay-tribute/article71623064.ece"
+   "ts": "2026-10-25T15:49:57+00:00",
+   "url": "https://www.thehindu.com/news/national/cyclone-andhra-pradesh-odisha-live-updates-october-25-2026/article71622459.ece"
+  },
+  {
+   "category": "AI",
+   "headline": "Blue Planet III is keeping the rough edges in the age of AI",
+   "blurb": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished and seamless. To counter that, Blue […]",
+   "source": "The Verge",
+   "ts": "2026-10-24T21:29:12+00:00",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai"
+  },
+  {
+   "category": "Equities",
+   "headline": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
+   "blurb": "Housing data deteriorated further in September, according to separate reports Tuesday.",
+   "source": "CNBC",
+   "ts": "2026-10-21T11:20:58+00:00",
+   "url": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html"
+  },
+  {
+   "category": "Crypto",
+   "headline": "Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends",
+   "blurb": "The securities have financed purchases of nearly 136,000 bitcoin, opening a funding channel that analysts expect to complement the larger ETF market.",
+   "source": "CoinDesk",
+   "ts": "2026-10-24T16:00:00+00:00",
+   "url": "https://www.coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends"
+  },
+  {
+   "category": "Geopolitics",
+   "headline": "Gabon says access to social media restored after eight-month ban",
+   "blurb": "The authorities had justified the ban by saying online content was fuelling conflict, while the opposition had condemned it as an abuse of power.",
+   "source": "BBC",
+   "ts": "2026-10-25T14:39:47+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "category": "Macro",
+   "headline": "Heating oil costs 'more than double' ahead of winter",
+   "blurb": "Middleton in Teesdale has no mains gas supply so many residents use expensive heating oil.",
+   "source": "BBC",
+   "ts": "2026-10-25T07:12:21+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c6n8de1jgrdvo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "category": "US Politics",
+   "headline": "How America can bring film and television production home",
+   "blurb": "The newly introduced Motion Picture, Television, and Entertainment Revitalization Act seeks to implement a federal tax incentive to combat the trend of film and television production moving overseas.",
+   "source": "The Hill",
+   "ts": "2026-10-25T15:00:00+00:00",
+   "url": "https://thehill.com/opinion/finance/6169628-federal-film-tax-incentive/"
+  },
+  {
+   "category": "India Politics",
+   "headline": "Kalaburagi’s GI-tagged tur dal wins PM’s praise after export to Maldives",
+   "blurb": "",
+   "source": "The Hindu",
+   "ts": "2026-10-25T15:48:52+00:00",
+   "url": "https://www.thehindu.com/news/national/karnataka/kalaburagis-gi-tagged-tur-dal-wins-pms-praise-after-maldives-export/article71623784.ece"
   },
   {
    "category": "AI",
@@ -132,11 +188,67 @@
   },
   {
    "category": "Equities",
-   "headline": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
-   "blurb": "Housing data deteriorated further in September, according to separate reports Tuesday.",
+   "headline": "UK inflation jumps to 3.5% — cementing rate hike expectations",
+   "blurb": "U.K. inflation rose by a hotter-than-expected 3.5% in the 12 months to September, driven by the surging cost of motor fuels.",
    "source": "CNBC",
-   "ts": "2026-10-21T11:20:58+00:00",
-   "url": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html"
+   "ts": "2026-10-21T07:50:10+00:00",
+   "url": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html"
+  },
+  {
+   "category": "Crypto",
+   "headline": "Block's new voice AI sounds eerily human, sparking awe and scam fears",
+   "blurb": "Reactions split between amazement at how human it sounds and fears it could fuel scams and deception, with CZ eyeing uses in children’s education.",
+   "source": "CoinDesk",
+   "ts": "2026-10-24T15:21:06+00:00",
+   "url": "https://www.coindesk.com/tech/2026/10/24/block-s-new-voice-ai-sounds-eerily-human-sparking-awe-and-scam-fears"
+  },
+  {
+   "category": "Geopolitics",
+   "headline": "El Salvador president says bodies found in Haiti are not those of hostages",
+   "blurb": "Nayib Bukele says bodies delivered to soldiers are \"not our men\" amid search for Salvadorans abducted last week.",
+   "source": "BBC",
+   "ts": "2026-10-25T10:55:33+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "category": "Macro",
+   "headline": "How families are cutting the cost of Halloween as spending grows",
+   "blurb": "Families are turning to homemade costumes, swaps and second-hand outfits to keep it affordable.",
+   "source": "BBC",
+   "ts": "2026-10-25T07:09:56+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c64g1kjgrl47o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "category": "US Politics",
+   "headline": "Blanche: Alaska Senate race is 'not a fair fight' to Trump",
+   "blurb": "Attorney General Todd Blanche on Sunday said President Trump doesn’t consider Alaska’s Senate race to be a fair contest because of the controversial appearance on the ballot of a candidate with the same name as incumbent Sen. Dan Sullivan (R), which he argued could confuse voters and potentially cost Republicans the seat. Speaking on CNN’s...",
+   "source": "The Hill",
+   "ts": "2026-10-25T14:42:49+00:00",
+   "url": "https://thehill.com/homenews/state-watch/6170732-trump-alaska-senate-lawsuit/"
+  },
+  {
+   "category": "India Politics",
+   "headline": "Trained 108 ambulance EMTs to provide first aid for eye trauma",
+   "blurb": "",
+   "source": "The Hindu",
+   "ts": "2026-10-25T15:47:02+00:00",
+   "url": "https://www.thehindu.com/news/national/telangana/trained-108-ambulance-emts-to-provide-first-aid-for-eye-trauma/article71624067.ece"
+  },
+  {
+   "category": "AI",
+   "headline": "OpenAI now trains its frontier AI models with no internet access",
+   "blurb": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk of affecting external systems.\" OpenAI paused training its frontier […]",
+   "source": "The Verge",
+   "ts": "2026-10-23T21:11:07+00:00",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet"
+  },
+  {
+   "category": "Equities",
+   "headline": "Car buyers are demanding lower prices and better tech. Automakers must deliver both",
+   "blurb": "Bain says tech leads purchase considerations in China while price remains No. 1 in the U.S. and Europe, as pressure mounts on Western carmakers.",
+   "source": "CNBC",
+   "ts": "2026-10-21T01:01:01+00:00",
+   "url": "https://www.cnbc.com/2026/10/20/car-buyers-china-tech-price-europe.html"
   },
   {
    "category": "Crypto",
@@ -156,43 +268,43 @@
   },
   {
    "category": "Macro",
-   "headline": "Heating oil costs 'more than double' ahead of winter",
-   "blurb": "Middleton in Teesdale has no mains gas supply so many residents use expensive heating oil.",
+   "headline": "Firms 'holding back' on new jobs ahead of Budget",
+   "blurb": "Some businesses say they want to see employment costs come down in the October Budget.",
    "source": "BBC",
-   "ts": "2026-10-25T07:12:21+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c6n8de1jgrdvo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-25T07:06:12+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c62kep355q02o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Newsom amasses fundraising machine that could power 2028 bid",
-   "blurb": "If California Gov. Gavin Newsom enters the 2028 presidential race, as many Democrats expect, he’ll walk in with an asset other White House hopefuls will inarguably envy: A small-dollar fundraising and organizing machine powered by a massive and ever-growing contact list of potential supporters across the country. Even before last year’s successful Proposition 50 redistricting...",
+   "headline": "How Trump learned to stop worrying and love space science",
+   "blurb": "He recognizes a cool thing when he sees it.",
    "source": "The Hill",
-   "ts": "2026-10-25T10:00:00+00:00",
-   "url": "https://thehill.com/policy/technology/6169492-gavin-newsom-fundraising-network-midterm-elections/"
+   "ts": "2026-10-25T14:00:00+00:00",
+   "url": "https://thehill.com/opinion/technology/6168963-trump-saves-nasa-venus-probes/"
   },
   {
    "category": "India Politics",
-   "headline": "Heavy rain lashes Puducherry",
-   "blurb": "A distant cautionary signal No. 1 was hoisted at Puducherry port. Fishermen have been asked to stay off the seas.",
+   "headline": "TGSRTC woman conductor pushed off a moving bus by passenger, injured",
+   "blurb": "",
    "source": "The Hindu",
-   "ts": "2026-10-25T11:03:44+00:00",
-   "url": "https://www.thehindu.com/news/cities/puducherry/heavy-rain-lashes-puducherry/article71622916.ece"
+   "ts": "2026-10-25T15:44:50+00:00",
+   "url": "https://www.thehindu.com/news/national/telangana/tgsrtc-woman-conductor-pushed-off-a-moving-bus-by-passenger-injured/article71624089.ece"
   },
   {
    "category": "AI",
-   "headline": "OpenAI now trains its frontier AI models with no internet access",
-   "blurb": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk of affecting external systems.\" OpenAI paused training its frontier […]",
+   "headline": "Google’s AI search changes upended online publishing",
+   "blurb": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The digital publishing industry has relied on […]",
    "source": "The Verge",
-   "ts": "2026-10-23T21:11:07+00:00",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet"
+   "ts": "2026-10-23T20:42:34+00:00",
+   "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing"
   },
   {
    "category": "Equities",
-   "headline": "UK inflation jumps to 3.5% — cementing rate hike expectations",
-   "blurb": "U.K. inflation rose by a hotter-than-expected 3.5% in the 12 months to September, driven by the surging cost of motor fuels.",
+   "headline": "Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why",
+   "blurb": "The history of technological progress suggests that as AI spreads, the employment impact will hit women more than men.",
    "source": "CNBC",
-   "ts": "2026-10-21T07:50:10+00:00",
-   "url": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html"
+   "ts": "2026-10-19T18:36:21+00:00",
+   "url": "https://www.cnbc.com/2026/10/19/ai-job-losses-women-automation-risk.html"
   },
   {
    "category": "Crypto",
@@ -212,27 +324,27 @@
   },
   {
    "category": "Macro",
-   "headline": "How families are cutting the cost of Halloween as spending grows",
-   "blurb": "Families are turning to homemade costumes, swaps and second-hand outfits to keep it affordable.",
+   "headline": "Will a new code end 'rip-off parking charges'?",
+   "blurb": "The prime minister says a new code will end \"rip-off parking charges\" - but will it work?",
    "source": "BBC",
-   "ts": "2026-10-25T07:09:56+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c64g1kjgrl47o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-25T07:05:30+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/ckjwe90z56ewo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "James Fishback allegedly blocked from entering Florida Republicans' rally",
-   "blurb": "Former gubernatorial candidate James Fishback (R) said he was stopped from entering a Get Out the Vote rally in Clearwater, Fla. hosted by Rep. Anna Paulina Luna (R-Fla.) on Saturday. Fishback said him and wife were told that he was “not welcome here” when trying to enter the venue, local news station CBS 12 reported....",
+   "headline": "Trump calls Murkowski a 'disgrace' to Alaska, criticizes ranked choice voting",
+   "blurb": "President Trump went after Sen. Lisa Murkowski (R-Alaska) and Alaska’s ranked choice voting system on Saturday. “The Republicans’ Worst Senator, by far, Lisa Murkowski, of the Great State of Alaska (A State for which I produced, on a continuing basis, Billions and Billions of Dollars, and which Crooked Joe Biden and the Dumocrats had totally...",
    "source": "The Hill",
-   "ts": "2026-10-25T02:44:07+00:00",
-   "url": "https://thehill.com/homenews/campaign/6170496-fishback-denied-luna-rally/"
+   "ts": "2026-10-25T13:53:24+00:00",
+   "url": "https://thehill.com/homenews/state-watch/6170659-trump-attacks-murkowski-ranked-choice-voting/"
   },
   {
    "category": "India Politics",
-   "headline": "Delhi schoolgirl's death: Police question teachers, examine CCTV footage",
-   "blurb": "Teams are probing multiple angles in this case. A suspected breakup of the girl is also under scanner. Teams are questioning her classmates, family and friends, the police source said",
+   "headline": "Three North Andhra districts step up cyclone preparedness",
+   "blurb": "",
    "source": "The Hindu",
-   "ts": "2026-10-25T10:59:03+00:00",
-   "url": "https://www.thehindu.com/news/cities/Delhi/delhi-schoolgirls-death-police-question-teachers-examine-cctv-footage/article71623066.ece"
+   "ts": "2026-10-25T15:44:17+00:00",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/three-north-andhra-districts-step-up-cyclone-preparedness/article71624037.ece"
   },
   {
    "category": "AI",
@@ -244,11 +356,11 @@
   },
   {
    "category": "Equities",
-   "headline": "Car buyers are demanding lower prices and better tech. Automakers must deliver both",
-   "blurb": "Bain says tech leads purchase considerations in China while price remains No. 1 in the U.S. and Europe, as pressure mounts on Western carmakers.",
+   "headline": "India’s finance minister says market liquidity makes it easier for investors to exit",
+   "blurb": "Sitharaman identified fuel, fertilizer and access to capital as risks for India’s economy in 2027.",
    "source": "CNBC",
-   "ts": "2026-10-21T01:01:01+00:00",
-   "url": "https://www.cnbc.com/2026/10/20/car-buyers-china-tech-price-europe.html"
+   "ts": "2026-10-19T08:23:33+00:00",
+   "url": "https://www.cnbc.com/2026/10/18/india-ai-nifty50-sensex-investors.html"
   },
   {
    "category": "Crypto",
@@ -268,27 +380,27 @@
   },
   {
    "category": "Macro",
-   "headline": "Firms 'holding back' on new jobs ahead of Budget",
-   "blurb": "Some businesses say they want to see employment costs come down in the October Budget.",
+   "headline": "Budget 2026: No more fat to trim for 'squeezed middle'",
+   "blurb": "As the chancellor finalises his first Budget, how are the \"squeezed middle\" feeling about costs?",
    "source": "BBC",
-   "ts": "2026-10-25T07:06:12+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c62kep355q02o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-25T06:21:23+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c6gel54940qno?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "ACLU, Common Cause file motion against DOJ over Alaska election certification block",
-   "blurb": "Nonprofit watchdog group Common Cause, represented by attorneys from American Civil Liberties Union (ACLU), has filed a motion to intervene in the Justice Department’s lawsuit over Alaska’s Senate election. The Department of Justice filed a lawsuit Thursday claiming that the presence of a candidate with the same name as incumbent Sen. Dan Sullivan (R) could...",
+   "headline": "Bill Ackman urges Israelis to exclude far-right ministers ahead of elections",
+   "blurb": "Billionaire hedge fund investor Bill Ackman called for Israel’s next government to exclude far-right National Security Minister Itamar Ben-Gvir and Finance Minister Bezalel Smotrich days before Israeli voters head to the polls, arguing that both have damaged the country’s international reputation. “Itamar Ben-Gvir and Bezalel Smotrich have caused Israel enormous reputational damage with their statements...",
    "source": "The Hill",
-   "ts": "2026-10-25T01:47:27+00:00",
-   "url": "https://thehill.com/regulation/court-battles/6170458-common-cause-aclu-intervene-alaska-election/"
+   "ts": "2026-10-25T13:24:48+00:00",
+   "url": "https://thehill.com/policy/international/6170670-israel-ackman-ben-gvir-smotrich/"
   },
   {
    "category": "India Politics",
-   "headline": "Cyclone over Bay of Bengal to bring heavy rain across South India, Odisha, West Bengal; red alerts issued in multiple States | LIVE",
-   "blurb": "The Regional Meteorological Centre (RMC) has forecast heavy to very heavy rain at isolated places in Tamil Nadu's Chennai, northern, delta and western districts",
+   "headline": "String theory pioneer Ashoke Sen wins Oskar Klein Medal",
+   "blurb": "The Oskar Klein Medal is awarded by Stockholm University and the Nobel Committee for Physics of the Royal Swedish Academy of Sciences",
    "source": "The Hindu",
-   "ts": "2026-10-25T10:57:48+00:00",
-   "url": "https://www.thehindu.com/news/national/cyclone-andhra-pradesh-odisha-live-updates-october-25-2026/article71622459.ece"
+   "ts": "2026-10-25T15:42:18+00:00",
+   "url": "https://www.thehindu.com/sci-tech/science/award-winning-theoretical-physicist-ashoke-sen-has-focused-on-string-theory/article71623560.ece"
   },
   {
    "category": "AI",
@@ -300,11 +412,11 @@
   },
   {
    "category": "Equities",
-   "headline": "Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why",
-   "blurb": "The history of technological progress suggests that as AI spreads, the employment impact will hit women more than men.",
+   "headline": "U.S. budget deficit swells to almost $2 trillion for fiscal 2026, up 12% in a single year",
+   "blurb": "The Treasury Department published the U.S. budget deficit for the 2026 fiscal year.",
    "source": "CNBC",
-   "ts": "2026-10-19T18:36:21+00:00",
-   "url": "https://www.cnbc.com/2026/10/19/ai-job-losses-women-automation-risk.html"
+   "ts": "2026-10-16T22:34:29+00:00",
+   "url": "https://www.cnbc.com/2026/10/16/us-budget-deficit-2026.html"
   },
   {
    "category": "Crypto",
@@ -324,118 +436,6 @@
   },
   {
    "category": "Macro",
-   "headline": "Will a new code end 'rip-off parking charges'?",
-   "blurb": "The prime minister says a new code will end \"rip-off parking charges\" - but will it work?",
-   "source": "BBC",
-   "ts": "2026-10-25T07:05:30+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/ckjwe90z56ewo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "category": "US Politics",
-   "headline": "Musk says he was behind Starlink's slowdown in Ukraine",
-   "blurb": "Elon Musk on Saturday alluded to being behind last week’s Starlink slowdown in Ukraine which impacted the country’s military capabilities. “Ukraine military violated Starlink terms of service and used it for offensive drone strikes to kill people. That loophole was closed last week,” Musk said in a post on social platform X. The slowdown happened...",
-   "source": "The Hill",
-   "ts": "2026-10-25T00:44:31+00:00",
-   "url": "https://thehill.com/policy/international/6170415-musk-starlink-ukraine-slowdown/"
-  },
-  {
-   "category": "India Politics",
-   "headline": "India advises its nationals in Saudi Arabia against filming missile interceptions",
-   "blurb": "The Indian mission also shared an update about the suspension of flights from Air India and Air India Express to and from Riyadh and Dammam",
-   "source": "The Hindu",
-   "ts": "2026-10-25T10:56:19+00:00",
-   "url": "https://www.thehindu.com/news/national/india-advises-its-nationals-in-saudi-arabia-against-filming-missile-interceptions/article71622868.ece"
-  },
-  {
-   "category": "AI",
-   "headline": "Now Google says it might use your Gmail and Google Photos data to target ads",
-   "blurb": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for personalized ads. While the previous […]",
-   "source": "The Verge",
-   "ts": "2026-10-23T16:52:55+00:00",
-   "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update"
-  },
-  {
-   "category": "Equities",
-   "headline": "India’s finance minister says market liquidity makes it easier for investors to exit",
-   "blurb": "Sitharaman identified fuel, fertilizer and access to capital as risks for India’s economy in 2027.",
-   "source": "CNBC",
-   "ts": "2026-10-19T08:23:33+00:00",
-   "url": "https://www.cnbc.com/2026/10/18/india-ai-nifty50-sensex-investors.html"
-  },
-  {
-   "category": "Crypto",
-   "headline": "Bitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO",
-   "blurb": "Borrowing against bitcoin and earning income to build their BTC holdings are becoming priorities for long-term investors, Xapo Bank CEO Seamus Rocca told CoinDesk.",
-   "source": "CoinDesk",
-   "ts": "2026-10-24T14:00:00+00:00",
-   "url": "https://www.coindesk.com/business/2026/10/24/bitcoin-s-wealthy-holders-turning-to-loans-and-yield-as-investment-habits-mature-xapo-ceo"
-  },
-  {
-   "category": "Geopolitics",
-   "headline": "Israel to close West Bank crossings on election day as crackdown escalates",
-   "blurb": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election.",
-   "source": "BBC",
-   "ts": "2026-10-25T05:15:52+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "category": "Macro",
-   "headline": "Budget 2026: No more fat to trim for 'squeezed middle'",
-   "blurb": "As the chancellor finalises his first Budget, how are the \"squeezed middle\" feeling about costs?",
-   "source": "BBC",
-   "ts": "2026-10-25T06:21:23+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c6gel54940qno?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "category": "US Politics",
-   "headline": "Obama on Trump White House: ‘Like Saddam Hussein opened a Cheesecake Factory’",
-   "blurb": "Former President Barack Obama poked fun at President Trump's various Washington, D.C.-area renovation projects during a campaign stop in Cleveland, Ohio, where he was stumping for Democratic gubernatorial candidate Amy Acton and Senate candidate Sherrod Brown. In his speech, Obama zeroed in on the changes President Trump has made to the White House during his...",
-   "source": "The Hill",
-   "ts": "2026-10-25T00:05:25+00:00",
-   "url": "https://thehill.com/homenews/campaign/6170405-obama-mocks-trump-white-house/"
-  },
-  {
-   "category": "India Politics",
-   "headline": "Kadapa police to seek cancellation of TDP spokesperson’s gun licence after alleged firing in Nandalur",
-   "blurb": "Tirupati, Kadapa police clueless over the licensed, but unrecorded weapon",
-   "source": "The Hindu",
-   "ts": "2026-10-25T10:54:48+00:00",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/kadapa-police-to-seek-cancellation-of-tdp-spokespersons-gun-licence-after-alleged-firing-in-nandalur/article71622917.ece"
-  },
-  {
-   "category": "AI",
-   "headline": "Meta delays new business terms after publisher pushback on AI scraping",
-   "blurb": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company. In a statement to The Verge, Meta spokesperson Daniel Roberts says the terms will go into effect on November 20th \"to allow […]",
-   "source": "The Verge",
-   "ts": "2026-10-23T14:47:41+00:00",
-   "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping"
-  },
-  {
-   "category": "Equities",
-   "headline": "U.S. budget deficit swells to almost $2 trillion for fiscal 2026, up 12% in a single year",
-   "blurb": "The Treasury Department published the U.S. budget deficit for the 2026 fiscal year.",
-   "source": "CNBC",
-   "ts": "2026-10-16T22:34:29+00:00",
-   "url": "https://www.cnbc.com/2026/10/16/us-budget-deficit-2026.html"
-  },
-  {
-   "category": "Crypto",
-   "headline": "U.S. Clarity Act failure gives Asia and Middle East a competitive edge, says Apex Group CEO",
-   "blurb": "Apex Group CEO Peter Hughes warned that the failure of the U.S. Clarity Act will drive digital asset businesses toward faster-moving jurisdictions in Asia and the Middle East.",
-   "source": "CoinDesk",
-   "ts": "2026-10-24T12:00:00+00:00",
-   "url": "https://www.coindesk.com/policy/2026/10/24/u-s-clarity-act-failure-gives-asia-and-middle-east-a-competitive-edge-says-apex-group-ceo"
-  },
-  {
-   "category": "Geopolitics",
-   "headline": "Gunmen kill at least 10 villagers and loot shops in north-east Nigeria",
-   "blurb": "Police are searching for other casualties, with officials warning the actual death toll could rise further.",
-   "source": "BBC",
-   "ts": "2026-10-25T03:20:16+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "category": "Macro",
    "headline": "Four ways Labour could raise money in the Budget without hiking income tax",
    "blurb": "Chancellor John Healey may need to raise money to boost his fiscal headroom - BBC Verify examines what options could be on the table.",
    "source": "BBC",
@@ -444,27 +444,27 @@
   },
   {
    "category": "US Politics",
-   "headline": "Obama jokes about Hegseth's 'focus on jawlines and testosterone' in Ohio campaign stop",
-   "blurb": "President Obama took aim at Defense Secretary Pete Hegseth for his perceived focus on soldiers' appearances and testosterone levels during a campaign stop in Cleveland, Ohio on Saturday while campaign for gubernatorial candidate Amy Acton and Senate candidate Sherrod Brown. The former president's speech went after several Republican figures and recent scandals, often jokingly, as...",
+   "headline": "Live updates: Trump heads to Michigan; Blanche defends DOJ's Alaska lawsuit",
+   "blurb": "With less than two weeks to go before the midterms, the Trump administration is ramping up its warnings about voter fraud and is not ruling out the prospect of weighing in on states’ election certification efforts. The Justice Department (DOJ) reportedly sent letters Friday to California election officials, directing them to identify potential noncitizens on...",
    "source": "The Hill",
-   "ts": "2026-10-24T23:48:11+00:00",
-   "url": "https://thehill.com/homenews/campaign/6170381-obama-criticizes-hegseth-testosterone/"
+   "ts": "2026-10-25T13:07:23+00:00",
+   "url": "https://thehill.com/homenews/administration/6170651-live-updates-trump-michigan-todd-blanche-doj-lawsuits/"
   },
   {
    "category": "India Politics",
-   "headline": "IAS reshuffle in Tamil Nadu: Laxmi Priya to hold additional charge as Special Officer of Mudhalvarin Mugavari",
-   "blurb": "",
+   "headline": "Pramoda Devi expresses ‘deep disappointment’ over conduct of Dasara 2026; proposes shifting deity’s Ambari procession to Rathotsava day",
+   "blurb": "Seeks palace premises free of government activities on Ayudha Puja, Vijayadashami; cites security lapses and lack of coordination",
    "source": "The Hindu",
-   "ts": "2026-10-25T10:48:03+00:00",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/ias-reshuffle-in-tamil-nadu-laxmi-priya-to-hold-additional-charge-as-special-officer-of-mudhalvarin-mugavari/article71622984.ece"
+   "ts": "2026-10-25T15:41:09+00:00",
+   "url": "https://www.thehindu.com/news/national/karnataka/pramoda-devi-expresses-deep-disappointment-over-conduct-of-dasara-2026-proposes-shifting-deitys-ambari-procession-to-rathotsava-day/article71623569.ece"
   },
   {
    "category": "AI",
-   "headline": "Retro gaming is being overrun with AI",
-   "blurb": "Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality. Over the past month or so, these kinds of unexpected projects have gone viral with incredible frequency thanks to new AI tools, as […]",
+   "headline": "Now Google says it might use your Gmail and Google Photos data to target ads",
+   "blurb": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for personalized ads. While the previous […]",
    "source": "The Verge",
-   "ts": "2026-10-23T13:52:15+00:00",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port"
+   "ts": "2026-10-23T16:52:55+00:00",
+   "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update"
   }
  ]
 }
