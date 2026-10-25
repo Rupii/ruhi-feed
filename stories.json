@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T05:55:42+00:00",
+ "updated": "2026-10-25T11:12:39+00:00",
  "count": 58,
  "stories": [
   {
@@ -28,35 +28,35 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
-   "blurb": "Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries.",
+   "headline": "Voters in Brazil head to polls as Lula goes up against Bolsonaro's son",
+   "blurb": "Flávio Bolsonaro, the son of Brazil's imprisoned ex-president, is challenging Lula, who is seeking a fourth term in office.",
    "source": "BBC",
-   "ts": "2026-10-25T04:16:52+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-25T11:00:26+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
    "headline": "Budget to include £1bn for social and affordable housing",
    "blurb": "The move will take funding for the 10-year programme to more than £40bn.",
    "source": "BBC",
-   "ts": "2026-10-25T02:57:30+00:00",
+   "ts": "2026-10-25T10:03:17+00:00",
    "url": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "James Fishback allegedly blocked from entering Florida Republicans' rally",
-   "blurb": "Former gubernatorial candidate James Fishback (R) said he was stopped from entering a Get Out the Vote rally in Clearwater, Fla. hosted by Rep. Anna Paulina Luna (R-Fla.) on Saturday. Fishback said him and wife were told that he was “not welcome here” when trying to enter the venue, local news station CBS 12 reported....",
+   "headline": "The next wave of Trump cases headed toward the Supreme Court",
+   "blurb": "The Supreme Court is already confronting President Trump’s agenda this term, but a lot more is still coming. The administration is petitioning the justices to take up 13 additional cases, The Hill’s analysis of the court’s docket shows. Unlike lower courts, the justices choose which cases they hear. They’re still taking up cases for...",
    "source": "The Hill",
-   "ts": "2026-10-25T02:44:07+00:00",
-   "url": "https://thehill.com/homenews/campaign/6170496-fishback-denied-luna-rally/"
+   "ts": "2026-10-25T10:00:00+00:00",
+   "url": "https://thehill.com/regulation/court-battles/6169487-supreme-court-trump-administration-petitions/"
   },
   {
    "category": "India Politics",
-   "headline": "Theaterisation must reflect India’s security needs: Air Chief Marshal",
-   "blurb": "The IAF chief added that future conflicts will be multi-domain by their very nature, and the three services will plan and operate together \"far more closely than ever before.\"",
+   "headline": "MCC renews push for ‘flex-free’ city beyond Dasara",
+   "blurb": "The MCC said the campaign had helped preserve Mysuru’s cleanliness, aesthetic appeal and heritage character during Dasara",
    "source": "The Hindu",
-   "ts": "2026-10-25T05:24:14+00:00",
-   "url": "https://www.thehindu.com/news/national/theaterisation-must-reflect-indias-security-needs-air-chief-marshal/article71622594.ece"
+   "ts": "2026-10-25T11:09:11+00:00",
+   "url": "https://www.thehindu.com/news/national/karnataka/mcc-renews-push-for-flex-free-city-beyond-dasara/article71623051.ece"
   },
   {
    "category": "AI",
@@ -92,35 +92,35 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "Palestinian families displaced as Israeli forces demolish Hebron homes",
-   "blurb": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
+   "headline": "El Salvador president says bodies found in Haiti are not those of hostages",
+   "blurb": "Nayib Bukele says bodies delivered to soldiers are \"not our men\" amid search for Salvadorans abducted last week.",
    "source": "BBC",
-   "ts": "2026-10-24T23:02:06+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-25T10:55:33+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
    "headline": "Rosebank: Life on the oil field at the centre of a political storm",
    "blurb": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate.",
    "source": "BBC",
-   "ts": "2026-10-24T23:15:18+00:00",
+   "ts": "2026-10-25T07:15:38+00:00",
    "url": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "ACLU, Common Cause file motion against DOJ over Alaska election certification block",
-   "blurb": "Nonprofit watchdog group Common Cause, represented by attorneys from American Civil Liberties Union (ACLU), has filed a motion to intervene in the Justice Department’s lawsuit over Alaska’s Senate election. The Department of Justice filed a lawsuit Thursday claiming that the presence of a candidate with the same name as incumbent Sen. Dan Sullivan (R) could...",
+   "headline": "7 nastiest moments of a mean campaign season",
+   "blurb": "Election season is known for fiery policy exchanges and personal attacks, but November’s midterms have been marked by notable moments that have been criticized for going beyond the pale. From a controversial campaign ad in Ohio to a candidate telling his opponent to “shut up” on the debate stage, closely contested battleground races have become...",
    "source": "The Hill",
-   "ts": "2026-10-25T01:47:27+00:00",
-   "url": "https://thehill.com/regulation/court-battles/6170458-common-cause-aclu-intervene-alaska-election/"
+   "ts": "2026-10-25T10:00:00+00:00",
+   "url": "https://thehill.com/homenews/state-watch/6166259-seven-midterm-election-notable-attacks/"
   },
   {
    "category": "India Politics",
-   "headline": "Amit Shah hails ‘lethal blow’ to international narco-cartel following anti-narcotics operation in Assam, Mizoram and Manipur",
-   "blurb": "The operation carried out by multiple agencies brought to light hawala transactions worth ₹100 crore, froze 1,424 bank accounts, and attached properties worth ₹17.82 crore",
+   "headline": "Eminent painter Jogen Chowdhury dies at 87; Suvendu, Mamata pay tribute",
+   "blurb": "Jogen Chowdhury, a former TMC MP, had been suffering from a myeloproliferative neoplasm, a rare type of blood cancer, for the past 14 months and was undergoing chemotherapy",
    "source": "The Hindu",
-   "ts": "2026-10-25T05:22:11+00:00",
-   "url": "https://www.thehindu.com/news/national/amit-shah-hails-lethal-blow-to-international-narco-cartel-following-anti-narcotics-operation-in-assam-mizoram-and-manipur/article71622593.ece"
+   "ts": "2026-10-25T11:05:32+00:00",
+   "url": "https://www.thehindu.com/news/national/west-bengal/eminent-painter-jogen-chowdhury-dies-at-87-suvendu-mamata-pay-tribute/article71623064.ece"
   },
   {
    "category": "AI",
@@ -148,35 +148,35 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "Who are the candidates in Brazil's presidential election?",
-   "blurb": "Voters in Sunday's election are choosing between two very different candidates, as Americas correspondent Ione Wells reports from Rio de Janeiro.",
+   "headline": "More than 1,300 arrested as clashes follow another day of mass protests across France",
+   "blurb": "Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries.",
    "source": "BBC",
-   "ts": "2026-10-24T22:08:47+00:00",
-   "url": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-25T10:38:15+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Rising demand from families needing Christmas help",
-   "blurb": "Charlotte Riley says more families are reaching out for help for a variety of reasons.",
+   "headline": "Heating oil costs 'more than double' ahead of winter",
+   "blurb": "Middleton in Teesdale has no mains gas supply so many residents use expensive heating oil.",
    "source": "BBC",
-   "ts": "2026-10-24T11:55:35+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cqp8gjz4k7g6o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-25T07:12:21+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c6n8de1jgrdvo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Musk says he was behind Starlink's slowdown in Ukraine",
-   "blurb": "Elon Musk on Saturday alluded to being behind last week’s Starlink slowdown in Ukraine which impacted the country’s military capabilities. “Ukraine military violated Starlink terms of service and used it for offensive drone strikes to kill people. That loophole was closed last week,” Musk said in a post on social platform X. The slowdown happened...",
+   "headline": "Newsom amasses fundraising machine that could power 2028 bid",
+   "blurb": "If California Gov. Gavin Newsom enters the 2028 presidential race, as many Democrats expect, he’ll walk in with an asset other White House hopefuls will inarguably envy: A small-dollar fundraising and organizing machine powered by a massive and ever-growing contact list of potential supporters across the country. Even before last year’s successful Proposition 50 redistricting...",
    "source": "The Hill",
-   "ts": "2026-10-25T00:44:31+00:00",
-   "url": "https://thehill.com/policy/international/6170415-musk-starlink-ukraine-slowdown/"
+   "ts": "2026-10-25T10:00:00+00:00",
+   "url": "https://thehill.com/policy/technology/6169492-gavin-newsom-fundraising-network-midterm-elections/"
   },
   {
    "category": "India Politics",
-   "headline": "When safety slips through a gaping hole",
-   "blurb": "A recent fatal accident at the Thirumayilai MRTS railway station has once again highlighted the huge gaps in the maintenance and safety of MRTS stations in Chennai. With the Railway Board giving the go-ahead for handing over the service to CMRL, this report throws light on what needs to be done",
+   "headline": "Heavy rain lashes Puducherry",
+   "blurb": "A distant cautionary signal No. 1 was hoisted at Puducherry port. Fishermen have been asked to stay off the seas.",
    "source": "The Hindu",
-   "ts": "2026-10-25T05:09:13+00:00",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/when-safety-slips-through-a-gaping-hole/article71620990.ece"
+   "ts": "2026-10-25T11:03:44+00:00",
+   "url": "https://www.thehindu.com/news/cities/puducherry/heavy-rain-lashes-puducherry/article71622916.ece"
   },
   {
    "category": "AI",
@@ -204,35 +204,35 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "Fireworks and tear gas as protesters and riot police clash in Paris",
-   "blurb": "The BBC's Europe correspondent reports from Paris where mostly peaceful protests turned into unrest after nightfall.",
+   "headline": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+   "blurb": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
    "source": "BBC",
-   "ts": "2026-10-24T19:37:35+00:00",
-   "url": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-25T09:00:00+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Charity expects demand for Christmas present campaign",
-   "blurb": "The campaign, run by Little Stars, is running from today until 4 December.",
+   "headline": "How families are cutting the cost of Halloween as spending grows",
+   "blurb": "Families are turning to homemade costumes, swaps and second-hand outfits to keep it affordable.",
    "source": "BBC",
-   "ts": "2026-10-24T09:53:42+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cj62yvqvxd4qo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-25T07:09:56+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c64g1kjgrl47o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Obama on Trump White House: ‘Like Saddam Hussein opened a Cheesecake Factory’",
-   "blurb": "Former President Barack Obama poked fun at President Trump's various Washington, D.C.-area renovation projects during a campaign stop in Cleveland, Ohio, where he was stumping for Democratic gubernatorial candidate Amy Acton and Senate candidate Sherrod Brown. In his speech, Obama zeroed in on the changes President Trump has made to the White House during his...",
+   "headline": "James Fishback allegedly blocked from entering Florida Republicans' rally",
+   "blurb": "Former gubernatorial candidate James Fishback (R) said he was stopped from entering a Get Out the Vote rally in Clearwater, Fla. hosted by Rep. Anna Paulina Luna (R-Fla.) on Saturday. Fishback said him and wife were told that he was “not welcome here” when trying to enter the venue, local news station CBS 12 reported....",
    "source": "The Hill",
-   "ts": "2026-10-25T00:05:25+00:00",
-   "url": "https://thehill.com/homenews/campaign/6170405-obama-mocks-trump-white-house/"
+   "ts": "2026-10-25T02:44:07+00:00",
+   "url": "https://thehill.com/homenews/campaign/6170496-fishback-denied-luna-rally/"
   },
   {
    "category": "India Politics",
-   "headline": "Andhra braces for very severe cyclonic storm; Odisha activates disaster mitigation machinery | LIVE",
-   "blurb": "The Regional Meteorological Centre (RMC) has forecast heavy to very heavy rain at isolated places in Tamil Nadu's Chennai, northern, delta and western districts",
+   "headline": "Delhi schoolgirl's death: Police question teachers, examine CCTV footage",
+   "blurb": "Teams are probing multiple angles in this case. A suspected breakup of the girl is also under scanner. Teams are questioning her classmates, family and friends, the police source said",
    "source": "The Hindu",
-   "ts": "2026-10-25T05:05:55+00:00",
-   "url": "https://www.thehindu.com/news/national/cyclone-andhra-pradesh-odisha-live-updates-october-25-2026/article71622459.ece"
+   "ts": "2026-10-25T10:59:03+00:00",
+   "url": "https://www.thehindu.com/news/cities/Delhi/delhi-schoolgirls-death-police-question-teachers-examine-cctv-footage/article71623066.ece"
   },
   {
    "category": "AI",
@@ -260,35 +260,35 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
-   "blurb": "The ex-wife of Donald Trump Jr, with whom she shares five children, announced in May that she had been diagnosed with breast cancer.",
+   "headline": "'I cannot teach you integrity': How employee theft is hurting small businesses in Africa",
+   "blurb": "That Girl Boina's post about why she had closed her beauty parlour struck a nerve with other small business owners.",
    "source": "BBC",
-   "ts": "2026-10-24T19:12:51+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-25T08:36:47+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cmz98plpjzplo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "White House lifts tariffs on some Canadian goods as midterm elections loom",
-   "blurb": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
+   "headline": "Firms 'holding back' on new jobs ahead of Budget",
+   "blurb": "Some businesses say they want to see employment costs come down in the October Budget.",
    "source": "BBC",
-   "ts": "2026-10-24T00:36:47+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-25T07:06:12+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c62kep355q02o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Obama jokes about Hegseth's 'focus on jawlines and testosterone' in Ohio campaign stop",
-   "blurb": "President Obama took aim at Defense Secretary Pete Hegseth for his perceived focus on soldiers' appearances and testosterone levels during a campaign stop in Cleveland, Ohio on Saturday while campaign for gubernatorial candidate Amy Acton and Senate candidate Sherrod Brown. The former president's speech went after several Republican figures and recent scandals, often jokingly, as...",
+   "headline": "ACLU, Common Cause file motion against DOJ over Alaska election certification block",
+   "blurb": "Nonprofit watchdog group Common Cause, represented by attorneys from American Civil Liberties Union (ACLU), has filed a motion to intervene in the Justice Department’s lawsuit over Alaska’s Senate election. The Department of Justice filed a lawsuit Thursday claiming that the presence of a candidate with the same name as incumbent Sen. Dan Sullivan (R) could...",
    "source": "The Hill",
-   "ts": "2026-10-24T23:48:11+00:00",
-   "url": "https://thehill.com/homenews/campaign/6170381-obama-criticizes-hegseth-testosterone/"
+   "ts": "2026-10-25T01:47:27+00:00",
+   "url": "https://thehill.com/regulation/court-battles/6170458-common-cause-aclu-intervene-alaska-election/"
   },
   {
    "category": "India Politics",
-   "headline": "Foot marches held across district ahead of elections",
-   "blurb": "These special foot marches were organised to prevent any untoward incidents and to instill confidence among the public by dispelling fear",
+   "headline": "Cyclone over Bay of Bengal to bring heavy rain across South India, Odisha, West Bengal; red alerts issued in multiple States | LIVE",
+   "blurb": "The Regional Meteorological Centre (RMC) has forecast heavy to very heavy rain at isolated places in Tamil Nadu's Chennai, northern, delta and western districts",
    "source": "The Hindu",
-   "ts": "2026-10-25T04:52:46+00:00",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/police-conduct-foot-marches-in-sensitive-areas-in-andhra-pradesh/article71622525.ece"
+   "ts": "2026-10-25T10:57:48+00:00",
+   "url": "https://www.thehindu.com/news/national/cyclone-andhra-pradesh-odisha-live-updates-october-25-2026/article71622459.ece"
   },
   {
    "category": "AI",
@@ -316,35 +316,35 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "Two rescued after Nairobi building collapse with five still missing",
-   "blurb": "Police have launched a manhunt for the building's owner and contractor after the multi-storey building collapsed while still under construction.",
+   "headline": "Why is Ukraine so reliant on Starlink and can Europe plug the gap?",
+   "blurb": "Ukraine needs another satellite internet service, but a decent alternative to Elon Musk's network doesn't exist - yet.",
    "source": "BBC",
-   "ts": "2026-10-24T17:25:46+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-25T05:45:31+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "How does the UK state pension compare with other countries?",
-   "blurb": "Do British pensioners have it better or worse than those in other countries?",
+   "headline": "Will a new code end 'rip-off parking charges'?",
+   "blurb": "The prime minister says a new code will end \"rip-off parking charges\" - but will it work?",
    "source": "BBC",
-   "ts": "2026-10-24T00:09:12+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-25T07:05:30+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/ckjwe90z56ewo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Kushner’s attorneys send notice to Vanity Fair on alleged “defamatory” excerpt",
-   "blurb": "Attorneys representing President Trump’s son-in-law Jared Kushner have sent a letter to Vanity Fair and Condé Nast over allegations published in an article on Thursday calling them “false” and “defamatory.” “We formally put Vanity Fair and Condé Nast on notice regarding the false and defamatory allegations published about our client, Jared Kushner,” wrote Chad Mizelle,...",
+   "headline": "Musk says he was behind Starlink's slowdown in Ukraine",
+   "blurb": "Elon Musk on Saturday alluded to being behind last week’s Starlink slowdown in Ukraine which impacted the country’s military capabilities. “Ukraine military violated Starlink terms of service and used it for offensive drone strikes to kill people. That loophole was closed last week,” Musk said in a post on social platform X. The slowdown happened...",
    "source": "The Hill",
-   "ts": "2026-10-24T23:15:39+00:00",
-   "url": "https://thehill.com/media/6170355-kushner-attorneys-warn-vanity-fair/"
+   "ts": "2026-10-25T00:44:31+00:00",
+   "url": "https://thehill.com/policy/international/6170415-musk-starlink-ukraine-slowdown/"
   },
   {
    "category": "India Politics",
-   "headline": "Panel formed to probe spurious liquor death claims in Madhya Pradesh's Dewas; report in 15 days",
-   "blurb": "Some villagers have claimed that at least 10 persons died after consuming spurious liquor in Dewas district between September 27 and October 16",
+   "headline": "India advises its nationals in Saudi Arabia against filming missile interceptions",
+   "blurb": "The Indian mission also shared an update about the suspension of flights from Air India and Air India Express to and from Riyadh and Dammam",
    "source": "The Hindu",
-   "ts": "2026-10-25T04:51:57+00:00",
-   "url": "https://www.thehindu.com/news/national/madhya-pradesh/panel-formed-to-probe-spurious-liquor-death-claims-in-madhya-pradeshs-dewas-report-in-15-days/article71622566.ece"
+   "ts": "2026-10-25T10:56:19+00:00",
+   "url": "https://www.thehindu.com/news/national/india-advises-its-nationals-in-saudi-arabia-against-filming-missile-interceptions/article71622868.ece"
   },
   {
    "category": "AI",
@@ -372,35 +372,35 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
-   "blurb": "Nathan Gregory says the loss of childhood sweetheart Leanne \"is unimaginable for our family\".",
+   "headline": "Israel to close West Bank crossings on election day as crackdown escalates",
+   "blurb": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election.",
    "source": "BBC",
-   "ts": "2026-10-24T17:11:56+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-25T05:15:52+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "UK to invest £100m in 'world first' AI Biosecurity Lab",
-   "blurb": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
+   "headline": "Budget 2026: No more fat to trim for 'squeezed middle'",
+   "blurb": "As the chancellor finalises his first Budget, how are the \"squeezed middle\" feeling about costs?",
    "source": "BBC",
-   "ts": "2026-10-24T00:05:45+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-25T06:21:23+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c6gel54940qno?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Blanche: DOJ lawsuit not trying to 'stop the certification of Alaska's election'",
-   "blurb": "Attorney General Todd Blanche said Saturday that the Justice Department is not trying to stop the certification of Alaska’s election, referring to a lawsuit filed this week which claimed to “protect the integrity” of the election. The lawsuit, filed Thursday in the U.S. District Court for the district of Alaska, claims that the inclusion of a candidate...",
+   "headline": "Obama on Trump White House: ‘Like Saddam Hussein opened a Cheesecake Factory’",
+   "blurb": "Former President Barack Obama poked fun at President Trump's various Washington, D.C.-area renovation projects during a campaign stop in Cleveland, Ohio, where he was stumping for Democratic gubernatorial candidate Amy Acton and Senate candidate Sherrod Brown. In his speech, Obama zeroed in on the changes President Trump has made to the White House during his...",
    "source": "The Hill",
-   "ts": "2026-10-24T22:13:22+00:00",
-   "url": "https://thehill.com/homenews/campaign/6170303-blanche-denies-alaska-election/"
+   "ts": "2026-10-25T00:05:25+00:00",
+   "url": "https://thehill.com/homenews/campaign/6170405-obama-mocks-trump-white-house/"
   },
   {
    "category": "India Politics",
-   "headline": "News in frames: Kutch’s dwindling camel population",
-   "blurb": "In India’s largest district, industrialisation, mining, and shrinking grazing grounds are driving a steep decline in its camel population; once home to thousands of these beasts, Gujarat’s Kutch now faces the prospect of their disappearing from the landscape altogether",
+   "headline": "Kadapa police to seek cancellation of TDP spokesperson’s gun licence after alleged firing in Nandalur",
+   "blurb": "Tirupati, Kadapa police clueless over the licensed, but unrecorded weapon",
    "source": "The Hindu",
-   "ts": "2026-10-25T04:15:26+00:00",
-   "url": "https://www.thehindu.com/news/national/gujarat/news-in-frames-kutchs-dwindling-camel-population/article71622558.ece"
+   "ts": "2026-10-25T10:54:48+00:00",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/kadapa-police-to-seek-cancellation-of-tdp-spokespersons-gun-licence-after-alleged-firing-in-nandalur/article71622917.ece"
   },
   {
    "category": "AI",
@@ -428,35 +428,35 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "Fire engulfs Hitler's mountaintop Eagle's Nest retreat",
-   "blurb": "Police in the southern German state of Bavaria have detained a 33-year-old German man following the fire.",
+   "headline": "Gunmen kill at least 10 villagers and loot shops in north-east Nigeria",
+   "blurb": "Police are searching for other casualties, with officials warning the actual death toll could rise further.",
    "source": "BBC",
-   "ts": "2026-10-24T15:56:48+00:00",
-   "url": "https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-25T03:20:16+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Before you crank up the thermostat, try these tips to keep you and your home warmer for longer",
-   "blurb": "With storms hitting parts of the UK and the clocks going back, here are some practical ways to cope with falling temperatures.",
+   "headline": "Four ways Labour could raise money in the Budget without hiking income tax",
+   "blurb": "Chancellor John Healey may need to raise money to boost his fiscal headroom - BBC Verify examines what options could be on the table.",
    "source": "BBC",
-   "ts": "2026-10-23T23:50:45+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cqr7yeed1ed7o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-25T06:00:15+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Obama's quippy Ohio campaign stop: 5 times the former president went after Republicans",
-   "blurb": "President Obama poked fun at several Trump administration figures and scandals while stumping for Democratic candidates Amy Acton and Sherrod Brown during a campaign stop in Cleveland, Ohio on Saturday. The former president ribbed his successor's administration on everything from Defense Secretary Pete Hegseth's focus on soldiers' appearance and testosterone to Trump's many Washington, D.C.-area...",
+   "headline": "Obama jokes about Hegseth's 'focus on jawlines and testosterone' in Ohio campaign stop",
+   "blurb": "President Obama took aim at Defense Secretary Pete Hegseth for his perceived focus on soldiers' appearances and testosterone levels during a campaign stop in Cleveland, Ohio on Saturday while campaign for gubernatorial candidate Amy Acton and Senate candidate Sherrod Brown. The former president's speech went after several Republican figures and recent scandals, often jokingly, as...",
    "source": "The Hill",
-   "ts": "2026-10-24T21:13:31+00:00",
-   "url": "https://thehill.com/homenews/6170280-obama-jokes-trump-ohio-midterm-rally/"
+   "ts": "2026-10-24T23:48:11+00:00",
+   "url": "https://thehill.com/homenews/campaign/6170381-obama-criticizes-hegseth-testosterone/"
   },
   {
    "category": "India Politics",
-   "headline": "Feral dogs ‘a major threat’ to vultures in Thar desert, study finds",
-   "blurb": "Vultures spend half as long on carcasses at an open dump site than at dog-free enclosures, the scientists observed",
+   "headline": "IAS reshuffle in Tamil Nadu: Laxmi Priya to hold additional charge as Special Officer of Mudhalvarin Mugavari",
+   "blurb": "",
    "source": "The Hindu",
-   "ts": "2026-10-25T04:06:14+00:00",
-   "url": "https://www.thehindu.com/sci-tech/energy-and-environment/feral-dogs-a-major-threat-to-vultures-in-thar-desert-study-finds/article71617248.ece"
+   "ts": "2026-10-25T10:48:03+00:00",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/ias-reshuffle-in-tamil-nadu-laxmi-priya-to-hold-additional-charge-as-special-officer-of-mudhalvarin-mugavari/article71622984.ece"
   },
   {
    "category": "AI",
