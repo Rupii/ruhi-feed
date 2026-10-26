@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T10:57:59+00:00",
+ "updated": "2026-10-26T17:16:07+00:00",
  "count": 58,
  "stories": [
   {
@@ -12,27 +12,27 @@
   },
   {
    "category": "Crypto",
-   "headline": "Calpers pulls back from big tech as AI jitters deepen neocloud sell-off",
-   "blurb": "California’s pension fund shifts toward private equity as investors question tech valuations and the payoff from soaring AI spending.",
+   "headline": "Tom Lee's Bitmine favors share buybacks to ether purchases as crypto declines",
+   "blurb": "The Ethereum treasury firm spent $46 million buying back shares as Chairman Tom Lee said crypto has held up better than AI stocks during the recent market pullback.",
    "source": "CoinDesk",
-   "ts": "2026-10-26T10:33:00+00:00",
-   "url": "https://www.coindesk.com/markets/2026/10/26/calpers-pulls-back-from-big-tech-as-ai-jitters-deepen-neocloud-sell-off"
+   "ts": "2026-10-26T16:05:12+00:00",
+   "url": "https://www.coindesk.com/business/2026/10/26/tom-lee-s-bitmine-favors-share-buybacks-to-ether-purchases-as-crypto-declines"
   },
   {
    "category": "Gold",
-   "headline": "Oil Futures Drop Following Last Week’s Extension",
+   "headline": "The Energy Report: The Last, Last Chance",
    "blurb": "",
    "source": "Investing.com",
-   "ts": "2026-10-26T10:05:00+00:00",
-   "url": "https://www.investing.com/analysis/oil-futures-drop-following-last-weeks-extension-200690247"
+   "ts": "2026-10-26T15:33:00+00:00",
+   "url": "https://www.investing.com/analysis/the-energy-report-the-last-last-chance-200690271"
   },
   {
    "category": "Geopolitics",
-   "headline": "Crowds welcome Venezuela's María Machado after months in exile",
-   "blurb": "The Venezuelan opposition leader spent more than 10 months in exile after escaping the country on a speedboat.",
+   "headline": "Algeria to send troops to Niger in first foreign deployment since 1973",
+   "blurb": "The troops are expected to protect energy facilities in northern Niger, near the Libyan border.",
    "source": "BBC",
-   "ts": "2026-10-26T09:31:12+00:00",
-   "url": "https://www.bbc.co.uk/news/videos/cwgkv8kmly4zo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-26T17:00:09+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cm4g14n1e5wko?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
@@ -44,27 +44,27 @@
   },
   {
    "category": "US Politics",
-   "headline": "State judicial races are on the ballot in November. Here's what you need to know",
-   "blurb": "The midterms are not just about Congress. While high-profile contests that will determine the balance of power in Washington have dominated news cycles, judicial elections are also happening in half of the country on November 3. State Supreme Court races are on the ballot in 24 states, with half of those being retention elections in which voters decide whether an incumbent judge should remain...",
+   "headline": "Pentagon presses Congress to keep measure changing name to Department of War",
+   "blurb": "The Pentagon is pressing Congress to keep measures in the annual defense policy bill that would formally authorize the name change from Department of Defense to Department of War. “President Donald Trump and Secretary of War Pete Hegseth had the conviction to say so plainly. Many in Washington would have left the name alone. The...",
    "source": "The Hill",
-   "ts": "2026-10-26T10:00:00+00:00",
-   "url": "https://thehill.com/homenews/state-watch/6169419-midterm-judicial-election-impact/"
+   "ts": "2026-10-26T16:40:17+00:00",
+   "url": "https://thehill.com/policy/defense/6172772-pentagon-pushes-department-war-name/"
   },
   {
    "category": "India Politics",
-   "headline": "Four arrested in retired IPS officer’s wife murder case after six-month hunt",
-   "blurb": "Police teams made several visits to Nepal as part of the effort to track the suspects",
+   "headline": "Odisha, Andhra shut schools, ban fishing as Cyclone 'Arnab' nears; Centre stresses zero casualties | LIVE",
+   "blurb": "Odisha stepped up preparations, mobilising personnel and equipment, while Chief Minister Mohan Charan Majhi deputed eight ministers to vulnerable districts",
    "source": "The Hindu",
-   "ts": "2026-10-26T10:44:06+00:00",
-   "url": "https://www.thehindu.com/news/cities/Hyderabad/four-arrested-in-retired-ips-officers-wife-murder-case-after-six-month-hunt/article71626475.ece"
+   "ts": "2026-10-26T17:07:45+00:00",
+   "url": "https://www.thehindu.com/news/national/cyclone-arnab-andhra-pradesh-odisha-live-updates-imd-weather-forecast-rain-warnings-bay-of-bengal-october-26-2026/article71625447.ece"
   },
   {
    "category": "AI",
-   "headline": "r/opensource just banned AI, non-English speakers, and more",
-   "blurb": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today, is incongruent to this Open Source […]",
+   "headline": "Five weird details from Anthropic’s IPO filing",
+   "blurb": "Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood of its business, from how much its executives are making and plans for spending its IPO billions to the risks that could derail its ambitions. At more than 300 pages, there's a lot to […]",
    "source": "The Verge",
-   "ts": "2026-10-25T13:52:12+00:00",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban"
+   "ts": "2026-10-26T17:10:23+00:00",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details"
   },
   {
    "category": "Equities",
@@ -76,27 +76,27 @@
   },
   {
    "category": "Crypto",
-   "headline": "Fed, ECB and BOJ interest-rate decisions, Coinbase earnings: Crypto Week Ahead",
-   "blurb": "Your look at what's coming in the week starting Oct. 26.",
+   "headline": "NBA joins pro sports leagues on CFTC prediction markets bandwagon while NFL balks",
+   "blurb": "The U.S. derivatives regulator, which has championed the arrival of prediction market firms such as Kalshi, has been gathering allied sports leagues.",
    "source": "CoinDesk",
-   "ts": "2026-10-26T09:14:47+00:00",
-   "url": "https://www.coindesk.com/markets/2026/10/26/fed-ecb-and-boj-interest-rate-decisions-coinbase-earnings-crypto-week-ahead"
+   "ts": "2026-10-26T15:59:55+00:00",
+   "url": "https://www.coindesk.com/policy/2026/10/26/nba-joins-pro-sports-leagues-on-cftc-prediction-markets-bandwagon-while-nfl-balks"
   },
   {
    "category": "Gold",
-   "headline": "Gold Hits The Floor and Buyers Come to the Fore, but at a Loss to Score",
+   "headline": "Europe’s Natural Gas Prices Soar to 4-Year High as Winter Looms",
    "blurb": "",
    "source": "Investing.com",
-   "ts": "2026-10-26T08:25:00+00:00",
-   "url": "https://www.investing.com/analysis/gold-hits-the-floor-and-buyers-come-to-the-fore-but-at-a-loss-to-score-200690233"
+   "ts": "2026-10-26T13:07:00+00:00",
+   "url": "https://www.investing.com/analysis/europes-natural-gas-prices-soar-to-4year-high-as-winter-looms-200690261"
   },
   {
    "category": "Geopolitics",
-   "headline": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
-   "blurb": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+   "headline": "Lula wins fourth term in dramatic Brazil election comeback",
+   "blurb": "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro.",
    "source": "BBC",
-   "ts": "2026-10-26T09:04:47+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-26T16:49:14+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
@@ -108,27 +108,27 @@
   },
   {
    "category": "US Politics",
-   "headline": "The school choice decision putting Democratic governors on the clock",
-   "blurb": "Democratic governors face an end-of-year deadline to join the nation's first federal school choice program, a decision that could bring massive amounts of money to their states but which opponents fear could severely undermine public schools. Thirty-one states have opted into the GOP-passed initiative, but so far, that number includes only two blue ones: Colorado...",
+   "headline": "Democrats, Tillis say Congress may investigate banks and ports for Russian diesel imports",
+   "blurb": "Democrats and outgoing Republican Sen. Thom Tillis (N.C.) are telling banks and ports that Congress may investigate imports of Russian diesel after President Trump said the U.S. would import the fuel. In letters to major banks and several U.S. port authorities, the lawmakers wrote that “any importation of Russian diesel into the U.S. raises significant...",
    "source": "The Hill",
-   "ts": "2026-10-26T10:00:00+00:00",
-   "url": "https://thehill.com/homenews/state-watch/6169069-federal-school-choice-tax-credit-blue-states/"
+   "ts": "2026-10-26T16:35:33+00:00",
+   "url": "https://thehill.com/policy/energy-environment/6172712-tillis-russia-diesel-deal/"
   },
   {
    "category": "India Politics",
-   "headline": "Rain lashes districts across southern Tamil Nadu",
-   "blurb": "Roads in the ghat section leading to Kodaikanal from Batlagundu were affected. Highways department officials restricted heavy vehicle movement after 6 p.m. as a precautionary measure.",
+   "headline": "Narayana directs civic officials to remain on high alert as cyclone nears",
+   "blurb": "Minister asks officials to prevent waterlogging and shift residents of vulnerable areas to safety",
    "source": "The Hindu",
-   "ts": "2026-10-26T10:42:35+00:00",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/rain-lashes-districts-across-southern-tamil-nadu/article71626092.ece"
+   "ts": "2026-10-26T17:06:54+00:00",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/narayana-directs-civic-officials-to-remain-on-high-alert-as-cyclone-nears/article71628201.ece"
   },
   {
    "category": "AI",
-   "headline": "Blue Planet III is keeping the rough edges in the age of AI",
-   "blurb": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished and seamless. To counter that, Blue […]",
+   "headline": "Microsoft offers buyouts to 60,000 employees",
+   "blurb": "Microsoft is offering voluntary buyouts to up to 60,000 employees across the US, UK, Canada, and India. In a message to employees, Microsoft chief people officer Amy Coleman writes that this gives staff members \"the opportunity to leave Microsoft with financial support and career planning resources\" as the company looks to trim staff without another […]",
    "source": "The Verge",
-   "ts": "2026-10-24T21:29:12+00:00",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai"
+   "ts": "2026-10-26T16:07:16+00:00",
+   "url": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible"
   },
   {
    "category": "Equities",
@@ -140,19 +140,19 @@
   },
   {
    "category": "Crypto",
-   "headline": "Over 11 million bitcoin has no known owner. Here's what it means",
-   "blurb": "The large number of coins held in unidentified wallets shows that retail investors have been in this market for years, observers said. But this interpretation comes with a caveat.",
+   "headline": "OCC calls on community banks to enter the stablecoin payments market",
+   "blurb": "The U.S. banking regulator is encouraging smaller lenders to develop stablecoin services as new federal licensing requirements approach.",
    "source": "CoinDesk",
-   "ts": "2026-10-26T07:18:24+00:00",
-   "url": "https://www.coindesk.com/markets/2026/10/26/over-11-million-btc-can-t-be-linked-to-any-known-owner-even-after-wall-street-buying"
+   "ts": "2026-10-26T15:45:51+00:00",
+   "url": "https://www.coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market"
   },
   {
    "category": "Geopolitics",
-   "headline": "Uganda imposes 21-day quarantine on citizens returning from DR Congo",
-   "blurb": "Uganda will also not allow most travellers who have been in DR Congo to transit through the country.",
+   "headline": "More than 60 Christians killed in Ethiopia 'massacre', church official says",
+   "blurb": "One resident, whose 75-year-old father was killed, described it as an ambush, saying they were surrounded.",
    "source": "BBC",
-   "ts": "2026-10-26T08:18:22+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/crx2dyd24188o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-26T16:31:09+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cm4g175dgdx2o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
@@ -164,27 +164,27 @@
   },
   {
    "category": "US Politics",
-   "headline": "How sports gambling could lead to Trump's next fight with the NFL",
-   "blurb": "The future of the multibillion-dollar business of online sports wagering in the U.S. is emerging as a potential new frontier in a long-standing era of tensions between President Trump and the NFL. Trump, who before he ran for office tried and failed on multiple occasions to buy an NFL franchise, has had an on-again, off-again relationship with...",
+   "headline": "Trump, Vance go deep red 8 days out",
+   "blurb": "Plus: Trump, El-Sayed trade barbs {beacon} It’s Monday. Brazil's election was the big news overnight, but there's plenty to get caught up on in the U.S. today. Shall we? In today's issue: Trump, Vance go deep red El-Sayed, Trump trade barbs Minaj backs third Trump term Jeffries warns Hegseth of impeachment Programming note: Hello! I'm Elliott...",
    "source": "The Hill",
-   "ts": "2026-10-26T10:00:00+00:00",
-   "url": "https://thehill.com/newsletters/keeping-score/6168816-trump-nfl-sports-gambling-fight/"
+   "ts": "2026-10-26T16:31:33+00:00",
+   "url": "https://thehill.com/newsletters/1230-report/6172719-trump-vance-go-deep-red-8-days-out/"
   },
   {
    "category": "India Politics",
-   "headline": "Supreme Court notice to Centre, ECI on plea against MLAs ‘abandoning’ seats to shift loyalty at public expense",
-   "blurb": "‘When a Member abandons that vote within weeks, not for any compelling cause but to change sides, he does not merely leave a seat. He breaks the trust on which representative democracy rests’",
+   "headline": "ECI suspends six U.P. officials for dereliction of duty, polling booth lapses in Council polls",
+   "blurb": "ECI says such serious lapses cannot be condoned, directs charge-sheets to be issued to delinquent officers; repoll in three polling booths in affected constituency conducted peacefully on Monday with 57% voter turnout",
    "source": "The Hindu",
-   "ts": "2026-10-26T10:41:03+00:00",
-   "url": "https://www.thehindu.com/news/national/sc-notice-to-centre-ec-on-plea-against-mlas-abandoning-seats-to-shift-loyalty-at-public-expense/article71626367.ece"
+   "ts": "2026-10-26T17:06:44+00:00",
+   "url": "https://www.thehindu.com/news/national/uttar-pradesh/eci-suspends-six-up-officials-for-dereliction-of-duty-polling-booth-lapses-in-council-polls/article71627941.ece"
   },
   {
    "category": "AI",
-   "headline": "Pennsylvania will require labels on AI-generated ads",
-   "blurb": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been significantly modified or generated by artificial intelligence\" to include a label in the same format as […]",
+   "headline": "Anthropic’s IPO filing lays out a plan to ‘revolutionize every area of human endeavor’ with AI",
+   "blurb": "Anthropic has filed its S-1 prospectus with the Securities and Exchange Commission, preparing the company behind Claude to beat OpenAI to the punch with an IPO. In a filing with the SEC, Anthropic said it plans to list on the Nasdaq exchange under the ticker symbol \"ANT.\" The AI company confidentially filed with the SEC […]",
    "source": "The Verge",
-   "ts": "2026-10-24T18:32:44+00:00",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act"
+   "ts": "2026-10-26T13:55:23+00:00",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec"
   },
   {
    "category": "Equities",
@@ -196,19 +196,19 @@
   },
   {
    "category": "Crypto",
-   "headline": "India's largest crypto exchange absorbs $16 million loss from internal process failure tied to retired wallet",
-   "blurb": "The Mumbai-based exchange initially dismissed reports of suspicious outflows as a false alarm. It now says it lost $16 million and will absorb the loss.",
+   "headline": "South Korea weighs fourth delay on its crypto gains tax, pushing it to 2029",
+   "blurb": "Officials are concerned users of domestic exchanges would bear the tax burden because the U.S. won’t share crypto trading data until 2029.",
    "source": "CoinDesk",
-   "ts": "2026-10-26T05:39:17+00:00",
-   "url": "https://www.coindesk.com/markets/2026/10/26/coindcx-absorbs-usd16-million-loss-from-internal-process-failure-tied-to-retired-wallet"
+   "ts": "2026-10-26T14:51:07+00:00",
+   "url": "https://www.coindesk.com/policy/2026/10/26/south-korea-weighs-fourth-delay-on-its-crypto-gains-tax-pushing-it-to-2029"
   },
   {
    "category": "Geopolitics",
-   "headline": "China's big political meeting could see Xi 'tighten discipline' in Party",
-   "blurb": "The highly secretive four-day Plenum starts Monday in Beijing.",
+   "headline": "Israel and the US are both going to the polls - the consequences will be global",
+   "blurb": "The next fortnight sees two elections on different continents. The outcomes will shape geopolitics and the global economy, writes James Landale",
    "source": "BBC",
-   "ts": "2026-10-26T07:40:57+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c6n8djd1078ro?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-26T16:30:34+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/crlykey9jywqo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
@@ -220,27 +220,27 @@
   },
   {
    "category": "US Politics",
-   "headline": "Mississippi Senate race becomes a test of Trump’s turnout machine",
-   "blurb": "President Trump’s campaign stop in Mississippi on Monday is putting the ruby red state in the spotlight as Democrats grow optimistic about their chances in the state’s Senate race. The Republican National Committee said on Wednesday that Trump will headline a rally in the city of Corinth in northeast Mississippi. Meanwhile, the Democratic-aligned Senate Majority...",
+   "headline": "Unleash the Export-Import Bank to outcompete China",
+   "blurb": "Sen. Kevin Cramer is calling on Congress to reauthorize and modernize the Export-Import Bank by Dec. 31 to prevent China from dominating global energy markets and to protect over 45,000 U.S. jobs.",
    "source": "The Hill",
-   "ts": "2026-10-26T10:00:00+00:00",
-   "url": "https://thehill.com/homenews/senate/6169566-trump-rally-mississippi-senate-race/"
+   "ts": "2026-10-26T16:30:00+00:00",
+   "url": "https://thehill.com/opinion/finance/6171472-exim-bank-expires-december/"
   },
   {
    "category": "India Politics",
-   "headline": "Why TVK is eager to woo AIADMK cadre",
-   "blurb": "Tamil Nadu’s ruling party is strengthening itself by welcoming rival members",
+   "headline": "After slashing VAT on jet fuel, Tamil Nadu government asks airlines to add more services from Chennai airport",
+   "blurb": "Sources said that the airlines have assured to expand services after the State government reduced the VAT on jet fuel from 29 per cent to 16 per cent; the airlines, however, have not given a timeframe for the implementation",
    "source": "The Hindu",
-   "ts": "2026-10-26T10:41:02+00:00",
-   "url": "https://www.thehindu.com/opinion/op-ed/why-tvk-is-eager-to-woo-aiadmk-cadre/article71086362.ece"
+   "ts": "2026-10-26T16:57:14+00:00",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/after-slashing-vat-on-jet-fuel-tamil-nadu-government-asks-airlines-to-add-more-services-from-chennai-airport/article71626942.ece"
   },
   {
    "category": "AI",
-   "headline": "OpenAI now trains its frontier AI models with no internet access",
-   "blurb": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk of affecting external systems.\" OpenAI paused training its frontier […]",
+   "headline": "Kevin Roose is AGI-pilled. Why aren’t you?",
+   "blurb": "Today, I’m talking to Kevin Roose, journalist and author of the new book The AGI Chronicles, which details the recent and explosive transformation of the AI industry. Kevin was a longtime New York Times reporter and host of the popular podcast Hard Fork, but he and friend of the show Casey Newton just left the […]",
    "source": "The Verge",
-   "ts": "2026-10-23T21:11:07+00:00",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet"
+   "ts": "2026-10-26T13:37:13+00:00",
+   "url": "https://www.theverge.com/podcast/1018264/kevin-roose-the-agi-chronicles-machine-gods-podcast-youtube-openai-anthropic"
   },
   {
    "category": "Equities",
@@ -252,19 +252,19 @@
   },
   {
    "category": "Crypto",
-   "headline": "Bitcoin wallet bug let rogue servers steal funds when users tried to speed up payments",
-   "blurb": "Attackers replaced legitimate transactions with fake ones, then waited for users to approve higher fees. At least one person lost bitcoin before developers patched the flaw.",
+   "headline": "Canada opens consultation on draft stablecoin rules, maintains ban on yields",
+   "blurb": "Under the draft rules, non-bank stablecoin issuers must back tokens 1:1 with reserves held at qualified Canadian institutions and settle redemptions within three business days.",
    "source": "CoinDesk",
-   "ts": "2026-10-26T05:15:20+00:00",
-   "url": "https://www.coindesk.com/tech/2026/10/26/bitcoin-wallet-bug-let-rogue-servers-steal-funds-when-users-tried-to-speed-up-payments"
+   "ts": "2026-10-26T14:23:41+00:00",
+   "url": "https://www.coindesk.com/policy/2026/10/26/canada-opens-consultation-on-draft-stablecoin-rules-maintains-ban-on-yields"
   },
   {
    "category": "Geopolitics",
-   "headline": "Eric Bauza, voice of Bugs Bunny and Daffy Duck, dies aged 46",
-   "blurb": "Bauza had voiced a number of characters in this summer's animated hit Coyote vs. Acme.",
+   "headline": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
+   "blurb": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
    "source": "BBC",
-   "ts": "2026-10-26T06:16:15+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cwzd6q630vjeo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-26T16:27:17+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
@@ -276,27 +276,27 @@
   },
   {
    "category": "US Politics",
-   "headline": "Election season hits overdrive for thousands of Israeli Americans",
-   "blurb": "Dual citizens of the U.S. and Israel are staring down two consequential elections in the coming days, with thousands preparing to hop on planes to have their voices heard in both countries. While the U.S. allows absentee voting, Israel requires voting in person. And an estimated 67,000 Israelis worldwide are expected to travel back to...",
+   "headline": "Judge rules James Comey's daughter unlawfully fired as federal prosecutor",
+   "blurb": "A federal judge ruled Monday that the Department of Justice (DOJ) unlawfully fired and must provide back pay to Maurene Comey, former FBI Director James Comey’s daughter who was terminated as a prosecutor last year. U.S. District Judge Jesse Furman rejected the Trump administration’s arguments that it had constitutional authority to fire her. “Defendants’ argument is contrary...",
    "source": "The Hill",
-   "ts": "2026-10-26T10:00:00+00:00",
-   "url": "https://thehill.com/policy/international/6169142-dual-citizens-vote-us-israel-elections/"
+   "ts": "2026-10-26T16:17:54+00:00",
+   "url": "https://thehill.com/regulation/court-battles/6172624-maurene-comey-justice-department-unlawful-firing/"
   },
   {
    "category": "India Politics",
-   "headline": "Pakistan’s Punjab government extends detention of Imran Khan’s sisters by 30 days",
-   "blurb": "Aleema Khan, Noreen Niazi and Dr. Uzma Khan remain in Kot Lakhpat Jail under a public safety law, as PTI leader Moonis Elahi calls the detention “politically motivated”",
+   "headline": "Indian publishers contest Modi government’s privacy law",
+   "blurb": "The October 6 lawsuit, being ‌reported for the first time and due to be heard on October 27, 2026, is the most high-profile challenge to the government’s privacy ‌law",
    "source": "The Hindu",
-   "ts": "2026-10-26T10:40:57+00:00",
-   "url": "https://www.thehindu.com/news/international/pakistans-punjab-government-extends-detention-of-imran-khans-sisters-by-30-days/article71626373.ece"
+   "ts": "2026-10-26T16:55:55+00:00",
+   "url": "https://www.thehindu.com/news/national/indian-publishers-contest-modi-governments-privacy-law/article71627054.ece"
   },
   {
    "category": "AI",
-   "headline": "Google’s AI search changes upended online publishing",
-   "blurb": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The digital publishing industry has relied on […]",
+   "headline": "Can AI help solve the COBOL code crisis?",
+   "blurb": "What do the IRS, banks, airlines, and government infrastructure around the world have in common? They're all running on systems propped up by antique computer code that nobody dares touch, lest everything come crashing down. OpenAI thinks it may have a solution. On October 19th, the company touted \"substantial improvements\" in its latest AI models' […]",
    "source": "The Verge",
-   "ts": "2026-10-23T20:42:34+00:00",
-   "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing"
+   "ts": "2026-10-26T13:26:44+00:00",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic"
   },
   {
    "category": "Equities",
@@ -308,19 +308,19 @@
   },
   {
    "category": "Crypto",
-   "headline": "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting",
-   "blurb": "Ether and XRP led losses among the majors as the AI trade took another hit in Asia, where Goldman Sachs cut its Kospi target by 25%.",
+   "headline": "AI giant Anthropic files for blockbuster IPO",
+   "blurb": "The maker of Claude reported $16.3 billion in first-half revenue and an $80.7 billion net loss as it aims to price its offering in mid-November.",
    "source": "CoinDesk",
-   "ts": "2026-10-26T04:37:02+00:00",
-   "url": "https://www.coindesk.com/markets/2026/10/26/bitcoin-slips-under-usd80-000-as-traders-de-risk-ahead-of-fed-meeting"
+   "ts": "2026-10-26T13:22:09+00:00",
+   "url": "https://www.coindesk.com/business/2026/10/26/ai-giant-anthropic-files-for-blockbuster-ipo"
   },
   {
    "category": "Geopolitics",
-   "headline": "Venezuelan opposition leader María Machado returns after months in exile",
-   "blurb": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
+   "headline": "Catholic bishops apologise for 'exploited' Trump meeting",
+   "blurb": "Two bishops in images that show them praying with Trump have said they believed the meeting was private.",
    "source": "BBC",
-   "ts": "2026-10-26T05:20:19+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-26T15:46:31+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cw8rz1d286v3o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
@@ -332,27 +332,27 @@
   },
   {
    "category": "US Politics",
-   "headline": "Nicki Minaj tells Trump she’ll support him if he runs again",
-   "blurb": "Nicki Minaj joined President Trump at a campaign rally Sunday and said that she would support him if he chose to run again. “So, President Trump, it is an honor to stand with you every single time, and I will continue to support you forever and ever. If you run again, I will support you...",
+   "headline": "World leaders scoff at Trump mulling Orbán as UN secretary-general",
+   "blurb": "World leaders scoffed at President Trump reportedly mulling the idea of nominating his ally former Hungarian Prime Minister Viktor Orbán as the United Nations secretary-general. Polish Prime Minister Donald Tusk called the possibility “funny,” adding “just a moment ago, he was a candidate for president of the European Commission,” according to Politico. He was referring...",
    "source": "The Hill",
-   "ts": "2026-10-26T02:52:18+00:00",
-   "url": "https://thehill.com/blogs/in-the-know/6171497-nicki-minaj-support-trump-michigan-rally-press-secretary/"
+   "ts": "2026-10-26T16:10:31+00:00",
+   "url": "https://thehill.com/policy/international/6172596-world-leaders-scoff-orban-unsg/"
   },
   {
    "category": "India Politics",
-   "headline": "Cyclonic storm 'Arnab' to cross Andhra Pradesh-Yanam coast as very severe storm by October 28: IMD | LIVE",
-   "blurb": "Odisha stepped up preparations, mobilising personnel and equipment, while Chief Minister Mohan Charan Majhi deputed eight ministers to vulnerable districts",
+   "headline": "CEC can be removed only like a Supreme Court judge, ECI tells top court",
+   "blurb": "A common affidavit filed for the EC, CEC Kumar and Election Commissioners Sandhu and Joshi say that any attempt to restrain the CEC’s functioning is contrary to the 2023 Act; asserts that Form 6 was not amended; West Bengal CEO’s officers filed appeals against inclusions",
    "source": "The Hindu",
-   "ts": "2026-10-26T10:36:26+00:00",
-   "url": "https://www.thehindu.com/news/national/cyclone-arnab-andhra-pradesh-odisha-live-updates-imd-weather-forecast-rain-warnings-bay-of-bengal-october-26-2026/article71625447.ece"
+   "ts": "2026-10-26T16:53:24+00:00",
+   "url": "https://www.thehindu.com/news/national/cec-can-be-removed-only-like-a-supreme-court-judge-eci-tells-top-court/article71628290.ece"
   },
   {
    "category": "AI",
-   "headline": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
-   "blurb": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncanny. Take this one, for example, shared by Dessa lead Ragavan Thurairatnam. The conversation between […]",
+   "headline": "r/opensource just banned AI, non-English speakers, and more",
+   "blurb": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today, is incongruent to this Open Source […]",
    "source": "The Verge",
-   "ts": "2026-10-23T19:32:39+00:00",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech"
+   "ts": "2026-10-25T13:52:12+00:00",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban"
   },
   {
    "category": "Equities",
@@ -364,19 +364,19 @@
   },
   {
    "category": "Crypto",
-   "headline": "Elon Musk issues a warning for 'AI neoclouds' as SpaceX borrows $40 billion for chips",
-   "blurb": "SpaceX has raised $40 billion in debt to buy GPUs, while Musk predicts a major shakeout among smaller AI cloud providers.",
+   "headline": "A $68 million bitcoin bet is targeting a post-midterm election breakout to $90,000",
+   "blurb": "Your day-ahead look for Oct. 26, 2026",
    "source": "CoinDesk",
-   "ts": "2026-10-26T03:11:39+00:00",
-   "url": "https://www.coindesk.com/markets/2026/10/26/elon-musk-confirms-usd40-billion-spacex-debt-deal-for-ai-chips-warns-of-neocloud-shakeout"
+   "ts": "2026-10-26T11:53:07+00:00",
+   "url": "https://www.coindesk.com/daybook-us/2026/10/26/a-usd68-million-bitcoin-bet-is-targeting-a-post-midterm-election-breakout-to-usd90-000"
   },
   {
    "category": "Geopolitics",
-   "headline": "Australian murderer loses bid to eat Vegemite in prison",
-   "blurb": "Andre McKechnie, who murdered a property developer, argued it was his right to enjoy Australian culture.",
+   "headline": "Police arrest teenager after shooting that injured 12, including children, in Florida",
+   "blurb": "The incident happened on Saturday night, close to an American football stadium where a game had just been played.",
    "source": "BBC",
-   "ts": "2026-10-26T04:05:28+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cvwy7wz9x12go?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-26T15:45:30+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/ckpdg8vnv171o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
@@ -388,27 +388,27 @@
   },
   {
    "category": "US Politics",
-   "headline": "Trump considering moving White House press corps",
-   "blurb": "President Trump confirmed on Sunday he is considering moving the White House press corps from its historic location. “Also, I am not building a swimming pool in the White House Briefing Room, and never had any intention of doing so,” he wrote on Truth Social in a lengthy post about comedian Bill Maher. “I am...",
+   "headline": "Billy Crystal: Trump's Kennedy Center moves 'so selfish and so petty'",
+   "blurb": "Billy Crystal — the recipient of two of the Kennedy Center's most prestigious awards — says what's happening at the Washington performing arts institution amid President Trump's legal battle \"really hurts.\" \"I'm one of the few who has been awarded the Mark Twain Prize and the Kennedy Honor with an elite group of people that...",
    "source": "The Hill",
-   "ts": "2026-10-26T02:36:02+00:00",
-   "url": "https://thehill.com/homenews/administration/6171484-donald-trump-considering-moving-white-house-press-corps/"
+   "ts": "2026-10-26T16:07:36+00:00",
+   "url": "https://thehill.com/blogs/in-the-know/6172595-billy-crystal-trumps-kennedy-center/"
   },
   {
    "category": "India Politics",
-   "headline": "Police conduct flag march in Guntur ahead of GMC elections",
-   "blurb": "The march passes through Bharatpet, Sarada Colony and Sanjeevaiah Nagar to Donka Road",
+   "headline": "State government committed to strengthening ITDAs, resolving Podu land issues: Minister Adluri Laxman Kumar",
+   "blurb": "",
    "source": "The Hindu",
-   "ts": "2026-10-26T10:25:23+00:00",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/police-conduct-flag-march-in-guntur-ahead-of-gmc-elections/article71626193.ece"
+   "ts": "2026-10-26T16:52:01+00:00",
+   "url": "https://www.thehindu.com/news/national/telangana/state-government-committed-to-strengthening-itdas-resolving-podu-land-issues-minister-adluri-laxman-kumar/article71628288.ece"
   },
   {
    "category": "AI",
-   "headline": "The iPhone Duo should have been an iPad",
-   "blurb": "We gave the iPhone Duo a 7 /10. But that wasn't always the score we planned, and it might not be the right score forever. Such are the challenges of reviewing - and assessing - a big, new idea about the most popular smartphone in history. On this episode of The Vergecast, David and Nilay […]",
+   "headline": "Blue Planet III is keeping the rough edges in the age of AI",
+   "blurb": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished and seamless. To counter that, Blue […]",
    "source": "The Verge",
-   "ts": "2026-10-23T17:00:18+00:00",
-   "url": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast"
+   "ts": "2026-10-24T21:29:12+00:00",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai"
   },
   {
    "category": "Equities",
@@ -420,19 +420,19 @@
   },
   {
    "category": "Crypto",
-   "headline": "Latvia targets tokenization rules in 2027 with commercial property in focus",
-   "blurb": "Economics Minister Viktors Valainis says rules could arrive in the first half of next year, but an overdue assessment remains unfinished and no sovereign-bond issuance was identified.",
+   "headline": "Bitcoin holds near $80,000 as oil retreats and the Fed decision looms",
+   "blurb": "Bitcoin was little changed near $80,400 since midnight UTC while the DeFi index was the only CoinDesk index to gain, with the Fed due to decide on Wednesday.",
    "source": "CoinDesk",
-   "ts": "2026-10-25T15:00:00+00:00",
-   "url": "https://www.coindesk.com/business/2026/10/25/latvia-targets-tokenization-rules-in-2027-with-commercial-property-in-focus"
+   "ts": "2026-10-26T11:24:33+00:00",
+   "url": "https://www.coindesk.com/markets/2026/10/26/bitcoin-holds-near-usd80-000-as-oil-retreats-and-the-fed-decision-looms"
   },
   {
    "category": "Geopolitics",
-   "headline": "Watch: How President Lula turned it around to beat Flávio Bolsonaro",
-   "blurb": "Brazil's left-wing President has been elected for a fourth term after narrowly beating right-wing Flávio Bolsonaro in a knife-edge vote.",
+   "headline": "How 'Lula's Army' WhatsApp channel helped turn Brazil election around",
+   "blurb": "Millions joined a 'Lula's Army' channel that helped to transform online enthusiasm into real-world mobilisation.",
    "source": "BBC",
-   "ts": "2026-10-26T02:53:00+00:00",
-   "url": "https://www.bbc.co.uk/news/videos/cmp8g0x4l11yo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-26T15:37:33+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cwz0vg4v3ndeo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
@@ -444,27 +444,27 @@
   },
   {
    "category": "US Politics",
-   "headline": "El-Sayed: Trump has as much regard for Constitution as ‘a piece of toilet paper’",
-   "blurb": "Michigan Senate candidate Abdul El-Sayed criticized President Trump on Sunday, saying the president has as much regard for the Constitution as “a piece of toilet paper.” In an interview with Al Sharpton on PoliticsNation, El-Sayed was asked about the numerous attacks made by the GOP and Trump about his family background and faith and how...",
+   "headline": "Trump to return to South Carolina days ahead of election",
+   "blurb": "The Republican National Committee announced Monday that President Trump will campaign in Rock Hill, S.C., on Thursday, marking his second trip to the Palmetto State within the span of a week. Trump campaigned last week in Clemson, in an effort to boost Sen. Darline Graham (R-S.C.) in her race against Democrat Annie Andrews. The campaign...",
    "source": "The Hill",
-   "ts": "2026-10-26T01:20:40+00:00",
-   "url": "https://thehill.com/homenews/campaign/6171437-el-sayed-trump-has-as-much-regard-for-constitution-as-a-piece-of-toilet-paper/"
+   "ts": "2026-10-26T16:07:34+00:00",
+   "url": "https://thehill.com/homenews/state-watch/6172625-trump-rock-hill-sc-rnc-graham-whatley/"
   },
   {
    "category": "India Politics",
-   "headline": "Cyclone Arnab: Orange alert in four Telangana districts, yellow alert in four others on October 28",
+   "headline": "Nelakondapalli Buddhist site in Telangana to be developed as international heritage and tourism destination: Minister",
    "blurb": "",
    "source": "The Hindu",
-   "ts": "2026-10-26T10:20:02+00:00",
-   "url": "https://www.thehindu.com/news/national/telangana/cyclone-arnab-orange-alert-in-four-telangana-districts-yellow-alert-in-four-others-on-october-28/article71626114.ece"
+   "ts": "2026-10-26T16:44:45+00:00",
+   "url": "https://www.thehindu.com/news/national/telangana/nelakondapalli-buddhist-site-in-telangana-to-be-developed-as-international-heritage-and-tourism-destination-minister/article71627504.ece"
   },
   {
    "category": "AI",
-   "headline": "Now Google says it might use your Gmail and Google Photos data to target ads",
-   "blurb": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for personalized ads. While the previous […]",
+   "headline": "Pennsylvania will require labels on AI-generated ads",
+   "blurb": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been significantly modified or generated by artificial intelligence\" to include a label in the same format as […]",
    "source": "The Verge",
-   "ts": "2026-10-23T16:52:55+00:00",
-   "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update"
+   "ts": "2026-10-24T18:32:44+00:00",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act"
   }
  ]
 }
