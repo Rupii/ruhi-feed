@@ -1,14 +1,14 @@
 {
- "updated": "2026-10-26T17:16:07+00:00",
+ "updated": "2026-10-26T22:35:03+00:00",
  "count": 58,
  "stories": [
   {
    "category": "Equities",
-   "headline": "Trump's approval rating on economy hits all-time low as midterm looms: CNBC survey",
-   "blurb": "Eight out of 10 Americans now rate the economy as fair or poor, one of several findings in a CNBC poll that show why Republican candidates face uphill battles.",
+   "headline": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
+   "blurb": "Treasury yields above 5% are raising borrowing costs for households and the federal government, highlighting the challenge of financing $2 trillion deficits.",
    "source": "CNBC",
-   "ts": "2026-10-23T20:49:42+00:00",
-   "url": "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html"
+   "ts": "2026-10-26T18:33:51+00:00",
+   "url": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html"
   },
   {
    "category": "Crypto",
@@ -20,59 +20,59 @@
   },
   {
    "category": "Gold",
-   "headline": "The Energy Report: The Last, Last Chance",
+   "headline": "Why Gold Miners Are Falling Faster Than Metal Prices",
    "blurb": "",
    "source": "Investing.com",
-   "ts": "2026-10-26T15:33:00+00:00",
-   "url": "https://www.investing.com/analysis/the-energy-report-the-last-last-chance-200690271"
+   "ts": "2026-10-26T21:06:00+00:00",
+   "url": "https://www.investing.com/analysis/why-gold-miners-are-falling-faster-than-metal-prices-200690291"
   },
   {
    "category": "Geopolitics",
-   "headline": "Algeria to send troops to Niger in first foreign deployment since 1973",
-   "blurb": "The troops are expected to protect energy facilities in northern Niger, near the Libyan border.",
+   "headline": "'Maxxing' selected as Dictionary.com word of the year",
+   "blurb": "\"Whatever we're doing, we want to push it further,\" said an expert on why Americans are embracing the term, which is short for maximising.",
    "source": "BBC",
-   "ts": "2026-10-26T17:00:09+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cm4g14n1e5wko?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-26T21:31:53+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cmy4xwp22xyqo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Salon owners urge Budget VAT cut as staffing pressures grow",
-   "blurb": "Marcus Perkins, who owns a hair and beauty salon in Brierley Hill, says he is scared for the future.",
+   "headline": "Healey vows cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'",
+   "blurb": "The chancellor will axe tariffs on some staples as part of plans to give households \"breathing space\".",
    "source": "BBC",
-   "ts": "2026-10-26T10:48:46+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c60rlp8kkz1zo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-26T22:30:02+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Pentagon presses Congress to keep measure changing name to Department of War",
-   "blurb": "The Pentagon is pressing Congress to keep measures in the annual defense policy bill that would formally authorize the name change from Department of Defense to Department of War. “President Donald Trump and Secretary of War Pete Hegseth had the conviction to say so plainly. Many in Washington would have left the name alone. The...",
+   "headline": "Lula bucks prediction markets with Brazilian presidential win",
+   "blurb": "Brazilian President Luiz Inácio Lula da Silva bucks prediction market odds with his unlikely win in the Brazilian presidential runoff election this weekend. On Sunday, Lula was rated an underdog in the election, as his odds were at 20.2 percent on Kalshi and 20.5 percent on Polymarket at noon EDT. His opponent, Flávio Bolsonaro, the...",
    "source": "The Hill",
-   "ts": "2026-10-26T16:40:17+00:00",
-   "url": "https://thehill.com/policy/defense/6172772-pentagon-pushes-department-war-name/"
+   "ts": "2026-10-26T22:23:57+00:00",
+   "url": "https://thehill.com/policy/technology/6173602-lula-brazil-election-prediction-markets/"
   },
   {
    "category": "India Politics",
-   "headline": "Odisha, Andhra shut schools, ban fishing as Cyclone 'Arnab' nears; Centre stresses zero casualties | LIVE",
-   "blurb": "Odisha stepped up preparations, mobilising personnel and equipment, while Chief Minister Mohan Charan Majhi deputed eight ministers to vulnerable districts",
+   "headline": "Bihar MLC polls: RJD MP Sanjay Yadav writes to ECI to ensure transparent counting",
+   "blurb": "In the letter, Sanjay Yadav said that pens of the same type as the violet pens used for marking preferences on ballot papers during polling must not be available to any counting officer or election agent at the counting centre",
    "source": "The Hindu",
-   "ts": "2026-10-26T17:07:45+00:00",
-   "url": "https://www.thehindu.com/news/national/cyclone-arnab-andhra-pradesh-odisha-live-updates-imd-weather-forecast-rain-warnings-bay-of-bengal-october-26-2026/article71625447.ece"
+   "ts": "2026-10-26T21:33:56+00:00",
+   "url": "https://www.thehindu.com/news/national/bihar/bihar-mlc-polls-rjd-mp-sanjay-yadav-writes-to-eci-to-ensure-transparent-counting/article71626827.ece"
   },
   {
    "category": "AI",
-   "headline": "Five weird details from Anthropic’s IPO filing",
-   "blurb": "Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood of its business, from how much its executives are making and plans for spending its IPO billions to the risks that could derail its ambitions. At more than 300 pages, there's a lot to […]",
+   "headline": "Anthropic is burning gas to feed the AI boom",
+   "blurb": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is intense.\" In documents filed with the US Securities and Exchange Commission Monday, Anthropic acknowledges that data centers are becoming increasingly reliant on \"natural gas\" […]",
    "source": "The Verge",
-   "ts": "2026-10-26T17:10:23+00:00",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details"
+   "ts": "2026-10-26T21:45:31+00:00",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk"
   },
   {
    "category": "Equities",
-   "headline": "Jobless claims near the lowest since the 1960s as low-fire trend continues",
-   "blurb": "Initial filings for unemployment insurance slipped to a seasonally adjusted 194,000.",
+   "headline": "Trump's approval rating on economy hits all-time low as midterm looms: CNBC survey",
+   "blurb": "Eight out of 10 Americans now rate the economy as fair or poor, one of several findings in a CNBC poll that show why Republican candidates face uphill battles.",
    "source": "CNBC",
-   "ts": "2026-10-22T16:40:09+00:00",
-   "url": "https://www.cnbc.com/2026/10/22/jobless-claims-record-low-weekly.html"
+   "ts": "2026-10-23T20:49:42+00:00",
+   "url": "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html"
   },
   {
    "category": "Crypto",
@@ -84,59 +84,59 @@
   },
   {
    "category": "Gold",
-   "headline": "Europe’s Natural Gas Prices Soar to 4-Year High as Winter Looms",
+   "headline": "Silver Hits 5,340 Target, but Technical Signals Still Favor Sellers",
    "blurb": "",
    "source": "Investing.com",
-   "ts": "2026-10-26T13:07:00+00:00",
-   "url": "https://www.investing.com/analysis/europes-natural-gas-prices-soar-to-4year-high-as-winter-looms-200690261"
+   "ts": "2026-10-26T20:44:00+00:00",
+   "url": "https://www.investing.com/analysis/silver-hits-5340-target-but-technical-signals-still-favor-sellers-200690288"
   },
   {
    "category": "Geopolitics",
    "headline": "Lula wins fourth term in dramatic Brazil election comeback",
    "blurb": "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro.",
    "source": "BBC",
-   "ts": "2026-10-26T16:49:14+00:00",
+   "ts": "2026-10-26T21:02:47+00:00",
    "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Healey to shield low-income pensioners from income tax in the Budget",
-   "blurb": "Changes are needed to prevent the full, flat-rate state pension becoming liable for income tax after it rises in April.",
+   "headline": "Anthropic's blockbuster share listing - 5 surprising things we now know",
+   "blurb": "Anthropic’s IPO prospectus is 355 pages and full of never before disclosed company information.",
    "source": "BBC",
-   "ts": "2026-10-26T10:28:12+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/ck98zp7zeq65o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-26T19:57:23+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Democrats, Tillis say Congress may investigate banks and ports for Russian diesel imports",
-   "blurb": "Democrats and outgoing Republican Sen. Thom Tillis (N.C.) are telling banks and ports that Congress may investigate imports of Russian diesel after President Trump said the U.S. would import the fuel. In letters to major banks and several U.S. port authorities, the lawmakers wrote that “any importation of Russian diesel into the U.S. raises significant...",
+   "headline": "Trump announces $1M rewards for voter fraud tips ahead of midterms",
+   "blurb": "President Trump has announced a $1 million reward for voter fraud tips, about a week out from this year’s midterms. “Anybody reporting Voter Fraud in the past Elections, or the upcoming 2026 Midterm Election, will be paid $1,000,000 upon the arrest and conviction of those that created the Fraud!” Trump said in a Monday afternoon...",
    "source": "The Hill",
-   "ts": "2026-10-26T16:35:33+00:00",
-   "url": "https://thehill.com/policy/energy-environment/6172712-tillis-russia-diesel-deal/"
+   "ts": "2026-10-26T22:10:57+00:00",
+   "url": "https://thehill.com/homenews/administration/6173577-trump-voter-fraud-reward-announcement/"
   },
   {
    "category": "India Politics",
-   "headline": "Narayana directs civic officials to remain on high alert as cyclone nears",
-   "blurb": "Minister asks officials to prevent waterlogging and shift residents of vulnerable areas to safety",
+   "headline": "Amid alleged liquor deaths in Madhya Pradesh’s Dewas, police nab 10 for illicit trade",
+   "blurb": "The locals of the two villages have claimed that 13 people have died so far since September 26",
    "source": "The Hindu",
-   "ts": "2026-10-26T17:06:54+00:00",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/narayana-directs-civic-officials-to-remain-on-high-alert-as-cyclone-nears/article71628201.ece"
+   "ts": "2026-10-26T21:16:51+00:00",
+   "url": "https://www.thehindu.com/news/national/madhya-pradesh/amid-alleged-liquor-deaths-in-madhya-pradeshs-dewas-police-nab-10-for-illicit-trade/article71628057.ece"
   },
   {
    "category": "AI",
-   "headline": "Microsoft offers buyouts to 60,000 employees",
-   "blurb": "Microsoft is offering voluntary buyouts to up to 60,000 employees across the US, UK, Canada, and India. In a message to employees, Microsoft chief people officer Amy Coleman writes that this gives staff members \"the opportunity to leave Microsoft with financial support and career planning resources\" as the company looks to trim staff without another […]",
+   "headline": "Kevin Roose is AGI-pilled. Why aren’t you?",
+   "blurb": "Today, I’m talking to Kevin Roose, journalist and author of the new book The AGI Chronicles, which details the recent and explosive transformation of the AI industry. Kevin was a longtime New York Times reporter and host of the popular podcast Hard Fork, but he and friend of the show Casey Newton just left the […]",
    "source": "The Verge",
-   "ts": "2026-10-26T16:07:16+00:00",
-   "url": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible"
+   "ts": "2026-10-26T20:01:42+00:00",
+   "url": "https://www.theverge.com/podcast/1018264/kevin-roose-the-agi-chronicles-machine-gods-podcast-youtube-openai-anthropic"
   },
   {
    "category": "Equities",
-   "headline": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
-   "blurb": "Housing data deteriorated further in September, according to separate reports Tuesday.",
+   "headline": "Jobless claims near the lowest since the 1960s as low-fire trend continues",
+   "blurb": "Initial filings for unemployment insurance slipped to a seasonally adjusted 194,000.",
    "source": "CNBC",
-   "ts": "2026-10-21T11:20:58+00:00",
-   "url": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html"
+   "ts": "2026-10-22T16:40:09+00:00",
+   "url": "https://www.cnbc.com/2026/10/22/jobless-claims-record-low-weekly.html"
   },
   {
    "category": "Crypto",
@@ -148,51 +148,51 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "More than 60 Christians killed in Ethiopia 'massacre', church official says",
-   "blurb": "One resident, whose 75-year-old father was killed, described it as an ambush, saying they were surrounded.",
+   "headline": "Trump administration illegally fired James Comey's daughter, judge rules",
+   "blurb": "Maurene Comey believes she was let go from her job as a federal prosecutor because her father is the former FBI director.",
    "source": "BBC",
-   "ts": "2026-10-26T16:31:09+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cm4g175dgdx2o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-26T19:27:21+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "What is the Budget and what could be in it?",
-   "blurb": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
+   "headline": "Salon owners urge Budget VAT cut as staffing pressures grow",
+   "blurb": "Marcus Perkins, who owns a hair and beauty salon in Brierley Hill, says he is scared for the future.",
    "source": "BBC",
-   "ts": "2026-10-26T02:16:37+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-26T10:48:46+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c60rlp8kkz1zo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Trump, Vance go deep red 8 days out",
-   "blurb": "Plus: Trump, El-Sayed trade barbs {beacon} It’s Monday. Brazil's election was the big news overnight, but there's plenty to get caught up on in the U.S. today. Shall we? In today's issue: Trump, Vance go deep red El-Sayed, Trump trade barbs Minaj backs third Trump term Jeffries warns Hegseth of impeachment Programming note: Hello! I'm Elliott...",
+   "headline": "Watch live: Trump rallies in deep red Mississippi",
+   "blurb": "President Trump will travel to deep red Mississippi on Monday, seeking to turn out GOP voters for incumbent Sen. Cindy Hyde-Smith (R-Miss.). Hyde-Smith is facing a surprisingly competitive race against Democrat Scott Colom, a district attorney. Former Vice President Kamala Harris and Democratic Sens. Raphael Warnock (Ga.) and Cory Booker (N.J.) have all made stops...",
    "source": "The Hill",
-   "ts": "2026-10-26T16:31:33+00:00",
-   "url": "https://thehill.com/newsletters/1230-report/6172719-trump-vance-go-deep-red-8-days-out/"
+   "ts": "2026-10-26T22:00:00+00:00",
+   "url": "https://thehill.com/homenews/state-watch/6173095-trump-mississippi-hyde-smith-gop/"
   },
   {
    "category": "India Politics",
-   "headline": "ECI suspends six U.P. officials for dereliction of duty, polling booth lapses in Council polls",
-   "blurb": "ECI says such serious lapses cannot be condoned, directs charge-sheets to be issued to delinquent officers; repoll in three polling booths in affected constituency conducted peacefully on Monday with 57% voter turnout",
+   "headline": "Mumbai Police form SIT to probe Jarange’s ₹500 crore claim as Raut writes to Shah seeking ED probe",
+   "blurb": "The claim by Maratha quota activist Manoj Jarange Patil has stirred Maharashtra’s politics, drawing a wedge between the alliance partners",
    "source": "The Hindu",
-   "ts": "2026-10-26T17:06:44+00:00",
-   "url": "https://www.thehindu.com/news/national/uttar-pradesh/eci-suspends-six-up-officials-for-dereliction-of-duty-polling-booth-lapses-in-council-polls/article71627941.ece"
+   "ts": "2026-10-26T21:02:23+00:00",
+   "url": "https://www.thehindu.com/news/national/maharashtra/mumbai-police-form-sit-to-probe-jaranges-500-crore-claim-as-raut-writes-to-shah-seeking-ed-probe/article71628069.ece"
   },
   {
    "category": "AI",
    "headline": "Anthropic’s IPO filing lays out a plan to ‘revolutionize every area of human endeavor’ with AI",
    "blurb": "Anthropic has filed its S-1 prospectus with the Securities and Exchange Commission, preparing the company behind Claude to beat OpenAI to the punch with an IPO. In a filing with the SEC, Anthropic said it plans to list on the Nasdaq exchange under the ticker symbol \"ANT.\" The AI company confidentially filed with the SEC […]",
    "source": "The Verge",
-   "ts": "2026-10-26T13:55:23+00:00",
+   "ts": "2026-10-26T17:37:44+00:00",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec"
   },
   {
    "category": "Equities",
-   "headline": "UK inflation jumps to 3.5% — cementing rate hike expectations",
-   "blurb": "U.K. inflation rose by a hotter-than-expected 3.5% in the 12 months to September, driven by the surging cost of motor fuels.",
+   "headline": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
+   "blurb": "Housing data deteriorated further in September, according to separate reports Tuesday.",
    "source": "CNBC",
-   "ts": "2026-10-21T07:50:10+00:00",
-   "url": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html"
+   "ts": "2026-10-21T11:20:58+00:00",
+   "url": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html"
   },
   {
    "category": "Crypto",
@@ -204,51 +204,51 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "Israel and the US are both going to the polls - the consequences will be global",
-   "blurb": "The next fortnight sees two elections on different continents. The outcomes will shape geopolitics and the global economy, writes James Landale",
+   "headline": "Sydney's new $5bn airport has one big problem: Getting there is tough",
+   "blurb": "The airport won’t have direct public transportation for a year. How do locals feel about getting there?",
    "source": "BBC",
-   "ts": "2026-10-26T16:30:34+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/crlykey9jywqo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-26T18:00:10+00:00",
+   "url": "https://www.bbc.co.uk/news/videos/c64g1wy4mdwmo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
-   "blurb": "The economic is positive now but come January things could become trickier for the Labour government",
+   "headline": "Healey to shield low-income pensioners from income tax in the Budget",
+   "blurb": "Changes are needed to prevent the full, flat-rate state pension becoming liable for income tax after it rises in April.",
    "source": "BBC",
-   "ts": "2026-10-26T00:26:49+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-26T10:28:12+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/ck98zp7zeq65o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Unleash the Export-Import Bank to outcompete China",
-   "blurb": "Sen. Kevin Cramer is calling on Congress to reauthorize and modernize the Export-Import Bank by Dec. 31 to prevent China from dominating global energy markets and to protect over 45,000 U.S. jobs.",
+   "headline": "Republicans face a midterm reckoning over prices at the pump",
+   "blurb": "Voters are expected to punish Republicans for high gas prices this election cycle. Since the start of the Iran war, prices of oil and gasoline have been on the rise. As of Monday, gas prices were averaging about $4.29, up about $1.23 from where they were a year ago. Over the last several months with...",
    "source": "The Hill",
-   "ts": "2026-10-26T16:30:00+00:00",
-   "url": "https://thehill.com/opinion/finance/6171472-exim-bank-expires-december/"
+   "ts": "2026-10-26T21:58:10+00:00",
+   "url": "https://thehill.com/policy/energy-environment/6173484-republicans-high-gas-prices-voters-midterms/"
   },
   {
    "category": "India Politics",
-   "headline": "After slashing VAT on jet fuel, Tamil Nadu government asks airlines to add more services from Chennai airport",
-   "blurb": "Sources said that the airlines have assured to expand services after the State government reduced the VAT on jet fuel from 29 per cent to 16 per cent; the airlines, however, have not given a timeframe for the implementation",
+   "headline": "Ex-DMK minister Anbil remanded to judicial custody till Nov 6",
+   "blurb": "Chennai police took Tamil Nadu’s former School Education Minister into custody after his anticipatory bail plea was rejected; allegedly involved in a multi-crore scam to collect money from private school managements",
    "source": "The Hindu",
-   "ts": "2026-10-26T16:57:14+00:00",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/after-slashing-vat-on-jet-fuel-tamil-nadu-government-asks-airlines-to-add-more-services-from-chennai-airport/article71626942.ece"
+   "ts": "2026-10-26T20:00:52+00:00",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/former-dmk-minister-anbil-mahesh-poyyamozhi-arrested/article71626605.ece"
   },
   {
    "category": "AI",
-   "headline": "Kevin Roose is AGI-pilled. Why aren’t you?",
-   "blurb": "Today, I’m talking to Kevin Roose, journalist and author of the new book The AGI Chronicles, which details the recent and explosive transformation of the AI industry. Kevin was a longtime New York Times reporter and host of the popular podcast Hard Fork, but he and friend of the show Casey Newton just left the […]",
+   "headline": "The RealReal won’t let AI agents hog designer clothing",
+   "blurb": "The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop on its site. The change comes days after The Verge reported that an AI agent could be used to take advantage of The RealReal's item reserve system. On the retailer's website, […]",
    "source": "The Verge",
-   "ts": "2026-10-26T13:37:13+00:00",
-   "url": "https://www.theverge.com/podcast/1018264/kevin-roose-the-agi-chronicles-machine-gods-podcast-youtube-openai-anthropic"
+   "ts": "2026-10-26T17:30:55+00:00",
+   "url": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal"
   },
   {
    "category": "Equities",
-   "headline": "Car buyers are demanding lower prices and better tech. Automakers must deliver both",
-   "blurb": "Bain says tech leads purchase considerations in China while price remains No. 1 in the U.S. and Europe, as pressure mounts on Western carmakers.",
+   "headline": "UK inflation jumps to 3.5% — cementing rate hike expectations",
+   "blurb": "U.K. inflation rose by a hotter-than-expected 3.5% in the 12 months to September, driven by the surging cost of motor fuels.",
    "source": "CNBC",
-   "ts": "2026-10-21T01:01:01+00:00",
-   "url": "https://www.cnbc.com/2026/10/20/car-buyers-china-tech-price-europe.html"
+   "ts": "2026-10-21T07:50:10+00:00",
+   "url": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html"
   },
   {
    "category": "Crypto",
@@ -260,51 +260,51 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
-   "blurb": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
+   "headline": "Algeria to send troops to Niger in first foreign deployment since 1973",
+   "blurb": "The troops are expected to protect energy facilities in northern Niger, near the Libyan border.",
    "source": "BBC",
-   "ts": "2026-10-26T16:27:17+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-26T17:00:09+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cm4g14n1e5wko?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Big, noisy and coming to a town near you - why the data centre backlash is growing",
-   "blurb": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts.",
+   "headline": "What is the Budget and what could be in it?",
+   "blurb": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
    "source": "BBC",
-   "ts": "2026-10-25T23:44:34+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-26T02:16:37+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Judge rules James Comey's daughter unlawfully fired as federal prosecutor",
-   "blurb": "A federal judge ruled Monday that the Department of Justice (DOJ) unlawfully fired and must provide back pay to Maurene Comey, former FBI Director James Comey’s daughter who was terminated as a prosecutor last year. U.S. District Judge Jesse Furman rejected the Trump administration’s arguments that it had constitutional authority to fire her. “Defendants’ argument is contrary...",
+   "headline": "DOJ charges Comey for third time",
+   "blurb": "Former FBI Director James Comey has been charged again by the Justice Department (DOJ) for allegedly disclosing sensitive national defense information in 2016, according to newly unsealed court documents. Comey was charged with two counts of transmitting information and conspiring to transmit information related to national defense matters on Oct. 5, but a federal judge...",
    "source": "The Hill",
-   "ts": "2026-10-26T16:17:54+00:00",
-   "url": "https://thehill.com/regulation/court-battles/6172624-maurene-comey-justice-department-unlawful-firing/"
+   "ts": "2026-10-26T21:48:04+00:00",
+   "url": "https://thehill.com/regulation/court-battles/6173552-james-comey-doj-charges-third-time/"
   },
   {
    "category": "India Politics",
-   "headline": "Indian publishers contest Modi government’s privacy law",
-   "blurb": "The October 6 lawsuit, being ‌reported for the first time and due to be heard on October 27, 2026, is the most high-profile challenge to the government’s privacy ‌law",
+   "headline": "Media association challenges privacy law in Supreme Court",
+   "blurb": "A three-judge Bench headed by Chief Justice of India Surya Kant is scheduled to hear a batch of petitions filed by activists on October 27",
    "source": "The Hindu",
-   "ts": "2026-10-26T16:55:55+00:00",
+   "ts": "2026-10-26T19:48:27+00:00",
    "url": "https://www.thehindu.com/news/national/indian-publishers-contest-modi-governments-privacy-law/article71627054.ece"
   },
   {
    "category": "AI",
-   "headline": "Can AI help solve the COBOL code crisis?",
-   "blurb": "What do the IRS, banks, airlines, and government infrastructure around the world have in common? They're all running on systems propped up by antique computer code that nobody dares touch, lest everything come crashing down. OpenAI thinks it may have a solution. On October 19th, the company touted \"substantial improvements\" in its latest AI models' […]",
+   "headline": "Five weird details from Anthropic’s IPO filing",
+   "blurb": "Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood of its business, from how much its executives are making and plans for spending its IPO billions to the risks that could derail its ambitions. At more than 300 pages, there's a lot to […]",
    "source": "The Verge",
-   "ts": "2026-10-26T13:26:44+00:00",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic"
+   "ts": "2026-10-26T17:10:23+00:00",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details"
   },
   {
    "category": "Equities",
-   "headline": "Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why",
-   "blurb": "The history of technological progress suggests that as AI spreads, the employment impact will hit women more than men.",
+   "headline": "Car buyers are demanding lower prices and better tech. Automakers must deliver both",
+   "blurb": "Bain says tech leads purchase considerations in China while price remains No. 1 in the U.S. and Europe, as pressure mounts on Western carmakers.",
    "source": "CNBC",
-   "ts": "2026-10-19T18:36:21+00:00",
-   "url": "https://www.cnbc.com/2026/10/19/ai-job-losses-women-automation-risk.html"
+   "ts": "2026-10-21T01:01:01+00:00",
+   "url": "https://www.cnbc.com/2026/10/20/car-buyers-china-tech-price-europe.html"
   },
   {
    "category": "Crypto",
@@ -316,51 +316,51 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "Catholic bishops apologise for 'exploited' Trump meeting",
-   "blurb": "Two bishops in images that show them praying with Trump have said they believed the meeting was private.",
+   "headline": "More than 60 Christians killed in Ethiopia 'massacre', church official says",
+   "blurb": "One resident, whose 75-year-old father was killed, described it as an ambush, saying they were surrounded.",
    "source": "BBC",
-   "ts": "2026-10-26T15:46:31+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cw8rz1d286v3o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-26T16:31:09+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cm4g175dgdx2o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Business Daily",
-   "blurb": "A Chinese export surge has implications far beyond its borders",
+   "headline": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
+   "blurb": "The economic is positive now but come January things could become trickier for the Labour government",
    "source": "BBC",
-   "ts": "2026-10-25T19:00:00+00:00",
-   "url": "https://www.bbc.co.uk/sounds/play/w3ct8ggp?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-26T00:26:49+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "World leaders scoff at Trump mulling Orbán as UN secretary-general",
-   "blurb": "World leaders scoffed at President Trump reportedly mulling the idea of nominating his ally former Hungarian Prime Minister Viktor Orbán as the United Nations secretary-general. Polish Prime Minister Donald Tusk called the possibility “funny,” adding “just a moment ago, he was a candidate for president of the European Commission,” according to Politico. He was referring...",
+   "headline": "Dems could probe Russian diesel importers",
+   "blurb": "{beacon} Energy & Environment Energy & Environment The Big Story Dems could probe Russian diesel importers Democrats and outgoing Republican Sen. Thom Tillis (N.C.) are telling banks and ports that Congress may investigate imports of Russian diesel after President Trump said the U.S. would import the fuel. © Stephanie Scarbrough, Associated Press In letters...",
    "source": "The Hill",
-   "ts": "2026-10-26T16:10:31+00:00",
-   "url": "https://thehill.com/policy/international/6172596-world-leaders-scoff-orban-unsg/"
+   "ts": "2026-10-26T21:45:31+00:00",
+   "url": "https://thehill.com/newsletters/energy-environment/6173521-dems-could-probe-russian-diesel-importers/"
   },
   {
    "category": "India Politics",
-   "headline": "CEC can be removed only like a Supreme Court judge, ECI tells top court",
-   "blurb": "A common affidavit filed for the EC, CEC Kumar and Election Commissioners Sandhu and Joshi say that any attempt to restrain the CEC’s functioning is contrary to the 2023 Act; asserts that Form 6 was not amended; West Bengal CEO’s officers filed appeals against inclusions",
+   "headline": "SHRC calls for checks on private clinics after boy’s death following tonsil surgery in Kannur",
+   "blurb": "The Commission issued the directive to the Additional Chief Secretary, Health department, asking the authorities to verify the qualifications and registration of doctors and other staff working at such clinics.",
    "source": "The Hindu",
-   "ts": "2026-10-26T16:53:24+00:00",
-   "url": "https://www.thehindu.com/news/national/cec-can-be-removed-only-like-a-supreme-court-judge-eci-tells-top-court/article71628290.ece"
+   "ts": "2026-10-26T19:42:55+00:00",
+   "url": "https://www.thehindu.com/news/national/kerala/shrc-calls-for-checks-on-private-clinics-after-boys-death-following-tonsil-surgery-in-kannur/article71628110.ece"
   },
   {
    "category": "AI",
-   "headline": "r/opensource just banned AI, non-English speakers, and more",
-   "blurb": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today, is incongruent to this Open Source […]",
+   "headline": "Microsoft offers buyouts to 60,000 employees",
+   "blurb": "Microsoft is offering voluntary buyouts to up to 60,000 employees across the US, UK, Canada, and India. In a message to employees, Microsoft chief people officer Amy Coleman writes that this gives staff members \"the opportunity to leave Microsoft with financial support and career planning resources\" as the company looks to trim staff without another […]",
    "source": "The Verge",
-   "ts": "2026-10-25T13:52:12+00:00",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban"
+   "ts": "2026-10-26T16:07:16+00:00",
+   "url": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible"
   },
   {
    "category": "Equities",
-   "headline": "India’s finance minister says market liquidity makes it easier for investors to exit",
-   "blurb": "Sitharaman identified fuel, fertilizer and access to capital as risks for India’s economy in 2027.",
+   "headline": "Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why",
+   "blurb": "The history of technological progress suggests that as AI spreads, the employment impact will hit women more than men.",
    "source": "CNBC",
-   "ts": "2026-10-19T08:23:33+00:00",
-   "url": "https://www.cnbc.com/2026/10/18/india-ai-nifty50-sensex-investors.html"
+   "ts": "2026-10-19T18:36:21+00:00",
+   "url": "https://www.cnbc.com/2026/10/19/ai-job-losses-women-automation-risk.html"
   },
   {
    "category": "Crypto",
@@ -372,51 +372,51 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "Police arrest teenager after shooting that injured 12, including children, in Florida",
-   "blurb": "The incident happened on Saturday night, close to an American football stadium where a game had just been played.",
+   "headline": "Israel and the US are both going to the polls - the consequences will be global",
+   "blurb": "The next fortnight sees two elections on different continents. The outcomes will shape geopolitics and the global economy, writes James Landale",
    "source": "BBC",
-   "ts": "2026-10-26T15:45:30+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/ckpdg8vnv171o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-26T16:30:34+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/crlykey9jywqo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Budget to include £1bn for social and affordable housing",
-   "blurb": "The move will take funding for the 10-year programme to more than £40bn.",
+   "headline": "Big, noisy and coming to a town near you - why the data centre backlash is growing",
+   "blurb": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts.",
    "source": "BBC",
-   "ts": "2026-10-25T10:03:17+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-25T23:44:34+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Billy Crystal: Trump's Kennedy Center moves 'so selfish and so petty'",
-   "blurb": "Billy Crystal — the recipient of two of the Kennedy Center's most prestigious awards — says what's happening at the Washington performing arts institution amid President Trump's legal battle \"really hurts.\" \"I'm one of the few who has been awarded the Mark Twain Prize and the Kennedy Honor with an elite group of people that...",
+   "headline": "Poll shows broad support for reinstating enhanced ACA subsidies",
+   "blurb": "Presented by Alliance for Aging Research {beacon} Health Care Health Care The Big Story Poll shows broad support for reinstating enhanced ACA subsidies With the midterm elections almost a week away, a new poll shows broad support across the political spectrum for reinstating the enhanced Affordable Care Act (ACA) subsidies that congressional Republicans allowed to...",
    "source": "The Hill",
-   "ts": "2026-10-26T16:07:36+00:00",
-   "url": "https://thehill.com/blogs/in-the-know/6172595-billy-crystal-trumps-kennedy-center/"
+   "ts": "2026-10-26T21:37:05+00:00",
+   "url": "https://thehill.com/newsletters/healthcare/6173520-poll-shows-broad-support-for-reinstating-enhanced-aca-subsidies/"
   },
   {
    "category": "India Politics",
-   "headline": "State government committed to strengthening ITDAs, resolving Podu land issues: Minister Adluri Laxman Kumar",
-   "blurb": "",
+   "headline": "Two Vande Bharat trains partially cancelled for signal work at Kalamassery station on Oct. 27",
+   "blurb": "Two Vande Bharat services to be partially cancelled, while the Mangala Lakshadweep Superfast Express will be delayed by 90 minutes",
    "source": "The Hindu",
-   "ts": "2026-10-26T16:52:01+00:00",
-   "url": "https://www.thehindu.com/news/national/telangana/state-government-committed-to-strengthening-itdas-resolving-podu-land-issues-minister-adluri-laxman-kumar/article71628288.ece"
+   "ts": "2026-10-26T19:34:19+00:00",
+   "url": "https://www.thehindu.com/news/national/kerala/train-services-to-be-regulated-for-signal-work-at-kalamassery-station-on-oct-27/article71628085.ece"
   },
   {
    "category": "AI",
-   "headline": "Blue Planet III is keeping the rough edges in the age of AI",
-   "blurb": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished and seamless. To counter that, Blue […]",
+   "headline": "Can AI help solve the COBOL code crisis?",
+   "blurb": "What do the IRS, banks, airlines, and government infrastructure around the world have in common? They're all running on systems propped up by antique computer code that nobody dares touch, lest everything come crashing down. OpenAI thinks it may have a solution. On October 19th, the company touted \"substantial improvements\" in its latest AI models' […]",
    "source": "The Verge",
-   "ts": "2026-10-24T21:29:12+00:00",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai"
+   "ts": "2026-10-26T13:26:44+00:00",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic"
   },
   {
    "category": "Equities",
-   "headline": "U.S. budget deficit swells to almost $2 trillion for fiscal 2026, up 12% in a single year",
-   "blurb": "The Treasury Department published the U.S. budget deficit for the 2026 fiscal year.",
+   "headline": "India’s finance minister says market liquidity makes it easier for investors to exit",
+   "blurb": "Sitharaman identified fuel, fertilizer and access to capital as risks for India’s economy in 2027.",
    "source": "CNBC",
-   "ts": "2026-10-16T22:34:29+00:00",
-   "url": "https://www.cnbc.com/2026/10/16/us-budget-deficit-2026.html"
+   "ts": "2026-10-19T08:23:33+00:00",
+   "url": "https://www.cnbc.com/2026/10/18/india-ai-nifty50-sensex-investors.html"
   },
   {
    "category": "Crypto",
@@ -428,43 +428,43 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "How 'Lula's Army' WhatsApp channel helped turn Brazil election around",
-   "blurb": "Millions joined a 'Lula's Army' channel that helped to transform online enthusiasm into real-world mobilisation.",
+   "headline": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
+   "blurb": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
    "source": "BBC",
-   "ts": "2026-10-26T15:37:33+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cwz0vg4v3ndeo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-26T16:27:17+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Rosebank: Life on the oil field at the centre of a political storm",
-   "blurb": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate.",
+   "headline": "Business Daily",
+   "blurb": "A Chinese export surge has implications far beyond its borders",
    "source": "BBC",
-   "ts": "2026-10-25T07:15:38+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-25T19:00:00+00:00",
+   "url": "https://www.bbc.co.uk/sounds/play/w3ct8ggp?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Trump to return to South Carolina days ahead of election",
-   "blurb": "The Republican National Committee announced Monday that President Trump will campaign in Rock Hill, S.C., on Thursday, marking his second trip to the Palmetto State within the span of a week. Trump campaigned last week in Clemson, in an effort to boost Sen. Darline Graham (R-S.C.) in her race against Democrat Annie Andrews. The campaign...",
+   "headline": "AI safety advocates urge Trump to support Chip Security Act",
+   "blurb": "{beacon} Technology Technology The Big Story AI safety group calls on White House to support AI chips security bill The AI safety advocacy group Americans for Responsible Innovation (ARI) is urging President Trump to endorse the Chip Security Act, stating the president’s support would “send a clear message” to America’s competitors. © Jacquelyn Martin, Associated...",
    "source": "The Hill",
-   "ts": "2026-10-26T16:07:34+00:00",
-   "url": "https://thehill.com/homenews/state-watch/6172625-trump-rock-hill-sc-rnc-graham-whatley/"
+   "ts": "2026-10-26T21:34:26+00:00",
+   "url": "https://thehill.com/newsletters/technology/6173519-ai-safety-advocates-urge-trump-to-support-chip-security-act/"
   },
   {
    "category": "India Politics",
-   "headline": "Nelakondapalli Buddhist site in Telangana to be developed as international heritage and tourism destination: Minister",
-   "blurb": "",
+   "headline": "BJP holds nationwide protests against Congress president’s 'derogatory' remarks on PM Modi’s late father",
+   "blurb": "BJP leaders and workers protested near Sena Bhawan Circle and on Rajaji Marg, close to Congress president Mallikarjun Kharge’s residence, in Delhi",
    "source": "The Hindu",
-   "ts": "2026-10-26T16:44:45+00:00",
-   "url": "https://www.thehindu.com/news/national/telangana/nelakondapalli-buddhist-site-in-telangana-to-be-developed-as-international-heritage-and-tourism-destination-minister/article71627504.ece"
+   "ts": "2026-10-26T19:26:04+00:00",
+   "url": "https://www.thehindu.com/news/national/bjp-holds-nationwide-protests-against-congress-presidents-derogatory-remarks-on-pm-modis-late-father/article71628269.ece"
   },
   {
    "category": "AI",
-   "headline": "Pennsylvania will require labels on AI-generated ads",
-   "blurb": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been significantly modified or generated by artificial intelligence\" to include a label in the same format as […]",
+   "headline": "r/opensource just banned AI, non-English speakers, and more",
+   "blurb": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today, is incongruent to this Open Source […]",
    "source": "The Verge",
-   "ts": "2026-10-24T18:32:44+00:00",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act"
+   "ts": "2026-10-25T13:52:12+00:00",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban"
   }
  ]
 }
