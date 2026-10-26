@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T04:36:32+00:00",
+ "updated": "2026-10-26T10:57:59+00:00",
  "count": 58,
  "stories": [
   {
@@ -12,51 +12,51 @@
   },
   {
    "category": "Crypto",
-   "headline": "Elon Musk issues a warning for 'AI neoclouds' as SpaceX borrows $40 billion for chips",
-   "blurb": "SpaceX has raised $40 billion in debt to buy GPUs, while Musk predicts a major shakeout among smaller AI cloud providers.",
+   "headline": "Calpers pulls back from big tech as AI jitters deepen neocloud sell-off",
+   "blurb": "California’s pension fund shifts toward private equity as investors question tech valuations and the payoff from soaring AI spending.",
    "source": "CoinDesk",
-   "ts": "2026-10-26T03:11:39+00:00",
-   "url": "https://www.coindesk.com/markets/2026/10/26/elon-musk-confirms-usd40-billion-spacex-debt-deal-for-ai-chips-warns-of-neocloud-shakeout"
+   "ts": "2026-10-26T10:33:00+00:00",
+   "url": "https://www.coindesk.com/markets/2026/10/26/calpers-pulls-back-from-big-tech-as-ai-jitters-deepen-neocloud-sell-off"
   },
   {
    "category": "Gold",
-   "headline": "Gold Price Tests $4,000 Support as Bearish Gaps Signal Further Downside Risks",
+   "headline": "Oil Futures Drop Following Last Week’s Extension",
    "blurb": "",
    "source": "Investing.com",
-   "ts": "2026-10-23T20:24:00+00:00",
-   "url": "https://www.investing.com/analysis/gold-price-tests-4000-support-as-bearish-gaps-signal-further-downside-risks-200690182"
+   "ts": "2026-10-26T10:05:00+00:00",
+   "url": "https://www.investing.com/analysis/oil-futures-drop-following-last-weeks-extension-200690247"
   },
   {
    "category": "Geopolitics",
-   "headline": "Venezuelan opposition leader María Machado returns after months in exile",
-   "blurb": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
+   "headline": "Crowds welcome Venezuela's María Machado after months in exile",
+   "blurb": "The Venezuelan opposition leader spent more than 10 months in exile after escaping the country on a speedboat.",
    "source": "BBC",
-   "ts": "2026-10-26T03:05:22+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-26T09:31:12+00:00",
+   "url": "https://www.bbc.co.uk/news/videos/cwgkv8kmly4zo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "What is the Budget and what could be in it?",
-   "blurb": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
+   "headline": "Salon owners urge Budget VAT cut as staffing pressures grow",
+   "blurb": "Marcus Perkins, who owns a hair and beauty salon in Brierley Hill, says he is scared for the future.",
    "source": "BBC",
-   "ts": "2026-10-26T02:16:37+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-26T10:48:46+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c60rlp8kkz1zo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Nicki Minaj tells Trump she’ll support him if he runs again",
-   "blurb": "Nicki Minaj joined President Trump at a campaign rally Sunday and said that she would support him if he chose to run again. “So, President Trump, it is an honor to stand with you every single time, and I will continue to support you forever and ever. If you run again, I will support you...",
+   "headline": "State judicial races are on the ballot in November. Here's what you need to know",
+   "blurb": "The midterms are not just about Congress. While high-profile contests that will determine the balance of power in Washington have dominated news cycles, judicial elections are also happening in half of the country on November 3. State Supreme Court races are on the ballot in 24 states, with half of those being retention elections in which voters decide whether an incumbent judge should remain...",
    "source": "The Hill",
-   "ts": "2026-10-26T02:52:18+00:00",
-   "url": "https://thehill.com/blogs/in-the-know/6171497-nicki-minaj-support-trump-michigan-rally-press-secretary/"
+   "ts": "2026-10-26T10:00:00+00:00",
+   "url": "https://thehill.com/homenews/state-watch/6169419-midterm-judicial-election-impact/"
   },
   {
    "category": "India Politics",
-   "headline": "Deep depression intensifies into cyclonic storm 'Arnab'; rains continue in Tamil Nadu | LIVE",
-   "blurb": "Odisha stepped up preparations, mobilising personnel and equipment, while Chief Minister Mohan Charan Majhi deputed eight ministers to vulnerable districts",
+   "headline": "Four arrested in retired IPS officer’s wife murder case after six-month hunt",
+   "blurb": "Police teams made several visits to Nepal as part of the effort to track the suspects",
    "source": "The Hindu",
-   "ts": "2026-10-26T04:28:14+00:00",
-   "url": "https://www.thehindu.com/news/national/cyclone-arnab-andhra-pradesh-odisha-live-updates-imd-weather-forecast-rain-warnings-bay-of-bengal-october-26-2026/article71625447.ece"
+   "ts": "2026-10-26T10:44:06+00:00",
+   "url": "https://www.thehindu.com/news/cities/Hyderabad/four-arrested-in-retired-ips-officers-wife-murder-case-after-six-month-hunt/article71626475.ece"
   },
   {
    "category": "AI",
@@ -76,51 +76,51 @@
   },
   {
    "category": "Crypto",
-   "headline": "Latvia targets tokenization rules in 2027 with commercial property in focus",
-   "blurb": "Economics Minister Viktors Valainis says rules could arrive in the first half of next year, but an overdue assessment remains unfinished and no sovereign-bond issuance was identified.",
+   "headline": "Fed, ECB and BOJ interest-rate decisions, Coinbase earnings: Crypto Week Ahead",
+   "blurb": "Your look at what's coming in the week starting Oct. 26.",
    "source": "CoinDesk",
-   "ts": "2026-10-25T15:00:00+00:00",
-   "url": "https://www.coindesk.com/business/2026/10/25/latvia-targets-tokenization-rules-in-2027-with-commercial-property-in-focus"
+   "ts": "2026-10-26T09:14:47+00:00",
+   "url": "https://www.coindesk.com/markets/2026/10/26/fed-ecb-and-boj-interest-rate-decisions-coinbase-earnings-crypto-week-ahead"
   },
   {
    "category": "Gold",
-   "headline": "Brent Crude Hits 5-Month High as Middle East Supply Fears Intensify",
+   "headline": "Gold Hits The Floor and Buyers Come to the Fore, but at a Loss to Score",
    "blurb": "",
    "source": "Investing.com",
-   "ts": "2026-10-23T18:57:00+00:00",
-   "url": "https://www.investing.com/analysis/brent-crude-hits-5month-high-as-middle-east-supply-fears-intensify-200690178"
+   "ts": "2026-10-26T08:25:00+00:00",
+   "url": "https://www.investing.com/analysis/gold-hits-the-floor-and-buyers-come-to-the-fore-but-at-a-loss-to-score-200690233"
   },
   {
    "category": "Geopolitics",
-   "headline": "Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement",
+   "headline": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
    "blurb": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
    "source": "BBC",
-   "ts": "2026-10-26T01:07:05+00:00",
+   "ts": "2026-10-26T09:04:47+00:00",
    "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
-   "blurb": "The economic is positive now but come January things could become trickier for the Labour government",
+   "headline": "Healey to shield low-income pensioners from income tax in the Budget",
+   "blurb": "Changes are needed to prevent the full, flat-rate state pension becoming liable for income tax after it rises in April.",
    "source": "BBC",
-   "ts": "2026-10-26T00:26:49+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-26T10:28:12+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/ck98zp7zeq65o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Trump considering moving White House press corps",
-   "blurb": "President Trump confirmed on Sunday he is considering moving the White House press corps from its historic location. “Also, I am not building a swimming pool in the White House Briefing Room, and never had any intention of doing so,” he wrote on Truth Social in a lengthy post about comedian Bill Maher. “I am...",
+   "headline": "The school choice decision putting Democratic governors on the clock",
+   "blurb": "Democratic governors face an end-of-year deadline to join the nation's first federal school choice program, a decision that could bring massive amounts of money to their states but which opponents fear could severely undermine public schools. Thirty-one states have opted into the GOP-passed initiative, but so far, that number includes only two blue ones: Colorado...",
    "source": "The Hill",
-   "ts": "2026-10-26T02:36:02+00:00",
-   "url": "https://thehill.com/homenews/administration/6171484-donald-trump-considering-moving-white-house-press-corps/"
+   "ts": "2026-10-26T10:00:00+00:00",
+   "url": "https://thehill.com/homenews/state-watch/6169069-federal-school-choice-tax-credit-blue-states/"
   },
   {
    "category": "India Politics",
-   "headline": "Cyclone Arnab: Over 4,800 fishing vessels return safely to Kakinada coast",
-   "blurb": "Six boats which ventured into sea despite cyclone warning have been sent back by the Coast Guard off Kakinada coast.",
+   "headline": "Rain lashes districts across southern Tamil Nadu",
+   "blurb": "Roads in the ghat section leading to Kodaikanal from Batlagundu were affected. Highways department officials restricted heavy vehicle movement after 6 p.m. as a precautionary measure.",
    "source": "The Hindu",
-   "ts": "2026-10-26T04:26:34+00:00",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/over-4800-fishing-boats-returned-safely-to-kakinada-shores-as-cyclone-arnab-looms/article71625551.ece"
+   "ts": "2026-10-26T10:42:35+00:00",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/rain-lashes-districts-across-southern-tamil-nadu/article71626092.ece"
   },
   {
    "category": "AI",
@@ -140,43 +140,43 @@
   },
   {
    "category": "Crypto",
-   "headline": "UK banks face 10,000 complaints in 3 months over crypto restrictions",
-   "blurb": "The U.K. claims to aspire to become a global cryptocurrency hub, an ambition that would appear to be at odds with the attitude to crypto purchases of its major banks.",
+   "headline": "Over 11 million bitcoin has no known owner. Here's what it means",
+   "blurb": "The large number of coins held in unidentified wallets shows that retail investors have been in this market for years, observers said. But this interpretation comes with a caveat.",
    "source": "CoinDesk",
-   "ts": "2026-10-25T13:00:00+00:00",
-   "url": "https://www.coindesk.com/policy/2026/10/22/uk-banks-face-10-000-complaints-in-3-months-over-crypto-restrictions"
+   "ts": "2026-10-26T07:18:24+00:00",
+   "url": "https://www.coindesk.com/markets/2026/10/26/over-11-million-btc-can-t-be-linked-to-any-known-owner-even-after-wall-street-buying"
   },
   {
    "category": "Geopolitics",
-   "headline": "Deeply divided Israel braces for pivotal election",
-   "blurb": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.",
+   "headline": "Uganda imposes 21-day quarantine on citizens returning from DR Congo",
+   "blurb": "Uganda will also not allow most travellers who have been in DR Congo to transit through the country.",
    "source": "BBC",
-   "ts": "2026-10-25T22:11:13+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-26T08:18:22+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/crx2dyd24188o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Data centre debate heats up ahead of US midterms - here's what you need to know",
-   "blurb": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts.",
+   "headline": "What is the Budget and what could be in it?",
+   "blurb": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
    "source": "BBC",
-   "ts": "2026-10-25T23:44:34+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-26T02:16:37+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "El-Sayed: Trump has as much regard for Constitution as ‘a piece of toilet paper’",
-   "blurb": "Michigan Senate candidate Abdul El-Sayed criticized President Trump on Sunday, saying the president has as much regard for the Constitution as “a piece of toilet paper.” In an interview with Al Sharpton on PoliticsNation, El-Sayed was asked about the numerous attacks made by the GOP and Trump about his family background and faith and how...",
+   "headline": "How sports gambling could lead to Trump's next fight with the NFL",
+   "blurb": "The future of the multibillion-dollar business of online sports wagering in the U.S. is emerging as a potential new frontier in a long-standing era of tensions between President Trump and the NFL. Trump, who before he ran for office tried and failed on multiple occasions to buy an NFL franchise, has had an on-again, off-again relationship with...",
    "source": "The Hill",
-   "ts": "2026-10-26T01:20:40+00:00",
-   "url": "https://thehill.com/homenews/campaign/6171437-el-sayed-trump-has-as-much-regard-for-constitution-as-a-piece-of-toilet-paper/"
+   "ts": "2026-10-26T10:00:00+00:00",
+   "url": "https://thehill.com/newsletters/keeping-score/6168816-trump-nfl-sports-gambling-fight/"
   },
   {
    "category": "India Politics",
-   "headline": "Pramoda Devi expresses ‘deep disappointment’ over conduct of Dasara 2026; proposes shifting deity’s Ambari procession to Rathotsava day",
-   "blurb": "Seeks palace premises free of government activities on Ayudha Puja, Vijayadashami; cites security lapses and lack of coordination",
+   "headline": "Supreme Court notice to Centre, ECI on plea against MLAs ‘abandoning’ seats to shift loyalty at public expense",
+   "blurb": "‘When a Member abandons that vote within weeks, not for any compelling cause but to change sides, he does not merely leave a seat. He breaks the trust on which representative democracy rests’",
    "source": "The Hindu",
-   "ts": "2026-10-26T04:26:06+00:00",
-   "url": "https://www.thehindu.com/news/national/karnataka/pramoda-devi-expresses-deep-disappointment-over-conduct-of-dasara-2026-proposes-shifting-deitys-ambari-procession-to-rathotsava-day/article71623569.ece"
+   "ts": "2026-10-26T10:41:03+00:00",
+   "url": "https://www.thehindu.com/news/national/sc-notice-to-centre-ec-on-plea-against-mlas-abandoning-seats-to-shift-loyalty-at-public-expense/article71626367.ece"
   },
   {
    "category": "AI",
@@ -196,43 +196,43 @@
   },
   {
    "category": "Crypto",
-   "headline": "Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends",
-   "blurb": "The securities have financed purchases of nearly 136,000 bitcoin, opening a funding channel that analysts expect to complement the larger ETF market.",
+   "headline": "India's largest crypto exchange absorbs $16 million loss from internal process failure tied to retired wallet",
+   "blurb": "The Mumbai-based exchange initially dismissed reports of suspicious outflows as a false alarm. It now says it lost $16 million and will absorb the loss.",
    "source": "CoinDesk",
-   "ts": "2026-10-24T16:00:00+00:00",
-   "url": "https://www.coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends"
+   "ts": "2026-10-26T05:39:17+00:00",
+   "url": "https://www.coindesk.com/markets/2026/10/26/coindcx-absorbs-usd16-million-loss-from-internal-process-failure-tied-to-retired-wallet"
   },
   {
    "category": "Geopolitics",
-   "headline": "Why Israel's election is one of the most important in its history",
-   "blurb": "Security and democracy emerge as central issues in Israel's highly anticipated general election, as Middle East correspondent Lucy Williamson reports.",
+   "headline": "China's big political meeting could see Xi 'tighten discipline' in Party",
+   "blurb": "The highly secretive four-day Plenum starts Monday in Beijing.",
    "source": "BBC",
-   "ts": "2026-10-25T22:05:30+00:00",
-   "url": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-26T07:40:57+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c6n8djd1078ro?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Budget to include £1bn for social and affordable housing",
-   "blurb": "The move will take funding for the 10-year programme to more than £40bn.",
+   "headline": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
+   "blurb": "The economic is positive now but come January things could become trickier for the Labour government",
    "source": "BBC",
-   "ts": "2026-10-25T10:03:17+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-26T00:26:49+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Tillis says it's 'appropriate to take a look at' Alaska ballot with two Dan Sullivans running",
-   "blurb": "Sen. Thom Tillis (R-N.C.) on Sunday said it was \"appropriate to take a look at\" the outcome of the Alaska Senate race with two candidates with similar names on the ballot, which prompted a Department of Justice (DOJ) lawsuit. \"Alaska has a candidate who just coincidentally happens to be the same name as my friend...",
+   "headline": "Mississippi Senate race becomes a test of Trump’s turnout machine",
+   "blurb": "President Trump’s campaign stop in Mississippi on Monday is putting the ruby red state in the spotlight as Democrats grow optimistic about their chances in the state’s Senate race. The Republican National Committee said on Wednesday that Trump will headline a rally in the city of Corinth in northeast Mississippi. Meanwhile, the Democratic-aligned Senate Majority...",
    "source": "The Hill",
-   "ts": "2026-10-25T23:46:52+00:00",
-   "url": "https://thehill.com/homenews/campaign/6170783-thom-tillis-look-at-alaska-ballot-with-two-dan-sullivans-running/"
+   "ts": "2026-10-26T10:00:00+00:00",
+   "url": "https://thehill.com/homenews/senate/6169566-trump-rally-mississippi-senate-race/"
   },
   {
    "category": "India Politics",
-   "headline": "Juvenile Justice Board grants bail to teen driver in fatal Cheranalloor car crash in Keralam",
-   "blurb": "Absence of any previous criminal antecedents was among grounds cited for granting bail. The decision has not gone down well with protesters demanding his arrest, who have been seeking action against the boy’s father, a judicial officer and the registered owner of the car",
+   "headline": "Why TVK is eager to woo AIADMK cadre",
+   "blurb": "Tamil Nadu’s ruling party is strengthening itself by welcoming rival members",
    "source": "The Hindu",
-   "ts": "2026-10-26T04:05:14+00:00",
-   "url": "https://www.thehindu.com/news/national/kerala/juvenile-justice-board-grants-bail-to-teen-driver-in-fatal-cheranalloor-car-crash-in-keralam/article71625550.ece"
+   "ts": "2026-10-26T10:41:02+00:00",
+   "url": "https://www.thehindu.com/opinion/op-ed/why-tvk-is-eager-to-woo-aiadmk-cadre/article71086362.ece"
   },
   {
    "category": "AI",
@@ -252,43 +252,43 @@
   },
   {
    "category": "Crypto",
-   "headline": "Block's new voice AI sounds eerily human, sparking awe and scam fears",
-   "blurb": "Reactions split between amazement at how human it sounds and fears it could fuel scams and deception, with CZ eyeing uses in children’s education.",
+   "headline": "Bitcoin wallet bug let rogue servers steal funds when users tried to speed up payments",
+   "blurb": "Attackers replaced legitimate transactions with fake ones, then waited for users to approve higher fees. At least one person lost bitcoin before developers patched the flaw.",
    "source": "CoinDesk",
-   "ts": "2026-10-24T15:21:06+00:00",
-   "url": "https://www.coindesk.com/tech/2026/10/24/block-s-new-voice-ai-sounds-eerily-human-sparking-awe-and-scam-fears"
+   "ts": "2026-10-26T05:15:20+00:00",
+   "url": "https://www.coindesk.com/tech/2026/10/26/bitcoin-wallet-bug-let-rogue-servers-steal-funds-when-users-tried-to-speed-up-payments"
   },
   {
    "category": "Geopolitics",
-   "headline": "Death toll in Nigeria village raided by gunmen rises to 48, police say",
-   "blurb": "Unidentified gunmen on motorcycles swooped on a remote village on Friday, looting shops and setting houses ablaze.",
+   "headline": "Eric Bauza, voice of Bugs Bunny and Daffy Duck, dies aged 46",
+   "blurb": "Bauza had voiced a number of characters in this summer's animated hit Coyote vs. Acme.",
    "source": "BBC",
-   "ts": "2026-10-25T19:14:27+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-26T06:16:15+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cwzd6q630vjeo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Rosebank: Life on the oil field at the centre of a political storm",
-   "blurb": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate.",
+   "headline": "Big, noisy and coming to a town near you - why the data centre backlash is growing",
+   "blurb": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts.",
    "source": "BBC",
-   "ts": "2026-10-25T07:15:38+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-25T23:44:34+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Trump says El-Sayed should have to pass through metal detector to enter Senate",
-   "blurb": "President Trump called out Michigan Senate candidate Abdul El-Sayed on Sunday, saying he should have to pass through a metal detector to enter the Senate building. “Anyone with that record of support for jihadists would be screened and unable to get a seat on an airplane. They certainly should not give him a seat in...",
+   "headline": "Election season hits overdrive for thousands of Israeli Americans",
+   "blurb": "Dual citizens of the U.S. and Israel are staring down two consequential elections in the coming days, with thousands preparing to hop on planes to have their voices heard in both countries. While the U.S. allows absentee voting, Israel requires voting in person. And an estimated 67,000 Israelis worldwide are expected to travel back to...",
    "source": "The Hill",
-   "ts": "2026-10-25T22:52:30+00:00",
-   "url": "https://thehill.com/homenews/administration/6171296-donald-trump-abdul-el-sayed-pass-through-metal-detector-to-enter-senate/"
+   "ts": "2026-10-26T10:00:00+00:00",
+   "url": "https://thehill.com/policy/international/6169142-dual-citizens-vote-us-israel-elections/"
   },
   {
    "category": "India Politics",
-   "headline": "Deep depression intensifies into Cyclonic Storm Arnab",
-   "blurb": "As per IMD bulletin, the cyclone is very likely to move west-northwestwards and intensify further into a severe cyclonic storm over westcentral Bay of Bengal by midnight of October 26, 2026",
+   "headline": "Pakistan’s Punjab government extends detention of Imran Khan’s sisters by 30 days",
+   "blurb": "Aleema Khan, Noreen Niazi and Dr. Uzma Khan remain in Kot Lakhpat Jail under a public safety law, as PTI leader Moonis Elahi calls the detention “politically motivated”",
    "source": "The Hindu",
-   "ts": "2026-10-26T03:48:18+00:00",
-   "url": "https://www.thehindu.com/news/national/odisha/deep-depression-intensifies-into-cyclonic-storm-arnab/article71625560.ece"
+   "ts": "2026-10-26T10:40:57+00:00",
+   "url": "https://www.thehindu.com/news/international/pakistans-punjab-government-extends-detention-of-imran-khans-sisters-by-30-days/article71626373.ece"
   },
   {
    "category": "AI",
@@ -308,43 +308,43 @@
   },
   {
    "category": "Crypto",
-   "headline": "Crypto under weekend pressure, bitcoin slides below $80,000 on U.S. Middle East evacuations",
-   "blurb": "Bitcoin has sunk to its weakest level in more than one month.",
+   "headline": "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting",
+   "blurb": "Ether and XRP led losses among the majors as the AI trade took another hit in Asia, where Goldman Sachs cut its Kospi target by 25%.",
    "source": "CoinDesk",
-   "ts": "2026-10-24T15:11:24+00:00",
-   "url": "https://www.coindesk.com/markets/2026/10/24/crypto-under-weekend-pressure-bitcoin-slides-below-usd80-000-on-u-s-middle-east-evacuations"
+   "ts": "2026-10-26T04:37:02+00:00",
+   "url": "https://www.coindesk.com/markets/2026/10/26/bitcoin-slips-under-usd80-000-as-traders-de-risk-ahead-of-fed-meeting"
   },
   {
    "category": "Geopolitics",
-   "headline": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
-   "blurb": "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said.",
+   "headline": "Venezuelan opposition leader María Machado returns after months in exile",
+   "blurb": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
    "source": "BBC",
-   "ts": "2026-10-25T15:32:51+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-26T05:20:19+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Heating oil costs 'more than double' ahead of winter",
-   "blurb": "Middleton in Teesdale has no mains gas supply so many residents use expensive heating oil.",
+   "headline": "Business Daily",
+   "blurb": "A Chinese export surge has implications far beyond its borders",
    "source": "BBC",
-   "ts": "2026-10-25T07:12:21+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c6n8de1jgrdvo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-25T19:00:00+00:00",
+   "url": "https://www.bbc.co.uk/sounds/play/w3ct8ggp?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Tillis accuses California of being 'guilty' of ballot harvesting: 'They have a system there that is ripe for abuse'",
-   "blurb": "Sen. Thom Tillis (R-N.C.) on Sunday accused the state of California of being \"guilty\" of ballot harvesting, claiming that the Golden State has \"a system there that is ripe for abuse.\" \"Face the Nation\" host Margaret Brennan asked about the Department of Justice's (DOJ) legal battle with the state over potential noncitizens on their voter...",
+   "headline": "Nicki Minaj tells Trump she’ll support him if he runs again",
+   "blurb": "Nicki Minaj joined President Trump at a campaign rally Sunday and said that she would support him if he chose to run again. “So, President Trump, it is an honor to stand with you every single time, and I will continue to support you forever and ever. If you run again, I will support you...",
    "source": "The Hill",
-   "ts": "2026-10-25T22:18:13+00:00",
-   "url": "https://thehill.com/homenews/senate/6170781-thom-tillis-accuses-california-of-ballot-harvesting/"
+   "ts": "2026-10-26T02:52:18+00:00",
+   "url": "https://thehill.com/blogs/in-the-know/6171497-nicki-minaj-support-trump-michigan-rally-press-secretary/"
   },
   {
    "category": "India Politics",
-   "headline": "Tamil Nadu receives heavy rainfall; schools closed in several districts on Oct. 26",
-   "blurb": "The IMD, in its latest bulletin, said a depression over the Bay of Bengal had moved southwestwards during the past six hours and intensified into a deep depression",
+   "headline": "Cyclonic storm 'Arnab' to cross Andhra Pradesh-Yanam coast as very severe storm by October 28: IMD | LIVE",
+   "blurb": "Odisha stepped up preparations, mobilising personnel and equipment, while Chief Minister Mohan Charan Majhi deputed eight ministers to vulnerable districts",
    "source": "The Hindu",
-   "ts": "2026-10-26T03:43:31+00:00",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-heavy-rainfall-cyclone-arnab-on-october-26-2026/article71625472.ece"
+   "ts": "2026-10-26T10:36:26+00:00",
+   "url": "https://www.thehindu.com/news/national/cyclone-arnab-andhra-pradesh-odisha-live-updates-imd-weather-forecast-rain-warnings-bay-of-bengal-october-26-2026/article71625447.ece"
   },
   {
    "category": "AI",
@@ -364,43 +364,43 @@
   },
   {
    "category": "Crypto",
-   "headline": "Why McDonalds, Microsoft and Google saying no to tokenized stocks isn't a dealbreaker",
-   "blurb": "Some of the world's biggest companies objected to being listed on the first tokenized securities trading venue under the SEC's innovation exemption. But the early pushback may say more about issuer caution than about rejection of tokenization itself.",
+   "headline": "Elon Musk issues a warning for 'AI neoclouds' as SpaceX borrows $40 billion for chips",
+   "blurb": "SpaceX has raised $40 billion in debt to buy GPUs, while Musk predicts a major shakeout among smaller AI cloud providers.",
    "source": "CoinDesk",
-   "ts": "2026-10-24T15:00:00+00:00",
-   "url": "https://www.coindesk.com/business/2026/10/23/why-mcdonalds-microsoft-and-google-saying-no-to-tokenized-stocks-isn-t-a-dealbreaker"
+   "ts": "2026-10-26T03:11:39+00:00",
+   "url": "https://www.coindesk.com/markets/2026/10/26/elon-musk-confirms-usd40-billion-spacex-debt-deal-for-ai-chips-warns-of-neocloud-shakeout"
   },
   {
    "category": "Geopolitics",
-   "headline": "Gabon says access to social media restored after eight-month ban",
-   "blurb": "The authorities had justified the ban by saying online content was fuelling conflict, while the opposition had condemned it as an abuse of power.",
+   "headline": "Australian murderer loses bid to eat Vegemite in prison",
+   "blurb": "Andre McKechnie, who murdered a property developer, argued it was his right to enjoy Australian culture.",
    "source": "BBC",
-   "ts": "2026-10-25T14:39:47+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-26T04:05:28+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cvwy7wz9x12go?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "How families are cutting the cost of Halloween as spending grows",
-   "blurb": "Families are turning to homemade costumes, swaps and second-hand outfits to keep it affordable.",
+   "headline": "Budget to include £1bn for social and affordable housing",
+   "blurb": "The move will take funding for the 10-year programme to more than £40bn.",
    "source": "BBC",
-   "ts": "2026-10-25T07:09:56+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c64g1kjgrl47o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-25T10:03:17+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Appeals court resists DOJ's bid to immediately segregate 20k California ballots",
-   "blurb": "A federal appeals court appeared unlikely to immediately agree to the Trump administration’s bid to segregate 20,000 California ballots it says are likely noncitizen voters, expressing skepticism at a rare Sunday hearing that a trial judge needs to move quicker. “I don't see how we have jurisdiction,” said U.S. Circuit Judge Mark Bennett. The Justice Department (DOJ) sued...",
+   "headline": "Trump considering moving White House press corps",
+   "blurb": "President Trump confirmed on Sunday he is considering moving the White House press corps from its historic location. “Also, I am not building a swimming pool in the White House Briefing Room, and never had any intention of doing so,” he wrote on Truth Social in a lengthy post about comedian Bill Maher. “I am...",
    "source": "The Hill",
-   "ts": "2026-10-25T22:02:13+00:00",
-   "url": "https://thehill.com/regulation/court-battles/6171263-appeals-court-denies-emergency-california-hearing/"
+   "ts": "2026-10-26T02:36:02+00:00",
+   "url": "https://thehill.com/homenews/administration/6171484-donald-trump-considering-moving-white-house-press-corps/"
   },
   {
    "category": "India Politics",
-   "headline": "Hindutva reading builds on colonial interpretations of Indian history: Romila Thapar",
-   "blurb": "Had greater attention been paid to physical evidence such as inscriptions, Indian history may have been interpreted differently, says the historian",
+   "headline": "Police conduct flag march in Guntur ahead of GMC elections",
+   "blurb": "The march passes through Bharatpet, Sarada Colony and Sanjeevaiah Nagar to Donka Road",
    "source": "The Hindu",
-   "ts": "2026-10-26T03:41:28+00:00",
-   "url": "https://www.thehindu.com/news/national/hindutva-reading-builds-on-colonial-interpretations-of-indian-history-romila-thapar/article71624128.ece"
+   "ts": "2026-10-26T10:25:23+00:00",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/police-conduct-flag-march-in-guntur-ahead-of-gmc-elections/article71626193.ece"
   },
   {
    "category": "AI",
@@ -420,43 +420,43 @@
   },
   {
    "category": "Crypto",
-   "headline": "Argentina drops criminal probe into President Milei over crashed memecoin LIBRA",
-   "blurb": "The judge found that Milei's promotion of LIBRA did not constitute fraud, despite the attention his support drew to the token.",
+   "headline": "Latvia targets tokenization rules in 2027 with commercial property in focus",
+   "blurb": "Economics Minister Viktors Valainis says rules could arrive in the first half of next year, but an overdue assessment remains unfinished and no sovereign-bond issuance was identified.",
    "source": "CoinDesk",
-   "ts": "2026-10-24T14:38:47+00:00",
-   "url": "https://www.coindesk.com/business/2026/10/24/argentina-drops-criminal-probe-into-president-milei-over-crashed-memecoin-libra"
+   "ts": "2026-10-25T15:00:00+00:00",
+   "url": "https://www.coindesk.com/business/2026/10/25/latvia-targets-tokenization-rules-in-2027-with-commercial-property-in-focus"
   },
   {
    "category": "Geopolitics",
-   "headline": "El Salvador president says bodies found in Haiti are not those of hostages",
-   "blurb": "Nayib Bukele says bodies delivered to soldiers are \"not our men\" amid search for Salvadorans abducted last week.",
+   "headline": "Watch: How President Lula turned it around to beat Flávio Bolsonaro",
+   "blurb": "Brazil's left-wing President has been elected for a fourth term after narrowly beating right-wing Flávio Bolsonaro in a knife-edge vote.",
    "source": "BBC",
-   "ts": "2026-10-25T10:55:33+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-26T02:53:00+00:00",
+   "url": "https://www.bbc.co.uk/news/videos/cmp8g0x4l11yo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Firms 'holding back' on new jobs ahead of Budget",
-   "blurb": "Some businesses say they want to see employment costs come down in the October Budget.",
+   "headline": "Rosebank: Life on the oil field at the centre of a political storm",
+   "blurb": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate.",
    "source": "BBC",
-   "ts": "2026-10-25T07:06:12+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c62kep355q02o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-25T07:15:38+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Rogers dodges questions on MAGA label, Trump tariffs",
-   "blurb": "Former Rep. Mike Rogers (R-Mich.) dodged questions on whether he identifies as a MAGA-Republican and avoided clarifying his position on President Trump’s controversial tariffs against Canada ahead of his competitive race against Democrat Abdul El-Sayed in Michigan’s Senate race. During a Sunday appearance on NBC’s “Meet the Press,” Rogers was asked if he considered himself...",
+   "headline": "El-Sayed: Trump has as much regard for Constitution as ‘a piece of toilet paper’",
+   "blurb": "Michigan Senate candidate Abdul El-Sayed criticized President Trump on Sunday, saying the president has as much regard for the Constitution as “a piece of toilet paper.” In an interview with Al Sharpton on PoliticsNation, El-Sayed was asked about the numerous attacks made by the GOP and Trump about his family background and faith and how...",
    "source": "The Hill",
-   "ts": "2026-10-25T21:44:53+00:00",
-   "url": "https://thehill.com/homenews/campaign/6171235-rogers-dodges-magar-label-interview/"
+   "ts": "2026-10-26T01:20:40+00:00",
+   "url": "https://thehill.com/homenews/campaign/6171437-el-sayed-trump-has-as-much-regard-for-constitution-as-a-piece-of-toilet-paper/"
   },
   {
    "category": "India Politics",
-   "headline": "Over 61,000 Form-7 applications filed by election officials in Karnataka, none cites reason",
-   "blurb": "Officials say they were instructed to file Form-7 applications for shifted, duplicate, underage, deceased and non-citizen voters, but auto-generated forms left the reason blank",
+   "headline": "Cyclone Arnab: Orange alert in four Telangana districts, yellow alert in four others on October 28",
+   "blurb": "",
    "source": "The Hindu",
-   "ts": "2026-10-26T03:38:59+00:00",
-   "url": "https://www.thehindu.com/news/national/karnataka/over-61000-form-7-applications-filed-by-election-officials-in-karnataka-none-cites-reason/article71623783.ece"
+   "ts": "2026-10-26T10:20:02+00:00",
+   "url": "https://www.thehindu.com/news/national/telangana/cyclone-arnab-orange-alert-in-four-telangana-districts-yellow-alert-in-four-others-on-october-28/article71626114.ece"
   },
   {
    "category": "AI",
