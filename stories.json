@@ -1,7 +1,135 @@
 {
- "updated": "2026-10-28T18:46:57+00:00",
+ "updated": "2026-10-28T23:06:33+00:00",
  "count": 58,
  "stories": [
+  {
+   "category": "Equities",
+   "headline": "Here are five key takeaways from the Fed rate decision and Warsh news conference",
+   "blurb": "Even though the interest-rate vote went as expected, there were a few surprises out of this week's Federal Open Market Committee meeting.",
+   "source": "CNBC",
+   "ts": "2026-10-28T21:31:46+00:00",
+   "url": "https://www.cnbc.com/2026/10/28/fed-rate-decision-warsh-takeaways.html"
+  },
+  {
+   "category": "Crypto",
+   "headline": "Bitcoin-backed mortgages are coming to Canada, but borrowers are still unaware of the cost",
+   "blurb": "Prospective borrowers face collateral liquidation risks if bitcoin prices drop, though APX said property and crypto collateral will be handled distinctly.",
+   "source": "CoinDesk",
+   "ts": "2026-10-28T21:13:44+00:00",
+   "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-backed-mortgages-are-coming-to-canada-but-borrowers-are-still-unaware-of-the-cost"
+  },
+  {
+   "category": "Gold",
+   "headline": "Copper Targets $679 as Palladium Risks Another Drop Toward $1,000",
+   "blurb": "",
+   "source": "Investing.com",
+   "ts": "2026-10-28T18:36:00+00:00",
+   "url": "https://www.investing.com/analysis/copper-targets-679-as-palladium-risks-another-drop-toward-1000-200690462"
+  },
+  {
+   "category": "Geopolitics",
+   "headline": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+   "blurb": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
+   "source": "BBC",
+   "ts": "2026-10-28T22:13:35+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "category": "Macro",
+   "headline": "Restaurants sceptical over 'garlic and gherkins' plan",
+   "blurb": "Import tariffs on more than 100 items - including garlic, gherkins and plant-based milk - are being removed.",
+   "source": "BBC",
+   "ts": "2026-10-28T20:31:39+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cm74pvzzke91o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "category": "US Politics",
+   "headline": "Fed hits pause on interest rates",
+   "blurb": "Welcome to The Hill's Business & Economy newsletter {beacon} Business & Economy Business & Economy The Big Story Fed holds rate steady ahead of midterms Federal Reserve officials held interest rates steady Wednesday despite stubborn inflation. © Mark Schiefelbein, Associated Press The central bank’s Federal Open Market Committee (FOMC) voted 10-2 to keep the...",
+   "source": "The Hill",
+   "ts": "2026-10-28T22:47:53+00:00",
+   "url": "https://thehill.com/newsletters/business-economy/6179798-fed-hits-pause-on-interest-rates/"
+  },
+  {
+   "category": "India Politics",
+   "headline": "Forest panel rejects Uttarakhand HC relocation plan again over forest land concerns",
+   "blurb": "The committee directed the State government to explore the possibility of locating the proposed project on suitable non-forest land before pursuing forest clearance",
+   "source": "The Hindu",
+   "ts": "2026-10-28T21:35:29+00:00",
+   "url": "https://www.thehindu.com/news/national/uttarakhand/forest-panel-rejects-uttarakhand-hc-relocation-plan-again-over-forest-land-concerns/article71636307.ece"
+  },
+  {
+   "category": "AI",
+   "headline": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+   "blurb": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Appearing on the Colin and Samir podcast to talk about the launch of widescreen and […]",
+   "source": "The Verge",
+   "ts": "2026-10-28T23:05:39+00:00",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity"
+  },
+  {
+   "category": "Equities",
+   "headline": "Bessent says 'not necessarily' a mistake if the Fed hikes again",
+   "blurb": "Treasury Secretary Scott Bessent joined CNBC for an interview on Oct. 28, 2026.",
+   "source": "CNBC",
+   "ts": "2026-10-28T21:06:37+00:00",
+   "url": "https://www.cnbc.com/2026/10/28/scott-bessent-interview.html"
+  },
+  {
+   "category": "Crypto",
+   "headline": "CFTC chief poses questions about policing AI but calls it a road to 'autonomous trading'",
+   "blurb": "The U.S. Commodity Futures Trading Commission held a forum in which the chairman, Mike Selig, suggested AI agents may usher in a financial revolution.",
+   "source": "CoinDesk",
+   "ts": "2026-10-28T19:01:53+00:00",
+   "url": "https://www.coindesk.com/policy/2026/10/28/cftc-chief-poses-questions-about-policing-ai-but-calls-it-a-road-to-autonomous-trading"
+  },
+  {
+   "category": "Gold",
+   "headline": "Gold’s Rebound Needs 2 Things — A Fed Catalyst and a $4,106 Breakout",
+   "blurb": "",
+   "source": "Investing.com",
+   "ts": "2026-10-28T17:51:00+00:00",
+   "url": "https://www.investing.com/analysis/golds-rebound-needs-2-things--a-fed-catalyst-and-a-4106-breakout-200690427"
+  },
+  {
+   "category": "Geopolitics",
+   "headline": "Girl seriously injured in wolf attack at German wildlife park",
+   "blurb": "The eight-year-old was in an enclosure with other children and a staff member when she was attacked.",
+   "source": "BBC",
+   "ts": "2026-10-28T22:08:52+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c678prm55gzzo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "category": "Macro",
+   "headline": "What we now know about the UK economy in four charts",
+   "blurb": "The Office for Budget Responsibility says higher energy prices will impact everything from prices and living standards to economic growth.",
+   "source": "BBC",
+   "ts": "2026-10-28T20:08:45+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "category": "US Politics",
+   "headline": "Why the Peltola ‘spoiler’ controversy may be too late to shake up Alaska",
+   "blurb": "Allegations that Mary Peltola’s campaign was involved in recruiting “spoiler” candidates to siphon votes from incumbent Sen. Dan Sullivan shook up the Alaska Senate race on Wednesday. Peltola's campaign and national Democrats denied any involvement, but Republicans responded sharply, accusing her of deliberately lying to Alaskans. President Trump accused Peltola of election interference and said...",
+   "source": "The Hill",
+   "ts": "2026-10-28T22:35:04+00:00",
+   "url": "https://thehill.com/homenews/campaign/6179757-peltola-alleged-spoiler-candidate/"
+  },
+  {
+   "category": "India Politics",
+   "headline": "NCP leader challenges Sunetra Pawar’s decision to appoint a new national chief spokesperson",
+   "blurb": "Brijmohan Shrivastav claimed that the previously raised queries about her appointment as the national president were still unresolved",
+   "source": "The Hindu",
+   "ts": "2026-10-28T21:23:18+00:00",
+   "url": "https://www.thehindu.com/news/national/maharashtra/ncp-leader-challenges-sunetra-pawars-decision-to-appoint-a-new-national-chief-spokesperson/article71637703.ece"
+  },
+  {
+   "category": "AI",
+   "headline": "Akai is embracing vibe-coded mods with an open-source MPC",
+   "blurb": "The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom firmware developers by giving them early access to the device, which will have open-source firmware. It will likely run […]",
+   "source": "The Verge",
+   "ts": "2026-10-28T21:34:04+00:00",
+   "url": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key"
+  },
   {
    "category": "Equities",
    "headline": "The UK cuts energy bills, taxes banks and boosts defense in high-stakes budget",
@@ -19,52 +147,44 @@
    "url": "https://www.coindesk.com/opinion/2026/10/28/crypto-isn-t-a-partisan-fight-proven-by-data"
   },
   {
-   "category": "Gold",
-   "headline": "Gold’s Rebound Needs 2 Things — A Fed Catalyst and a $4,106 Breakout",
-   "blurb": "",
-   "source": "Investing.com",
-   "ts": "2026-10-28T17:51:00+00:00",
-   "url": "https://www.investing.com/analysis/golds-rebound-needs-2-things--a-fed-catalyst-and-a-4106-breakout-200690427"
-  },
-  {
    "category": "Geopolitics",
-   "headline": "Myanmar diplomat breaks down as he urges world to 'end our suffering'",
-   "blurb": "Kyaw Moe Tun - Myanmar's representative to the UN - makes an emotional appeal after saying the international community had failed the country's people.",
+   "headline": "High-speed train crash kills at least 68 people in Spain",
+   "blurb": "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said.",
    "source": "BBC",
-   "ts": "2026-10-28T17:34:41+00:00",
-   "url": "https://www.bbc.co.uk/news/videos/cqz0ve10jxn2o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-28T21:38:54+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Three ways the Budget affects you",
-   "blurb": "The BBC's Esyllt Carr explains how the chancellor's spending plans impact young people.",
+   "headline": "What the Budget offers for under 25s - and what it leaves out",
+   "blurb": "The chancellor announced a series of measures which will impact under-25 year-olds from housing to minimum wage.",
    "source": "BBC",
-   "ts": "2026-10-28T18:32:56+00:00",
-   "url": "https://www.bbc.co.uk/news/videos/cjkgern1yw0lo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-28T20:02:38+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Instagram now testing videos up to 90 minutes long in major shift",
-   "blurb": "One major question remains: Will Instagram compensate creators for their videos the way YouTube does?",
+   "headline": "Crowley holds 7-point lead over Tiffany in new Wisconsin gubernatorial poll",
+   "blurb": "Democrat David Crowley has slightly widened his lead over GOP nominee Tom Tiffany in Wisconsin’s gubernatorial contest, according to new polling released Wednesday. The Marquette University Law School Poll found that Crowley increased his support among likely voters in the state by 2 percentage points from a survey last month to 51 percent in October....",
    "source": "The Hill",
-   "ts": "2026-10-28T18:32:28+00:00",
-   "url": "https://thehill.com/policy/technology/6176652-instagram-longer-form-video-90-minutes-testing/"
+   "ts": "2026-10-28T22:28:55+00:00",
+   "url": "https://thehill.com/homenews/campaign/6179188-crowley-widens-wisconsin-lead/"
   },
   {
    "category": "India Politics",
-   "headline": "MLC polls: In Maharashtra, ruling Mahayuti gets 2 seats, counting continues for other seats",
-   "blurb": "In Maha Vikas Aghadi, NCP SP leads on two seats; setback for ruling NCP prompts senior leader Praful Patel to call for introspection",
+   "headline": "Corporation councillor willing to express regret for abusing and body shaming Chief Minister C. Joseph Vijay, her counsel tells Madras High Court",
+   "blurb": "She has sought anticipatory bail in a case booked against her pursuant to a speech at DMK women’s wing meet held in Chennai on October 7, 2026",
    "source": "The Hindu",
-   "ts": "2026-10-28T18:14:51+00:00",
-   "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-mlc-polls/article71637475.ece"
+   "ts": "2026-10-28T21:02:02+00:00",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/corporation-councillor-willing-to-express-regret-for-abusing-and-body-shaming-chief-minister-c-joseph-vijay-her-counsel-tells-madras-high-court/article71637016.ece"
   },
   {
    "category": "AI",
-   "headline": "Microsoft is ending Copilot support on smart TVs",
-   "blurb": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year, according to a report by Windows Central. The news comes not from an official announcement from LG, Samsung, […]",
+   "headline": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+   "blurb": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and GPT-6 Astra trailing behind. The new Gemini 4 Carbon model offers improvements over […]",
    "source": "The Verge",
-   "ts": "2026-10-28T18:36:26+00:00",
-   "url": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending"
+   "ts": "2026-10-28T20:03:00+00:00",
+   "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier"
   },
   {
    "category": "Equities",
@@ -83,52 +203,44 @@
    "url": "https://www.coindesk.com/markets/2026/10/28/fed-leaves-interest-rates-unchanged-as-expected"
   },
   {
-   "category": "Gold",
-   "headline": "Gold Faces a New Test as Oil and Treasury Yields Pull in Opposite Directions",
-   "blurb": "",
-   "source": "Investing.com",
-   "ts": "2026-10-28T17:16:00+00:00",
-   "url": "https://www.investing.com/analysis/gold-faces-a-new-test-as-oil-and-treasury-yields-pull-in-opposite-directions-200690456"
-  },
-  {
    "category": "Geopolitics",
-   "headline": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-   "blurb": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
+   "headline": "Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain",
+   "blurb": "Survivors of the train crash in Spain have spoken of their shock, panic and anger at the accident in Toledo province on Wednesday.",
    "source": "BBC",
-   "ts": "2026-10-28T16:59:47+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-28T21:24:41+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cm9qzd47ng98o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "The Budget explained in less than one minute",
-   "blurb": "What the Budget means for you in under a minute",
+   "headline": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
+   "blurb": "The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options.",
    "source": "BBC",
-   "ts": "2026-10-28T18:17:43+00:00",
-   "url": "https://www.bbc.co.uk/news/videos/crkg70lnlx9yo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-28T19:51:01+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "HHS to allow sale of unapproved peptides under review",
-   "blurb": "The Department of Health and Human Services (HHS) will allow compounding pharmacies to manufacture and sell peptides that have not yet been added to the list of approved substances, advancing access to the those championed by the Make America Healthy Again (MAHA) agenda. HHS stated in a notice that it would be practicing enforcement discretion...",
+   "headline": "Website leaks data on over 40,000 DHS employees",
+   "blurb": "Nonprofit leaker collective Distributed Denial of Secrets (DDoSecrets) published data Wednesday for over 40,000 Department of Homeland Security (DHS) employees, some of whom are working in the intelligence community. DDoSecrets did not identify the source who leaked the personnel information, referring to the unnamed individual instead as the “Department of Peace.” “This dataset is massive...",
    "source": "The Hill",
-   "ts": "2026-10-28T18:18:27+00:00",
-   "url": "https://thehill.com/policy/healthcare/6178382-hhs-peptides-compounding-pharmacies-maha-agenda/"
+   "ts": "2026-10-28T22:24:38+00:00",
+   "url": "https://thehill.com/policy/technology/6179649-hackers-publish-dhs-employee-data/"
   },
   {
    "category": "India Politics",
-   "headline": "Integrated village development programme inaugurated in Nanjangud",
-   "blurb": "",
+   "headline": "Pakistan minister invites Punjab CM Mann",
+   "blurb": "Punjab CM Bhagwant Mann had said that he wished to accept the invitation from the organisers of the Lahore International Punjabi Conference in Lahore from November 27 to 29 and would want to visit Sikh shrines in Pakistan",
    "source": "The Hindu",
-   "ts": "2026-10-28T17:51:23+00:00",
-   "url": "https://www.thehindu.com/news/national/karnataka/integrated-village-development-programme-inaugurated-in-nanjangud/article71636988.ece"
+   "ts": "2026-10-28T20:57:21+00:00",
+   "url": "https://www.thehindu.com/news/national/punjab/pakistan-minister-invites-punjab-cm-mann/article71636711.ece"
   },
   {
    "category": "AI",
-   "headline": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
-   "blurb": "Following improvements made to Chrome's enhanced autofill last year that included your name, passport number, email address, and physical addresses sourced from your Google Accounts and services like Google Wallet, the feature is now expanding. Starting today, Chrome's enhanced autofill will use Gemini with Personal Intelligence to suggest information sourced from your Gmail, potentially saving […]",
+   "headline": "Voters in Texas agree: They hate data centers",
+   "blurb": "Ask Texas NAACP president Gary Bledsoe what it's been like to see data center developers descend upon Austin and its surrounding suburbs and he can rattle off project after project facing opposition from locals. There's the fight in Taylor over plans to build a data center at a site that's supposed to be a park. […]",
    "source": "The Verge",
-   "ts": "2026-10-28T16:32:41+00:00",
-   "url": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence"
+   "ts": "2026-10-28T19:17:42+00:00",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas"
   },
   {
    "category": "Equities",
@@ -148,43 +260,43 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "Watch: At the scene of Spain's deadly train crash",
-   "blurb": "People have been killed after a Spanish high-speed train collided with another train south of the capital Madrid, making this the country's worst disaster since 2013.",
+   "headline": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
+   "blurb": "The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs.",
    "source": "BBC",
-   "ts": "2026-10-28T16:45:16+00:00",
-   "url": "https://www.bbc.co.uk/news/videos/cw5ynjgy3vvgo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-28T21:16:30+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Tax thresholds remain unchanged - here's what it means for your pay",
-   "blurb": "The point at which you start to pay tax, and the point where you tip into paying a higher rate of tax have been frozen for three more years.",
+   "headline": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
+   "blurb": "The Russian President praised Musk and said they are in \"close\" contact.",
    "source": "BBC",
-   "ts": "2026-10-28T18:12:24+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/clydn7r5pn1o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-28T19:15:58+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Right-wing activist James O'Keefe charged with unlawful voting, identity theft",
-   "blurb": "Conservative influencer James O’Keefe was charged in Minnesota Wednesday after he and fellow right-leaning commentator Cam Higby misrepresented themselves using registered voters' names at polling places during the state’s primary election earlier this year. Hennepin County Attorney Mary Moriarty announced during a press conference the two men are facing felony unlawful voting and identity fraud...",
+   "headline": "Live updates: Trump, Obama, Vance hit key states in midterm sprint",
+   "blurb": "Former President Obama is campaigning in Georgia on Wednesday — less than a week out from Election Day — to give a boost to Democrat Keisha Lance Bottoms, who's running for Georgia governor, and incumbent Sen. Jon Ossoff (D), as well as push voter turnout. On Wednesday evening, President Trump will make his third campaign...",
    "source": "The Hill",
-   "ts": "2026-10-28T18:17:46+00:00",
-   "url": "https://thehill.com/policy/technology/6178839-james-okeefe-voter-fraud-charges/"
+   "ts": "2026-10-28T22:20:43+00:00",
+   "url": "https://thehill.com/homenews/state-watch/6176665-live-updates-trump-obama-midterm-elections-fed-interest-rate/"
   },
   {
    "category": "India Politics",
-   "headline": "UNESCO expert committee seeks stronger community participation in Hampi conservation",
-   "blurb": "",
+   "headline": "Bihar MLC polls: Upper caste candidates dominate election results",
+   "blurb": "The Opposition Congress party which had put up its candidates on five seats has failed to win even a single seat in the elections",
    "source": "The Hindu",
-   "ts": "2026-10-28T17:51:04+00:00",
-   "url": "https://www.thehindu.com/news/national/karnataka/unesco-expert-committee-seek-stronger-community-participation-in-hampi-conservation/article71636511.ece"
+   "ts": "2026-10-28T20:49:49+00:00",
+   "url": "https://www.thehindu.com/news/bihar-mlc-polls-upper-caste-candidates-dominate-election-results/article71636195.ece"
   },
   {
    "category": "AI",
-   "headline": "Meta says it’ll probably delay its controversial new business terms again",
-   "blurb": "Meta says it may push the implementation of its new business terms past November 20th as it faces backlash from publishers over concerns about AI training. In a post on X, Meta communications head Andy Stone said the company does \"not plan to make policy changes without a full consultation with industry groups and leaders.\" […]",
+   "headline": "Microsoft is ending Copilot support on smart TVs",
+   "blurb": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year, according to a report by Windows Central. The news comes not from an official announcement from LG, Samsung, […]",
    "source": "The Verge",
-   "ts": "2026-10-28T16:15:30+00:00",
-   "url": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely"
+   "ts": "2026-10-28T18:36:26+00:00",
+   "url": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending"
   },
   {
    "category": "Equities",
@@ -204,43 +316,43 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "What we know as Flávio Bolsonaro lands in US after Brazil election loss",
-   "blurb": "The BBC's Ione Wells unpacks Bolsonaro's journey to Miami after losing Brazil's presidential election and facing a passport surrender order.",
+   "headline": "Israel's election deadlock is a sign of the country's deep divisions",
+   "blurb": "The election was a celebration of democracy in some ways - but it has left Israel with no clear path to a new government, writes James Landale.",
    "source": "BBC",
-   "ts": "2026-10-28T16:30:29+00:00",
-   "url": "https://www.bbc.co.uk/news/videos/c6x29djyx7g9o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-28T20:53:02+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
    "headline": "Healey tells departments to make 1% cuts to fund defence",
    "blurb": "The reduction in public spending will go towards paying for the Defence Investment Plan.",
    "source": "BBC",
-   "ts": "2026-10-28T17:52:48+00:00",
+   "ts": "2026-10-28T19:01:34+00:00",
    "url": "https://www.bbc.co.uk/news/articles/c65ynl0px107o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Watch live: Warsh speaks after Fed votes to keep interest rates steady",
-   "blurb": "Federal Reserve Chair Kevin Warsh will speak to reporters Wednesday after the central bank voted to hold interest rates steady at 3.75 percent to 4 percent, despite persistent inflation and mounting economic pressures ahead of the midterm elections. The decision comes six weeks after the Fed raised rates by a quarter point, its first hike...",
+   "headline": "HHS gives compounding pharmacies free rein to make certain peptides",
+   "blurb": "Presented by Alliance for Aging Research {beacon} Health Care Health Care The Big Story HHS gives compounding pharmacies free rein to make certain peptides Without finalizing any new approvals or regulatory changes, the Department of Health and Human Services (HHS) on Wednesday gave compounding pharmacies the go-ahead to make and sell six peptides lauded by...",
    "source": "The Hill",
-   "ts": "2026-10-28T18:11:32+00:00",
-   "url": "https://thehill.com/video-clips/6178674-watch-live-kevin-warsh-federal-reserve-rate-decision-midterms/"
+   "ts": "2026-10-28T22:11:07+00:00",
+   "url": "https://thehill.com/newsletters/healthcare/6179689-hhs-gives-compounding-pharmacies-free-rein-to-make-certain-peptides/"
   },
   {
    "category": "India Politics",
-   "headline": "Manufacturers told to focus on value addition, design-led innovation, tech ownership",
-   "blurb": "Speakers at the inaugural session of a CII conference on advanced manufacturing said this underscoring the need for India to move beyond manufacturing scale",
+   "headline": "Railways to turn off charging points in trains during night",
+   "blurb": "The Railway Board’s renewed insistence on implementing the measure follows a recent incident in the South Eastern Railway zone. Railway staff reportedly failed to switch off charging points during the prescribed hours, leading to a power bank explosion while a mobile was being charged.",
    "source": "The Hindu",
-   "ts": "2026-10-28T17:49:24+00:00",
-   "url": "https://www.thehindu.com/news/cities/Hyderabad/manufacturers-told-to-focus-on-value-addition-design-led-innovation-tech-ownership/article71637039.ece"
+   "ts": "2026-10-28T20:41:32+00:00",
+   "url": "https://www.thehindu.com/news/national/railways-to-strictly-enforce-overnight-mobile-charging-ban-on-trains/article71637074.ece"
   },
   {
    "category": "AI",
-   "headline": "xAI is buying out homeowners who promise not to sue over data center noise",
-   "blurb": "A subsidiary of Elon Musk's xAI is offering to buy up homes in a Mississippi neighborhood, as long as residents don't join a lawsuit targeting the company's nearby data center and power plant, according to a report from The Guardian. A realtor going door-to-door in the Southaven neighborhood reportedly told one resident that xAI plans […]",
+   "headline": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
+   "blurb": "Following improvements made to Chrome's enhanced autofill last year that included your name, passport number, email address, and physical addresses sourced from your Google Accounts and services like Google Wallet, the feature is now expanding. Starting today, Chrome's enhanced autofill will use Gemini with Personal Intelligence to suggest information sourced from your Gmail, potentially saving […]",
    "source": "The Verge",
-   "ts": "2026-10-28T14:44:00+00:00",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit"
+   "ts": "2026-10-28T16:32:41+00:00",
+   "url": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence"
   },
   {
    "category": "Equities",
@@ -260,43 +372,43 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "What we know so far about deadly Spain train crash",
-   "blurb": "More than 500 passengers were on board the trains when the incident occurred in the province of Toledo, south of Madrid.",
+   "headline": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+   "blurb": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
    "source": "BBC",
-   "ts": "2026-10-28T15:36:11+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-28T20:24:39+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Will I get the £100 energy payment and when will I receive it?",
-   "blurb": "Here is what you need to know about the payment that millions will receive from January.",
+   "headline": "Healey unveils £100 for energy bills and bank tax in first Budget",
+   "blurb": "The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough.",
    "source": "BBC",
-   "ts": "2026-10-28T17:47:37+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-28T18:45:09+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Female Texas high schooler cast as male lead in 'Little Shop of Horrors' files Title IX suit after show canceled",
-   "blurb": "The Grand Prairie Independent School District (GPISD) in Texas was hit with a Title IX lawsuit this week after it canceled its production of \"Little Shop of Horrors\" when a female student was cast to play the male lead. Student Ana Mota, who was cast as Seymour, sued her school for the cancellation, arguing it amounted to illegal...",
+   "headline": "Trump facing new hearing on East Potomac Park",
+   "blurb": "{beacon} Energy & Environment Energy & Environment The Big Story Trump facing new hearing on East Potomac Park A federal judge is ordering a new hearing regarding President Trump’s plans to redevelop East Potomac Park after he posted on social media this week vowing to press ahead with his plans for the property despite...",
    "source": "The Hill",
-   "ts": "2026-10-28T18:07:14+00:00",
-   "url": "https://thehill.com/homenews/state-watch/6178806-texas-high-school-title-ix-little-shop-of-horrors/"
+   "ts": "2026-10-28T22:05:02+00:00",
+   "url": "https://thehill.com/newsletters/energy-environment/6179693-trump-facing-new-hearing-on-east-potomac-park/"
   },
   {
    "category": "India Politics",
-   "headline": "Former MLC moves HC questioning ‘prohibitory list’ of lands, says government targeting BRS leaders",
-   "blurb": "",
+   "headline": "Bihar MLC polls: NDA close to win 4 out of 8 seats",
+   "blurb": "All sitting MLCs of the Teachers constituency lost the election, whereas Janata Dal (United) candidate Neeraj Kumar retained his Patna Graduate Constituency",
    "source": "The Hindu",
-   "ts": "2026-10-28T17:37:09+00:00",
-   "url": "https://www.thehindu.com/news/national/telangana/former-mlc-moves-hc-questioning-prohibitory-list-of-lands-says-government-targeting-brs-leaders/article71637731.ece"
+   "ts": "2026-10-28T20:36:03+00:00",
+   "url": "https://www.thehindu.com/news/national/bihar/bihar-mlc-results-counting-updates/article71632702.ece"
   },
   {
    "category": "AI",
-   "headline": "Voters in Texas agree: They hate data centers",
-   "blurb": "Ask Texas NAACP president Gary Bledsoe what it's been like to see data center developers descend upon Austin and its surrounding suburbs and he can rattle off project after project facing opposition from locals. There's the fight in Taylor over plans to build a data center at a site that's supposed to be a park. […]",
+   "headline": "Meta says it’ll probably delay its controversial new business terms again",
+   "blurb": "Meta says it may push the implementation of its new business terms past November 20th as it faces backlash from publishers over concerns about AI training. In a post on X, Meta communications head Andy Stone said the company does \"not plan to make policy changes without a full consultation with industry groups and leaders.\" […]",
    "source": "The Verge",
-   "ts": "2026-10-28T12:39:57+00:00",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas"
+   "ts": "2026-10-28T16:15:30+00:00",
+   "url": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely"
   },
   {
    "category": "Equities",
@@ -316,155 +428,43 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "How could Israel break election deadlock? Here are four scenarios",
-   "blurb": "With 85% of votes counted, all signs point to an impasse. The most likely outcome may be new elections.",
+   "headline": "How did Flávio Bolsonaro end up in Miami?",
+   "blurb": "BBC Verify has pieced together defeated presidential candidate Flávio Bolsonaro's journey through Brazil, Argentina and Ecuador to reach Miami.",
    "source": "BBC",
-   "ts": "2026-10-28T14:30:31+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-28T18:51:05+00:00",
+   "url": "https://www.bbc.co.uk/news/videos/ck4g1xe5xny4o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
-   "blurb": "The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options.",
+   "headline": "Three ways the Budget affects you",
+   "blurb": "The BBC's Esyllt Carr explains how the chancellor's spending plans impact young people.",
    "source": "BBC",
-   "ts": "2026-10-28T17:32:51+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-28T18:32:56+00:00",
+   "url": "https://www.bbc.co.uk/news/videos/cjkgern1yw0lo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Federal Reserve holds interest rates steady in face of persistent inflation",
-   "blurb": "Federal Reserve officials held interest rates steady Wednesday despite stubborn inflation. The central bank's Federal Open Market Committee (FOMC) voted 10-2 to keep the benchmark federal funds rate range at 3.75 percent to 4 percent. Fed board of governors member Lisa Cook and Federal Reserve Bank of Cleveland's president Beth Hammack dissented in favor of...",
+   "headline": "Watch live: Trump seeks to boost GOP in Ohio amid final sprint to midterms",
+   "blurb": "President Trump heads back to Ohio Wednesday evening as Republicans make a last-minute push to rally GOP voters ahead of next week's midterm elections. Trump is expected to campaign for Sen. Jon Husted (R-Ohio), who is facing a tough battle against former Sen. Sherrod Brown (D). The race could help determine control of the Senate...",
    "source": "The Hill",
-   "ts": "2026-10-28T18:05:47+00:00",
-   "url": "https://thehill.com/business/6174753-fed-interest-rates-decision-inflation/"
+   "ts": "2026-10-28T22:00:00+00:00",
+   "url": "https://thehill.com/video-clips/6178675-watch-live-donald-trump-ohio-campaign-rally-midterms/"
   },
   {
    "category": "India Politics",
-   "headline": "Intensify inspection to stop child labour: ADC",
-   "blurb": "",
+   "headline": "All 17 escapees from Theni district jail apprehended in less than 40 hours: IGP South Zone",
+   "blurb": "On the night of their escape, the remand prisoners claimed that one of the inmates suffered epileptic seizures and required assistance. When a jail warder opened the cell, they overpowered him and escaped.",
    "source": "The Hindu",
-   "ts": "2026-10-28T17:36:22+00:00",
-   "url": "https://www.thehindu.com/news/national/karnataka/intensify-inspection-to-stop-child-labour-adc/article71635914.ece"
+   "ts": "2026-10-28T20:33:11+00:00",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/all-17-escapees-from-theni-district-jail-apprehended-in-less-than-40-hours-igp-south-zone/article71636064.ece"
   },
   {
    "category": "AI",
-   "headline": "Meta quietly launched an ‘AI pet journal’ app",
-   "blurb": "Meta has launched a \"tamagotchi-style\" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conversations. According to its Apple and Play Store listings, the \"16-bit pet care game\" is not really a game, but \"a daily journal disguised as a pet.\" Users should talk, not type, with […]",
+   "headline": "xAI is buying out homeowners who promise not to sue over data center noise",
+   "blurb": "A subsidiary of Elon Musk's xAI is offering to buy up homes in a Mississippi neighborhood, as long as residents don't join a lawsuit targeting the company's nearby data center and power plant, according to a report from The Guardian. A realtor going door-to-door in the Southaven neighborhood reportedly told one resident that xAI plans […]",
    "source": "The Verge",
-   "ts": "2026-10-28T11:27:30+00:00",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world"
-  },
-  {
-   "category": "Equities",
-   "headline": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
-   "blurb": "Housing data deteriorated further in September, according to separate reports Tuesday.",
-   "source": "CNBC",
-   "ts": "2026-10-21T11:20:58+00:00",
-   "url": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html"
-  },
-  {
-   "category": "Crypto",
-   "headline": "Dissent and more: 3 things to watch for at the Fed meeting",
-   "blurb": "Your day-ahead look for Oct. 28, 2026",
-   "source": "CoinDesk",
-   "ts": "2026-10-28T11:57:26+00:00",
-   "url": "https://www.coindesk.com/daybook-us/2026/10/28/dissent-and-more-3-things-to-watch-for-at-the-fed-meeting"
-  },
-  {
-   "category": "Geopolitics",
-   "headline": "Israel's election result is messy - here's why",
-   "blurb": "Despite having the highest voter turnout in nearly three decades, Israel's elections have had no clear winner. What does this mean for the country, asks the BBC's Yolande Knell.",
-   "source": "BBC",
-   "ts": "2026-10-28T14:26:24+00:00",
-   "url": "https://www.bbc.co.uk/news/videos/c893zeknlvnno?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "category": "Macro",
-   "headline": "Budget 2026: Key points at a glance",
-   "blurb": "Here’s what you need to know from John Healey’s first Budget, as the chancellor sets out the government’s tax and spending plans.",
-   "source": "BBC",
-   "ts": "2026-10-28T16:55:27+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "category": "US Politics",
-   "headline": "Half of American voters say they would cast their ballot for a democratic socialist: Poll",
-   "blurb": "Half of American voters say they would cast their ballot for a democratic socialist, according to a new poll. In The Economist/YouGov poll, 50 percent of respondents said they would cast their ballot for a democratic socialist, while 41 percent said the opposite. Nine percent said they were unsure about voting for such a candidate....",
-   "source": "The Hill",
-   "ts": "2026-10-28T17:49:57+00:00",
-   "url": "https://thehill.com/homenews/campaign/6178694-voters-support-democratic-socialist/"
-  },
-  {
-   "category": "India Politics",
-   "headline": "Cyclone ‘Arnab’ LIVE updates | Five killed in Andhra; Telangana extends support to Andhra for restoration works",
-   "blurb": "The storm now heads for Odisha, Chhattisgarh, Jharkhand and West Bengal, where heavy rain is forecast",
-   "source": "The Hindu",
-   "ts": "2026-10-28T17:32:34+00:00",
-   "url": "https://www.thehindu.com/news/national/cyclone-arnab-landfall-andhra-pradesh-odisha-rainfall-weather-imd-alert-live-updates-october-28-2026/article71634111.ece"
-  },
-  {
-   "category": "AI",
-   "headline": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
-   "blurb": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to The Verge are growing increasingly tired of the company's antics. It has been a turbulent few months between OpenAI […]",
-   "source": "The Verge",
-   "ts": "2026-10-27T20:51:04+00:00",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics"
-  },
-  {
-   "category": "Equities",
-   "headline": "UK inflation jumps to 3.5% — cementing rate hike expectations",
-   "blurb": "U.K. inflation rose by a hotter-than-expected 3.5% in the 12 months to September, driven by the surging cost of motor fuels.",
-   "source": "CNBC",
-   "ts": "2026-10-21T07:50:10+00:00",
-   "url": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html"
-  },
-  {
-   "category": "Crypto",
-   "headline": "XRP Ledger developers propose creating wallets with zero XRP for stablecoin payments",
-   "blurb": "An experimental change would let companies cover the reserve for customer and AI-agent accounts, allowing users to start with stablecoins without first acquiring XRP.",
-   "source": "CoinDesk",
-   "ts": "2026-10-28T11:52:14+00:00",
-   "url": "https://www.coindesk.com/tech/2026/10/28/xrp-ledger-developers-propose-creating-wallets-with-zero-xrp-for-stablecoin-payments"
-  },
-  {
-   "category": "Geopolitics",
-   "headline": "Netanyahu and Eisenkot face difficult paths to power as neither set to win majority",
-   "blurb": "The two main blocs appear to have too few seats to form the next government without reliance on Arab parties.",
-   "source": "BBC",
-   "ts": "2026-10-28T10:35:13+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cjy561y4pl56o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "category": "Macro",
-   "headline": "Your pay, energy bills and savings: How the Budget affects you",
-   "blurb": "Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how.",
-   "source": "BBC",
-   "ts": "2026-10-28T16:43:35+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "category": "US Politics",
-   "headline": "Meta, Snap head back to LA court for social media addiction trial: What to know",
-   "blurb": "The social media giants Meta and Snap are heading back to court this week for the latest trial in a lawsuit that alleges their platforms were intentionally designed to be addictive for young users. Jury selection begins in Los Angeles Superior Court on Wednesday for a case brought by two teenage plaintiffs referred to as...",
-   "source": "The Hill",
-   "ts": "2026-10-28T17:46:36+00:00",
-   "url": "https://thehill.com/policy/technology/6178703-meta-snap-social-media-addiction-trial/"
-  },
-  {
-   "category": "India Politics",
-   "headline": "Maha MLC polls: Praful Patel calls for introspection within NCP",
-   "blurb": "In a post on X, he said the results were a clear and significant warning for the party and stressed the need for introspection to regain people's trust",
-   "source": "The Hindu",
-   "ts": "2026-10-28T17:21:18+00:00",
-   "url": "https://www.thehindu.com/news/national/maharashtra/praful-patel-calls-for-introspection-as-ncp-candidate-trails-in-maharashtra-council-polls/article71637252.ece"
-  },
-  {
-   "category": "AI",
-   "headline": "VisionQuest is what happens when AI really goes rogue",
-   "blurb": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home. The series is deeply fantastical, yet it plays with some of the ideas that have come to dominate the conversation about real-world generative artificial […]",
-   "source": "The Verge",
-   "ts": "2026-10-27T17:31:36+00:00",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai"
+   "ts": "2026-10-28T14:44:00+00:00",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit"
   }
  ]
 }
