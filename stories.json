@@ -1,70 +1,246 @@
 {
- "updated": "2026-10-29T09:47:13+00:00",
+ "updated": "2026-10-29T16:51:14+00:00",
  "count": 58,
  "stories": [
   {
    "category": "Equities",
-   "headline": "Analysis: Warsh is learning to wield the Fed's power without showing his hand",
+   "headline": "The politics of President Lagarde's European Central Bank early exit — and who could replace her",
+   "blurb": "European Central Bank President Christine Lagarde will step down on Feb. 7 next year, she announced Thursday.",
+   "source": "CNBC",
+   "ts": "2026-10-29T14:53:06+00:00",
+   "url": "https://www.cnbc.com/2026/10/29/lagarde-ecb-stand-down.html"
+  },
+  {
+   "category": "Crypto",
+   "headline": "From rivals to partners: Polygon and Solana team to bring stablecoin payments to banks",
+   "blurb": "The two networks are setting aside their rivalry to connect Solana's stablecoin activity with Polygon's banking, wallet and payment infrastructure.",
+   "source": "CoinDesk",
+   "ts": "2026-10-29T16:35:43+00:00",
+   "url": "https://www.coindesk.com/business/2026/10/29/from-rivals-to-partners-polygon-and-solana-team-to-bring-stablecoin-payments-to-banks"
+  },
+  {
+   "category": "Gold",
+   "headline": "How Gold and Silver Are Traded By Different Investor Types",
+   "blurb": "",
+   "source": "Investing.com",
+   "ts": "2026-10-29T15:06:00+00:00",
+   "url": "https://www.investing.com/analysis/how-gold-and-silver-are-traded-by-different-investor-types-200690533"
+  },
+  {
+   "category": "Geopolitics",
+   "headline": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
+   "blurb": "The Republican governor was responding to allegations in the New York Times that Democrats recruited a spoiler candidate, Dan Sullivan.",
+   "source": "BBC",
+   "ts": "2026-10-29T16:26:02+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "category": "Macro",
+   "headline": "Faisal Islam: This Budget was micro and that was deliberate",
+   "blurb": "Chancellor John Healey's plans fall short of radical action to create a promised new economic model.",
+   "source": "BBC",
+   "ts": "2026-10-29T15:48:44+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cwx283zynnv3o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "category": "US Politics",
+   "headline": "Stephen A. Smith: Knicks players 'don't want to go' to White House",
+   "blurb": "Sports commentator Stephen A. Smith on Wednesday said the New York Knicks \"don't want to go\" to the White House to celebrate their win at the 2026 NBA Finals. \"This is what I’ve been hearing and I’m going to say it,\" Smith said on ESPN's \"First Take.\" \"Don’t know how much truth there is to...",
+   "source": "The Hill",
+   "ts": "2026-10-29T16:08:29+00:00",
+   "url": "https://thehill.com/blogs/in-the-know/6181242-smith-new-york-knicks-dolan-white-house/"
+  },
+  {
+   "category": "India Politics",
+   "headline": "Cyclone Arnab LIVE: New Bay system likely to head for Andhra coast; 300 villages marooned in Ganjam",
+   "blurb": "Arnab’s remnant brings rain to West Bengal, Jharkhand and Madhya Pradesh after weakening into a depression",
+   "source": "The Hindu",
+   "ts": "2026-10-29T16:44:49+00:00",
+   "url": "https://www.thehindu.com/news/national/cyclone-arnab-weakens-into-depression-imd-alert-odisha-andhra-pradesh-telangana-live-updates-october-29-2026/article71638778.ece"
+  },
+  {
+   "category": "AI",
+   "headline": "Microsoft’s AI future has fewer jobs",
+   "blurb": "To anyone listening closely to what Microsoft CEO Satya Nadella has been saying over the past couple of years, this week felt like the clearest sign yet that AI is about to fundamentally change the size of Microsoft's workforce. Microsoft is now offering voluntary buyouts to around 60,000 employees across the US, UK, Canada, and […]",
+   "source": "The Verge",
+   "ts": "2026-10-29T16:48:16+00:00",
+   "url": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad"
+  },
+  {
+   "category": "Equities",
+   "headline": "European Central Bank keeps key interest rate on hold at 2.5%",
+   "blurb": "Markets saw the decision as a hawkish pause and were last pricing in a 67% chance of a December rate hike.",
+   "source": "CNBC",
+   "ts": "2026-10-29T14:48:01+00:00",
+   "url": "https://www.cnbc.com/2026/10/29/european-central-bank-interest-rates.html"
+  },
+  {
+   "category": "Crypto",
+   "headline": "Crypto exchange HTX exits the UK after settling with the FCA",
+   "blurb": "The former Huobi exchange has stopped accepting deposits from British customers and agreed not to target them with crypto promotions.",
+   "source": "CoinDesk",
+   "ts": "2026-10-29T16:11:18+00:00",
+   "url": "https://www.coindesk.com/policy/2026/10/29/crypto-exchange-htx-exits-the-uk-after-settling-with-the-fca"
+  },
+  {
+   "category": "Gold",
+   "headline": "Gold and Silver Extend Losses After Fed Update: Is a Trend Reversal Near?",
+   "blurb": "",
+   "source": "Investing.com",
+   "ts": "2026-10-29T13:08:00+00:00",
+   "url": "https://www.investing.com/analysis/gold-and-silver-extend-losses-after-fed-update-is-a-trend-reversal-near-200690524"
+  },
+  {
+   "category": "Geopolitics",
+   "headline": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+   "blurb": "With 99% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
+   "source": "BBC",
+   "ts": "2026-10-29T15:47:20+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "category": "Macro",
+   "headline": "Poundland's future hangs in the balance as chain edges towards collapse",
+   "blurb": "Poundland's bosses is filing a notice of intention to appoint administrators to the business.",
+   "source": "BBC",
+   "ts": "2026-10-29T15:25:08+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "category": "US Politics",
+   "headline": "Senators propose bipartisan changes in their chamber's procedures",
+   "blurb": "Sens. Jeff Merkley and Steve Daines proposed a four-part bipartisan agenda in a Washington Post op-ed aimed at reducing Senate dysfunction by reforming the filibuster and streamlining legislative processes.",
+   "source": "The Hill",
+   "ts": "2026-10-29T16:00:00+00:00",
+   "url": "https://thehill.com/opinion/congress-blog/6178721-merkley-daines-cloture-reform/"
+  },
+  {
+   "category": "India Politics",
+   "headline": "Congress questions delay in framing charges in Ram Temple donation theft case",
+   "blurb": "Congress’s Jairam Ramesh questions delay in providing the complete CCTV footage and audio recordings, demands impartial investigation under the Supreme Court’s supervision",
+   "source": "The Hindu",
+   "ts": "2026-10-29T16:41:22+00:00",
+   "url": "https://www.thehindu.com/news/national/uttar-pradesh/congress-questions-delay-in-framing-charges-in-ram-temple-donation-theft-case/article71640902.ece"
+  },
+  {
+   "category": "AI",
+   "headline": "AI has come for Arizona’s water",
+   "blurb": "A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded apps and websites. The complex is simultaneously massive and squat, dwarfed by the mountains that surround it, and it is endless. I drive past one […]",
+   "source": "The Verge",
+   "ts": "2026-10-29T16:47:27+00:00",
+   "url": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc"
+  },
+  {
+   "category": "Equities",
+   "headline": "Third-quarter U.S. GDP increases a better-than-expected 3.4% as September inflation accelerates",
+   "blurb": "The personal consumption expenditures price index was projected to increase 0.5% in September for an annual rate of 3.7%, according to the Dow Jones consensus.",
+   "source": "CNBC",
+   "ts": "2026-10-29T14:11:31+00:00",
+   "url": "https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html"
+  },
+  {
+   "category": "Crypto",
+   "headline": "Polymarket brings ultra-short crypto prediction markets to U.S. platform",
+   "blurb": "Polymarket’s new Up/Down crypto contracts come as the CFTC renews scrutiny of the prediction market’s compliance with its 2022 U.S. onboarding terms.",
+   "source": "CoinDesk",
+   "ts": "2026-10-29T14:55:47+00:00",
+   "url": "https://www.coindesk.com/markets/2026/10/29/polymarket-brings-ultra-short-crypto-prediction-markets-to-u-s-platform"
+  },
+  {
+   "category": "Geopolitics",
+   "headline": "EU chief lays out vision for new Canada partnership at Montreal summit",
+   "blurb": "Ursula von der Leyen continued to use the term \"associate member\" for Canada despite some opposition of the bloc's members, including Germany.",
+   "source": "BBC",
+   "ts": "2026-10-29T15:14:34+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "category": "Macro",
+   "headline": "Bereaved families will not face tax bill over pension delays under new rules",
+   "blurb": "Campaigners had warned some families could face an unfair financial penalty because of delays which were not their fault.",
+   "source": "BBC",
+   "ts": "2026-10-29T15:18:04+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cr5yn9zwnp3qo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "category": "US Politics",
+   "headline": "FBI, ICE won't contribute to poll monitoring: Justice Department",
+   "blurb": "The Justice Department said Wednesday that agents and employees from the FBI and Immigration and Customs Enforcement (ICE) will not serve as poll monitors in the upcoming midterm elections. The department said in a court filing that employees from the Federal Bureau of Prisons, the Bureau ‌of ⁠Alcohol, Tobacco, Firearms and Explosives (ATF) and the...",
+   "source": "The Hill",
+   "ts": "2026-10-29T15:39:33+00:00",
+   "url": "https://thehill.com/homenews/administration/6181183-justice-department-fbi-ice-poll-monitors/"
+  },
+  {
+   "category": "India Politics",
+   "headline": "Kochi Corporation’s Brahmapuram biomining costs set to rise",
+   "blurb": "Corporation will have to biomine an additional 1.26 lakh tonnes of scientifically capped legacy waste; civic body had agreed to pay ₹1,672 per tonne to biomine 1.96 lakh tonnes at a cost of ₹37 crore",
+   "source": "The Hindu",
+   "ts": "2026-10-29T16:40:43+00:00",
+   "url": "https://www.thehindu.com/news/national/kerala/court-directive-to-add-to-kochi-corporations-brahmapuram-biomining-costs/article71639435.ece"
+  },
+  {
+   "category": "AI",
+   "headline": "The NYT Cooking app is testing AI recipe modifications",
+   "blurb": "The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it has sparked some drama among users. Last Friday, NYT Cooking senior editor Genevieve Ko announced the feature, which can be used to recommend substitutions for ingredients and cooking equipment, scale recipes to any […]",
+   "source": "The Verge",
+   "ts": "2026-10-29T16:02:16+00:00",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool"
+  },
+  {
+   "category": "Equities",
+   "headline": "Analysis: Kevin Warsh is keeping Wall Street guessing. It may be his most powerful tool.",
    "blurb": "The new chairman made clear he leans toward higher interest rates, but left himself options depending on how the data comes in.",
    "source": "CNBC",
-   "ts": "2026-10-29T09:00:01+00:00",
+   "ts": "2026-10-29T13:51:17+00:00",
    "url": "https://www.cnbc.com/2026/10/29/kevin-warsh-fed-october-rate-decision-december-hike.html"
   },
   {
    "category": "Crypto",
-   "headline": "Former Swift CEO joins stablecoin firm OpenTrade as chairman",
-   "blurb": "Lazaro Campos takes the board role as the London-based company reports $300 million in assets locked and more than $1 billion in annual transaction volume.",
-   "source": "CoinDesk",
-   "ts": "2026-10-29T09:00:00+00:00",
-   "url": "https://www.coindesk.com/business/2026/10/29/former-swift-ceo-joins-stablecoin-firm-opentrade-as-chairman-after-a-usd17-million-raise"
-  },
-  {
-   "category": "Gold",
-   "headline": "U.S. Natural Gas Production Hits New Records as Demand Surges",
+   "headline": "Crypto for Advisors: Only 1 in 5 Americans say the financial system is secure",
    "blurb": "",
-   "source": "Investing.com",
-   "ts": "2026-10-29T07:08:00+00:00",
-   "url": "https://www.investing.com/analysis/us-natural-gas-production-hits-new-records-as-demand-surges-200690485"
+   "source": "CoinDesk",
+   "ts": "2026-10-29T14:39:01+00:00",
+   "url": "https://www.coindesk.com/coindesk-indices/2026/10/29/crypto-for-advisors-only-1-in-5-americans-say-the-financial-system-is-secure"
   },
   {
    "category": "Geopolitics",
-   "headline": "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
-   "blurb": "Properties where someone has died in tragic circumstances can have big reductions in price.",
+   "headline": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
+   "blurb": "The defeated presidential candidate says he will lead the opposition from the US.",
    "source": "BBC",
-   "ts": "2026-10-29T09:30:03+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-29T14:58:28+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Chancellor says government has 'moral duty' to help young people out of work",
-   "blurb": "Chancellor John Healey says any cuts to welfare will be done \"in a Labour way\".",
+   "headline": "Your pay, energy bills and savings: How the Budget affects you",
+   "blurb": "Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how.",
    "source": "BBC",
-   "ts": "2026-10-29T06:56:58+00:00",
-   "url": "https://www.bbc.co.uk/news/videos/c3j47008yl7vo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-29T15:11:35+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Hochul says Trump rallies are 'poisoning' Nicki Minaj's mind",
-   "blurb": "New York Gov. Kathy Hochul (D-N.Y.) criticized rapper Nicki Minaj on Wednesday, saying President Trump's rallies were “poisoning” the artist’s mind. “Maybe she oughta get outside and get offline a little more,” Hochul told reporters. “And stop going to Trump rallies, it’s kinda poisoning your mind.” The Empire State governor was responding to a post...",
+   "headline": "Rove expecting Trump to resume 'kinetic action' against Iran after midterms",
+   "blurb": "Republican strategist Karl Rove said Wednesday he expects President Trump will resume U.S. strikes against Iran after the midterm elections are over. Rove made his prediction in an interview with Fox News's Brian Kilmeade on his series \"The Brian Kilmeade Show,\" who asked the former adviser to former President George W. Bush if \"we go...",
    "source": "The Hill",
-   "ts": "2026-10-29T02:36:24+00:00",
-   "url": "https://thehill.com/homenews/state-watch/6180077-minaj-trump-rallies-poisoning-mind/"
+   "ts": "2026-10-29T15:31:46+00:00",
+   "url": "https://thehill.com/homenews/administration/6181016-rove-trump-iran-strikes/"
   },
   {
    "category": "India Politics",
-   "headline": "Upa Lokayukta finds expired food items in eateries in Belagavi bus stand",
-   "blurb": "Justice (retd.) B. Veerappa expressed concern over the lack of cleanliness in the bus stand’s restrooms, and inefficient garbage collection in the bus stand premises",
+   "headline": "Invest in Telangana and thrive, CM tells business heads",
+   "blurb": "",
    "source": "The Hindu",
-   "ts": "2026-10-29T09:42:15+00:00",
-   "url": "https://www.thehindu.com/news/national/karnataka/upa-lokayukta-finds-expired-food-items-in-eateries-in-belagavi-bus-stand/article71639730.ece"
+   "ts": "2026-10-29T16:40:27+00:00",
+   "url": "https://www.thehindu.com/news/national/telangana/invest-in-telangana-and-thrive-cm-tells-business-heads/article71642007.ece"
   },
   {
    "category": "AI",
-   "headline": "Adam Mosseri says negativity around AI is ‘going to get worse’",
-   "blurb": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Appearing on the Colin and Samir podcast to talk about the launch of widescreen and […]",
+   "headline": "Anthropic is asking Wall Street to believe in AGI",
+   "blurb": "Today on Decoder, I’m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of the Anthropic IPO filing — a document known as an S-1. Anthropic just filed its S-1 to go public on the Nasdaq, and it could start […]",
    "source": "The Verge",
-   "ts": "2026-10-28T23:05:39+00:00",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity"
+   "ts": "2026-10-29T13:47:56+00:00",
+   "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview"
   },
   {
    "category": "Equities",
@@ -76,59 +252,51 @@
   },
   {
    "category": "Crypto",
-   "headline": "The chart bitcoin traders should be paying attention to",
-   "blurb": "A market at an inflection point could shape inflation trends and the prices of risk assets, from bitcoin to tech stocks.",
+   "headline": "Why Switzerland’s first genuine spot bitcoin ETF could soon attract overseas banks and brokers",
+   "blurb": "SIX Swiss Exchange confirms international access, while FINMA explains why it approved the fund and whether ether and solana ETFs could follow.",
    "source": "CoinDesk",
-   "ts": "2026-10-29T07:44:44+00:00",
-   "url": "https://www.coindesk.com/markets/2026/10/29/the-chart-bitcoin-traders-should-be-paying-attention-to"
-  },
-  {
-   "category": "Gold",
-   "headline": "Gold Rebounds From 0.618 Arc; Navigating Between 0.5 and 0.618 Arcs",
-   "blurb": "",
-   "source": "Investing.com",
-   "ts": "2026-10-29T07:06:00+00:00",
-   "url": "https://www.investing.com/analysis/gold-rebounds-from-0618-arc-navigating-between-05-and-0618-arcs-200690488"
+   "ts": "2026-10-29T14:15:46+00:00",
+   "url": "https://www.coindesk.com/business/2026/10/29/switzerland-s-first-bitcoin-etf-gets-rare-exemption-will-open-to-overseas-brokers"
   },
   {
    "category": "Geopolitics",
-   "headline": "How could Israel break election deadlock? Here are four scenarios",
-   "blurb": "With more than 90% of votes counted, all signs point to an impasse. The most likely outcome may be new elections.",
+   "headline": "Watch: VHS tapes and computers handed to police as Thomas Markle is investigated",
+   "blurb": "The BBC's Jonathan Head is in Cebu, reporting from outside the home where Markle resided.",
    "source": "BBC",
-   "ts": "2026-10-29T09:06:48+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-29T14:49:25+00:00",
+   "url": "https://www.bbc.co.uk/news/videos/cm0rlxxpng5eo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "'We need help for small businesses, not punishment'",
-   "blurb": "People in Bilston react to the new Budget set out by Chancellor John Healey.",
+   "headline": "DoorDash to buy Instacart in $17bn deal it says will expand customer options",
+   "blurb": "Instacart shoppers will be able to buy from 150,000 stores, compared to the 100,000 currently available on the platform, the firms said.",
    "source": "BBC",
-   "ts": "2026-10-29T06:27:28+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c6kglwxplv1zo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-29T15:05:15+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cm79pjg2l57yo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Hegseth ousted top military strategist from Pentagon, sources say",
-   "blurb": "Defense Secretary Pete Hegseth ousted a top military strategist from the Pentagon, The Hill has learned, marking another senior officer who has been removed from the department since Hegseth took the helm close to two years ago. Hegseth fired Army Lt. Gen. Brett Sylvia, who was the Director for Strategy, Plans and Policy, J-5 on...",
+   "headline": "25 years later, 9/11 families are still fighting to get their day in court",
+   "blurb": "Congress changed the law 10 years ago precisely to give the families a pathway to test their claims, which may or may not prevail in court.",
    "source": "The Hill",
-   "ts": "2026-10-29T02:05:54+00:00",
-   "url": "https://thehill.com/policy/defense/6180055-hegseth-ousted-military-strategist-syllia/"
+   "ts": "2026-10-29T15:30:00+00:00",
+   "url": "https://thehill.com/opinion/judiciary/6178946-saudi-arabia-911-lawsuit-progresses/"
   },
   {
    "category": "India Politics",
-   "headline": "Sada ‘Master’, ace guitarist who enriched Ilaiyaraaja’s compositions, dies at 80",
-   "blurb": "“I am saddened by Sadanandam’s death. He was with me from the early days,” Ilaiyaraaja said in a message",
+   "headline": "Shutdown begins in Manipur district over two missing Kuki youths",
+   "blurb": "The Committee on Tribal Unity says the two 20-year-olds were kidnapped around dusk on October 28",
    "source": "The Hindu",
-   "ts": "2026-10-29T09:41:16+00:00",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/sada-master-ace-guitarist-who-enriched-ilaiyaraajas-compositions-dies-at-80/article71639851.ece"
+   "ts": "2026-10-29T16:40:13+00:00",
+   "url": "https://www.thehindu.com/news/national/manipur/shutdown-begins-in-manipur-district-over-two-missing-kuki-youths/article71641229.ece"
   },
   {
    "category": "AI",
-   "headline": "Akai is embracing vibe-coded mods with an open-source MPC",
-   "blurb": "The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom firmware developers by giving them early access to the device, which will have open-source firmware. It will likely run […]",
+   "headline": "Anthropic’s business plan: Build God or die trying",
+   "blurb": "The Anthropic S-1 seems to have provided the financial justification for the company to spend as much as it possibly can on compute. If you are the kind of person who wonders if Anthropic is doing its level best to build a machine god while convincing Wall Street it's in the business of selling IT […]",
    "source": "The Verge",
-   "ts": "2026-10-28T21:34:04+00:00",
-   "url": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key"
+   "ts": "2026-10-29T13:20:35+00:00",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive"
   },
   {
    "category": "Equities",
@@ -140,51 +308,51 @@
   },
   {
    "category": "Crypto",
-   "headline": "AI found a way to crash bitcoin nodes on Windows and Macs. It's now public",
-   "blurb": "Three flaws a language-model scan dug up are the first disclosed under Core’s new rules for bugs that are easy to find.",
+   "headline": "Chainlink adds weekend pricing for tokenized assets, with Aave as launch partner",
+   "blurb": "The service uses perpetual futures quotes to update reference prices when traditional markets close.",
    "source": "CoinDesk",
-   "ts": "2026-10-29T05:54:39+00:00",
-   "url": "https://www.coindesk.com/tech/2026/10/29/ai-found-a-way-to-crash-bitcoin-nodes-on-windows-and-macs-it-s-now-public"
+   "ts": "2026-10-29T14:15:00+00:00",
+   "url": "https://www.coindesk.com/tech/2026/10/28/chainlink-adds-weekend-pricing-for-tokenized-assets-with-aave-as-launch-partner"
   },
   {
    "category": "Geopolitics",
-   "headline": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
-   "blurb": "The recordings appear to show one high-speed train was given clearance to move even though another up ahead had stalled.",
+   "headline": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
+   "blurb": "At least 14 others were wounded in the attack in the central city of Dnipro, including an 11-year-old boy.",
    "source": "BBC",
-   "ts": "2026-10-29T08:38:54+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-29T14:17:35+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Haulier blames fuel prices for diesel theft",
-   "blurb": "Martin Pinches said someone had stolen 400 litres of diesel from two of his lorries",
+   "headline": "The South West reacts to Budget announcements",
+   "blurb": "Tourism and business leaders have been reacting to John Healey's first Budget as chancellor.",
    "source": "BBC",
-   "ts": "2026-10-29T06:17:02+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/ck9qzdwjp03lo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-29T14:52:12+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cm62yle1g2wyo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "El-Sayed responds to Stevens's fiancée endorsing Rogers",
-   "blurb": "Michigan Senate candidate Abdul El-Sayed responded to his former primary opponent Rep. Haley Stevens’s (D-Mich.) fiancée endorsing his GOP opponent former Rep. Mike Rogers (R-Mich.). “Well, I'm building a movement to take on the challenges that Donald Trump is facing. If folks have issues that are more important to them than that, that's fine,” El-Sayed...",
+   "headline": "Dartmouth official resigns over AI use",
+   "blurb": "A top Dartmouth official has resigned from his position after allegations he violated the school's AI use policy. The university on Wednesday announced Provost Santiago Schnell resigned from his position after a university committee released the results of its investigation into the matter it opened in September. \"The Provost used AI to meaningfully alter his writing in violation...",
    "source": "The Hill",
-   "ts": "2026-10-29T01:53:43+00:00",
-   "url": "https://thehill.com/homenews/campaign/6180036-el-sayed-responds-stevens-fiance/"
+   "ts": "2026-10-29T15:29:33+00:00",
+   "url": "https://thehill.com/policy/technology/6181356-dartmouth-provost-resigns-ai-violation/"
   },
   {
    "category": "India Politics",
-   "headline": "Upa Lokayukta finds irregularities in APMC market yard in Belagavi",
-   "blurb": "Upa Lokayukta Justice B. Veerappa instructs officials to provide facilities to farmers",
+   "headline": "Experts at CII meet flag roadblocks in Kashmir apple cart’s global ambition",
+   "blurb": "Kashmir has a small four-month window for exporting apples and the cold chain is still poor at maintaining the quality, said Dr. N.K. Krishna Kumar, ex-Deputy Director (Horticulture) Indian Council of Agricultural Research",
    "source": "The Hindu",
-   "ts": "2026-10-29T09:41:07+00:00",
-   "url": "https://www.thehindu.com/news/national/karnataka/upa-lokayukta-finds-irregularities-in-apmc-market-yard-in-belagavi/article71639858.ece"
+   "ts": "2026-10-29T16:38:43+00:00",
+   "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/experts-at-cii-meet-flag-roadblocks-in-kashmir-apple-carts-global-ambition/article71640047.ece"
   },
   {
    "category": "AI",
-   "headline": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
-   "blurb": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and GPT-6 Astra trailing behind. The new Gemini 4 Carbon model offers improvements over […]",
+   "headline": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+   "blurb": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Appearing on the Colin and Samir podcast to talk about the launch of widescreen and […]",
    "source": "The Verge",
-   "ts": "2026-10-28T20:03:00+00:00",
-   "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier"
+   "ts": "2026-10-28T23:05:39+00:00",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity"
   },
   {
    "category": "Equities",
@@ -196,51 +364,51 @@
   },
   {
    "category": "Crypto",
-   "headline": "Security failure at Indian certificate firm bites Ethereum as developers rush out fixes",
-   "blurb": "A key blunder at Indian certificate issuer eMudhra left some Teku and Besu setups trusting forged certificates. Default mainnet nodes weren’t exposed.",
+   "headline": "New quantum model slashes hardware needed to break bitcoin keys by 17 times",
+   "blurb": "Alice & Bob's new model reduces the hardware required for a potential attack, bringing it closer to reality and increasing pressure to adopt quantum-resistant security sooner.",
    "source": "CoinDesk",
-   "ts": "2026-10-29T05:30:34+00:00",
-   "url": "https://www.coindesk.com/tech/2026/10/29/ethereum-clients-patch-flaw-that-could-let-attackers-redirect-eth-rewards"
+   "ts": "2026-10-29T13:55:42+00:00",
+   "url": "https://www.coindesk.com/tech/2026/10/29/new-quantum-model-slashes-hardware-needed-to-break-bitcoin-keys-by-17-times"
   },
   {
    "category": "Geopolitics",
-   "headline": "Ethiopia acquires Russian fighter jets and air defence systems amid war in Tigray",
-   "blurb": "The acquisition of the warplanes comes amid ongoing fighting in northern Tigray region that started last month.",
+   "headline": "Rock collapse kills two in Turkey's Cappadocia, local media reports",
+   "blurb": "One of the region's famous rock formations, known as \"fairy chimneys\", reportedly collapsed outside an open-air museum.",
    "source": "BBC",
-   "ts": "2026-10-29T08:23:31+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cw78prj801pvo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-29T13:44:39+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cknv08nvzld4o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Microsoft profits soar days after announcing thousands of layoffs",
-   "blurb": "The week, the Windows developer said it would offer buyouts to 60,000 workers as it looks to curb costs.",
+   "headline": "Island Energy: No plans to remove gas standing charge",
+   "blurb": "The provider said any change would need support from the community, the regulator and government.",
    "source": "BBC",
-   "ts": "2026-10-29T01:27:40+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-29T13:39:54+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cwy7l1375d74o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Obama knocks White House's response to Cheesecake Factory jab: 'These are not serious people'",
-   "blurb": "Former President Obama on Wednesday responded to uproar over a recent campaign trail jab at President Trump’s White House decorations, slamming Republicans for focusing more on the joke than on the economy. “They mobilized a whole-of-government response to that joke, not to inflation, but to that joke,” Obama said during a campaign rally in Georgia....",
+   "headline": "National Links Trust says it will end operations at East Potomac Golf Links on Nov. 15",
+   "blurb": "The National Links Trust said this week it will cease operations at East Potomac Golf Links, Washington's most popular public golf course, as President Trump eyes the property for redevelopment. In a statement Thursday, the trust said it entered a new long-term lease agreement with the Interior Department and National Park Service (NPS) to manage,...",
    "source": "The Hill",
-   "ts": "2026-10-29T01:44:14+00:00",
-   "url": "https://thehill.com/homenews/campaign/6180017-obama-trump-cheesecake-factory-joke/"
+   "ts": "2026-10-29T15:27:37+00:00",
+   "url": "https://thehill.com/policy/sports-gaming/6181256-national-links-trust-east-potomac-park-dc-golf-course-controversy/"
   },
   {
    "category": "India Politics",
-   "headline": "Supreme Court directs NCLAT, NCLT presidents to submit proposals on infrastructure, staff requirements",
-   "blurb": "The NCLT Bar Association has filed an application in a pending matter contending that at least 18 benches of NCLT are holding only half-day sittings because of shortage of members",
+   "headline": "Supreme Court strikes down Karnataka law validating ‘corrupt’ 2011 recruitment",
+   "blurb": "Top court says cancellation of the recruitment process was upheld by both HC and SC, and that the 'power does not lie with the legislature to annul the cancellation, even by a legislation, and thus nullify the judgments of the Constitutional courts’",
    "source": "The Hindu",
-   "ts": "2026-10-29T09:40:36+00:00",
-   "url": "https://www.thehindu.com/news/national/sc-nclat-nclt-presidents-proposals-on-infrastructure-staff-requirements/article71639787.ece"
+   "ts": "2026-10-29T16:37:34+00:00",
+   "url": "https://www.thehindu.com/news/national/supreme-court-strikes-down-karnataka-law-validating-corrupt-2011-recruitment/article71641638.ece"
   },
   {
    "category": "AI",
-   "headline": "Voters in Texas agree: They hate data centers",
-   "blurb": "Ask Texas NAACP president Gary Bledsoe what it's been like to see data center developers descend upon Austin and its surrounding suburbs and he can rattle off project after project facing opposition from locals. There's the fight in Taylor over plans to build a data center at a site that's supposed to be a park. […]",
+   "headline": "Akai is embracing vibe-coded mods with an open-source MPC",
+   "blurb": "The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom firmware developers by giving them early access to the device, which will have open-source firmware. It will likely run […]",
    "source": "The Verge",
-   "ts": "2026-10-28T19:17:42+00:00",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas"
+   "ts": "2026-10-28T21:34:04+00:00",
+   "url": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key"
   },
   {
    "category": "Equities",
@@ -252,219 +420,51 @@
   },
   {
    "category": "Crypto",
-   "headline": "Utah charges predictions platform Kalshi with illegal gambling",
-   "blurb": "Utah has filed criminal charges against betting platform Kalshi and its co-founders.",
+   "headline": "Walmart, Eli Lilly join growing pushback against OKX–ICE tokenized stock plans",
+   "blurb": "Five more companies have objected, bringing the total to 38 as a rival Canton venue prepares to launch with an issuer-sponsored stock under the SEC's innovation exemption.",
    "source": "CoinDesk",
-   "ts": "2026-10-29T05:02:37+00:00",
-   "url": "https://www.coindesk.com/policy/2026/10/29/utah-charges-predictions-platform-kalshi-with-illegal-gambling"
+   "ts": "2026-10-29T13:39:18+00:00",
+   "url": "https://www.coindesk.com/business/2026/10/29/walmart-eli-lilly-join-growing-pushback-against-okx-ice-tokenized-stock-plans"
   },
   {
    "category": "Geopolitics",
-   "headline": "What we know so far about deadly Spain train crash",
-   "blurb": "More than 500 passengers were on board the trains when the crash occurred in the province of Toledo, south of Madrid.",
+   "headline": "Philippine police obtain warrant to search Thomas Markle's devices",
+   "blurb": "Images of child sexual abuse allegedly belonging to Meghan's father had reportedly been found in his former home in the Philippines.",
    "source": "BBC",
-   "ts": "2026-10-29T07:59:20+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-29T13:25:07+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cm0j06y3pn75o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
-   "blurb": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they made of this year's Budget.",
+   "headline": "Minimum wage rise 'a massive blow' says farmer",
+   "blurb": "Tristan Bennett voices his disappointment in the Budget, describing it as \"a lot of tinkering\".",
    "source": "BBC",
-   "ts": "2026-10-29T00:00:25+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-29T13:29:15+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c6zxj9qy4yg8o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Trump calls alleged Alaska Senate spoiler scheme 'voter fraud at the highest level'",
-   "blurb": "President Trump criticized Senate Democrats and former Rep. Mary Peltola’s (D-Alaska) campaign on Wednesday amid allegations that the two worked together to put a spoiler candidate on the ballot in an effort to boost their party in the Alaska Senate race. “This is voter fraud at the highest level,” Trump said while rallying in Chillicothe,...",
+   "headline": "Utah charges Kalshi, executives as prediction markets face legal showdown",
+   "blurb": "Utah is bringing criminal charges against Kalshi and two of the company's top executives, alleging they illegally profited from promoting and offering online gambling within the state. The prediction market platform, alongside CEO Tarek Mansour and chief operating officer Luana Lopes Lara, is facing 13 felony counts and one misdemeanor count, according to a recent...",
    "source": "The Hill",
-   "ts": "2026-10-29T01:30:50+00:00",
-   "url": "https://thehill.com/homenews/administration/6180002-trump-alaska-senate-voter-fraud/"
+   "ts": "2026-10-29T15:21:22+00:00",
+   "url": "https://thehill.com/policy/technology/6181292-utah-charges-kalshi-executives/"
   },
   {
    "category": "India Politics",
-   "headline": "NTK’s ‘Saattai’ Duraimurugan moves Madras High Court seeking anticipatory bail",
-   "blurb": "An FIR had been registered against him for his alleged derogatory YouTube video against Chief Minister C. Joseph Vijay and Minister Aadhav Arjuna",
+   "headline": "Telangana sends 2K staff, material to A.P. for power supply restoration work",
+   "blurb": "",
    "source": "The Hindu",
-   "ts": "2026-10-29T09:40:07+00:00",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/ntks-saattai-duraimurugan-moves-madras-high-court-seeking-anticipatory-bail/article71637572.ece"
+   "ts": "2026-10-29T16:37:27+00:00",
+   "url": "https://www.thehindu.com/news/national/telangana/telangana-sends-2k-staff-material-to-ap-for-power-supply-restoration-work/article71641620.ece"
   },
   {
    "category": "AI",
-   "headline": "Microsoft is ending Copilot support on smart TVs",
-   "blurb": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year, according to a report by Windows Central. The news comes not from an official announcement from LG, Samsung, […]",
+   "headline": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+   "blurb": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and GPT-6 Astra trailing behind. The new Gemini 4 Carbon model offers improvements over […]",
    "source": "The Verge",
-   "ts": "2026-10-28T18:36:26+00:00",
-   "url": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending"
-  },
-  {
-   "category": "Equities",
-   "headline": "Fed rate hikes are coming, but not this week: CNBC survey",
-   "blurb": "The CNBC Fed Survey shows that 93% of respondent expect a pause at the Federal Reserve meeting taking place this week.",
-   "source": "CNBC",
-   "ts": "2026-10-27T15:51:00+00:00",
-   "url": "https://www.cnbc.com/2026/10/27/federal-reserve-rate-hike-timing-expectations.html"
-  },
-  {
-   "category": "Crypto",
-   "headline": "Bitcoin dips below $80,000 as Samsung-led tech jitters and a hawkish Fed weigh on crypto",
-   "blurb": "Bitcoin fell below $80,000 as Samsung-driven tech weakness and a hawkish Fed hold triggered a broad risk-off move. Crypto futures saw $356 million in liquidations.",
-   "source": "CoinDesk",
-   "ts": "2026-10-29T03:32:43+00:00",
-   "url": "https://www.coindesk.com/markets/2026/10/29/bitcoin-dips-below-usd80-000-as-samsung-led-risk-aversion-in-tech-and-a-hawkish-fed-weigh-on-crypto"
-  },
-  {
-   "category": "Geopolitics",
-   "headline": "Hello Kitty maker cuts ties with Japanese spy drama after China backlash",
-   "blurb": "Sanrio has apologised after its merchandise line with Japanese TV series Vivant drew criticism.",
-   "source": "BBC",
-   "ts": "2026-10-29T07:54:33+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cry4x177jlnyo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "category": "Macro",
-   "headline": "Restaurants sceptical over 'garlic and gherkins' plan",
-   "blurb": "Import tariffs on more than 100 items - including garlic, gherkins and plant-based milk - are being removed.",
-   "source": "BBC",
-   "ts": "2026-10-28T20:31:39+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cm74pvzzke91o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "category": "US Politics",
-   "headline": "Senate Democrats drop $500K in Mississippi",
-   "blurb": "The Democratic Senatorial Campaign Committee (DSCC) dropped $500,000 in Mississippi’s Senate race supporting Scott Colom (D), who is challenging Trump-backed Sen. Cindy Hyde-Smith (R-Miss.). The new ad focused on Colom’s record as a district attorney in the Magnolia State as the Democrat stated he’ll “take on anyone who stands in the way of what’s best...",
-   "source": "The Hill",
-   "ts": "2026-10-29T01:02:27+00:00",
-   "url": "https://thehill.com/homenews/campaign/6179967-dscc-drops-mississippi-senate-funds/"
-  },
-  {
-   "category": "India Politics",
-   "headline": "Keralam Assembly: Orders issued to procure 2,159 bottles of SMA drug, says Health Minister",
-   "blurb": "Replying to a submission, Minister says government is taking several steps through Kerala United Against Rare Diseases scheme to provide timely treatment and life-saving medicines to children affected by SMA",
-   "source": "The Hindu",
-   "ts": "2026-10-29T09:34:27+00:00",
-   "url": "https://www.thehindu.com/news/national/kerala/keralam-assembly-orders-issued-to-procure-2159-bottles-of-sma-drug-says-health-minister/article71639823.ece"
-  },
-  {
-   "category": "AI",
-   "headline": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
-   "blurb": "Following improvements made to Chrome's enhanced autofill last year that included your name, passport number, email address, and physical addresses sourced from your Google Accounts and services like Google Wallet, the feature is now expanding. Starting today, Chrome's enhanced autofill will use Gemini with Personal Intelligence to suggest information sourced from your Gmail, potentially saving […]",
-   "source": "The Verge",
-   "ts": "2026-10-28T16:32:41+00:00",
-   "url": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence"
-  },
-  {
-   "category": "Equities",
-   "headline": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
-   "blurb": "Treasury yields above 5% are raising borrowing costs for households and the federal government, highlighting the challenge of financing $2 trillion deficits.",
-   "source": "CNBC",
-   "ts": "2026-10-26T18:33:51+00:00",
-   "url": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html"
-  },
-  {
-   "category": "Crypto",
-   "headline": "Mystery Wall Street Journal ad sparks new fight over tokenized stocks",
-   "blurb": "A full-page warning urging CEOs to opt out of tokenized stock trading drew a response from Securitize and questions over who paid for it.",
-   "source": "CoinDesk",
-   "ts": "2026-10-29T03:21:24+00:00",
-   "url": "https://www.coindesk.com/policy/2026/10/28/mystery-wall-street-journal-ad-sparks-new-fight-over-tokenized-stocks"
-  },
-  {
-   "category": "Geopolitics",
-   "headline": "El Salvador sends 2,000 troops to Haiti to rescue four missing soldiers",
-   "blurb": "The troops are trying to recover four military personnel who went missing in an ambush on the outskirts of the Haitian capital Port-au-Prince.",
-   "source": "BBC",
-   "ts": "2026-10-29T06:24:56+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/ck0e075n79j5o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "category": "Macro",
-   "headline": "What we now know about the UK economy in four charts",
-   "blurb": "The Office for Budget Responsibility says higher energy prices will impact everything from prices and living standards to economic growth.",
-   "source": "BBC",
-   "ts": "2026-10-28T20:08:45+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "category": "US Politics",
-   "headline": "DOJ's California ballot fight rejected by another judge",
-   "blurb": "The Trump administration's bid to separate 20,000 mail ballots in California that it says are likely noncitizens met another defeat on Wednesday as a trial judge refused to intervene. U.S. District Judge David Carter ruled California can continue to accept the questioned ballots like any other. “This request violates longstanding constitutional principles mandating that states have control over...",
-   "source": "The Hill",
-   "ts": "2026-10-29T00:59:22+00:00",
-   "url": "https://thehill.com/regulation/court-battles/6179970-judge-rejects-trump-ballot-challenge/"
-  },
-  {
-   "category": "India Politics",
-   "headline": "17.78 lakh kg of PDS grains seized in three months, 215 arrested amidst drought in Karnataka",
-   "blurb": "Minister warns of action against those attempting to hoard rice illegally or sell it in the black market to profit from the recent rise in prices",
-   "source": "The Hindu",
-   "ts": "2026-10-29T09:33:26+00:00",
-   "url": "https://www.thehindu.com/news/national/karnataka/1778-lakh-kg-of-pds-grains-seized-in-three-months-215-arrested-amidst-drought-in-karnataka/article71639474.ece"
-  },
-  {
-   "category": "AI",
-   "headline": "Meta says it’ll probably delay its controversial new business terms again",
-   "blurb": "Meta says it may push the implementation of its new business terms past November 20th as it faces backlash from publishers over concerns about AI training. In a post on X, Meta communications head Andy Stone said the company does \"not plan to make policy changes without a full consultation with industry groups and leaders.\" […]",
-   "source": "The Verge",
-   "ts": "2026-10-28T16:15:30+00:00",
-   "url": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely"
-  },
-  {
-   "category": "Equities",
-   "headline": "Trump's approval rating on economy hits all-time low as midterm looms: CNBC survey",
-   "blurb": "Eight out of 10 Americans now rate the economy as fair or poor, one of several findings in a CNBC poll that show why Republican candidates face uphill battles.",
-   "source": "CNBC",
-   "ts": "2026-10-23T20:49:42+00:00",
-   "url": "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html"
-  },
-  {
-   "category": "Crypto",
-   "headline": "Bitcoin-backed mortgages are coming to Canada, but borrowers are still unaware of the cost",
-   "blurb": "Prospective borrowers face collateral liquidation risks if bitcoin prices drop, though APX said property and crypto collateral will be handled distinctly.",
-   "source": "CoinDesk",
-   "ts": "2026-10-28T21:13:44+00:00",
-   "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-backed-mortgages-are-coming-to-canada-but-borrowers-are-still-unaware-of-the-cost"
-  },
-  {
-   "category": "Geopolitics",
-   "headline": "'Like cutting up a Picasso': AI microdrama edit of Neighbours worries actors and crew",
-   "blurb": "A micro-drama will use AI-assisted technology to edit old episodes of the Australian TV soap to focus on Margot Robbie's character.",
-   "source": "BBC",
-   "ts": "2026-10-29T03:15:35+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cj1dw9znd1q1o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "category": "Macro",
-   "headline": "What the Budget offers for under 25s - and what it leaves out",
-   "blurb": "The chancellor announced a series of measures which will impact under-25 year-olds from housing to minimum wage.",
-   "source": "BBC",
-   "ts": "2026-10-28T20:02:38+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "category": "US Politics",
-   "headline": "A coming clash between Trump and Congress",
-   "blurb": "Presented by Palantir {beacon} Defense &National Security Defense &National Security The Big Story A coming clash between Trump and Congress President Trump is headed to a showdown with Democrats and members of his party after Election Day over Defense Secretary Pete Hegseth’s future leadership of the Pentagon, the Iran war and the Russia-Ukraine conflict. © Jacquelyn...",
-   "source": "The Hill",
-   "ts": "2026-10-29T00:31:08+00:00",
-   "url": "https://thehill.com/newsletters/defense-national-security/6179940-a-coming-clash-between-trump-and-congress/"
-  },
-  {
-   "category": "India Politics",
-   "headline": "Cyclone Arnab LIVE: New Bay system likely to head for Andhra coast; 300 villages marooned in Ganjam",
-   "blurb": "Arnab’s remnant brings rain to West Bengal, Jharkhand and Madhya Pradesh after weakening into a depression",
-   "source": "The Hindu",
-   "ts": "2026-10-29T09:27:02+00:00",
-   "url": "https://www.thehindu.com/news/national/cyclone-arnab-weakens-into-depression-imd-alert-odisha-andhra-pradesh-telangana-live-updates-october-29-2026/article71638778.ece"
-  },
-  {
-   "category": "AI",
-   "headline": "xAI is buying out homeowners who promise not to sue over data center noise",
-   "blurb": "A subsidiary of Elon Musk's xAI is offering to buy up homes in a Mississippi neighborhood, as long as residents don't join a lawsuit targeting the company's nearby data center and power plant, according to a report from The Guardian. A realtor going door-to-door in the Southaven neighborhood reportedly told one resident that xAI plans […]",
-   "source": "The Verge",
-   "ts": "2026-10-28T14:44:00+00:00",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit"
+   "ts": "2026-10-28T20:03:00+00:00",
+   "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier"
   }
  ]
 }
