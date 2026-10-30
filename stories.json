@@ -1,7 +1,71 @@
 {
- "updated": "2026-10-30T08:30:01+00:00",
+ "updated": "2026-10-30T15:49:09+00:00",
  "count": 58,
  "stories": [
+  {
+   "category": "Equities",
+   "headline": "Euro zone economy slows to 0.4% growth in Q3 as crisis-hit France contracts",
+   "blurb": "The euro zone showed surprising resilience, but weak productivity, industrial competitiveness challenges and demographic pressures remain, analysts said.",
+   "source": "CNBC",
+   "ts": "2026-10-30T11:16:46+00:00",
+   "url": "https://www.cnbc.com/2026/10/30/euro-zone-gdp-france.html"
+  },
+  {
+   "category": "Crypto",
+   "headline": "Wall Street analysts urge investors to buy crypto stocks after $6.3 billion Binance hack",
+   "blurb": "Analysts at Cantor Fitzgerald, TD Cowen and Compass Point say the $6.3 billion Binance hack is unlikely to derail the crypto market's recovery.",
+   "source": "CoinDesk",
+   "ts": "2026-10-30T14:13:34+00:00",
+   "url": "https://www.coindesk.com/markets/2026/10/30/wall-street-analysts-urge-investors-to-buy-crypto-stocks-on-weakness-after-usd6-3-billion-binance-hack"
+  },
+  {
+   "category": "Gold",
+   "headline": "Gold Faces Further Losses as Traders Brace for a Possible Iran Escalation",
+   "blurb": "",
+   "source": "Investing.com",
+   "ts": "2026-10-30T14:16:00+00:00",
+   "url": "https://www.investing.com/analysis/gold-faces-further-losses-as-traders-brace-for-a-possible-iran-escalation-200690591"
+  },
+  {
+   "category": "Geopolitics",
+   "headline": "US tech stocks see sharp falls over AI cost fears",
+   "blurb": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
+   "source": "BBC",
+   "ts": "2026-10-30T15:46:28+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "category": "Macro",
+   "headline": "Yorkshire Water boss resigns after firm downgraded",
+   "blurb": "Nicola Shaw, who has led the company since 2022, will step down in January, it is announced.",
+   "source": "BBC",
+   "ts": "2026-10-30T15:35:30+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/ckzd623pldqgo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "category": "US Politics",
+   "headline": "The US should strongly advocate for political prisoner releases, global freedom",
+   "blurb": "While celebrating recent political prisoner releases, author Nicole Bibbins Sedaca argues that the United States must use sanctions and diplomatic pressure to challenge the systemic use of imprisonment by autocratic regimes.",
+   "source": "The Hill",
+   "ts": "2026-10-30T15:30:00+00:00",
+   "url": "https://thehill.com/opinion/international/6182870-advocating-political-prisoner-release/"
+  },
+  {
+   "category": "India Politics",
+   "headline": "Shivanand Koujalgi, former Minister, passes away at 87",
+   "blurb": "A long-time loyalist of the former Chief Minister late Ramakrishna Hegde, he switched to Deve Gowda’s camp after a split in the Janata Parivar",
+   "source": "The Hindu",
+   "ts": "2026-10-30T15:46:26+00:00",
+   "url": "https://www.thehindu.com/news/national/karnataka/shivanand-koujalagi-former-minister-and-former-mp-no-more/article71643655.ece"
+  },
+  {
+   "category": "AI",
+   "headline": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
+   "blurb": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address, Pope Leo encourages United Nations member states to \"take concrete steps toward banning lethal autonomous weapons\" during their meeting in Geneva next month. The address reflects many […]",
+   "source": "The Verge",
+   "ts": "2026-10-30T15:14:37+00:00",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai"
+  },
   {
    "category": "Equities",
    "headline": "Third-quarter U.S. GDP increases a better-than-expected 3.4% as September inflation accelerates",
@@ -12,59 +76,59 @@
   },
   {
    "category": "Crypto",
-   "headline": "Binance hacker dumps a little-known 2017 token and it crashes 90%",
-   "blurb": "The hacker dumped FUN and other smaller tokens into markets too small to absorb large selling, leading to price crashes.",
+   "headline": "Binance arranges $6.34 billion to cover losses from record crypto hack",
+   "blurb": "Binance said it reserved its own funds to cover the $6.3 billion hack, including freezes of roughly $3 billion in stolen assets.",
    "source": "CoinDesk",
-   "ts": "2026-10-30T07:54:07+00:00",
-   "url": "https://www.coindesk.com/markets/2026/10/30/binance-hacker-dumps-a-little-known-2017-token-and-it-crashes-90"
+   "ts": "2026-10-30T12:13:02+00:00",
+   "url": "https://www.coindesk.com/business/2026/10/30/binance-arranges-usd6-34-billion-to-cover-losses-from-record-crypto-hack"
   },
   {
    "category": "Gold",
-   "headline": "Oil Prices Head for 4th Monthly Gain as Middle East Tensions Escalate",
+   "headline": "Wall Street Banks Raise Oil Price Forecasts as Supply Fears Deepen",
    "blurb": "",
    "source": "Investing.com",
-   "ts": "2026-10-30T07:07:00+00:00",
-   "url": "https://www.investing.com/analysis/oil-prices-head-for-4th-monthly-gain-as-middle-east-tensions-escalate-200690558"
+   "ts": "2026-10-30T12:47:00+00:00",
+   "url": "https://www.investing.com/analysis/wall-street-banks-raise-oil-price-forecasts-as-supply-fears-deepen-200690575"
   },
   {
    "category": "Geopolitics",
-   "headline": "What we know about Binance's $6.3bn hack",
-   "blurb": "BBC business reporter Archana Shukla explains more about what is suspected to be the largest hack in history.",
+   "headline": "Democratic senator blames Egypt press crackdown on US military aid decision",
+   "blurb": "Chris Murphy said waiving a human rights condition on aid paved the way for arrests of journalists.",
    "source": "BBC",
-   "ts": "2026-10-30T08:02:02+00:00",
-   "url": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-30T15:17:11+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c63r529wn2vzo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Yorkshire Water boss resigns after firm downgraded",
-   "blurb": "Nicola Shaw, who has led the company since 2022, will step down in January, it is announced.",
+   "headline": "What we know about Binance's $6.3bn hack",
+   "blurb": "Cyber correspondent Joe Tidy explains more about what is suspected to be the biggest hack in history.",
    "source": "BBC",
-   "ts": "2026-10-30T07:54:08+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/ckzd623pldqgo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-30T12:27:28+00:00",
+   "url": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Senate Democrats' PAC spends in South Carolina for first time",
-   "blurb": "Senate Democrats are buying ads in South Carolina for the first time as polls show a close Senate contest in the deep-red state. Senate Majority PAC (SMP), the Senate Democrats’ main political action committee in the midterms, will spend $750,000 on digital ads in the Palmetto State on the race between Sen. Darline Graham (R)...",
+   "headline": "New federal rule requires drug middlemen to disclose how they're paid",
+   "blurb": "The companies that manage billions of dollars in prescription drug spending for employers and workers will soon be required to inform their clients all the different ways they get paid under a new rule released by the Trump administration Thursday. A final rule by the Department of Labor (DOL) will require pharmacy benefit managers (PBMs)...",
    "source": "The Hill",
-   "ts": "2026-10-30T02:56:40+00:00",
-   "url": "https://thehill.com/homenews/campaign/6183124-senate-democrats-buy-sc-ads/"
+   "ts": "2026-10-30T15:28:12+00:00",
+   "url": "https://thehill.com/policy/healthcare/6184172-trump-dol-pbm-transparency-rule/"
   },
   {
    "category": "India Politics",
-   "headline": "CEC row LIVE updates: INDIA bloc's 'public impeachment' of CEC Gyanesh Kumar postponed",
-   "blurb": "The INDIA bloc was expected to hold a “public impeachment” of Chief Election Commissioner Gyanesh Kumar at Congress president Mallikarjun Kharge’s official residence",
+   "headline": "Uttam warns rice millers, traders against hoarding, black-marketing",
+   "blurb": "He says ceiling ₹66 per kg fixed for commonly consumed BPT rice",
    "source": "The Hindu",
-   "ts": "2026-10-30T08:27:51+00:00",
-   "url": "https://www.thehindu.com/news/national/cec-row-india-bloc-sir-protest-delhi-gyanesh-kumar-october-30-2026-live-updates/article71644149.ece"
+   "ts": "2026-10-30T15:45:58+00:00",
+   "url": "https://www.thehindu.com/news/national/telangana/uttam-warns-rice-millers-traders-against-hoarding-black-marketing/article71645931.ece"
   },
   {
    "category": "AI",
-   "headline": "AI has come for Arizona’s water",
-   "blurb": "A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded apps and websites. The complex is simultaneously massive and squat, dwarfed by the mountains that surround it, and it is endless. I drive past one […]",
+   "headline": "Maine’s data center revolt will decide who controls the Senate",
+   "blurb": "Maine Sen. Susan Collins, a Republican, was midway through defending her record during the final debate of the midterms when an audience member cut her short. \"I'm terrified,\" a man shouted. \"AI data centers are destroying our climate. They are poisoning our water.\" Collins brushed off the outburst, tying the man to her Democratic challenger, […]",
    "source": "The Verge",
-   "ts": "2026-10-29T23:03:22+00:00",
-   "url": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc"
+   "ts": "2026-10-30T14:40:29+00:00",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers"
   },
   {
    "category": "Equities",
@@ -76,59 +140,51 @@
   },
   {
    "category": "Crypto",
-   "headline": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
-   "blurb": "Bets on rising prices accounted for nearly 84% of forced closures, with Binance handling almost half the total. A rebound has since started catching short sellers.",
+   "headline": "Here's how big bitcoin traders responded after the Binance hack hit",
+   "blurb": "Your day-ahead look for Oct. 30, 2026",
    "source": "CoinDesk",
-   "ts": "2026-10-30T06:22:00+00:00",
-   "url": "https://www.coindesk.com/markets/2026/10/30/bitcoin-ether-and-xrp-selloff-wipes-out-usd1-5-billion-in-leveraged-crypto-bets"
-  },
-  {
-   "category": "Gold",
-   "headline": "What’s Next for Global Natural Gas Demand?",
-   "blurb": "",
-   "source": "Investing.com",
-   "ts": "2026-10-30T06:47:00+00:00",
-   "url": "https://www.investing.com/analysis/whats-next-for-global-natural-gas-demand-200690546"
+   "ts": "2026-10-30T11:51:26+00:00",
+   "url": "https://www.coindesk.com/daybook-us/2026/10/30/here-s-how-big-bitcoin-traders-responded-after-the-binance-hack-hit"
   },
   {
    "category": "Geopolitics",
-   "headline": "How Kenyans got caught in $130m US ghost student scam",
-   "blurb": "The alleged scheme used stolen identities to claim US student aid, with Kenyans among those charged.",
+   "headline": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
+   "blurb": "The PM's Likud party has alleged foreign interference and said Arab-led parties \"stole\" the election after his coalition lost its majority.",
    "source": "BBC",
-   "ts": "2026-10-30T07:29:10+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cxvgdzpy7241o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-30T15:09:29+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "How video game remakes tap the power of nostalgia",
-   "blurb": "Video games are good at triggering nostalgia, a key reason why classic games keep getting remade.",
+   "headline": "Google value plunges by $500bn as its own AI search hits ad sales",
+   "blurb": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI own search summaries were affecting ad revenue.",
    "source": "BBC",
-   "ts": "2026-10-30T07:45:00+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cm9qz428nnljo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-30T12:04:02+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Potential Binance 'hack' forces crypto firms to freeze $3 billion",
-   "blurb": "A suspected hack at Binance prompted cryptocurrency firms to freeze about $3 billion in assets, the company said on Thursday. The exchange, which described the situation as a \"security issue,\" has temporarily suspended deposits and withdrawals while it \"conducts security checks, freezes funds, and works with law enforcement.\" It vowed to cover all losses. \"It...",
+   "headline": "Leo XIV becomes first pope ever to vote in US general election",
+   "blurb": "Pope Leo XIV has become the first pope to vote in a U.S. general election.",
    "source": "The Hill",
-   "ts": "2026-10-30T02:41:54+00:00",
-   "url": "https://thehill.com/policy/technology/6183131-binance-hack-crypto-firms-freeze-assets/"
+   "ts": "2026-10-30T15:25:33+00:00",
+   "url": "https://thehill.com/homenews/campaign/6183683-pope-leo-xiv-votes-early-midterms-historical/"
   },
   {
    "category": "India Politics",
-   "headline": "INDIA bloc’s ‘public impeachment’ of CEC likely to avoid mocking Parliament",
-   "blurb": "Former Lok Sabha Speaker Meira Kumar to preside over proceedings, Kharge to move motion and Rahul Gandhi to speak at the end",
+   "headline": "Takshashila University conducts Induction ceremony for MBBS students",
+   "blurb": "",
    "source": "The Hindu",
-   "ts": "2026-10-30T08:24:12+00:00",
-   "url": "https://www.thehindu.com/news/national/india-blocs-public-impeachment-of-cec-likely-to-avoid-mocking-parliament/article71639811.ece"
+   "ts": "2026-10-30T15:45:55+00:00",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/takshashila-university-conducts-induction-ceremony-for-mbbs-students/article71644576.ece"
   },
   {
    "category": "AI",
-   "headline": "You can generate and edit Google Docs files directly in Gemini chats now",
-   "blurb": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for all Gemini users, and while PDF previews/editing works on both the web and mobile, all other file formats are only in […]",
+   "headline": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
+   "blurb": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all. But he has no intention of stopping - and hints there could be much more to come from the company's stockpile of discoveries. \"I think, on net, […]",
    "source": "The Verge",
-   "ts": "2026-10-29T18:45:31+00:00",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs"
+   "ts": "2026-10-30T13:30:14+00:00",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview"
   },
   {
    "category": "Equities",
@@ -140,51 +196,51 @@
   },
   {
    "category": "Crypto",
-   "headline": "XRP Ledger developers tighten the rules for who can hold 'restricted' tokens",
-   "blurb": "A set of fixes would tighten who can hold permissioned tokens on the network. The XRP Ledger Foundation says no users were affected.",
+   "headline": "Here’s how an Ethereum upgrade helped drain part of Binance’s $6 billion loss",
+   "blurb": "On Ethereum, the attacker used a 2025 upgrade built to make ordinary wallets smarter, armed with 50 signatures from Binance's own wallet.",
    "source": "CoinDesk",
-   "ts": "2026-10-30T05:45:27+00:00",
-   "url": "https://www.coindesk.com/tech/2026/10/30/xrp-ledger-developers-tighten-the-rules-for-who-can-hold-restricted-tokens"
+   "ts": "2026-10-30T11:35:16+00:00",
+   "url": "https://www.coindesk.com/tech/2026/10/30/here-s-how-one-ethereum-permission-let-an-attacker-drain-usd2-5-billion-from-binance"
   },
   {
    "category": "Geopolitics",
-   "headline": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
-   "blurb": "Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor.",
+   "headline": "Six dead after helicopter crashes in northern Indian state",
+   "blurb": "The aircraft reportedly took off from the Hindu pilgrimage site of Badrinath on Friday afternoon before losing contact.",
    "source": "BBC",
-   "ts": "2026-10-30T07:16:05+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-30T15:06:05+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Who should pay on the first date?",
-   "blurb": "Yasmin Rufo asks New Yorkers who picks up the bill on a first date, and how much they usually spend.",
+   "headline": "Streeting denies 'kicking can down the road' in defence spending row",
+   "blurb": "The government is under pressure to set out a path to greater defence spending, as ministers unveil plans to boost UK firms.",
    "source": "BBC",
-   "ts": "2026-10-30T06:32:25+00:00",
-   "url": "https://www.bbc.co.uk/news/videos/cmpq0g3g2r8zo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-30T11:23:38+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cw62yrzxjnk4o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Sparks fly between Bresnahan, Cognetti in Pennsylvania House debate",
-   "blurb": "Rep. Rob Bresnahan (R-Pa.) and Democrat Paige Cognetti clashed on the debate stage Thursday night over the ongoing war in Iran, the growing presence of data centers in their district and other hot-button issues. Cognetti, who has served as the mayor of Scranton, Pa., since 2020, and Bresnahan are vying to represent Pennsylvania’s 8th Congressional...",
+   "headline": "Drone warfare will be won at the operator level",
+   "blurb": "Rather than building systems around individual platforms and asking operators to navigate between them, we should build around the operator.",
    "source": "The Hill",
-   "ts": "2026-10-30T02:33:11+00:00",
-   "url": "https://thehill.com/homenews/campaign/6183129-bresnahan-cognetti-debate-pennsylvania/"
+   "ts": "2026-10-30T15:00:00+00:00",
+   "url": "https://thehill.com/opinion/national-security/6182253-battlefield-ai-decision-advantage/"
   },
   {
    "category": "India Politics",
-   "headline": "INDIA bloc’s ‘public impeachment’ of CEC Gyanesh Kumar postponed to Oct. 31",
-   "blurb": "The sources said the postponement was due to weather conditions as the lawns got muddy due to rains in New Delhi",
+   "headline": "Census 2027: door-to-door enumeration to start on January 25",
+   "blurb": "Reference date for population census will be 00:00 hours of March 1, 2027; census will not be held in Manipur, Goa, Uttar Pradesh, Punjab and Uttarakhand, Ladakh, Himachal Pradesh and J&K",
    "source": "The Hindu",
-   "ts": "2026-10-30T08:23:46+00:00",
-   "url": "https://www.thehindu.com/news/national/india-bloc-public-impeachment-of-cec-gyanesh-kumar-postponed-october-31-2026/article71644196.ece"
+   "ts": "2026-10-30T15:45:37+00:00",
+   "url": "https://www.thehindu.com/news/national/population-census-dates-mha-notification/article71645802.ece"
   },
   {
    "category": "AI",
-   "headline": "Microsoft’s AI future has fewer jobs",
-   "blurb": "To anyone listening closely to what Microsoft CEO Satya Nadella has been saying over the past couple of years, this week felt like the clearest sign yet that AI is about to fundamentally change the size of Microsoft's workforce. Microsoft is now offering voluntary buyouts to around 60,000 employees across the US, UK, Canada, and […]",
+   "headline": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+   "blurb": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An overly black-and-white ruling, it says, could either deprive Wikipedians of useful AI-based tools or endanger […]",
    "source": "The Verge",
-   "ts": "2026-10-29T16:48:16+00:00",
-   "url": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad"
+   "ts": "2026-10-30T13:19:25+00:00",
+   "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright"
   },
   {
    "category": "Equities",
@@ -196,51 +252,51 @@
   },
   {
    "category": "Crypto",
-   "headline": "Binance hack bites India's largest crypto exchange as it curbs futures trading",
-   "blurb": "CoinDCX has restricted new futures positions after Binance’s security incident disrupted a key liquidity provider. Deposits, withdrawals and customer funds remain unaffected, the exchange said.",
+   "headline": "Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether lower",
+   "blurb": "Bitcoin traded near $77,350 after $6.3 billion Binance hack, with crypto futures liquidations jumping to $1.57 billion.",
    "source": "CoinDesk",
-   "ts": "2026-10-30T05:43:07+00:00",
-   "url": "https://www.coindesk.com/markets/2026/10/30/coindcx-halts-new-crypto-futures-bets-as-binance-incident-disrupts-liquidity"
+   "ts": "2026-10-30T11:09:24+00:00",
+   "url": "https://www.coindesk.com/markets/2026/10/30/crypto-liquidations-jump-to-usd1-57-billion-as-binance-hack-sends-bitcoin-ether-lower"
   },
   {
    "category": "Geopolitics",
-   "headline": "Hyrox athlete who soiled herself in race tells BBC she put others at risk but backlash was traumatic",
-   "blurb": "In her first interview since the incident, Joanna Wietrzyk told the BBC she takes responsibility for it but did not deserve such a severe backlash.",
+   "headline": "Spain transport minister says he won't resign over high-speed rail disaster",
+   "blurb": "Óscar Puente has been facing calls to resign after two high-speed trains collided earlier in the week, killing at least 69 people.",
    "source": "BBC",
-   "ts": "2026-10-30T06:10:50+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c6gr8l15k744o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-30T15:03:39+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "P&R urged to speed up review of relocation grants",
-   "blurb": "Forward Guernsey believes the allowance is putting pressure on rental prices.",
+   "headline": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
+   "blurb": "Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor.",
    "source": "BBC",
-   "ts": "2026-10-30T06:18:21+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cx7vpq34jy71o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-30T09:33:51+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Trump to join tele-rallies 19 states after midterm event cancellations",
-   "blurb": "The Republican National Committee (RNC) said Thursday that President Trump will appear in tele-rallies across 19 states before Election Day, an announcement which followed his two in-person event cancellations in Iowa and Kansas \"Voters across the country want to hear from President Trump before Election Day, and this 72-hour sprint will be a huge boost...",
+   "headline": "Top Science Democrat probes cuts to research spending at National Science Foundation",
+   "blurb": "A key Democrat is looking into a massive amount of money that was appropriated to the National Science Foundation (NSF) but reportedly not spent. In a letter first shared with The Hill, House Committee on Science, Space and Technology ranking member Zoe Lofgren (D-Calif.) accused the foundation of violating “Congress’ power of the purse and...",
    "source": "The Hill",
-   "ts": "2026-10-30T01:02:57+00:00",
-   "url": "https://thehill.com/homenews/campaign/6183027-trump-scheduled-virtual-rally-blitz/"
+   "ts": "2026-10-30T15:00:00+00:00",
+   "url": "https://thehill.com/policy/energy-environment/6182800-science-national-science-foundation-nsf-lofgren/"
   },
   {
    "category": "India Politics",
-   "headline": "Cyclone Arnab updates: Cyclone wreaks havoc in Odisha, over 55,000 evacuated across 9 districts",
-   "blurb": "Andhra Pradesh Chief Minister N Chandrababu Naidu said the very severe cyclonic storm Arnab has inflicted a loss of at least ₹4,600 crore",
+   "headline": "Cuddalore Collector inspects development works in Chidambaram",
+   "blurb": "",
    "source": "The Hindu",
-   "ts": "2026-10-30T08:22:54+00:00",
-   "url": "https://www.thehindu.com/news/national/cyclone-arnab-imd-alert-odisha-andhra-pradesh-telangana-odisha-today-rain-weather-news-live-updates-october-30-2026/article71643382.ece"
+   "ts": "2026-10-30T15:45:32+00:00",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/cuddalore-collector-inspects-development-works-in-chidambaram/article71644529.ece"
   },
   {
    "category": "AI",
-   "headline": "The NYT Cooking app is testing AI recipe modifications",
-   "blurb": "The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it has sparked some drama among users. Last Friday, NYT Cooking senior editor Genevieve Ko announced the feature, which can be used to recommend substitutions for ingredients and cooking equipment, scale recipes to any […]",
+   "headline": "Silicon Valley wants you to invest in miracles",
+   "blurb": "Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance. But how do you bet on a technology that could, in the worst-case scenario, \"pose catastrophic or existential risks to humanity,\" or best case, \"bring forth an age of miracles\"? To some extent, […]",
    "source": "The Verge",
-   "ts": "2026-10-29T16:02:16+00:00",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool"
+   "ts": "2026-10-30T13:11:05+00:00",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles"
   },
   {
    "category": "Equities",
@@ -252,51 +308,51 @@
   },
   {
    "category": "Crypto",
-   "headline": "Binance hacker splits $1.4 billion of bitcoin into 19 wallets that no one can freeze",
-   "blurb": "All 18,270 coins sit in 19 wallets, 17 of them holding exactly 1,000 BTC each, and none has moved since Thursday night, a CoinDesk trace of the blockchain shows.",
+   "headline": "Strategy CFO Andrew Kang resigns as company posts record operating profit",
+   "blurb": "Andrew Kang’s departure comes as Strategy reports $21 billion in quarterly operating income and bitcoin holdings of 848,517 BTC.",
    "source": "CoinDesk",
-   "ts": "2026-10-30T04:50:42+00:00",
-   "url": "https://www.coindesk.com/markets/2026/10/30/binance-hacker-splits-usd1-4-billion-of-bitcoin-into-19-wallets-that-no-one-can-freeze"
+   "ts": "2026-10-30T09:41:07+00:00",
+   "url": "https://www.coindesk.com/markets/2026/10/30/strategy-cfo-resigns-as-company-posts-record-quarterly-profit-mstr-stock-falls-6"
   },
   {
    "category": "Geopolitics",
-   "headline": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
-   "blurb": "End of subsidies and rising prices drive discontent, testing support for Ahmed al-Sharaa's government.",
+   "headline": "Pope Leo XIV becomes first pontiff to vote in a US election",
+   "blurb": "The Chicago-born pontiff, who has a tense relationship with Trump, mailed in a ballot for the midterm elections that will decide control of the US Congress.",
    "source": "BBC",
-   "ts": "2026-10-30T06:02:23+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-30T14:48:22+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "From workshops to the catwalk - why mended clothes are going mainstream",
-   "blurb": "A new generation is embracing eye-catching patching and visible mends.",
+   "headline": "How video game remakes tap the power of nostalgia",
+   "blurb": "Video games are good at triggering nostalgia, a key reason why classic games keep getting remade.",
    "source": "BBC",
-   "ts": "2026-10-30T00:00:35+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-30T07:45:00+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cm9qz428nnljo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Alaska governor: Election certification 'could be stopped' due to Peltola probe",
-   "blurb": "Alaska Gov. Mike Dunleavy (R) suggested Thursday his state's midterm election certification process may be \"stopped or changed\" due to its investigation into ballot stacking allegations against Democratic Senate candidate Mary Peltola. NewsNation’s Blake Burman asked Dunleavy about the state's probe into Peltola, which the governor announced earlier that day, and whether it could impact...",
+   "headline": "Chris Sununu: 'Texas is in trouble for Republicans'",
+   "blurb": "Former New Hampshire Gov. Chris Sununu (R) is predicting doom for Republicans in the Texas Senate race, even as he maintains a more optimistic picture for his party nationally. Speaking with NewsNation’s Chris Cuomo on Thursday night, Sununu predicted that Republican Ken Paxton would lose to Democrat James Talarico in Texas next week. “I think...",
    "source": "The Hill",
-   "ts": "2026-10-30T00:44:51+00:00",
-   "url": "https://thehill.com/homenews/campaign/6182999-alaska-election-verification-stopped-peltola-probe/"
+   "ts": "2026-10-30T14:45:57+00:00",
+   "url": "https://thehill.com/homenews/campaign/6184054-sununu-predicts-texas-senatorial-loss/"
   },
   {
    "category": "India Politics",
-   "headline": "Retired IPS officer and former APSRTC chief N. Balasubramanyam dies",
-   "blurb": "Andhra Pradesh Chief Minister N. Chandrababu Naidu recalls him as an officer of uncompromising integrity",
+   "headline": "Ex-deputy speaker urges police to probe alleged defamation campaign on social media",
+   "blurb": "",
    "source": "The Hindu",
-   "ts": "2026-10-30T08:19:10+00:00",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/retired-ips-officer-and-former-apsrtc-chief-n-balasubramanyam-dies/article71643986.ece"
+   "ts": "2026-10-30T15:44:20+00:00",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/ex-deputy-speaker-urges-police-to-probe-alleged-defamation-campaign-on-social-media/article71645097.ece"
   },
   {
    "category": "AI",
-   "headline": "Anthropic is asking Wall Street to believe in AGI",
-   "blurb": "Today on Decoder, I’m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of the Anthropic IPO filing — a document known as an S-1. Anthropic just filed its S-1 to go public on the Nasdaq, and it could start […]",
+   "headline": "You can generate and edit Google Docs files directly in Gemini chats now",
+   "blurb": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for all Gemini users, and while PDF previews/editing works on both the web and mobile, all other file formats are only in […]",
    "source": "The Verge",
-   "ts": "2026-10-29T13:47:56+00:00",
-   "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview"
+   "ts": "2026-10-29T18:45:31+00:00",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs"
   },
   {
    "category": "Equities",
@@ -308,51 +364,51 @@
   },
   {
    "category": "Crypto",
-   "headline": "$6 billion Binance hack sends bitcoin, ether tumbling; Standard Chartered expects more pain",
-   "blurb": "Bitcoin and ether slid after a suspected $6.3 billion Binance security breach and a Polymarket exploit. Standard Chartered says crypto prices may remain under pressure before finding a base.",
+   "headline": "Live updates: Bitcoin falls to $77,000 as Binance exploit combines with tech woes",
+   "blurb": "The $6.3 billion Binance hack added to crypto jitters, while weak earnings outlooks and mounting concerns over AI spending pushed the Nasdaq down more than 2%.",
    "source": "CoinDesk",
-   "ts": "2026-10-30T04:00:43+00:00",
-   "url": "https://www.coindesk.com/markets/2026/10/30/usd6-billion-binance-hack-sends-bitcoin-ether-tumbling-standard-chartered-sees-more-losses-ahead"
+   "ts": "2026-10-30T08:36:52+00:00",
+   "url": "https://www.coindesk.com/markets/2026/10/30/live-news-binance-hack-rattles-crypto-as-intel-plunges-and-ai-spending-fears-hit-tech"
   },
   {
    "category": "Geopolitics",
-   "headline": "New York police will now investigate Cornell sex complaints, governor says",
-   "blurb": "The change was announced amid backlash over the school's handling of gang rape allegations involving a fraternity on campus.",
+   "headline": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
+   "blurb": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September.",
    "source": "BBC",
-   "ts": "2026-10-30T03:32:44+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cmwy42j9wewlo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-30T14:19:43+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Google value plunges by $500bn as AI fears rattle Wall Street",
-   "blurb": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue.",
+   "headline": "Who should pay on the first date?",
+   "blurb": "Yasmin Rufo asks New Yorkers who picks up the bill on a first date, and how much they usually spend.",
    "source": "BBC",
-   "ts": "2026-10-29T22:17:52+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-30T06:32:25+00:00",
+   "url": "https://www.bbc.co.uk/news/videos/cmpq0g3g2r8zo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "House Oversight Democrat maintains support for Peltola, defers to Alaska for next steps",
-   "blurb": "Editor's Note — This article was updated to more accurately reflect Garcia's comments from his CNN interview. Rep. Robert Garcia (D-Calif) reaffirmed his support Thursday for Democratic Senate candidate Mary Peltola after the House Oversight Committee announced a probe into ballot stacking allegations against her, though he acknowledged the state \"should investigate any time there...",
+   "headline": "Trump's in-person rallies in Kansas, Iowa back on",
+   "blurb": "President Trump will hold in-person rallies in Iowa and Kansas after all, a source familiar with the matter told The Hill. The Thursday announcement that he would shift to tele-rallies in the battleground states stirred speculation about the president's reason for scaling back his midterm travel schedule. The rallies were rearranged for scheduling purposes in...",
    "source": "The Hill",
-   "ts": "2026-10-29T23:45:28+00:00",
-   "url": "https://thehill.com/homenews/house/6182905-robert-garcia-house-oversight-peltola-investigation/"
+   "ts": "2026-10-30T14:36:23+00:00",
+   "url": "https://thehill.com/homenews/campaign/6183998-trump-iowa-kansas-rallies-back-on/"
   },
   {
    "category": "India Politics",
-   "headline": "Telangana’s minimum temperature between 18℃ and 25℃ on October 30 morning; 22.2℃ in GHMC",
-   "blurb": "Thunderstorms were forecast in 11 Telangana districts between afternoon on Friday and morning on Saturday",
+   "headline": "In defence of democracy: Keralam’s cultural icons band together with Gen Z in Thrissur",
+   "blurb": "In a powerful show of intergenerational solidarity, cultural icons hand over the National Flag and Constitution to students at a gathering in Thrissur in support of the Jantar Mantar protests",
    "source": "The Hindu",
-   "ts": "2026-10-30T08:18:10+00:00",
-   "url": "https://www.thehindu.com/news/national/telangana/telanganas-minimum-temperature-between-18%C2%B0c-and-25%C2%B0c-on-october-30-morning-222%C2%B0c-in-ghmc/article71644202.ece"
+   "ts": "2026-10-30T15:42:24+00:00",
+   "url": "https://www.thehindu.com/news/national/kerala/in-defence-of-democracy-keralams-cultural-icons-band-together-with-gen-z-in-thrissur/article71645844.ece"
   },
   {
    "category": "AI",
-   "headline": "Anthropic’s business plan: Build God or die trying",
-   "blurb": "The Anthropic S-1 seems to have provided the financial justification for the company to spend as much as it possibly can on compute. If you are the kind of person who wonders if Anthropic is doing its level best to build a machine god while convincing Wall Street it's in the business of selling IT […]",
+   "headline": "Microsoft’s AI future has fewer jobs",
+   "blurb": "To anyone listening closely to what Microsoft CEO Satya Nadella has been saying over the past couple of years, this week felt like the clearest sign yet that AI is about to fundamentally change the size of Microsoft's workforce. Microsoft is now offering voluntary buyouts to around 60,000 employees across the US, UK, Canada, and […]",
    "source": "The Verge",
-   "ts": "2026-10-29T13:20:35+00:00",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive"
+   "ts": "2026-10-29T16:48:16+00:00",
+   "url": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad"
   },
   {
    "category": "Equities",
@@ -364,107 +420,51 @@
   },
   {
    "category": "Crypto",
-   "headline": "Institutional crypto investors rush to pull funds from exchanges after Binance hack",
-   "blurb": "The withdrawals suggest the fallout from the multibillion-dollar breach is spreading beyond Binance.",
+   "headline": "Binance hacker dumps a little-known 2017 token and it crashes 90%",
+   "blurb": "The hacker dumped FUN and other smaller tokens into markets too small to absorb large selling, leading to price crashes.",
    "source": "CoinDesk",
-   "ts": "2026-10-30T03:56:40+00:00",
-   "url": "https://www.coindesk.com/markets/2026/10/30/institutional-crypto-investors-rush-to-pull-funds-from-exchanges-after-binance-hack"
+   "ts": "2026-10-30T07:54:07+00:00",
+   "url": "https://www.coindesk.com/markets/2026/10/30/binance-hacker-dumps-a-little-known-2017-token-and-it-crashes-90"
   },
   {
    "category": "Geopolitics",
-   "headline": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
-   "blurb": "Xi's anti-corruption campaign has become \"an effort to consolidate and maintain authority\", observers say.",
+   "headline": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+   "blurb": "Dan S Sullivan, the incumbent Republican senator running for re-election, and allies have accused the Democrats of trying to confuse voters by recruiting Dan J Sullivan to also stand in the race.",
    "source": "BBC",
-   "ts": "2026-10-30T03:24:12+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-30T13:46:16+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Burnham 'ready to support' Poundland staff as retailer faces collapse",
-   "blurb": "Poundland's bosses are filing a notice of intention to appoint administrators to the business.",
+   "headline": "P&R urged to speed up review of relocation grants",
+   "blurb": "Forward Guernsey believes the allowance is putting pressure on rental prices.",
    "source": "BBC",
-   "ts": "2026-10-29T19:11:10+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-30T06:18:21+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cx7vpq34jy71o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Controversial Ramaswamy ad with Acton's mother off the air",
-   "blurb": "Ohio gubernatorial nominee Vivek Ramaswamy’s (R) campaign is no longer airing a controversial ad featuring his opponent’s mother after it ran its course on the air. The campaign previously put millions behind the ad, even after backlash from members of both parties. The ad features Ramaswamy's Democratic opponent Amy Acton’s mother, who calls her daughter...",
+   "headline": "The middle powers step in, to America's detriment",
+   "blurb": "Last week, British Typhoon aircraft escorted French Rafale multirole fighters in a first-ever Anglo-French airborne nuclear strike exercise, codenamed Exercise Rummy. My former boss, Donald Rumsfeld, would not have been amused; it did not include American forces. Instead, as London stated, the exercise “mark[ed] a major step forward in UK-France defence cooperation under the [2025] Northwood...",
    "source": "The Hill",
-   "ts": "2026-10-29T23:20:14+00:00",
-   "url": "https://thehill.com/homenews/campaign/6182883-ramaswamy-stops-controversial-advertisement/"
+   "ts": "2026-10-30T14:30:00+00:00",
+   "url": "https://thehill.com/opinion/national-security/6181190-middle-powers-hedge-american-support/"
   },
   {
    "category": "India Politics",
-   "headline": "Plea in Madras High Court seeks probe into nationality of Cockroach Janata Party co-convenor Saurav Das",
-   "blurb": "Chief Justice Sushrut Arvind Dharmadhikari and Justice G. Arul Murugan order notices to the Centre as well as the CJP leader",
+   "headline": "Andhra Pradesh releases ₹3,125 crore second instalment under Annadata Sukhibhava-PM Kisan scheme to 46.85 lakh farmer families",
+   "blurb": "Agriculture Minister K. Atchannaidu says eligible farmer families will receive ₹20,000 in annual assistance, with the latest release taking cumulative support to ₹17,789.80 crore",
    "source": "The Hindu",
-   "ts": "2026-10-30T08:15:50+00:00",
-   "url": "https://www.thehindu.com/news/national/probe-into-nationality-of-cockroach-janata-party-co-convenor-saurav-das-plea-before-madras-high-court/article71643606.ece"
+   "ts": "2026-10-30T15:39:20+00:00",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-releases-3125-crore-second-instalment-under-annadata-sukhibhava-pm-kisan-scheme-to-4685-lakh-farmer-families/article71645834.ece"
   },
   {
    "category": "AI",
-   "headline": "Adam Mosseri says negativity around AI is ‘going to get worse’",
-   "blurb": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Appearing on the Colin and Samir podcast to talk about the launch of widescreen and […]",
+   "headline": "The NYT Cooking app is testing AI recipe modifications",
+   "blurb": "The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it has sparked some drama among users. Last Friday, NYT Cooking senior editor Genevieve Ko announced the feature, which can be used to recommend substitutions for ingredients and cooking equipment, scale recipes to any […]",
    "source": "The Verge",
-   "ts": "2026-10-28T23:05:39+00:00",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity"
-  },
-  {
-   "category": "Equities",
-   "headline": "World Bank's Banga: Availability of capital 'not really an issue' as AI demand drives up borrowing costs",
-   "blurb": "World Bank President Ajay Banga came on CNBC's \"Squawk Box\" on Oct. 27, 2026.",
-   "source": "CNBC",
-   "ts": "2026-10-27T16:15:35+00:00",
-   "url": "https://www.cnbc.com/2026/10/27/world-bank-president-ajay-banga.html"
-  },
-  {
-   "category": "Crypto",
-   "headline": "Crypto's longtime foe, North Korea's Lazarus Group, likely behind Binance hack: blockchain sleuths",
-   "blurb": "Security researchers suggested that the hermit kingdom's Lazarus Group was behind Thursday's nearly $6 billion hack of the world's largest crypto exchange.",
-   "source": "CoinDesk",
-   "ts": "2026-10-30T03:36:11+00:00",
-   "url": "https://www.coindesk.com/policy/2026/10/29/crypto-s-longtime-foe-north-korea-s-lazarus-group-likely-behind-binance-hack-blockchain-sleuths"
-  },
-  {
-   "category": "Geopolitics",
-   "headline": "Three dead after two helicopters collide midair near Oregon airport",
-   "blurb": "The collision involving a Robinson R22 and an Airbus helicopter occurred on Thursday afternoon, with both aircraft crashing in a field adjacent to a highway.",
-   "source": "BBC",
-   "ts": "2026-10-30T03:05:17+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cked3p81303yo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "category": "Macro",
-   "headline": "The South West reacts to Budget announcements",
-   "blurb": "Tourism and business leaders have been reacting to John Healey's first Budget as chancellor.",
-   "source": "BBC",
-   "ts": "2026-10-29T18:07:26+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cm62yle1g2wyo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "category": "US Politics",
-   "headline": "Severe weather expected on Election Day in several key states",
-   "blurb": "Chances of severe weather are looming over certain regions across the U.S. next week, with the possibility of thunderstorms on Election Day potentially impacting voter turnout in key races. Parts of the Northeast have seen a long stretch of dry, warm weather in the recent days, which could extend through the weekend, AccuWeather reported. But,...",
-   "source": "The Hill",
-   "ts": "2026-10-29T23:19:46+00:00",
-   "url": "https://thehill.com/homenews/campaign/6182858-severe-weather-election-day-voter-turnout/"
-  },
-  {
-   "category": "India Politics",
-   "headline": "Balasubrahmanyam takes over as Vice-Chairman and Managing Director of APSRTC",
-   "blurb": "He emphasises the need to strengthen public transport and enhance the quality of services provided to passengers",
-   "source": "The Hindu",
-   "ts": "2026-10-30T08:09:22+00:00",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/balasubrahmanyam-takes-over-as-vice-chairman-and-managing-director-of-apsrtc/article70656666.ece"
-  },
-  {
-   "category": "AI",
-   "headline": "Akai is embracing vibe-coded mods with an open-source MPC",
-   "blurb": "The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom firmware developers by giving them early access to the device, which will have open-source firmware. It will likely run […]",
-   "source": "The Verge",
-   "ts": "2026-10-28T21:34:04+00:00",
-   "url": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key"
+   "ts": "2026-10-29T16:02:16+00:00",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool"
   }
  ]
 }
