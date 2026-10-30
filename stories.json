@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T21:43:44+00:00",
+ "updated": "2026-10-30T01:50:54+00:00",
  "count": 58,
  "stories": [
   {
@@ -12,11 +12,11 @@
   },
   {
    "category": "Crypto",
-   "headline": "Multi-billion Binance hack hitting crypto markets",
-   "blurb": "Crypto prices are sliding on the news, led by BNB coin, down 6% in the last hour.",
+   "headline": "Binance hack drained wallets backing customer assets, reserve data shows",
+   "blurb": "Binance’s own reserve data lists the drained wallets as backing customer balances, leaving its ether backing an estimated 6% short until the exchange replaces what was stolen.",
    "source": "CoinDesk",
-   "ts": "2026-10-29T21:12:45+00:00",
-   "url": "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets"
+   "ts": "2026-10-30T00:17:10+00:00",
+   "url": "https://www.coindesk.com/business/2026/10/30/binance-hack-drained-wallets-backing-customer-assets-reserve-data-shows"
   },
   {
    "category": "Gold",
@@ -36,35 +36,35 @@
   },
   {
    "category": "Macro",
-   "headline": "Google value plunges by $500bn as AI fears rattle Wall Street",
-   "blurb": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue.",
+   "headline": "Crypto worth billions frozen after suspected Binance hack",
+   "blurb": "The firm said transactions are suspended while it conducts security checks and will \"cover all losses\".",
    "source": "BBC",
-   "ts": "2026-10-29T21:37:58+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-30T01:20:57+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Trump administration's definition of 'medically frail' unlawful, according to federal judge",
-   "blurb": "A federal judge on Thursday ruled that the Trump administration's definition of \"medically frail\" used for Medicaid is unlawful, issuing a temporary injunction on states having to determine medical frailty. U.S. District Judge Richard G. Stearns found in his ruling Thursday that the One Big Beautiful Bill Act's (OBBBA) definition of \"medically frail\" was \"contrary...",
+   "headline": "Trump to join tele-rallies 19 states after midterm event cancellations",
+   "blurb": "The Republican National Committee (RNC) said Thursday that President Trump will appear in tele-rallies across 19 states before Election Day, an announcement which followed his two in-person event cancellations in Iowa and Kansas \"Voters across the country want to hear from President Trump before Election Day, and this 72-hour sprint will be a huge boost...",
    "source": "The Hill",
-   "ts": "2026-10-29T21:19:01+00:00",
-   "url": "https://thehill.com/policy/healthcare/6182258-judge-strikes-trump-medicaid-definition/"
+   "ts": "2026-10-30T01:02:57+00:00",
+   "url": "https://thehill.com/homenews/campaign/6183027-trump-scheduled-virtual-rally-blitz/"
   },
   {
    "category": "India Politics",
-   "headline": "Police barged into my office to arrest former Minister Anbil Mahesh Poyyamozhi, alleges senior advocate P. Wilson in Madras HC",
-   "blurb": "However, State Public Prosecutor R. John Sathyan denies the allegation and says the police were actually invited into the office but they did not arrest the accused inside the lawyer’s office",
+   "headline": "Cyclone Arnab LIVE: Cyclone wreaks havoc in Odisha, over 55,000 evacuated across 9 districts",
+   "blurb": "Andhra Pradesh Chief Minister N Chandrababu Naidu said the very severe cyclonic storm Arnab has inflicted a loss of at least ₹4,600 crore",
    "source": "The Hindu",
-   "ts": "2026-10-29T21:30:20+00:00",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/police-barged-into-my-office-to-arrest-former-minister-anbil-mahesh-poyyamozhi-alleges-senior-advocate-p-wilson-in-madras-hc/article71641679.ece"
+   "ts": "2026-10-30T01:34:04+00:00",
+   "url": "https://www.thehindu.com/news/national/cyclone-arnab-imd-alert-odisha-andhra-pradesh-telangana-odisha-today-rain-weather-news-live-updates-october-30-2026/article71643382.ece"
   },
   {
    "category": "AI",
-   "headline": "You can generate and edit Google Docs files directly in Gemini chats now",
-   "blurb": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for all Gemini users, and while PDF previews/editing works on both the web and mobile, all other file formats are only in […]",
+   "headline": "AI has come for Arizona’s water",
+   "blurb": "A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded apps and websites. The complex is simultaneously massive and squat, dwarfed by the mountains that surround it, and it is endless. I drive past one […]",
    "source": "The Verge",
-   "ts": "2026-10-29T18:45:31+00:00",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs"
+   "ts": "2026-10-29T23:03:22+00:00",
+   "url": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc"
   },
   {
    "category": "Equities",
@@ -76,11 +76,11 @@
   },
   {
    "category": "Crypto",
-   "headline": "Polymarket suspends trading after third-party breach leads to user losses",
-   "blurb": "Polymarket said one of its third-party providers was breached after users reported seeing their accounts drained.",
+   "headline": "Binance loses $5.7 billion in 'biggest crypto hack in history'",
+   "blurb": "Crypto prices are sliding on the news, with bitcoin falling back to $77,000, though Binance's co-CEO said it would cover all losses.",
    "source": "CoinDesk",
-   "ts": "2026-10-29T18:55:35+00:00",
-   "url": "https://www.coindesk.com/markets/2026/10/29/polymarket-suspends-trading-after-third-party-breach-leads-to-user-losses"
+   "ts": "2026-10-29T21:12:45+00:00",
+   "url": "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets"
   },
   {
    "category": "Gold",
@@ -100,35 +100,35 @@
   },
   {
    "category": "Macro",
-   "headline": "Burnham 'ready to support' Poundland staff as retailer faces collapse",
-   "blurb": "Poundland's bosses are filing a notice of intention to appoint administrators to the business.",
+   "headline": "From workshops to the catwalk - why mended clothes are going mainstream",
+   "blurb": "A new generation is embracing eye-catching patching and visible mends.",
    "source": "BBC",
-   "ts": "2026-10-29T19:11:10+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-30T00:00:35+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "New World screwworm case reported in Arizona dog",
-   "blurb": "Arizona reported its first case of New World screwworm on Wednesday, making it the third state to be impacted by the parasite. The confirmed case was found in a domestic dog in Cochise County, Ariz., which shares a border with Mexico, according to a press release from the U.S. Department of Agriculture. The state’s Department...",
+   "headline": "Alaska governor: Election certification 'could be stopped' due to Peltola probe",
+   "blurb": "Alaska Gov. Mike Dunleavy (R) suggested Thursday his state's midterm election certification process may be \"stopped or changed\" due to its investigation into ballot stacking allegations against Democratic Senate candidate Mary Peltola. NewsNation’s Blake Burman asked Dunleavy about the state's probe into Peltola, which the governor announced earlier that day, and whether it could impact...",
    "source": "The Hill",
-   "ts": "2026-10-29T21:06:08+00:00",
-   "url": "https://thehill.com/policy/healthcare/6182563-arizona-reports-new-world-screwworm/"
+   "ts": "2026-10-30T00:44:51+00:00",
+   "url": "https://thehill.com/homenews/campaign/6182999-alaska-election-verification-stopped-peltola-probe/"
   },
   {
    "category": "India Politics",
-   "headline": "Former West Bengal minister Indranil Sen sent to 13 days police custody",
-   "blurb": "Indranil Sen served as the tourism and culture minister during the Mamata Banerjee era",
+   "headline": "In Delhi, BJP booth agents file deletion forms against Muslim voters living at their addresses",
+   "blurb": "BJP BLAs submit nearly 68% of Form 7s seeking deletions as ‘objector’ in Mustafabad, all against Muslim electors citing ‘absent/permanently shifted’ or ‘death’",
    "source": "The Hindu",
-   "ts": "2026-10-29T20:46:43+00:00",
-   "url": "https://www.thehindu.com/news/national/west-bengal/former-west-bengal-minister-indranil-sen-sent-to-13-days-police-custody/article71640831.ece"
+   "ts": "2026-10-30T00:35:18+00:00",
+   "url": "https://www.thehindu.com/news/cities/Delhi/in-delhi-bjp-booth-agents-file-deletion-forms-against-muslim-voters-living-at-their-addresses/article71641353.ece"
   },
   {
    "category": "AI",
-   "headline": "Microsoft’s AI future has fewer jobs",
-   "blurb": "To anyone listening closely to what Microsoft CEO Satya Nadella has been saying over the past couple of years, this week felt like the clearest sign yet that AI is about to fundamentally change the size of Microsoft's workforce. Microsoft is now offering voluntary buyouts to around 60,000 employees across the US, UK, Canada, and […]",
+   "headline": "You can generate and edit Google Docs files directly in Gemini chats now",
+   "blurb": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for all Gemini users, and while PDF previews/editing works on both the web and mobile, all other file formats are only in […]",
    "source": "The Verge",
-   "ts": "2026-10-29T16:48:16+00:00",
-   "url": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad"
+   "ts": "2026-10-29T18:45:31+00:00",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs"
   },
   {
    "category": "Equities",
@@ -140,11 +140,11 @@
   },
   {
    "category": "Crypto",
-   "headline": "Stanley Druckenmiller's first X post backs Hyperliquid venture after $23 million indirect investment",
-   "blurb": "The billionaire investor disclosed an investment in Trade[XYZ] as the platform teams up with the NYSE's parent company. His family office previously reported owning shares in a HYPE-focused treasury company.",
+   "headline": "Polymarket suspends trading after third-party breach leads to user losses",
+   "blurb": "Polymarket said one of its third-party providers was breached after users reported seeing their accounts drained.",
    "source": "CoinDesk",
-   "ts": "2026-10-29T17:04:19+00:00",
-   "url": "https://www.coindesk.com/business/2026/10/29/stanley-druckenmiller-s-first-x-post-backs-hyperliquid-venture-after-usd23-million-indirect-investment"
+   "ts": "2026-10-29T18:55:35+00:00",
+   "url": "https://www.coindesk.com/markets/2026/10/29/polymarket-suspends-trading-after-third-party-breach-leads-to-user-losses"
   },
   {
    "category": "Geopolitics",
@@ -156,35 +156,35 @@
   },
   {
    "category": "Macro",
-   "headline": "The South West reacts to Budget announcements",
-   "blurb": "Tourism and business leaders have been reacting to John Healey's first Budget as chancellor.",
+   "headline": "Google value plunges by $500bn as AI fears rattle Wall Street",
+   "blurb": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue.",
    "source": "BBC",
-   "ts": "2026-10-29T18:07:26+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cm62yle1g2wyo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-29T22:17:52+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Trump hammers culture war attacks on Andrews in final rally for Graham",
-   "blurb": "President Trump launched a barrage of culture war attacks Thursday against Democratic Senate nominee Annie Andrews during his third and final campaign rally for Sen. Darline Graham (R) in South Carolina. “Darline Graham has devoted her entire life to the people of this state, and now she's running to save you from a radical left...",
+   "headline": "House Oversight Democrat says Alaska should investigate Peltola allegations",
+   "blurb": "Rep. Robert Garcia (D-Calif) called on Alaskan officials to investigate recent reports alleging Democratic Senate candidate Mary Peltola’s campaign recruited her midterm opponent, Daniel J. Sullivan, to counter incumbent Republican Sen. Dan Sullivan’s reelection bid. “Republicans and [President] Donald Trump should certainly not be lecturing anybody on a fair election process. I think the state...",
    "source": "The Hill",
-   "ts": "2026-10-29T20:55:49+00:00",
-   "url": "https://thehill.com/homenews/6182502-trump-attacks-andrews-sc-race-graham/"
+   "ts": "2026-10-29T23:45:28+00:00",
+   "url": "https://thehill.com/homenews/house/6182905-robert-garcia-house-oversight-peltola-investigation/"
   },
   {
    "category": "India Politics",
-   "headline": "Any plan to restrict sale of liquor in hotel bars and clubs located close to educational institutions? Madras High Court asks Commissioner of Prohibition and Excise",
-   "blurb": "Justice N. Ramesh poses the question after expressing shock over a 19-year-old college student having consumed liquor at a bar attached to a hotel reportedly run by the college management",
+   "headline": "Cyclone Arnab highlights: New Bay system likely to head for Andhra coast; 300 villages marooned in Ganjam",
+   "blurb": "Arnab’s remnant brings rain to West Bengal, Jharkhand and Madhya Pradesh after weakening into a depression",
    "source": "The Hindu",
-   "ts": "2026-10-29T20:37:30+00:00",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/any-plan-to-restrict-sale-of-liquor-in-hotel-bars-and-clubs-located-close-to-educational-institutions-madas-high-court-asks-commissioner-of-prohibition-and-excise/article71642073.ece"
+   "ts": "2026-10-30T00:32:08+00:00",
+   "url": "https://www.thehindu.com/news/national/cyclone-arnab-weakens-into-depression-imd-alert-odisha-andhra-pradesh-telangana-live-updates-october-29-2026/article71638778.ece"
   },
   {
    "category": "AI",
-   "headline": "AI has come for Arizona’s water",
-   "blurb": "A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded apps and websites. The complex is simultaneously massive and squat, dwarfed by the mountains that surround it, and it is endless. I drive past one […]",
+   "headline": "Microsoft’s AI future has fewer jobs",
+   "blurb": "To anyone listening closely to what Microsoft CEO Satya Nadella has been saying over the past couple of years, this week felt like the clearest sign yet that AI is about to fundamentally change the size of Microsoft's workforce. Microsoft is now offering voluntary buyouts to around 60,000 employees across the US, UK, Canada, and […]",
    "source": "The Verge",
-   "ts": "2026-10-29T16:47:27+00:00",
-   "url": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc"
+   "ts": "2026-10-29T16:48:16+00:00",
+   "url": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad"
   },
   {
    "category": "Equities",
@@ -196,11 +196,11 @@
   },
   {
    "category": "Crypto",
-   "headline": "KuCoin exits Russia and Belarus as crypto exchanges withdraw from Western-sanctioned markets",
-   "blurb": "The exchange is closing accounts in both countries after MEXC and Bitget announced similar moves earlier this month.",
+   "headline": "Stanley Druckenmiller's first X post backs Hyperliquid venture after $23 million indirect investment",
+   "blurb": "The billionaire investor disclosed an investment in Trade[XYZ] as the platform teams up with the NYSE's parent company. His family office previously reported owning shares in a HYPE-focused treasury company.",
    "source": "CoinDesk",
-   "ts": "2026-10-29T16:51:18+00:00",
-   "url": "https://www.coindesk.com/policy/2026/10/29/kucoin-exits-russia-and-belarus-as-crypto-exchanges-withdraw-from-western-sanctioned-markets"
+   "ts": "2026-10-29T17:04:19+00:00",
+   "url": "https://www.coindesk.com/business/2026/10/29/stanley-druckenmiller-s-first-x-post-backs-hyperliquid-venture-after-usd23-million-indirect-investment"
   },
   {
    "category": "Geopolitics",
@@ -212,27 +212,27 @@
   },
   {
    "category": "Macro",
-   "headline": "US interest rates held steady and economy grows - what it means for you",
-   "blurb": "The Federal Reserve's interest rate decisions affect everything from mortgages to car loans",
+   "headline": "Burnham 'ready to support' Poundland staff as retailer faces collapse",
+   "blurb": "Poundland's bosses are filing a notice of intention to appoint administrators to the business.",
    "source": "BBC",
-   "ts": "2026-10-29T17:15:05+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cr15jxzv4w24o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-29T19:11:10+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Bipartisan pair of Senators press Kalshi, Polymarket over election markets",
-   "blurb": "A bipartisan pair of senators are pressing Kalshi and Polymarket over prediction markets tied to the Nov. 3 midterm elections. “We write to express concerns about election-related prediction markets and to request specific information about your companies' efforts to prevent insider trading, market manipulation, and wagers based on material nonpublic information,” Sens. Elizabeth Warren (D-Mass.)...",
+   "headline": "Controversial Ramaswamy ad with Acton's mother off the air",
+   "blurb": "Ohio gubernatorial nominee Vivek Ramaswamy’s (R) campaign is no longer airing a controversial ad featuring his opponent’s mother after it ran its course on the air. The campaign previously put millions behind the ad, even after backlash from members of both parties. The ad features Ramaswamy's Democratic opponent Amy Acton’s mother, who calls her daughter...",
    "source": "The Hill",
-   "ts": "2026-10-29T20:44:42+00:00",
-   "url": "https://thehill.com/policy/technology/6182500-senators-press-kalshi-polymarket/"
+   "ts": "2026-10-29T23:20:14+00:00",
+   "url": "https://thehill.com/homenews/campaign/6182883-ramaswamy-stops-controversial-advertisement/"
   },
   {
    "category": "India Politics",
-   "headline": "M.P. wildlife officials highlight Chambal region’s gun culture as probe into cheetah shooting goes on",
-   "blurb": "Speaking to The Hindu, an official said that the gun culture has emerged as a “crucial segment” in the probe and that the matter had been brought up with senior police officers",
+   "headline": "Will repay political debt with interest: Neeraj Kumar on Lalan Singh",
+   "blurb": "During the entire Legislative Council election, Lalan Singh did not even campaign in support of Neeraj, but rather gave moral support to Anant Singh, who was campaigning against Neeraj",
    "source": "The Hindu",
-   "ts": "2026-10-29T20:19:37+00:00",
-   "url": "https://www.thehindu.com/news/national/madhya-pradesh/mp-wildlife-officials-highlight-chambal-regions-gun-culture-as-probe-into-cheetah-shooting-goes-on/article71641808.ece"
+   "ts": "2026-10-30T00:26:17+00:00",
+   "url": "https://www.thehindu.com/news/national/bihar/will-repay-political-debt-with-interest-neeraj-kumar-on-lalan-singh/article71641017.ece"
   },
   {
    "category": "AI",
@@ -252,11 +252,11 @@
   },
   {
    "category": "Crypto",
-   "headline": "From rivals to partners: Polygon and Solana team to bring stablecoin payments to banks",
-   "blurb": "The two networks are setting aside their rivalry to connect Solana's stablecoin activity with Polygon's banking, wallet and payment infrastructure.",
+   "headline": "KuCoin exits Russia and Belarus as crypto exchanges withdraw from Western-sanctioned markets",
+   "blurb": "The exchange is closing accounts in both countries after MEXC and Bitget announced similar moves earlier this month.",
    "source": "CoinDesk",
-   "ts": "2026-10-29T16:35:43+00:00",
-   "url": "https://www.coindesk.com/business/2026/10/29/from-rivals-to-partners-polygon-and-solana-team-to-bring-stablecoin-payments-to-banks"
+   "ts": "2026-10-29T16:51:18+00:00",
+   "url": "https://www.coindesk.com/policy/2026/10/29/kucoin-exits-russia-and-belarus-as-crypto-exchanges-withdraw-from-western-sanctioned-markets"
   },
   {
    "category": "Geopolitics",
@@ -268,27 +268,27 @@
   },
   {
    "category": "Macro",
-   "headline": "Watch: Hundreds queue for city's new Lego store",
-   "blurb": "Fans queued for hours ahead of the opening of a new Lego Store in Norwich.",
+   "headline": "The South West reacts to Budget announcements",
+   "blurb": "Tourism and business leaders have been reacting to John Healey's first Budget as chancellor.",
    "source": "BBC",
-   "ts": "2026-10-29T17:10:34+00:00",
-   "url": "https://www.bbc.co.uk/news/videos/cw1m4k1nx5r0o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-29T18:07:26+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cm62yle1g2wyo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "35 states, DC reach $220M settlement with General Motors over driver data privacy",
-   "blurb": "Automaker General Motors (GM) agreed to pay $220 million to settle a lawsuit with 35 states and Washington, D.C., which alleged the company sold drivers' data to insurance companies, several attorneys general involved with the settlement announced Thursday. A bipartisan coalition of state attorneys general, led by Democrats Dan Rayfield of Oregon and Nick Brown...",
+   "headline": "Severe weather expected on Election Day in several key states",
+   "blurb": "Chances of severe weather are looming over certain regions across the U.S. next week, with the possibility of thunderstorms on Election Day potentially impacting voter turnout in key races. Parts of the Northeast have seen a long stretch of dry, warm weather in the recent days, which could extend through the weekend, AccuWeather reported. But,...",
    "source": "The Hill",
-   "ts": "2026-10-29T20:40:39+00:00",
-   "url": "https://thehill.com/business/6182382-gm-settles-driver-data-lawsuit/"
+   "ts": "2026-10-29T23:19:46+00:00",
+   "url": "https://thehill.com/homenews/campaign/6182858-severe-weather-election-day-voter-turnout/"
   },
   {
    "category": "India Politics",
-   "headline": "West Bengal government warns of strict action against violations of firecracker norms on Diwali, Chhath",
-   "blurb": "No sky lanterns allowed without formal permission from the fire department, says DGP West Bengal",
+   "headline": "District Magistrate declares Anantnag Bar elections ‘null and void’, cites ‘violations of official orders’",
+   "blurb": "Anantnag is the third major district with a sizable number of lawyers in J&K after Jammu and Srinagar",
    "source": "The Hindu",
-   "ts": "2026-10-29T20:13:08+00:00",
-   "url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-government-warns-of-strict-action-against-c-on-diwali-chhath/article71641136.ece"
+   "ts": "2026-10-30T00:18:35+00:00",
+   "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/district-magistrate-declares-anantnag-bar-elections-null-and-void-cites-violations-of-official-orders/article71641241.ece"
   },
   {
    "category": "AI",
@@ -308,11 +308,11 @@
   },
   {
    "category": "Crypto",
-   "headline": "Crypto exchange HTX exits the UK after settling with the FCA",
-   "blurb": "The former Huobi exchange has stopped accepting deposits from British customers and agreed not to target them with crypto promotions.",
+   "headline": "From rivals to partners: Polygon and Solana team to bring stablecoin payments to banks",
+   "blurb": "The two networks are setting aside their rivalry to connect Solana's stablecoin activity with Polygon's banking, wallet and payment infrastructure.",
    "source": "CoinDesk",
-   "ts": "2026-10-29T16:11:18+00:00",
-   "url": "https://www.coindesk.com/policy/2026/10/29/crypto-exchange-htx-exits-the-uk-after-settling-with-the-fca"
+   "ts": "2026-10-29T16:35:43+00:00",
+   "url": "https://www.coindesk.com/business/2026/10/29/from-rivals-to-partners-polygon-and-solana-team-to-bring-stablecoin-payments-to-banks"
   },
   {
    "category": "Geopolitics",
@@ -324,27 +324,27 @@
   },
   {
    "category": "Macro",
-   "headline": "Faisal Islam: This Budget was micro and that was deliberate",
-   "blurb": "Chancellor John Healey's plans fall short of radical action to create a promised new economic model.",
+   "headline": "US interest rates held steady and economy grows - what it means for you",
+   "blurb": "The Federal Reserve's interest rate decisions affect everything from mortgages to car loans",
    "source": "BBC",
-   "ts": "2026-10-29T15:48:44+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cwx283zynnv3o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-29T17:15:05+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cr15jxzv4w24o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Vance makes fiery closing pitch for Paxton: 'Texas is not surrendering a damn thing'",
-   "blurb": "WEATHERFORD, Texas — Vice President delivered a fiery closing pitch for Republican Senate candidate and Texas Attorney General Ken Paxton on Thursday, telling supporters the Lone Star State would not surrender “a damn thing” on Election Day. “I need you to send a message on November the 3rd that America belongs to those who love...",
+   "headline": "HHS begins recruiting new vaccine advisers​",
+   "blurb": "Presented by Alliance for Aging Research {beacon} Health Care Health Care The Big Story HHS begins recruiting new vaccine advisors Health Secretary Robert F. Kennedy Jr. is looking to revive a Centers for Disease Control and Prevention’s (CDC) vaccine advisory panel that’s been dormant since last year, after a federal judge blocked his efforts to...",
    "source": "The Hill",
-   "ts": "2026-10-29T20:28:52+00:00",
-   "url": "https://thehill.com/homenews/campaign/6182421-vance-texas-senate-paxton-talarico-midterms/"
+   "ts": "2026-10-29T22:49:10+00:00",
+   "url": "https://thehill.com/newsletters/healthcare/6182848-hhs-begins-recruiting-new-vaccine-advisors/"
   },
   {
    "category": "India Politics",
-   "headline": "NHRC flags human rights concerns over parading of three persons in south Kolkata",
-   "blurb": "The Commission took suo motu cognisance of the incident based on media reports and observed that the contents of the news report, if true, “raise serious issues of violation of human rights”",
+   "headline": "Former West Bengal minister Indranil Sen sent to 13 days police custody",
+   "blurb": "Indranil Sen served as the tourism and culture minister during the Mamata Banerjee era",
    "source": "The Hindu",
-   "ts": "2026-10-29T19:57:12+00:00",
-   "url": "https://www.thehindu.com/news/national/west-bengal/nhrc-flags-human-rights-concerns-over-parading-of-three-persons-in-south-kolkata/article71641080.ece"
+   "ts": "2026-10-29T23:58:31+00:00",
+   "url": "https://www.thehindu.com/news/national/west-bengal/former-west-bengal-minister-indranil-sen-sent-to-13-days-police-custody/article71640831.ece"
   },
   {
    "category": "AI",
@@ -364,11 +364,11 @@
   },
   {
    "category": "Crypto",
-   "headline": "Polymarket brings ultra-short crypto prediction markets to U.S. platform",
-   "blurb": "Polymarket’s new Up/Down crypto contracts come as the CFTC renews scrutiny of the prediction market’s compliance with its 2022 U.S. onboarding terms.",
+   "headline": "Crypto exchange HTX exits the UK after settling with the FCA",
+   "blurb": "The former Huobi exchange has stopped accepting deposits from British customers and agreed not to target them with crypto promotions.",
    "source": "CoinDesk",
-   "ts": "2026-10-29T14:55:47+00:00",
-   "url": "https://www.coindesk.com/markets/2026/10/29/polymarket-brings-ultra-short-crypto-prediction-markets-to-u-s-platform"
+   "ts": "2026-10-29T16:11:18+00:00",
+   "url": "https://www.coindesk.com/policy/2026/10/29/crypto-exchange-htx-exits-the-uk-after-settling-with-the-fca"
   },
   {
    "category": "Geopolitics",
@@ -380,27 +380,27 @@
   },
   {
    "category": "Macro",
-   "headline": "Bereaved families will not face tax bill over pension delays under new rules",
-   "blurb": "Campaigners had warned some families could face an unfair financial penalty because of delays which were not their fault.",
+   "headline": "Watch: Hundreds queue for city's new Lego store",
+   "blurb": "Fans queued for hours ahead of the opening of a new Lego Store in Norwich.",
    "source": "BBC",
-   "ts": "2026-10-29T15:18:04+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cr5yn9zwnp3qo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-29T17:10:34+00:00",
+   "url": "https://www.bbc.co.uk/news/videos/cw1m4k1nx5r0o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Platner drops f-bomb after being tracked down by reporter in Maine",
-   "blurb": "Disgraced former Maine Senate candidate Graham Platner dropped an f-bomb in response to questions from a New York Post reporter who tracked him down in his remote oceanside community in Maine. “Who the f‑‑‑ are you weirdos?” Platner asked a reporter while pulling a kayak from the water. The reporter asked what Platner had been...",
+   "headline": "Gasoline and energy costs rise, with inflation slightly up",
+   "blurb": "{beacon} Energy & Environment Energy & Environment The Big Story Gasoline and energy costs rise, with inflation slightly up Overall inflation increased slightly in September, while energy prices rose dramatically. © George Walker IV, Associated Press The personal consumption expenditures (PCE) price index, the preferred inflation metric for the Federal Reserve, rose by 0.5...",
    "source": "The Hill",
-   "ts": "2026-10-29T20:28:04+00:00",
-   "url": "https://thehill.com/homenews/state-watch/6182310-platner-drops-f-bomb-after-being-tracked-down-by-reporter-in-maine/"
+   "ts": "2026-10-29T22:41:07+00:00",
+   "url": "https://thehill.com/newsletters/energy-environment/6182838-gasoline-and-energy-costs-rise-with-inflation-slightly-up/"
   },
   {
    "category": "India Politics",
-   "headline": "Hike to help farmers, says CM; Ashok accuses govt. of placing burden on people",
-   "blurb": "",
+   "headline": "When politics chose me’: Sonia Gandhi’s 2007 speech offered a glimpse into her personal life",
+   "blurb": "Sonia Gandhi had come to India to marry Rajiv Gandhi, then a pilot with no political ambitions, and expected to build a private life with her husband and their two children",
    "source": "The Hindu",
-   "ts": "2026-10-29T19:35:52+00:00",
-   "url": "https://www.thehindu.com/news/national/karnataka/hike-to-help-farmers-says-cm-ashok-accuses-govt-of-placing-burden-on-people/article71641665.ece"
+   "ts": "2026-10-29T22:21:38+00:00",
+   "url": "https://www.thehindu.com/news/national/when-politics-chose-me-sonia-gandhis-2007-speech-offered-a-glimpse-into-her-personal-life/article71642500.ece"
   },
   {
    "category": "AI",
@@ -420,11 +420,11 @@
   },
   {
    "category": "Crypto",
-   "headline": "Crypto for Advisors: Only 1 in 5 Americans say the financial system is secure",
-   "blurb": "",
+   "headline": "Polymarket brings ultra-short crypto prediction markets to U.S. platform",
+   "blurb": "Polymarket’s new Up/Down crypto contracts come as the CFTC renews scrutiny of the prediction market’s compliance with its 2022 U.S. onboarding terms.",
    "source": "CoinDesk",
-   "ts": "2026-10-29T14:39:01+00:00",
-   "url": "https://www.coindesk.com/coindesk-indices/2026/10/29/crypto-for-advisors-only-1-in-5-americans-say-the-financial-system-is-secure"
+   "ts": "2026-10-29T14:55:47+00:00",
+   "url": "https://www.coindesk.com/markets/2026/10/29/polymarket-brings-ultra-short-crypto-prediction-markets-to-u-s-platform"
   },
   {
    "category": "Geopolitics",
@@ -436,27 +436,27 @@
   },
   {
    "category": "Macro",
-   "headline": "Your pay, energy bills and savings: How the Budget affects you",
-   "blurb": "Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how.",
+   "headline": "Faisal Islam: This Budget was micro and that was deliberate",
+   "blurb": "Chancellor John Healey's plans fall short of radical action to create a promised new economic model.",
    "source": "BBC",
-   "ts": "2026-10-29T15:11:35+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-29T15:48:44+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cwx283zynnv3o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Finnish police launch criminal probe over forest cleared for Google data center",
-   "blurb": "Finnish police opened a criminal investigation Thursday into Google’s work on a planned data center in northern Finland after the company cleared hundreds of acres of forest without completing required environmental reviews. The investigation adds to mounting scrutiny of Google’s $1.5 billion investment in artificial intelligence infrastructure in Finland, where the company’s expansion plans have...",
+   "headline": "Starlink controversy highlights Musk’s global influence",
+   "blurb": "{beacon} Technology Technology The Big Story Starlink drama puts spotlight on Musk's global stature Elon Musk and his business's role in a recent dispute over Ukraine's access to Starlink and its military network is putting a spotlight on the tech mogul's outsized influence on the international stage. © Matt Rourke, Associated Press file Following about 10...",
    "source": "The Hill",
-   "ts": "2026-10-29T20:25:05+00:00",
-   "url": "https://thehill.com/policy/technology/6182316-google-finland-data-center-investigation/"
+   "ts": "2026-10-29T22:06:31+00:00",
+   "url": "https://thehill.com/newsletters/technology/6182808-starlink-controversy-highlights-musks-global-influence/"
   },
   {
    "category": "India Politics",
-   "headline": "3,000 LED street lights to be installed in Vellore, Tiruvannamalai",
-   "blurb": "",
+   "headline": "Congress demands dedicated development board for Kotia",
+   "blurb": "As the region is rich in mineral resources, including bauxite, manganese, graphite and even gold, the Andhra Pradesh government is aggressively competing to win over the local tribal population, alleged Odisha Congress president Bhakta Charan Das",
    "source": "The Hindu",
-   "ts": "2026-10-29T19:33:13+00:00",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/3000-led-street-lights-to-be-installed-in-vellore-tiruvannamalai/article71640686.ece"
+   "ts": "2026-10-29T21:53:26+00:00",
+   "url": "https://www.thehindu.com/news/national/odisha/congress-demands-dedicated-development-board-for-kotia/article71641415.ece"
   },
   {
    "category": "AI",
