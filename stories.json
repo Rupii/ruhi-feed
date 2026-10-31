@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T20:39:58+00:00",
+ "updated": "2026-10-31T00:40:29+00:00",
  "count": 58,
  "stories": [
   {
@@ -20,51 +20,51 @@
   },
   {
    "category": "Gold",
-   "headline": "Gold’s $4,000 Support Could Trigger a Powerful Rally in Mining Stocks",
+   "headline": "Silver Is Falling Despite Lower Treasury Yields and a Persistent Supply Deficit",
    "blurb": "",
    "source": "Investing.com",
-   "ts": "2026-10-30T18:03:00+00:00",
-   "url": "https://www.investing.com/analysis/golds-4000-support-could-trigger-a-powerful-rally-in-mining-stocks-200690607"
+   "ts": "2026-10-30T20:28:00+00:00",
+   "url": "https://www.investing.com/analysis/silver-is-falling-despite-lower-treasury-yields-and-a-persistent-supply-deficit-200690614"
   },
   {
    "category": "Geopolitics",
-   "headline": "US tech stocks see sharp falls as AI spending nears $1tn",
-   "blurb": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
+   "headline": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+   "blurb": "The incumbent Republican running for re-election and allies have accused the Democrats of trying to confuse voters by recruiting a second Dan Sullivan to also stand in the race.",
    "source": "BBC",
-   "ts": "2026-10-30T20:34:46+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-31T00:29:58+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "City of London chief tops UK Black Powerlist",
-   "blurb": "Ian Thomas, who heads the City of London Corporation, tops the Black Powerlist in its 21st year.",
+   "headline": "Soaring cost of Halloween treats spooks shoppers",
+   "blurb": "The price of candy, especially chocolate, is up, and Halloween bargain hunters are searching for deals and ways to cut costs.",
    "source": "BBC",
-   "ts": "2026-10-30T18:00:24+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c98rz4pxm4ymo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-30T21:34:32+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cr0qk25p1yeno?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Federal debt surpassed GDP for fiscal 2026",
-   "blurb": "The national debt topped the entire gross domestic product (GDP) for fiscal 2026, based on new data from the Bureau of Economic Analysis (BEA). From the fourth quarter of 2025 through the third quarter of this year, the country’s economic output was more than $32.2 trillion, according to the BEA’s non-seasonally adjusted statistics. As of...",
+   "headline": "RNC chair predicts GOP Senate wins in Alaska, Texas, 3 other battlegrounds",
+   "blurb": "Republican National Committee (RNC) Chair Joe Gruters remained optimistic Friday evening about his party’s chances in next week's midterms, predicting big wins in key battleground states despite troubling polling numbers for the GOP. Gruters told NewsNation’s Blake Burman he expects Republicans will win Senate races in Maine, Texas, Ohio and Alaska — all of which...",
    "source": "The Hill",
-   "ts": "2026-10-30T20:13:56+00:00",
-   "url": "https://thehill.com/business/6185236-federal-debt-gdp-bea-cbo-treasury/"
+   "ts": "2026-10-30T23:42:47+00:00",
+   "url": "https://thehill.com/homenews/campaign/6185743-rnc-chair-predicts-midterm-wins/"
   },
   {
    "category": "India Politics",
-   "headline": "Supreme Court asks Centre to take measures against online misuse of court feeds",
-   "blurb": "Solicitor General Tushar Mehta submits that suggestions from various High Courts and other stakeholders have been received and forwarded to the Ministry of Electronics and Information Technology",
+   "headline": "Jaishankar holds bilateral meetings with foreign ministers from G20 nations",
+   "blurb": "External Affairs Minister Jaishankar met Canadian counterpart Anita Anand in Atlanta on the sidelines of the G20 Foreign Ministers’ Meeting",
    "source": "The Hindu",
-   "ts": "2026-10-30T20:19:35+00:00",
-   "url": "https://www.thehindu.com/news/national/supreme-court-asks-centre-to-take-measures-against-online-misuse-of-court-feeds/article71646311.ece"
+   "ts": "2026-10-31T00:34:23+00:00",
+   "url": "https://www.thehindu.com/news/national/jaishankar-holds-bilateral-meetings-with-foreign-ministers-from-g20-nations/article71648061.ece"
   },
   {
    "category": "AI",
-   "headline": "The biggest names in AI are backing a new way to opt out of scraping",
-   "blurb": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across multiple AI companies, instead of setting them individually. The shared \"policy token\" signal […]",
+   "headline": "Apple Intelligence is finally coming to China with iOS 27.3",
+   "blurb": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3 release scheduled for December. This launch doesn't bring […]",
    "source": "The Verge",
-   "ts": "2026-10-30T20:26:10+00:00",
-   "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out"
+   "ts": "2026-10-30T22:32:53+00:00",
+   "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3"
   },
   {
    "category": "Equities",
@@ -84,51 +84,51 @@
   },
   {
    "category": "Gold",
-   "headline": "Gold Risks a Deeper Decline After Breaking Below June 30 Support Levels",
+   "headline": "Gold’s $4,000 Support Could Trigger a Powerful Rally in Mining Stocks",
    "blurb": "",
    "source": "Investing.com",
-   "ts": "2026-10-30T17:46:00+00:00",
-   "url": "https://www.investing.com/analysis/gold-risks-a-deeper-decline-after-breaking-below-june-30-support-levels-200690598"
+   "ts": "2026-10-30T18:03:00+00:00",
+   "url": "https://www.investing.com/analysis/golds-4000-support-could-trigger-a-powerful-rally-in-mining-stocks-200690607"
   },
   {
    "category": "Geopolitics",
-   "headline": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-   "blurb": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+   "headline": "'The necktie is dead': How US midterm candidates are dressing for votes",
+   "blurb": "From Alaska to Texas, candidates with an eye on Congress are using their personal style to stand out.",
    "source": "BBC",
-   "ts": "2026-10-30T20:10:56+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-31T00:16:03+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/ckq6nz4286r4o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Binance's $6.3bn crypto hack biggest in history",
-   "blurb": "Cryptocurrency giant Binance said on Thursday that $6.3bn (£4.7bn) of digital assets have been impacted by what is thought to be the biggest crypto hack on record.",
+   "headline": "US tech stocks see sharp falls as AI spending nears $1tn",
+   "blurb": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
    "source": "BBC",
-   "ts": "2026-10-30T17:41:10+00:00",
-   "url": "https://www.bbc.co.uk/news/videos/c6m2dpz0yxn8o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-30T20:34:46+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Appeals court rules against Trump — again — on California ballots",
-   "blurb": "A split federal appeals court panel again rejected the Trump administration's bid to set aside 20,000 California ballots it says are likely noncitizens until they can be verified. The 2-1 majority on the U.S. Court of Appeals for the 9th Circuit didn’t dispute a lower court’s finding that the list isn’t credible and ruled the...",
+   "headline": "Democrats weigh Israel election results amid lingering uncertainty",
+   "blurb": "The results of Israel’s elections this week have left Democrats on Capitol Hill with a mixed bag of emotions. The lawmakers say they’re heartened by the massive voter turnout, the erosion of support for conservative Prime Minister Benjamin Netanyahu, and the potential influence of his top opponent, retired Gen. Gadi Eisenkot, over whatever governing coalition...",
    "source": "The Hill",
-   "ts": "2026-10-30T19:50:13+00:00",
-   "url": "https://thehill.com/regulation/court-battles/6185093-trump-administration-california-ballots-ninth-circuit-appeals-court/"
+   "ts": "2026-10-30T23:03:02+00:00",
+   "url": "https://thehill.com/homenews/house/6185584-democrats-react-israel-elections/"
   },
   {
    "category": "India Politics",
-   "headline": "Why is ISRO’s NVS-03 satellite launch crucial? | Explained",
-   "blurb": "The mission could help restore the functioning of India’s regional satellite navigation system NavIC; its development began following the 1999 Kargil War, when the U.S reportedly clamped down on GPS data access",
+   "headline": "Ex-bureaucrat moves Delhi HC against ‘large-scale’ CAPF deployment during protests",
+   "blurb": "The PIL seeks directions to the authorities to disclose details of requisitions made by the Delhi Police and the sanction and extension order of the Union Ministry of Home Affairs (MHA)",
    "source": "The Hindu",
-   "ts": "2026-10-30T20:14:38+00:00",
-   "url": "https://www.thehindu.com/sci-tech/science/why-is-isros-nvs-03-satellite-launch-crucial-explained/article71643798.ece"
+   "ts": "2026-10-31T00:18:43+00:00",
+   "url": "https://www.thehindu.com/news/cities/Delhi/ex-bureaucrat-moves-delhi-high-court-against-large-scale-capf-deployment-during-protests/article71645606.ece"
   },
   {
    "category": "AI",
-   "headline": "Google’s satellite AI server transmits its first response to Earth",
-   "blurb": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space: Blue marble below Data streams in […]",
+   "headline": "The biggest names in AI are backing a new way to opt out of scraping",
+   "blurb": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across multiple AI companies, instead of setting them individually. The shared \"policy token\" signal […]",
    "source": "The Verge",
-   "ts": "2026-10-30T18:21:38+00:00",
-   "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission"
+   "ts": "2026-10-30T22:04:23+00:00",
+   "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out"
   },
   {
    "category": "Equities",
@@ -148,43 +148,43 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
-   "blurb": "Dan S Sullivan, the incumbent Republican senator running for re-election, and allies have accused the Democrats of trying to confuse voters by recruiting Dan J Sullivan to also stand in the race.",
+   "headline": "He questioned Thailand's monarchy dressed as Harry Potter. Now he's in jail for 34 years",
+   "blurb": "Thailand has prosecuted 294 people since 2020 under its lèse majesté law, with sentences going up to 50 years.",
    "source": "BBC",
-   "ts": "2026-10-30T18:17:27+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-30T23:26:16+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cmjwepvd0qq9o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Yorkshire Water boss resigns after firm downgraded",
-   "blurb": "Nicola Shaw, who has led the company since 2022, will step down in January, it is announced.",
+   "headline": "City of London chief tops UK Black Powerlist",
+   "blurb": "Ian Thomas, who heads the City of London Corporation, tops the Black Powerlist in its 21st year.",
    "source": "BBC",
-   "ts": "2026-10-30T16:04:55+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/ckzd623pldqgo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-30T18:00:24+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c98rz4pxm4ymo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "El-Sayed: I'll go through metal detector if Trump sits for lie detector",
-   "blurb": "Michigan Senate hopeful Abdul El-Sayed (D) on Thursday responded to President Trump’s suggestion that the Democratic candidate should be forced to go through a metal detector at the U.S. Capitol if elected to Congress. During a campaign rally in Kalamazoo, Mich., El-Sayed said he would accept the request if Trump agreed to “sit for a...",
+   "headline": "Cancer crisis throws wild card into Iowa elections",
+   "blurb": "{beacon} Energy & Environment Energy & Environment The Big Story In Iowa elections, cancer crisis looms large Rising cancer rates and a potential link to farm pollution are causing a crisis in Iowa, throwing uncertainty into the midterm elections in the state that has shifted ruby red in recent years. © Abel Uribe, Chicago...",
    "source": "The Hill",
-   "ts": "2026-10-30T19:21:45+00:00",
-   "url": "https://thehill.com/homenews/campaign/6185014-abdul-el-sayed-donald-trump-lie-detector-test-midterms-michigan/"
+   "ts": "2026-10-30T22:52:38+00:00",
+   "url": "https://thehill.com/newsletters/energy-environment/6185673-cancer-crisis-throws-wildcard-into-iowa-elections/"
   },
   {
    "category": "India Politics",
-   "headline": "Haryana BJP MLA questions party’s merit-based jobs policy, warns of anti-incumbency",
-   "blurb": "The BJP has consistently projected its policy of providing jobs without political recommendations or bribes as one of its biggest achievements in Haryana",
+   "headline": "SAD will establish ‘Build Punjab’ department, says Badal",
+   "blurb": "“We will allow industrialists to install their own solar power plants which would bring down their power rates to ₹1.50 per unit,” Sukhbir Singh Badal said",
    "source": "The Hindu",
-   "ts": "2026-10-30T19:58:55+00:00",
-   "url": "https://www.thehindu.com/news/national/haryana/haryana-bjp-mla-questions-partys-merit-based-jobs-policy-warns-of-anti-incumbency/article71645855.ece"
+   "ts": "2026-10-30T23:45:29+00:00",
+   "url": "https://www.thehindu.com/news/national/punjab/sad-will-establish-build-punjab-department-says-badal/article71645471.ece"
   },
   {
    "category": "AI",
-   "headline": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
-   "blurb": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore \"experiences that recognize participating customers as they arrive, present personalized digital menus, and make payment more effortless,\" as spotted earlier by More […]",
+   "headline": "Silicon Valley wants you to invest in miracles",
+   "blurb": "Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance. But how do you bet on a technology that could, in the worst-case scenario, \"pose catastrophic or existential risks to humanity,\" or best case, \"bring forth an age of miracles\"? To some extent, […]",
    "source": "The Verge",
-   "ts": "2026-10-30T17:38:04+00:00",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru"
+   "ts": "2026-10-30T21:33:57+00:00",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles"
   },
   {
    "category": "Equities",
@@ -204,43 +204,43 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "G20 'family photo' cancelled after protests over presence of Russian minister",
-   "blurb": "European foreign ministers refused to be pictured with Sergei Lavrov at the summit being held in Atlanta.",
+   "headline": "How has the ceasefire in Russian-occupied Oleshky been unfolding?",
+   "blurb": "Ukraine correspondent Dan Johnson explains the temporary ceasefire in the devastated town of Oleshky.",
    "source": "BBC",
-   "ts": "2026-10-30T17:25:20+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-30T23:19:17+00:00",
+   "url": "https://www.bbc.co.uk/news/videos/cmp3gp2vg078o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "What we know about Binance's $6.3bn hack",
-   "blurb": "Cyber correspondent Joe Tidy explains more about what is suspected to be the biggest hack in history.",
+   "headline": "Binance's $6.3bn crypto hack biggest in history",
+   "blurb": "Cryptocurrency giant Binance said on Thursday that $6.3bn (£4.7bn) of digital assets have been impacted by what is thought to be the biggest crypto hack on record.",
    "source": "BBC",
-   "ts": "2026-10-30T12:27:28+00:00",
-   "url": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-30T17:41:10+00:00",
+   "url": "https://www.bbc.co.uk/news/videos/c6m2dpz0yxn8o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Vance on Trump talking about GOP senator's 'a‑‑': 'I'm jealous'",
-   "blurb": "Vice President Vance joked Thursday he is “jealous” President Trump has repeatedly praised other male politicians' appearances, namely that of Sen. Jon Husted (R-Ohio), and not his own. Asked by Fox News’s Jesse Watters during a town hall why the president continues to compliment Husted's backside, Vance laughed it off, saying Trump is a comedian....",
+   "headline": "Feds 'intensely' probing alleged Alaska ballot scheme, US attorney confirms",
+   "blurb": "Federal authorities are investigating whether Democrat Mary Peltola's campaign's reported effort to recruit a candidate in the Alaska Senate race with the same name as incumbent Sen. Dan Sullivan (R) violated the law, the state’s top federal prosecutor announced Friday. U.S. Attorney for the District of Alaska Michael Heyman said during a press conference that...",
    "source": "The Hill",
-   "ts": "2026-10-30T18:28:45+00:00",
-   "url": "https://thehill.com/homenews/6184799-vance-joked-trump-praised-husted/"
+   "ts": "2026-10-30T22:43:55+00:00",
+   "url": "https://thehill.com/homenews/campaign/6185640-alaska-senate-spoiler-probe/"
   },
   {
    "category": "India Politics",
-   "headline": "Bihar’s interests must be considered in the Ganga Water Treaty: Samrat Choudhary",
-   "blurb": "The CM mentioned that Bihar’s rivers hold immense potential for the State, and through the proper management of their water and silt, new opportunities can be created in agriculture, industry, infrastructure, and employment",
+   "headline": "The great escape from Theni jail",
+   "blurb": "On October 26, a group of 17 remand prisoners hatched a plan to escape from the Theni district jail under the cover of darkness. All of them were apprehended within 42 hours in a massive search operation involving various Tamil Nadu police teams and drones. But the jailbreak has raised larger questions about prison overcrowding, staff shortages, security, and the need for reform, reports L. Srikrishna",
    "source": "The Hindu",
-   "ts": "2026-10-30T19:49:30+00:00",
-   "url": "https://www.thehindu.com/news/national/bihar/bihar-cm-samrat-choudhary-calls-for-adequate-ganga-water-share-to-boost-states-growth/article71645338.ece"
+   "ts": "2026-10-30T23:26:40+00:00",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/the-great-escape-from-tamil-nadus-theni-jail/article71645449.ece"
   },
   {
    "category": "AI",
-   "headline": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
-   "blurb": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An overly black-and-white ruling, it says, could either deprive Wikipedians of useful AI-based tools or endanger […]",
+   "headline": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+   "blurb": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented on AI's impact on math, Altman said: \"A lot of people want […]",
    "source": "The Verge",
-   "ts": "2026-10-30T16:08:56+00:00",
-   "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright"
+   "ts": "2026-10-30T20:48:43+00:00",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers"
   },
   {
    "category": "Equities",
@@ -260,43 +260,43 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
-   "blurb": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September.",
+   "headline": "US approves sale of 500 Patriot missiles to Ukraine",
+   "blurb": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
    "source": "BBC",
-   "ts": "2026-10-30T17:07:19+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-30T22:20:52+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Google value plunges by $500bn as its own AI search hits ad sales",
-   "blurb": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI own search summaries were affecting ad revenue.",
+   "headline": "Yorkshire Water boss resigns after firm downgraded",
+   "blurb": "Nicola Shaw, who has led the company since 2022, will step down in January, it is announced.",
    "source": "BBC",
-   "ts": "2026-10-30T12:04:02+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-30T16:04:55+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/ckzd623pldqgo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Navy airman recounts USS Lincoln leap: 'If I was supposed to die then I would have just been dead'",
-   "blurb": "One of the eight sailors who attempted suicide by jumping overboard during the grueling deployment of the USS Abraham Lincoln aircraft carrier strike group is speaking out after he was effectively punished for the incident. Navy airman Nicholas McKelvey, 19, jumped overboard on Aug. 3, 255 days into the ship’s deployment, The New York Times...",
+   "headline": "Time to set back the clocks, much to Trump’s chagrin",
+   "blurb": "Tick tock – clocks in America will fall back this Sunday. It could be the last time, if President Trump and some like-minded lawmakers get their way. But the debate over making daylight saving time permanent has proven divisive even within the president’s party. The House passed the Sunshine Protection Act earlier this year, which...",
    "source": "The Hill",
-   "ts": "2026-10-30T18:12:50+00:00",
-   "url": "https://thehill.com/policy/defense/6184762-navy-airman-uss-abraham-lincoln-suicide-attempt-middle-east-conflict/"
+   "ts": "2026-10-30T22:43:31+00:00",
+   "url": "https://thehill.com/homenews/administration/6184682-trump-daylight-saving-clocks-fallback/"
   },
   {
    "category": "India Politics",
-   "headline": "TNUHDB identifies 20 sites for reconstruction across State; appeals to residents of dilapidated tenements to vacate",
-   "blurb": "",
+   "headline": "Heavy polling in second phase panchayat elections for Sarpanch, Ward Panch in Rajasthan",
+   "blurb": "The highest voter turnout was recorded at 84.37% in Jaipur district’s Rampura Dabri",
    "source": "The Hindu",
-   "ts": "2026-10-30T19:47:35+00:00",
-   "url": "https://www.thehindu.com/news/cities/chennai/tnuhdb-identifies-20-sites-for-reconstruction-across-state-appeals-to-residents-of-dilapidated-tenements-to-vacate/article71645753.ece"
+   "ts": "2026-10-30T22:09:43+00:00",
+   "url": "https://www.thehindu.com/news/national/rajasthan/heavy-polling-in-second-phase-panchayat-elections-for-sarpanch-ward-panch-in-rajasthan/article71645952.ece"
   },
   {
    "category": "AI",
-   "headline": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
-   "blurb": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address, Pope Leo encourages United Nations member states to \"take concrete steps toward banning lethal autonomous weapons\" during their meeting in Geneva next month. The address reflects many […]",
+   "headline": "Google’s satellite AI server transmits its first response to Earth",
+   "blurb": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space: Blue marble below Data streams in […]",
    "source": "The Verge",
-   "ts": "2026-10-30T15:14:37+00:00",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai"
+   "ts": "2026-10-30T18:21:38+00:00",
+   "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission"
   },
   {
    "category": "Equities",
@@ -316,43 +316,43 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "Canada stops using 'avalanche dogs' for rescues in Rocky Mountains, stirring outrage",
-   "blurb": "A 55-year-old dog rescue programme that has found missing hikers and children in the Canadian wilderness was axed as part of government budget cuts.",
+   "headline": "G20 'family photo' cancelled after protests over presence of Russian minister",
+   "blurb": "UK Foreign Secretary Ed Miliband confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine.",
    "source": "BBC",
-   "ts": "2026-10-30T17:00:32+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cwdd8q8e9e9yo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-30T22:11:52+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Streeting denies 'kicking can down the road' in defence spending row",
-   "blurb": "The government is under pressure to set out a path to greater defence spending, as ministers unveil plans to boost UK firms.",
+   "headline": "What we know about Binance's $6.3bn hack",
+   "blurb": "Cyber correspondent Joe Tidy explains more about what is suspected to be the biggest hack in history.",
    "source": "BBC",
-   "ts": "2026-10-30T11:23:38+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cw62yrzxjnk4o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-30T12:27:28+00:00",
+   "url": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Live updates: Judge orders investigation into DOJ and East Potomac Park; Trump set to rally in Daytona Beach",
-   "blurb": "U.S. District Judge Ana Reyes has opened an investigation into the Department of Justice's (DOJ) conduct in the ongoing legal battle over President Trump’s desire to redevelop East Potomac Golf Links. She ordered the probe during Friday’s hearing, the latest fiery courtroom clash. Meanwhile, lawyers for James Comey tried to persuade a federal judge Friday...",
+   "headline": "FDA unveils proposals to update infant formula nutrient requirements",
+   "blurb": "Presented by Alliance for Aging Research {beacon} Health Care Health Care PRESENTED BY The Big Story FDA unveils proposals to update infant formula nutrient requirements The Food and Drug Administration is proposing to update nutrient requirements for infant formula, the first nutrition review for formula in nearly 30 years. © AP Photo/David J. Phillip...",
    "source": "The Hill",
-   "ts": "2026-10-30T18:08:06+00:00",
-   "url": "https://thehill.com/homenews/state-watch/6183073-live-updates-trump-midterm-elections/"
+   "ts": "2026-10-30T22:40:32+00:00",
+   "url": "https://thehill.com/newsletters/healthcare/6185641-fda-unveils-proposals-to-update-infant-formula-nutrient-requirements/"
   },
   {
    "category": "India Politics",
-   "headline": "Bengaluru needs long-term master plan for water, roads and sewerage: KBG",
-   "blurb": "The Minister said a uniform policy would hold agencies excavating roads accountable for restoration, with clear standards, cost recovery and penalties for violations.",
+   "headline": "On JD(U) 23rd foundation day, party gives credit to Nitish for Bihar’s development",
+   "blurb": "JD(U) State president pointed out that while the term “Bihari” had become synonymous with contempt and neglect before 2005, Nitish Kumar, through his efforts, restored honour and self-respect to Bihar and its people",
    "source": "The Hindu",
-   "ts": "2026-10-30T19:44:17+00:00",
-   "url": "https://www.thehindu.com/news/cities/bangalore/bengaluru-needs-long-term-master-plan-for-water-roads-and-sewerage-kbg/article71646364.ece"
+   "ts": "2026-10-30T22:02:50+00:00",
+   "url": "https://www.thehindu.com/news/national/bihar/on-jdu-23rd-foundation-day-party-gives-credit-to-nitish-for-bihars-development/article71645034.ece"
   },
   {
    "category": "AI",
-   "headline": "Maine’s data center revolt will decide who controls the Senate",
-   "blurb": "Maine Sen. Susan Collins, a Republican, was midway through defending her record during the final debate of the midterms when an audience member cut her short. \"I'm terrified,\" a man shouted. \"AI data centers are destroying our climate. They are poisoning our water.\" Collins brushed off the outburst, tying the man to her Democratic challenger, […]",
+   "headline": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
+   "blurb": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore \"experiences that recognize participating customers as they arrive, present personalized digital menus, and make payment more effortless,\" as spotted earlier by More […]",
    "source": "The Verge",
-   "ts": "2026-10-30T14:40:29+00:00",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers"
+   "ts": "2026-10-30T17:38:04+00:00",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru"
   },
   {
    "category": "Equities",
@@ -372,43 +372,43 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
-   "blurb": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers.",
+   "headline": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+   "blurb": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
    "source": "BBC",
-   "ts": "2026-10-30T16:26:11+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-30T21:13:14+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
-   "blurb": "Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor.",
+   "headline": "Google value plunges by $500bn as its own AI search hits ad sales",
+   "blurb": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI own search summaries were affecting ad revenue.",
    "source": "BBC",
-   "ts": "2026-10-30T09:33:51+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-30T12:04:02+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Comey lawyers fight for dismissal of third criminal prosecution",
-   "blurb": "Lawyers for James Comey tried to persuade a federal judge Friday that the Trump administration's third attempt to prosecute the former FBI director for allegedly disclosing national defense information should be stopped because the Department of Justice (DOJ) waited too long to bring the charges. U.S. District Judge Trevor McFadden, an appointee of President Trump, is weighing whether the...",
+   "headline": "Cruz warns GOP could lose 8 Senate seats, get swept in Texas",
+   "blurb": "Sen. Ted Cruz (R-Texas) is warning that Republicans could lose as many as eight Senate seats in the midterm elections and get swept in all of the statewide Texas races, including the Senate contest between Republican Ken Paxton and Democrat James Talarico, if the GOP has a bad day on Nov. 3. “The election is...",
    "source": "The Hill",
-   "ts": "2026-10-30T18:00:55+00:00",
-   "url": "https://thehill.com/regulation/court-battles/6184780-comey-criminal-case-dismissal-hearing/"
+   "ts": "2026-10-30T22:02:32+00:00",
+   "url": "https://thehill.com/homenews/senate/6185545-ted-cruz-warns-gop-losses/"
   },
   {
    "category": "India Politics",
-   "headline": "Seven packaged drinking water units closed for violations in Karnataka",
-   "blurb": "102 units inspected in two days; 69 water samples collected for laboratory analysis",
+   "headline": "Deeply distressing to see ambulances stranded, students missing classes during convoy movement in Kashmir: Sakina Itoo",
+   "blurb": "Sakina Ittoo appealed to L-G Sinha “to explore practical traffic management measures that uphold essential security protocols while ensuring uninterrupted passage for ambulances and minimising public inconvenience.”",
    "source": "The Hindu",
-   "ts": "2026-10-30T19:42:30+00:00",
-   "url": "https://www.thehindu.com/news/national/karnataka/seven-packaged-drinking-water-units-closed-for-violations-in-karnataka/article71646042.ece"
+   "ts": "2026-10-30T21:12:39+00:00",
+   "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/deeply-distressing-to-see-ambulances-stranded-students-missing-classes-during-convoy-movement-in-kashmirsakina-itoo/article71646375.ece"
   },
   {
    "category": "AI",
-   "headline": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
-   "blurb": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all. But he has no intention of stopping - and hints there could be much more to come from the company's stockpile of discoveries. \"I think, on net, […]",
+   "headline": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+   "blurb": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An overly black-and-white ruling, it says, could either deprive Wikipedians of useful AI-based tools or endanger […]",
    "source": "The Verge",
-   "ts": "2026-10-30T13:30:14+00:00",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview"
+   "ts": "2026-10-30T16:08:56+00:00",
+   "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright"
   },
   {
    "category": "Equities",
@@ -428,43 +428,43 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "Democratic senator blames Egypt press crackdown on US military aid decision",
-   "blurb": "Chris Murphy said waiving a human rights condition on aid paved the way for arrests of journalists.",
+   "headline": "Police deployed during stand-off over control of top Poland court",
+   "blurb": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
    "source": "BBC",
-   "ts": "2026-10-30T15:17:11+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c63r529wn2vzo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-30T20:52:01+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "How video game remakes tap the power of nostalgia",
-   "blurb": "Video games are good at triggering nostalgia, a key reason why classic games keep getting remade.",
+   "headline": "Streeting denies 'kicking can down the road' in defence spending row",
+   "blurb": "The government is under pressure to set out a path to greater defence spending, as ministers unveil plans to boost UK firms.",
    "source": "BBC",
-   "ts": "2026-10-30T07:45:00+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cm9qz428nnljo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-30T11:23:38+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cw62yrzxjnk4o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Judge opens East Potomac Park probe into potential DOJ misconduct",
-   "blurb": "A federal judge has opened an investigation into concerns that the Trump administration lied to her in the ongoing legal battle over President Trump’s desire to redevelop East Potomac Golf Links. Friday’s hearing became the latest fiery courtroom clash between U.S. District Judge Ana Reyes and the Department of Justice (DOJ), which repeatedly took issue...",
+   "headline": "Treasury Department says Iran's economy cratering, inflation at 90 percent",
+   "blurb": "The U.S.’s economic isolation campaign against Iran is “decimating” the country’s economy, according to a Treasury Department report released Friday. The Trump administration launched its sweeping economic pressure campaign, dubbed Operation Economic Outcast, at the end of August. During a Wednesday appearance on CNBC, Treasury Secretary Scott Bessent said the effort has been “very successful.”...",
    "source": "The Hill",
-   "ts": "2026-10-30T17:50:39+00:00",
-   "url": "https://thehill.com/regulation/court-battles/6184378-ana-reyes-investigation-justice-department-golf-course/"
+   "ts": "2026-10-30T21:53:20+00:00",
+   "url": "https://thehill.com/policy/international/6185517-bessent-iran-operation-economic-outcast-impact/"
   },
   {
    "category": "India Politics",
-   "headline": "Karnataka High Court to nominate new head for SIT to probe KPSC irregularities on Monday",
-   "blurb": "State government issues notification declaring SIT as police station",
+   "headline": "17 NC MLAs issue 15-day ultimatum to address ‘coterie culture’, other issues in party",
+   "blurb": "Four-hour meeting of the 17 NC legislators in Srinagar comes three days after party vice-president and J&K CM Omar Abdullah expanded the Cabinet, leaving several leaders disgruntled at not being given a berth",
    "source": "The Hindu",
-   "ts": "2026-10-30T19:40:37+00:00",
-   "url": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-to-nominate-new-head-for-sit-to-probe-kpsc-irregularities-on-monday/article71646107.ece"
+   "ts": "2026-10-30T20:48:34+00:00",
+   "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/17-nc-mlas-issue-15-day-ultimatum-to-address-coterie-culture-other-issues-in-party/article71646586.ece"
   },
   {
    "category": "AI",
-   "headline": "Silicon Valley wants you to invest in miracles",
-   "blurb": "Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance. But how do you bet on a technology that could, in the worst-case scenario, \"pose catastrophic or existential risks to humanity,\" or best case, \"bring forth an age of miracles\"? To some extent, […]",
+   "headline": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
+   "blurb": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address, Pope Leo encourages United Nations member states to \"take concrete steps toward banning lethal autonomous weapons\" during their meeting in Geneva next month. The address reflects many […]",
    "source": "The Verge",
-   "ts": "2026-10-30T13:11:05+00:00",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles"
+   "ts": "2026-10-30T15:14:37+00:00",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai"
   }
  ]
 }
