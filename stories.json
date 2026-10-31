@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T00:40:29+00:00",
+ "updated": "2026-10-31T06:53:38+00:00",
  "count": 58,
  "stories": [
   {
@@ -12,11 +12,11 @@
   },
   {
    "category": "Crypto",
-   "headline": "Experts divided over Binance hack asset freezes, warn recovery is another matter",
-   "blurb": "Tether, Circle and others moved within hours to block billions in stolen crypto, but legal experts question whether smaller victims would get the same protection.",
+   "headline": "Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve",
+   "blurb": "The 18,270 BTC haul is worth about $1.4 billion and comes within 442 coins of SpaceX’s disclosed holdings. Blockchain investigators link the attack to North Korea.",
    "source": "CoinDesk",
-   "ts": "2026-10-30T19:55:00+00:00",
-   "url": "https://www.coindesk.com/business/2026/10/30/experts-divided-over-binance-hack-asset-freezes-warn-recovery-is-another-matter"
+   "ts": "2026-10-31T05:01:32+00:00",
+   "url": "https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve"
   },
   {
    "category": "Gold",
@@ -28,11 +28,11 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
-   "blurb": "The incumbent Republican running for re-election and allies have accused the Democrats of trying to confuse voters by recruiting a second Dan Sullivan to also stand in the race.",
+   "headline": "Spain train disaster clouds Sánchez chances of re-election",
+   "blurb": "The Spanish PM is hit by a succession of crises just weeks before a snap general election.",
    "source": "BBC",
-   "ts": "2026-10-31T00:29:58+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-31T05:44:21+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
@@ -44,19 +44,19 @@
   },
   {
    "category": "US Politics",
-   "headline": "RNC chair predicts GOP Senate wins in Alaska, Texas, 3 other battlegrounds",
-   "blurb": "Republican National Committee (RNC) Chair Joe Gruters remained optimistic Friday evening about his party’s chances in next week's midterms, predicting big wins in key battleground states despite troubling polling numbers for the GOP. Gruters told NewsNation’s Blake Burman he expects Republicans will win Senate races in Maine, Texas, Ohio and Alaska — all of which...",
+   "headline": "Judge blocks DOJ from threatening election officials over noncitizen voting claims",
+   "blurb": "A California federal judge Friday ordered the Trump administration to stop threatening election officials with criminal prosecution in its ongoing efforts to crack down on noncitizen voting. U.S. District Judge Trina Thompson issued a temporary restraining order connected to a lawsuit brought by unions representing California election workers earlier Friday. In her decision, the Biden-appointed judge...",
    "source": "The Hill",
-   "ts": "2026-10-30T23:42:47+00:00",
-   "url": "https://thehill.com/homenews/campaign/6185743-rnc-chair-predicts-midterm-wins/"
+   "ts": "2026-10-31T03:01:46+00:00",
+   "url": "https://thehill.com/regulation/court-battles/6185891-judge-stops-trump-election-threats/"
   },
   {
    "category": "India Politics",
-   "headline": "Jaishankar holds bilateral meetings with foreign ministers from G20 nations",
-   "blurb": "External Affairs Minister Jaishankar met Canadian counterpart Anita Anand in Atlanta on the sidelines of the G20 Foreign Ministers’ Meeting",
+   "headline": "Traffic curbs in Delhi for INDIA bloc rally at Ramlila Maidan on November 1 | LIVE",
+   "blurb": "INDIA Bloc says everyone united in protests, 'public impeachment' of CEC Gyanesh Kumar today",
    "source": "The Hindu",
-   "ts": "2026-10-31T00:34:23+00:00",
-   "url": "https://www.thehindu.com/news/national/jaishankar-holds-bilateral-meetings-with-foreign-ministers-from-g20-nations/article71648061.ece"
+   "ts": "2026-10-31T06:50:17+00:00",
+   "url": "https://www.thehindu.com/news/national/india-bloc-public-impeachment-cec-gyanesh-kumar-sir-protest-chalo-dilli-march-rahul-gandhi-live-updates-october-31-2026/article71648094.ece"
   },
   {
    "category": "AI",
@@ -76,11 +76,11 @@
   },
   {
    "category": "Crypto",
-   "headline": "Binance uncovers wider breach in $6.3 billion exploit, targets Sunday withdrawal restart",
-   "blurb": "CEO Richard Teng said hackers erased evidence and bypassed security checks. Binance plans to publish its proof of reserves Monday.",
+   "headline": "OpenAI reportedly cuts fundraising and valuation targets amid AI jitters",
+   "blurb": "Anxiety about the AI boom has sent the Nasdaq 100 slumping by about 10% in just three weeks since hitting a record high on October 6, including a 4.5% drop on Friday.",
    "source": "CoinDesk",
-   "ts": "2026-10-30T16:31:17+00:00",
-   "url": "https://www.coindesk.com/tech/2026/10/30/binance-uncovers-wider-breach-in-usd6-3-billion-exploit-targets-sunday-withdrawal-restart"
+   "ts": "2026-10-31T00:48:56+00:00",
+   "url": "https://www.coindesk.com/business/2026/10/30/openai-reportedly-cuts-fundraising-target-amid-ai-jitters"
   },
   {
    "category": "Gold",
@@ -92,35 +92,35 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "'The necktie is dead': How US midterm candidates are dressing for votes",
-   "blurb": "From Alaska to Texas, candidates with an eye on Congress are using their personal style to stand out.",
+   "headline": "Suited and booted: How Joseph Kabila went from president to rebel leader",
+   "blurb": "What does Joseph Kabila launching a new rebel movement mean for DR Congo?",
    "source": "BBC",
-   "ts": "2026-10-31T00:16:03+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/ckq6nz4286r4o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-31T04:32:07+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cr3wv311dwnlo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "US tech stocks see sharp falls as AI spending nears $1tn",
-   "blurb": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
+   "headline": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+   "blurb": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
    "source": "BBC",
-   "ts": "2026-10-30T20:34:46+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-30T21:13:14+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Democrats weigh Israel election results amid lingering uncertainty",
-   "blurb": "The results of Israel’s elections this week have left Democrats on Capitol Hill with a mixed bag of emotions. The lawmakers say they’re heartened by the massive voter turnout, the erosion of support for conservative Prime Minister Benjamin Netanyahu, and the potential influence of his top opponent, retired Gen. Gadi Eisenkot, over whatever governing coalition...",
+   "headline": "Health insurance plan costs on Healthcare.gov to rise by double digits in 2027",
+   "blurb": "Obamacare enrollees could see their health insurance premiums rise by double digits for a second year in a row, according to a report published Friday. Health research group KFF found the average cost of Obamacare health insurance will rise by 13 percent in 2027, following a 26 percent hike in rates from 2025 to 2026....",
    "source": "The Hill",
-   "ts": "2026-10-30T23:03:02+00:00",
-   "url": "https://thehill.com/homenews/house/6185584-democrats-react-israel-elections/"
+   "ts": "2026-10-31T02:06:29+00:00",
+   "url": "https://thehill.com/policy/healthcare/6185863-obamacare-premiums-set-double-2027-analysis/"
   },
   {
    "category": "India Politics",
-   "headline": "Ex-bureaucrat moves Delhi HC against ‘large-scale’ CAPF deployment during protests",
-   "blurb": "The PIL seeks directions to the authorities to disclose details of requisitions made by the Delhi Police and the sanction and extension order of the Union Ministry of Home Affairs (MHA)",
+   "headline": "KTR questions proposed sale of IDBI Bank, asks if its valuable real estate assets were factored in valuation",
+   "blurb": "BRS working president sought to know why the concerns raised by IDBI Bank employees over the proposed disinvestment were not being addressed",
    "source": "The Hindu",
-   "ts": "2026-10-31T00:18:43+00:00",
-   "url": "https://www.thehindu.com/news/cities/Delhi/ex-bureaucrat-moves-delhi-high-court-against-large-scale-capf-deployment-during-protests/article71645606.ece"
+   "ts": "2026-10-31T06:50:02+00:00",
+   "url": "https://www.thehindu.com/news/national/telangana/ktr-questions-proposed-sale-of-idbi-bank-asks-if-its-valuable-real-estate-assets-were-factored-in-valuation/article71648264.ece"
   },
   {
    "category": "AI",
@@ -140,43 +140,43 @@
   },
   {
    "category": "Crypto",
-   "headline": "Wall Street analysts urge investors to buy crypto stocks after $6.3 billion Binance hack",
-   "blurb": "Analysts at Cantor Fitzgerald, TD Cowen and Compass Point say the $6.3 billion Binance hack is unlikely to derail the crypto market's recovery.",
+   "headline": "Experts divided over Binance hack asset freezes, warn recovery is another matter",
+   "blurb": "Tether, Circle and others moved within hours to block billions in stolen crypto, but legal experts question whether smaller victims would get the same protection.",
    "source": "CoinDesk",
-   "ts": "2026-10-30T14:13:34+00:00",
-   "url": "https://www.coindesk.com/markets/2026/10/30/wall-street-analysts-urge-investors-to-buy-crypto-stocks-on-weakness-after-usd6-3-billion-binance-hack"
+   "ts": "2026-10-30T19:55:00+00:00",
+   "url": "https://www.coindesk.com/business/2026/10/30/experts-divided-over-binance-hack-asset-freezes-warn-recovery-is-another-matter"
   },
   {
    "category": "Geopolitics",
-   "headline": "He questioned Thailand's monarchy dressed as Harry Potter. Now he's in jail for 34 years",
-   "blurb": "Thailand has prosecuted 294 people since 2020 under its lèse majesté law, with sentences going up to 50 years.",
+   "headline": "Trump's tariffs could shutter this Canadian town - its residents are fighting to save it",
+   "blurb": "A century-old paper mill in Témiscaming, Quebec is indefinitely closed after the US imposed 50% tariffs on its products, putting hundreds out of work.",
    "source": "BBC",
-   "ts": "2026-10-30T23:26:16+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cmjwepvd0qq9o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-31T02:39:25+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "City of London chief tops UK Black Powerlist",
-   "blurb": "Ian Thomas, who heads the City of London Corporation, tops the Black Powerlist in its 21st year.",
+   "headline": "US tech stocks see sharp falls as AI spending nears $1tn",
+   "blurb": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
    "source": "BBC",
-   "ts": "2026-10-30T18:00:24+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c98rz4pxm4ymo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-30T20:34:46+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Cancer crisis throws wild card into Iowa elections",
-   "blurb": "{beacon} Energy & Environment Energy & Environment The Big Story In Iowa elections, cancer crisis looms large Rising cancer rates and a potential link to farm pollution are causing a crisis in Iowa, throwing uncertainty into the midterm elections in the state that has shifted ruby red in recent years. © Abel Uribe, Chicago...",
+   "headline": "Ukraine gets approval for Patriot missile sale",
+   "blurb": "Presented by Palantir {beacon} Defense &National Security Defense &National Security The Big Story Ukraine gets approval for Patriot missile sale The State Department approved on Friday a possible $2.1 billion sale of 500 Patriot interceptor missiles to Ukraine that is funded entirely by U.S. partners and allies. © Getty The Trump administration greenlit the...",
    "source": "The Hill",
-   "ts": "2026-10-30T22:52:38+00:00",
-   "url": "https://thehill.com/newsletters/energy-environment/6185673-cancer-crisis-throws-wildcard-into-iowa-elections/"
+   "ts": "2026-10-31T00:36:42+00:00",
+   "url": "https://thehill.com/newsletters/defense-national-security/6185817-us-approves-ukraine-patriot-missiles/"
   },
   {
    "category": "India Politics",
-   "headline": "SAD will establish ‘Build Punjab’ department, says Badal",
-   "blurb": "“We will allow industrialists to install their own solar power plants which would bring down their power rates to ₹1.50 per unit,” Sukhbir Singh Badal said",
+   "headline": "Tamil Nadu Congress, VCK mobilise cadres for Nov. 1 INDIA bloc protest in New Delhi",
+   "blurb": "“We expect more than five lakh Congress cadres to participate. From Tamil Nadu, we are expecting at least 100 party workers to reach New Delhi from each district,” says MP R. Sudha",
    "source": "The Hindu",
-   "ts": "2026-10-30T23:45:29+00:00",
-   "url": "https://www.thehindu.com/news/national/punjab/sad-will-establish-build-punjab-department-says-badal/article71645471.ece"
+   "ts": "2026-10-31T06:48:48+00:00",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-congress-vck-mobilise-cadres-for-nov-1-india-bloc-protest-in-new-delhi/article71646455.ece"
   },
   {
    "category": "AI",
@@ -196,43 +196,43 @@
   },
   {
    "category": "Crypto",
-   "headline": "Binance arranges $6.34 billion to cover losses from record crypto hack",
-   "blurb": "Binance said it reserved its own funds to cover the $6.3 billion hack, including freezes of roughly $3 billion in stolen assets.",
+   "headline": "Binance uncovers wider breach in $6.3 billion exploit, targets Sunday withdrawal restart",
+   "blurb": "CEO Richard Teng said hackers erased evidence and bypassed security checks. Binance plans to publish its proof of reserves Monday.",
    "source": "CoinDesk",
-   "ts": "2026-10-30T12:13:02+00:00",
-   "url": "https://www.coindesk.com/business/2026/10/30/binance-arranges-usd6-34-billion-to-cover-losses-from-record-crypto-hack"
+   "ts": "2026-10-30T16:31:17+00:00",
+   "url": "https://www.coindesk.com/tech/2026/10/30/binance-uncovers-wider-breach-in-usd6-3-billion-exploit-targets-sunday-withdrawal-restart"
   },
   {
    "category": "Geopolitics",
-   "headline": "How has the ceasefire in Russian-occupied Oleshky been unfolding?",
-   "blurb": "Ukraine correspondent Dan Johnson explains the temporary ceasefire in the devastated town of Oleshky.",
+   "headline": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+   "blurb": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
    "source": "BBC",
-   "ts": "2026-10-30T23:19:17+00:00",
-   "url": "https://www.bbc.co.uk/news/videos/cmp3gp2vg078o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-31T02:12:19+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Binance's $6.3bn crypto hack biggest in history",
-   "blurb": "Cryptocurrency giant Binance said on Thursday that $6.3bn (£4.7bn) of digital assets have been impacted by what is thought to be the biggest crypto hack on record.",
+   "headline": "City of London chief tops UK Black Powerlist",
+   "blurb": "Ian Thomas, who heads the City of London Corporation, tops the Black Powerlist in its 21st year.",
    "source": "BBC",
-   "ts": "2026-10-30T17:41:10+00:00",
-   "url": "https://www.bbc.co.uk/news/videos/c6m2dpz0yxn8o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-30T18:00:24+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c98rz4pxm4ymo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Feds 'intensely' probing alleged Alaska ballot scheme, US attorney confirms",
-   "blurb": "Federal authorities are investigating whether Democrat Mary Peltola's campaign's reported effort to recruit a candidate in the Alaska Senate race with the same name as incumbent Sen. Dan Sullivan (R) violated the law, the state’s top federal prosecutor announced Friday. U.S. Attorney for the District of Alaska Michael Heyman said during a press conference that...",
+   "headline": "Trump says Iran war will end 'soon'",
+   "blurb": "Presented by Palantir {beacon} Defense &National Security Defense &National Security The Big Story Trump says Iran war will end 'soon' President Trump claimed on Friday that the U.S. war against Iran will end \"soon\" as he mulls authorizing military strikes on the Islamic Republic following the November midterm elections. © Jon Cherry, Associated Press...",
    "source": "The Hill",
-   "ts": "2026-10-30T22:43:55+00:00",
-   "url": "https://thehill.com/homenews/campaign/6185640-alaska-senate-spoiler-probe/"
+   "ts": "2026-10-31T00:21:53+00:00",
+   "url": "https://thehill.com/newsletters/defense-national-security/6185808-trump-iran-war-ending-soon/"
   },
   {
    "category": "India Politics",
-   "headline": "The great escape from Theni jail",
-   "blurb": "On October 26, a group of 17 remand prisoners hatched a plan to escape from the Theni district jail under the cover of darkness. All of them were apprehended within 42 hours in a massive search operation involving various Tamil Nadu police teams and drones. But the jailbreak has raised larger questions about prison overcrowding, staff shortages, security, and the need for reform, reports L. Srikrishna",
+   "headline": "Operation underway to recover bodies from remote chopper crash site in Uttarakhand",
+   "blurb": "A team from the forest department, Aircraft Accident Investigation Bureau officials, a DGCA team have all been dispatched to the crash site",
    "source": "The Hindu",
-   "ts": "2026-10-30T23:26:40+00:00",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/the-great-escape-from-tamil-nadus-theni-jail/article71645449.ece"
+   "ts": "2026-10-31T06:47:07+00:00",
+   "url": "https://www.thehindu.com/news/national/uttarakhand/uttarakhand-badrinath-helicopter-crash-rescue-operations-updates-october-31-2026/article71648464.ece"
   },
   {
    "category": "AI",
@@ -252,43 +252,43 @@
   },
   {
    "category": "Crypto",
-   "headline": "Here's how big bitcoin traders responded after the Binance hack hit",
-   "blurb": "Your day-ahead look for Oct. 30, 2026",
+   "headline": "Wall Street analysts urge investors to buy crypto stocks after $6.3 billion Binance hack",
+   "blurb": "Analysts at Cantor Fitzgerald, TD Cowen and Compass Point say the $6.3 billion Binance hack is unlikely to derail the crypto market's recovery.",
    "source": "CoinDesk",
-   "ts": "2026-10-30T11:51:26+00:00",
-   "url": "https://www.coindesk.com/daybook-us/2026/10/30/here-s-how-big-bitcoin-traders-responded-after-the-binance-hack-hit"
+   "ts": "2026-10-30T14:13:34+00:00",
+   "url": "https://www.coindesk.com/markets/2026/10/30/wall-street-analysts-urge-investors-to-buy-crypto-stocks-on-weakness-after-usd6-3-billion-binance-hack"
   },
   {
    "category": "Geopolitics",
-   "headline": "US approves sale of 500 Patriot missiles to Ukraine",
-   "blurb": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
+   "headline": "The Indian chef who brought curry to America - then vanished",
+   "blurb": "Indian chef Ranji Smile opened America’s first Indian restaurant in 1901 - then became a fake prince.",
    "source": "BBC",
-   "ts": "2026-10-30T22:20:52+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-31T02:02:16+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/crm941n0413o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Yorkshire Water boss resigns after firm downgraded",
-   "blurb": "Nicola Shaw, who has led the company since 2022, will step down in January, it is announced.",
+   "headline": "Binance's $6.3bn crypto hack biggest in history",
+   "blurb": "Cryptocurrency giant Binance said on Thursday that $6.3bn (£4.7bn) of digital assets have been impacted by what is thought to be the biggest crypto hack on record.",
    "source": "BBC",
-   "ts": "2026-10-30T16:04:55+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/ckzd623pldqgo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-30T17:41:10+00:00",
+   "url": "https://www.bbc.co.uk/news/videos/c6m2dpz0yxn8o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Time to set back the clocks, much to Trump’s chagrin",
-   "blurb": "Tick tock – clocks in America will fall back this Sunday. It could be the last time, if President Trump and some like-minded lawmakers get their way. But the debate over making daylight saving time permanent has proven divisive even within the president’s party. The House passed the Sunshine Protection Act earlier this year, which...",
+   "headline": "RNC chair predicts GOP Senate wins in Alaska, Texas, 3 other battlegrounds",
+   "blurb": "Republican National Committee (RNC) Chair Joe Gruters remained optimistic Friday evening about his party’s chances in next week's midterms, predicting big wins in key battleground states despite troubling polling numbers for the GOP. Gruters told NewsNation’s Blake Burman he expects Republicans will win Senate races in Maine, Texas, Ohio and Alaska — all of which...",
    "source": "The Hill",
-   "ts": "2026-10-30T22:43:31+00:00",
-   "url": "https://thehill.com/homenews/administration/6184682-trump-daylight-saving-clocks-fallback/"
+   "ts": "2026-10-30T23:42:47+00:00",
+   "url": "https://thehill.com/homenews/campaign/6185743-rnc-chair-predicts-midterm-wins/"
   },
   {
    "category": "India Politics",
-   "headline": "Heavy polling in second phase panchayat elections for Sarpanch, Ward Panch in Rajasthan",
-   "blurb": "The highest voter turnout was recorded at 84.37% in Jaipur district’s Rampura Dabri",
+   "headline": "ABVP holds ‘Save Democracy’ march in Patna amid SIR row",
+   "blurb": "ABVP National Secretary Abhay Pratap Singh said that in a democracy, governments change through ballots, not mob rule. He added that attempts to pressurise constitutional institutions are unacceptable",
    "source": "The Hindu",
-   "ts": "2026-10-30T22:09:43+00:00",
-   "url": "https://www.thehindu.com/news/national/rajasthan/heavy-polling-in-second-phase-panchayat-elections-for-sarpanch-ward-panch-in-rajasthan/article71645952.ece"
+   "ts": "2026-10-31T06:45:25+00:00",
+   "url": "https://www.thehindu.com/news/national/bihar/abvp-protest-in-patna-bihar-save-democracy-sir-row/article71645389.ece"
   },
   {
    "category": "AI",
@@ -308,43 +308,43 @@
   },
   {
    "category": "Crypto",
-   "headline": "Here’s how an Ethereum upgrade helped drain part of Binance’s $6 billion loss",
-   "blurb": "On Ethereum, the attacker used a 2025 upgrade built to make ordinary wallets smarter, armed with 50 signatures from Binance's own wallet.",
+   "headline": "Binance arranges $6.34 billion to cover losses from record crypto hack",
+   "blurb": "Binance said it reserved its own funds to cover the $6.3 billion hack, including freezes of roughly $3 billion in stolen assets.",
    "source": "CoinDesk",
-   "ts": "2026-10-30T11:35:16+00:00",
-   "url": "https://www.coindesk.com/tech/2026/10/30/here-s-how-one-ethereum-permission-let-an-attacker-drain-usd2-5-billion-from-binance"
+   "ts": "2026-10-30T12:13:02+00:00",
+   "url": "https://www.coindesk.com/business/2026/10/30/binance-arranges-usd6-34-billion-to-cover-losses-from-record-crypto-hack"
   },
   {
    "category": "Geopolitics",
-   "headline": "G20 'family photo' cancelled after protests over presence of Russian minister",
-   "blurb": "UK Foreign Secretary Ed Miliband confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine.",
+   "headline": "Responsible or panicked? Meet the people around the world already preparing for crisis",
+   "blurb": "Filter straws to a disposable toilet - people in the US, Japan, Sweden and Netherlands on what's in their emergency stashes.",
    "source": "BBC",
-   "ts": "2026-10-30T22:11:52+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-31T01:32:33+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/ckreypn92w49o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "What we know about Binance's $6.3bn hack",
-   "blurb": "Cyber correspondent Joe Tidy explains more about what is suspected to be the biggest hack in history.",
+   "headline": "Yorkshire Water boss resigns after firm downgraded",
+   "blurb": "Nicola Shaw, who has led the company since 2022, will step down in January, it is announced.",
    "source": "BBC",
-   "ts": "2026-10-30T12:27:28+00:00",
-   "url": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-30T16:04:55+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/ckzd623pldqgo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "FDA unveils proposals to update infant formula nutrient requirements",
-   "blurb": "Presented by Alliance for Aging Research {beacon} Health Care Health Care PRESENTED BY The Big Story FDA unveils proposals to update infant formula nutrient requirements The Food and Drug Administration is proposing to update nutrient requirements for infant formula, the first nutrition review for formula in nearly 30 years. © AP Photo/David J. Phillip...",
+   "headline": "Democrats weigh Israel election results amid lingering uncertainty",
+   "blurb": "The results of Israel’s elections this week have left Democrats on Capitol Hill with a mixed bag of emotions. The lawmakers say they’re heartened by the massive voter turnout, the erosion of support for conservative Prime Minister Benjamin Netanyahu, and the potential influence of his top opponent, retired Gen. Gadi Eisenkot, over whatever governing coalition...",
    "source": "The Hill",
-   "ts": "2026-10-30T22:40:32+00:00",
-   "url": "https://thehill.com/newsletters/healthcare/6185641-fda-unveils-proposals-to-update-infant-formula-nutrient-requirements/"
+   "ts": "2026-10-30T23:03:02+00:00",
+   "url": "https://thehill.com/homenews/house/6185584-democrats-react-israel-elections/"
   },
   {
    "category": "India Politics",
-   "headline": "On JD(U) 23rd foundation day, party gives credit to Nitish for Bihar’s development",
-   "blurb": "JD(U) State president pointed out that while the term “Bihari” had become synonymous with contempt and neglect before 2005, Nitish Kumar, through his efforts, restored honour and self-respect to Bihar and its people",
+   "headline": "Two militants held for 'involvement' in kidnapping of woman in Manipur",
+   "blurb": "\"They have been suspected of being involved in the kidnapping of a woman from Top Awang Leikai in Imphal East district on September 3,\" says police",
    "source": "The Hindu",
-   "ts": "2026-10-30T22:02:50+00:00",
-   "url": "https://www.thehindu.com/news/national/bihar/on-jdu-23rd-foundation-day-party-gives-credit-to-nitish-for-bihars-development/article71645034.ece"
+   "ts": "2026-10-31T06:45:19+00:00",
+   "url": "https://www.thehindu.com/news/national/manipur/two-militants-held-for-involvement-in-kidnapping-of-woman-in-manipur/article71648440.ece"
   },
   {
    "category": "AI",
@@ -364,43 +364,43 @@
   },
   {
    "category": "Crypto",
-   "headline": "Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether lower",
-   "blurb": "Bitcoin traded near $77,350 after $6.3 billion Binance hack, with crypto futures liquidations jumping to $1.57 billion.",
+   "headline": "Here's how big bitcoin traders responded after the Binance hack hit",
+   "blurb": "Your day-ahead look for Oct. 30, 2026",
    "source": "CoinDesk",
-   "ts": "2026-10-30T11:09:24+00:00",
-   "url": "https://www.coindesk.com/markets/2026/10/30/crypto-liquidations-jump-to-usd1-57-billion-as-binance-hack-sends-bitcoin-ether-lower"
+   "ts": "2026-10-30T11:51:26+00:00",
+   "url": "https://www.coindesk.com/daybook-us/2026/10/30/here-s-how-big-bitcoin-traders-responded-after-the-binance-hack-hit"
   },
   {
    "category": "Geopolitics",
-   "headline": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-   "blurb": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+   "headline": "Global nature talks reach deal but money remains an issue",
+   "blurb": "Countries have been trying to get a global agreement to halt nature decline back on track.",
    "source": "BBC",
-   "ts": "2026-10-30T21:13:14+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-31T01:27:05+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Google value plunges by $500bn as its own AI search hits ad sales",
-   "blurb": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI own search summaries were affecting ad revenue.",
+   "headline": "What we know about Binance's $6.3bn hack",
+   "blurb": "Cyber correspondent Joe Tidy explains more about what is suspected to be the biggest hack in history.",
    "source": "BBC",
-   "ts": "2026-10-30T12:04:02+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-30T12:27:28+00:00",
+   "url": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Cruz warns GOP could lose 8 Senate seats, get swept in Texas",
-   "blurb": "Sen. Ted Cruz (R-Texas) is warning that Republicans could lose as many as eight Senate seats in the midterm elections and get swept in all of the statewide Texas races, including the Senate contest between Republican Ken Paxton and Democrat James Talarico, if the GOP has a bad day on Nov. 3. “The election is...",
+   "headline": "Cancer crisis throws wild card into Iowa elections",
+   "blurb": "{beacon} Energy & Environment Energy & Environment The Big Story In Iowa elections, cancer crisis looms large Rising cancer rates and a potential link to farm pollution are causing a crisis in Iowa, throwing uncertainty into the midterm elections in the state that has shifted ruby red in recent years. © Abel Uribe, Chicago...",
    "source": "The Hill",
-   "ts": "2026-10-30T22:02:32+00:00",
-   "url": "https://thehill.com/homenews/senate/6185545-ted-cruz-warns-gop-losses/"
+   "ts": "2026-10-30T22:52:38+00:00",
+   "url": "https://thehill.com/newsletters/energy-environment/6185673-cancer-crisis-throws-wildcard-into-iowa-elections/"
   },
   {
    "category": "India Politics",
-   "headline": "Deeply distressing to see ambulances stranded, students missing classes during convoy movement in Kashmir: Sakina Itoo",
-   "blurb": "Sakina Ittoo appealed to L-G Sinha “to explore practical traffic management measures that uphold essential security protocols while ensuring uninterrupted passage for ambulances and minimising public inconvenience.”",
+   "headline": "Jadu, lone rhino at Thiruvananthapuram zoo, dead",
+   "blurb": "The rhino, affectionately called Shambhu by zoo staff, was 39",
    "source": "The Hindu",
-   "ts": "2026-10-30T21:12:39+00:00",
-   "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/deeply-distressing-to-see-ambulances-stranded-students-missing-classes-during-convoy-movement-in-kashmirsakina-itoo/article71646375.ece"
+   "ts": "2026-10-31T06:41:20+00:00",
+   "url": "https://www.thehindu.com/news/national/kerala/jadu-lone-rhino-at-thiruvananthapuram-zoo-dead/article71648414.ece"
   },
   {
    "category": "AI",
@@ -420,43 +420,43 @@
   },
   {
    "category": "Crypto",
-   "headline": "Strategy CFO Andrew Kang resigns as company posts record operating profit",
-   "blurb": "Andrew Kang’s departure comes as Strategy reports $21 billion in quarterly operating income and bitcoin holdings of 848,517 BTC.",
+   "headline": "Here’s how an Ethereum upgrade helped drain part of Binance’s $6 billion loss",
+   "blurb": "On Ethereum, the attacker used a 2025 upgrade built to make ordinary wallets smarter, armed with 50 signatures from Binance's own wallet.",
    "source": "CoinDesk",
-   "ts": "2026-10-30T09:41:07+00:00",
-   "url": "https://www.coindesk.com/markets/2026/10/30/strategy-cfo-resigns-as-company-posts-record-quarterly-profit-mstr-stock-falls-6"
+   "ts": "2026-10-30T11:35:16+00:00",
+   "url": "https://www.coindesk.com/tech/2026/10/30/here-s-how-one-ethereum-permission-let-an-attacker-drain-usd2-5-billion-from-binance"
   },
   {
    "category": "Geopolitics",
    "headline": "Police deployed during stand-off over control of top Poland court",
    "blurb": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
    "source": "BBC",
-   "ts": "2026-10-30T20:52:01+00:00",
+   "ts": "2026-10-31T01:11:43+00:00",
    "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Streeting denies 'kicking can down the road' in defence spending row",
-   "blurb": "The government is under pressure to set out a path to greater defence spending, as ministers unveil plans to boost UK firms.",
+   "headline": "Google value plunges by $500bn as its own AI search hits ad sales",
+   "blurb": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI own search summaries were affecting ad revenue.",
    "source": "BBC",
-   "ts": "2026-10-30T11:23:38+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cw62yrzxjnk4o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-30T12:04:02+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Treasury Department says Iran's economy cratering, inflation at 90 percent",
-   "blurb": "The U.S.’s economic isolation campaign against Iran is “decimating” the country’s economy, according to a Treasury Department report released Friday. The Trump administration launched its sweeping economic pressure campaign, dubbed Operation Economic Outcast, at the end of August. During a Wednesday appearance on CNBC, Treasury Secretary Scott Bessent said the effort has been “very successful.”...",
+   "headline": "Feds 'intensely' probing alleged Alaska ballot scheme, US attorney confirms",
+   "blurb": "Federal authorities are investigating whether Democrat Mary Peltola's campaign's reported effort to recruit a candidate in the Alaska Senate race with the same name as incumbent Sen. Dan Sullivan (R) violated the law, the state’s top federal prosecutor announced Friday. U.S. Attorney for the District of Alaska Michael Heyman said during a press conference that...",
    "source": "The Hill",
-   "ts": "2026-10-30T21:53:20+00:00",
-   "url": "https://thehill.com/policy/international/6185517-bessent-iran-operation-economic-outcast-impact/"
+   "ts": "2026-10-30T22:43:55+00:00",
+   "url": "https://thehill.com/homenews/campaign/6185640-alaska-senate-spoiler-probe/"
   },
   {
    "category": "India Politics",
-   "headline": "17 NC MLAs issue 15-day ultimatum to address ‘coterie culture’, other issues in party",
-   "blurb": "Four-hour meeting of the 17 NC legislators in Srinagar comes three days after party vice-president and J&K CM Omar Abdullah expanded the Cabinet, leaving several leaders disgruntled at not being given a berth",
+   "headline": "Karnataka places three-year moratorium on permission for new private PU colleges",
+   "blurb": "The decision to restrict opening of new colleges comes in the backdrop of the number of seats available in I PU increasing every year, outpacing the number of students passing SSLC exams",
    "source": "The Hindu",
-   "ts": "2026-10-30T20:48:34+00:00",
-   "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/17-nc-mlas-issue-15-day-ultimatum-to-address-coterie-culture-other-issues-in-party/article71646586.ece"
+   "ts": "2026-10-31T06:40:15+00:00",
+   "url": "https://www.thehindu.com/news/national/karnataka/karnataka-places-three-year-moratorium-on-permission-for-new-private-pu-colleges/article71645452.ece"
   },
   {
    "category": "AI",
