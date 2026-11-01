@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T16:44:10+00:00",
+ "updated": "2026-11-01T21:04:36+00:00",
  "count": 58,
  "stories": [
   {
@@ -12,11 +12,11 @@
   },
   {
    "category": "Crypto",
-   "headline": "The key races to watch for the 2026 election",
-   "blurb": "While crypto isn't a major issue in the 2026 election, the industry will be shaped by who takes office in January. Here are the main races CoinDesk is tracking.",
+   "headline": "The crypto reader's guide to the 2026 midterm election: State of Crypto",
+   "blurb": "America is going to the polls, and the results will shape crypto legislation and regulation over the next two years. Here's what to know.",
    "source": "CoinDesk",
-   "ts": "2026-11-01T15:00:00+00:00",
-   "url": "https://www.coindesk.com/policy/2026/11/01/the-key-races-to-watch-for-the-2026-election"
+   "ts": "2026-11-01T19:30:00+00:00",
+   "url": "https://www.coindesk.com/policy/2026/11/01/the-crypto-reader-s-guide-to-the-2026-midterm-election-state-of-crypto"
   },
   {
    "category": "Gold",
@@ -28,35 +28,35 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-   "blurb": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
+   "headline": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire expires",
+   "blurb": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.",
    "source": "BBC",
-   "ts": "2026-11-01T13:11:37+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-01T21:01:58+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Energy bills help 'doesn't go far enough'",
-   "blurb": "Families in the West Midlands say they are worried about paying winter energy bills.",
+   "headline": "Thousands of jobs at Virgin Media O2 to be cut",
+   "blurb": "The broadband provider has not finalised the number of roles to be axed but it will likely be a sizeable chunk of its workforce, the BBC understands.",
    "source": "BBC",
-   "ts": "2026-11-01T07:15:06+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cqgkvpnj7l7yo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-01T16:57:14+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Trump calls Alina Habba Milton’s $50M deal ‘obnoxious’",
-   "blurb": "President Trump called his former lawyer Alina Habba Mildon's alleged $50 million deal for a presidential pardon \"obnoxious and outrageous.” While at a Halloween party at Mar-a-Lago in Florida, Trump had some harsh words for Mildon, who was accused in a recent New York Times report of accepting a deal worth $50 million from Venezuelan...",
+   "headline": "RNC chair says Republicans have voter turnout problem",
+   "blurb": "Republican National Committee (RNC) chair Joe Gruters acknowledged that Republicans are facing issues with voter turnout amid heightened pressure for the GOP to maintain control of Congress. “Is there a turnout problem for Republicans?” NewsNation’s Chris Stirewalt asked Gruters on \"The Hill Sunday.\" “Yes, but Democrats tend to turn out early. We tend to vote...",
    "source": "The Hill",
-   "ts": "2026-11-01T16:12:08+00:00",
-   "url": "https://thehill.com/homenews/administration/6186814-trump-calls-habba-pay-outrageous/"
+   "ts": "2026-11-01T20:01:02+00:00",
+   "url": "https://thehill.com/homenews/campaign/6187168-rnc-acknowledges-voter-turnout-issues/"
   },
   {
    "category": "India Politics",
-   "headline": "West Bengal CM promises CAA certificates to 2.5 lakh Matuas by end of 2026",
-   "blurb": "During his first visit to Thakurbari in North 24 Parganas after taking up the office of Chief Minister, Suvendu Adhikari says West Bengal would have turned into Bangladesh had the BJP not come to power in 2026",
+   "headline": "Even as unemployment falls, lack of ‘decent work’ in India",
+   "blurb": "Poor-quality employment generation has consequences for economic growth; workers without social security spend less, save less and remain vulnerable to economic shocks",
    "source": "The Hindu",
-   "ts": "2026-11-01T16:37:21+00:00",
-   "url": "https://www.thehindu.com/news/national/west-bengal/suvendu-adhikari-accuses-mamata-banerjee-of-dividing-matuas-and-opposing-caa/article71652508.ece"
+   "ts": "2026-11-01T19:27:03+00:00",
+   "url": "https://www.thehindu.com/opinion/lead/even-as-unemployment-falls-lack-of-decent-work-in-india/article71653971.ece"
   },
   {
    "category": "AI",
@@ -76,11 +76,11 @@
   },
   {
    "category": "Crypto",
-   "headline": "Crypto card startups are racking up losses just to buy your loyalty with big rewards",
-   "blurb": "Providers are betting trading, lending and staking revenue can cover rewards and turn card users into profitable customers.",
+   "headline": "AI agents bypassed crypto spending limits without human approval, researchers find in a new test",
+   "blurb": "The researchers say any approval an agent can reach is unreliable, and they built Countersign, an app tying approval to a physical action the agent can’t fake.",
    "source": "CoinDesk",
-   "ts": "2026-11-01T15:00:00+00:00",
-   "url": "https://www.coindesk.com/business/2026/11/01/crypto-card-startups-are-racking-up-losses-just-to-buy-your-loyalty-with-big-rewards"
+   "ts": "2026-11-01T17:00:00+00:00",
+   "url": "https://www.coindesk.com/tech/2026/11/01/ai-agents-bypassed-crypto-spending-limits-without-human-approval-researchers-find-in-a-new-test"
   },
   {
    "category": "Gold",
@@ -92,6 +92,14 @@
   },
   {
    "category": "Geopolitics",
+   "headline": "Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates",
+   "blurb": "Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, endorses his opponent days before the vote.",
+   "source": "BBC",
+   "ts": "2026-11-01T20:11:26+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "category": "Macro",
    "headline": "Shops looted as German cost-of-living protests turn violent",
    "blurb": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
    "source": "BBC",
@@ -99,28 +107,20 @@
    "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss"
   },
   {
-   "category": "Macro",
-   "headline": "Diwali hampers to bring hope to families in need",
-   "blurb": "The Diwali Basket Brigade volunteers want to help vulnerable households with rising food prices.",
-   "source": "BBC",
-   "ts": "2026-11-01T07:11:33+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cm20wyg8j121o?at_medium=RSS&at_campaign=rss"
-  },
-  {
    "category": "US Politics",
-   "headline": "A test of tradition: Should universities cut ties with fraternities?",
-   "blurb": "Why do colleges continue to recognize and accommodate organizations whose traditions and practices repeatedly generate concerns about student safety, accountability and exclusion?",
+   "headline": "RNC says 'Michigan should take notice' of Stevens endorsing Rogers",
+   "blurb": "The Republican National Committee (RNC) on Sunday said Michigan \"should take notice\" of Rep. Haley Stevens's (D-Mich.) endorsement of her former opponent in the Michigan Senate race Republican Mike Rogers. \"When Congresswoman Haley Stevens, who ran against Abdul El-Sayed and knows him better than anyone, stands with Mike Rogers, Michigan should take notice,\" RNC spokesperson...",
    "source": "The Hill",
-   "ts": "2026-11-01T16:00:00+00:00",
-   "url": "https://thehill.com/opinion/education/6184255-questioning-college-fraternities-purpose/"
+   "ts": "2026-11-01T20:00:39+00:00",
+   "url": "https://thehill.com/homenews/campaign/6187095-rnc-rogers-receives-stevens-support/"
   },
   {
    "category": "India Politics",
-   "headline": "Jayarajan accuses UDF government of using KIIFB probe to stall development",
-   "blurb": "Says Vigilance probe selectively targets land acquisition in Kannur despite similar procedures in Palakkad; claims projects worth over ₹40,000 crore have been completed through KIIFB; warns investigation could jeopardise proposed projects, including industrial park near Kannur airport",
+   "headline": "Slow recovery: On the ISRO’s GSLV-F18 mission",
+   "blurb": "ISRO needs more human and material resources to fulfil its mandate",
    "source": "The Hindu",
-   "ts": "2026-11-01T16:36:35+00:00",
-   "url": "https://www.thehindu.com/news/national/kerala/jayarajan-accuses-udf-government-of-using-kiifb-probe-to-stall-development/article71652419.ece"
+   "ts": "2026-11-01T19:23:27+00:00",
+   "url": "https://www.thehindu.com/opinion/editorial/the-hindu-editorial-november-2-2026-slow-recovery-on-the-isros-gslv-f18-mission/article71654004.ece"
   },
   {
    "category": "AI",
@@ -140,43 +140,43 @@
   },
   {
    "category": "Crypto",
-   "headline": "Crypto PACs made big Republican push in final weeks before November 3 election",
-   "blurb": "Even as polling and online wagers put Democrats at a high chance to claim greater power in Congress, the industry's high-profile support has gone the other direction.",
+   "headline": "The key races to watch for the 2026 election",
+   "blurb": "While crypto isn't a major issue in the 2026 election, the industry will be shaped by who takes office in January. Here are the main races CoinDesk is tracking.",
    "source": "CoinDesk",
-   "ts": "2026-11-01T14:00:00+00:00",
-   "url": "https://www.coindesk.com/policy/2026/11/01/crypto-pacs-made-big-republican-push-in-final-weeks-before-november-3-election"
+   "ts": "2026-11-01T15:00:00+00:00",
+   "url": "https://www.coindesk.com/policy/2026/11/01/the-key-races-to-watch-for-the-2026-election"
   },
   {
    "category": "Geopolitics",
-   "headline": "India's opposition holds mega rally seeking election chief's resignation",
-   "blurb": "Thousands gathered in the heart of delhi, calling for the chief election commissioner to step down.",
+   "headline": "Peaceful protests in Germany spiral into violence and looting",
+   "blurb": "Thousands joined largely orderly demonstrations earlier in the day, before violence erupted in Frankfurt, Berlin, Cologne and Hamburg.",
    "source": "BBC",
-   "ts": "2026-11-01T07:00:55+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-01T18:51:56+00:00",
+   "url": "https://www.bbc.co.uk/news/videos/cqgm0der7zkmo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "No more washing up: How Airbnb's new house rules have divided hosts and guests",
-   "blurb": "Airbnb hosts must stop asking guests to wash-up or take out bins under rules coming into force in November.",
+   "headline": "Energy bills help 'doesn't go far enough'",
+   "blurb": "Families in the West Midlands say they are worried about paying winter energy bills.",
    "source": "BBC",
-   "ts": "2026-11-01T00:17:05+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/ckjwez8g5dyeo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-01T07:15:06+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cqgkvpnj7l7yo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Why you can't wear, bring political gear to a polling place in these states",
-   "blurb": "States have different guidance regarding electioneering at or near a polling place.",
+   "headline": "Trump commends Stevens' 'bravery' for endorsing Rogers",
+   "blurb": "President Trump on Sunday commended Rep. Haley Stevens (D-Mich.) for her endorsement of GOP Senate candidate former Rep. Mike Rogers (Mich.). “Wow, this is BIG! Congresswoman Haley Stevens, a Highly Respected Democrat, who narrowly lost in the Primary to Abdul Mohamed El-Sayed, and who has been breathlessly wined and dined by the Dumocrats to help...",
    "source": "The Hill",
-   "ts": "2026-11-01T16:00:00+00:00",
-   "url": "https://thehill.com/homenews/state-watch/6159011-why-you-cant-wear-bring-political-gear-to-a-polling-place-in-these-states/"
+   "ts": "2026-11-01T19:52:39+00:00",
+   "url": "https://thehill.com/homenews/campaign/6187175-trump-praises-stevens-gop-endorsement/"
   },
   {
    "category": "India Politics",
-   "headline": "‘You can break a stick, not a bundle’: Thousands turn up for INDIA bloc rally from across the country",
-   "blurb": "Citizens, youth groups, farmers and political party workers gather ahead of the Ramlila Maidan rally, saying a united movement is needed to fight alleged vote theft and electoral roll irregularities",
+   "headline": "Dwindling support: On the U.S. and the Cuban embargo",
+   "blurb": "India and the world must stand up against the bullying of Cuba by the U.S.",
    "source": "The Hindu",
-   "ts": "2026-11-01T16:34:45+00:00",
-   "url": "https://www.thehindu.com/news/national/you-can-break-a-stick-not-a-bundle-from-an-it-couple-to-a-hospital-patient-citizens-turn-up-for-india-bloc-rally/article71652556.ece"
+   "ts": "2026-11-01T19:16:50+00:00",
+   "url": "https://www.thehindu.com/opinion/editorial/the-hindu-editorial-dwindling-support-on-the-us-and-the-cuban-embargo/article71654007.ece"
   },
   {
    "category": "AI",
@@ -196,43 +196,43 @@
   },
   {
    "category": "Crypto",
-   "headline": "Sherrod Brown's Ohio edge threatens a rough go for crypto next year",
-   "blurb": "The industry's $63 million question revolves around whether its political adversary in Ohio rides the Trump backlash back into the Senate.",
+   "headline": "Crypto card startups are racking up losses just to buy your loyalty with big rewards",
+   "blurb": "Providers are betting trading, lending and staking revenue can cover rewards and turn card users into profitable customers.",
    "source": "CoinDesk",
-   "ts": "2026-11-01T13:00:00+00:00",
-   "url": "https://www.coindesk.com/news-analysis/2026/11/01/sherrod-brown-s-ohio-edge-threatens-a-rough-go-for-crypto-next-year"
+   "ts": "2026-11-01T15:00:00+00:00",
+   "url": "https://www.coindesk.com/business/2026/11/01/crypto-card-startups-are-racking-up-losses-just-to-buy-your-loyalty-with-big-rewards"
   },
   {
    "category": "Geopolitics",
-   "headline": "Democrats are used to heartbreak in Texas - could Talarico turn the tide?",
-   "blurb": "The state's $500m Senate race may be the most closely watched in the US midterms, and is about far more than control of Congress.",
+   "headline": "Armed police start patrols in Sydney after Bondi Beach attack",
+   "blurb": "The new police unit is a security measure in response to last year's deadly shooting attack at a Hanukkah festival.",
    "source": "BBC",
-   "ts": "2026-11-01T06:03:57+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cmy0r2y6zeddo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-01T17:56:47+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Soaring cost of Halloween treats spooks shoppers",
-   "blurb": "The price of candy, especially chocolate, is up, and Halloween bargain hunters are searching for deals and ways to cut costs.",
+   "headline": "Diwali hampers to bring hope to families in need",
+   "blurb": "The Diwali Basket Brigade volunteers want to help vulnerable households with rising food prices.",
    "source": "BBC",
-   "ts": "2026-10-30T21:34:32+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cr0qk25p1yeno?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-01T07:11:33+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cm20wyg8j121o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Live updates: Democrats hold 'unity rally' in Michigan amid internal divisions; Trump campaigns in Kansas, Iowa",
-   "blurb": "The final weekend of campaigning ahead of Tuesday's midterm elections comes to a close on Sunday, with Democrats and Republicans making a final push as control of Congress hangs in the balance. Decision Desk HQ, a partner of The Hill, currently favors Democrats to retake both chambers, giving them an 83 percent chance of securing...",
+   "headline": "Schumer calls Stevens's Rogers endorsement 'a despicable betrayal'",
+   "blurb": "Senate Minority Leader Chuck Schumer (D-N.Y.) ripped Rep. Haley Stevens (D-Mich.) over her eleventh hour endorsement of Republican Mike Rogers in the competitive Michigan Senate contest. \"This is a despicable betrayal from Rep. Stevens,\" Schumer wrote Sunday on the social platform X, reiterating his support for Democrat Abdul El-Sayed in the race. Schumer's remarks are...",
    "source": "The Hill",
-   "ts": "2026-11-01T15:52:08+00:00",
-   "url": "https://thehill.com/homenews/administration/6186601-live-updates-trump-kansas-iowa-democrats-unity-rally/"
+   "ts": "2026-11-01T19:48:32+00:00",
+   "url": "https://thehill.com/homenews/campaign/6187117-schumer-rips-stevens-rogers-endorsement/"
   },
   {
    "category": "India Politics",
-   "headline": "'Massive turnout at Ramlila Maidan,' says Congress; Rahul reiterates, 'Gyanesh will go to jail' | LIVE",
-   "blurb": "Union Home Minister Amit Shah said Delhi traders had repeatedly urged the Congress to postpone its November 1 rally until after Diwali, citing concerns over festival-season business",
+   "headline": "Cyclone Murasu LIVE update: Orange alert in six Telangana districts, yellow alert in five; holiday announced for schools, colleges in T.N., A.P. districts",
+   "blurb": "The cyclonic storm lay centred about 350 km east of Chennai, 400 km east-southeast of Nellore, 430 km southeast of Machilipatnam, 420 km east-southeast of Kavali, 450 km southeast of Ongole, and 520 km south of Visakhapatnam, according to IMD.",
    "source": "The Hindu",
-   "ts": "2026-11-01T16:34:17+00:00",
-   "url": "https://www.thehindu.com/news/national/india-bloc-mega-delhi-rally-cec-gyanesh-kumar-impeachment-anti-cec-protests-sir-row-live-updates-november-1-2026/article71651970.ece"
+   "ts": "2026-11-01T19:08:22+00:00",
+   "url": "https://www.thehindu.com/news/national/murasu-cyclone-live-updates-on-november-2-2026-tamil-nadu-telangana-andhra-pradesh-odisha/article71654226.ece"
   },
   {
    "category": "AI",
@@ -252,43 +252,43 @@
   },
   {
    "category": "Crypto",
-   "headline": "Binance opens crypto withdrawals in phases starting with bitcoin following $6.3 billion hack",
-   "blurb": "Binance reopens customer withdrawals following a record $6.3 billion exploit. Bitcoin leads the first phase.",
+   "headline": "Crypto PACs made big Republican push in final weeks before November 3 election",
+   "blurb": "Even as polling and online wagers put Democrats at a high chance to claim greater power in Congress, the industry's high-profile support has gone the other direction.",
    "source": "CoinDesk",
-   "ts": "2026-11-01T10:35:42+00:00",
-   "url": "https://www.coindesk.com/markets/2026/11/01/binance-opens-crypto-withdrawals-in-phases-starting-with-bitcoin-following-usd6-3-billion-hack"
+   "ts": "2026-11-01T14:00:00+00:00",
+   "url": "https://www.coindesk.com/policy/2026/11/01/crypto-pacs-made-big-republican-push-in-final-weeks-before-november-3-election"
   },
   {
    "category": "Geopolitics",
-   "headline": "Watch: Heidi Klum as giant severed hand for Halloween bash",
-   "blurb": "The supermodel and TV host provided a gory new shock at her New York event.",
+   "headline": "Lindsay Clancy is back in court - where will her case go next?",
+   "blurb": "The Massachusetts mother, accused of murdering her three children, is expected back in court as she awaits a decision on whether her case will be retried.",
    "source": "BBC",
-   "ts": "2026-11-01T05:26:02+00:00",
-   "url": "https://www.bbc.co.uk/news/videos/cj040yd1xdrlo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-01T17:29:08+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/ck3r5z3pw928o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-   "blurb": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+   "headline": "No more washing up: How Airbnb's new house rules have divided hosts and guests",
+   "blurb": "Airbnb hosts must stop asking guests to wash-up or take out bins under rules coming into force in November.",
    "source": "BBC",
-   "ts": "2026-10-30T21:13:14+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-01T00:17:05+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/ckjwez8g5dyeo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Sullivan: 'I’m going to accept the election results'",
-   "blurb": "Sen. Dan Sullivan (R-Alaska) said he would accept the election results of the upcoming 2026 elections, even if he lost, following a Justice Department (DOJ) lawsuit attempting to invalidate election results if his opponent, former Rep. Mary Peltola (D-Alaska), won. Appearing on CNN’s “State of the Union,” Sullivan was asked by host Jake Tapper if...",
+   "headline": "DNC chair defends El-Sayed, Peltola as Democrats brace for post-election legal fights",
+   "blurb": "Democratic National Committee (DNC) Chair Ken Martin defended Democratic Senate candidates Abdul El-Sayed and former Rep. Mary Peltola (D-Alaska) against recent GOP attacks amid growing concern the party will have to brace for post-election legal fights. “What Dr. El-Sayed has said is true. I mean, what most Michiganders care about is not all of this...",
    "source": "The Hill",
-   "ts": "2026-11-01T15:36:55+00:00",
-   "url": "https://thehill.com/homenews/senate/6186776-sullivan-accepts-alaska-election-results/"
+   "ts": "2026-11-01T19:42:36+00:00",
+   "url": "https://thehill.com/homenews/campaign/6187152-dnc-defends-michigan-alaska-candidates/"
   },
   {
    "category": "India Politics",
-   "headline": "KTR: KCR will come back to save farmers from Congress",
-   "blurb": "",
+   "headline": "Rebel leaders of AIADMK do not take part in district secretaries’ meeting chaired by Palaniswami",
+   "blurb": "The party’s performance in the recent bypoll in Dharapuram and Madurantakam Assembly constituencies, and preparations for its general council and executive committee meetings, expected to be conducted in December this year, were among the issues discussed at the meeting",
    "source": "The Hindu",
-   "ts": "2026-11-01T16:34:00+00:00",
-   "url": "https://www.thehindu.com/news/national/telangana/ktr-kcr-will-come-back-to-save-farmers-from-congress/article71653825.ece"
+   "ts": "2026-11-01T19:04:20+00:00",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/rebel-leaders-of-aiadmk-do-not-take-part-in-district-secretaries-meeting-chaired-by-palaniswami/article71652853.ece"
   },
   {
    "category": "AI",
@@ -308,43 +308,43 @@
   },
   {
    "category": "Crypto",
-   "headline": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
-   "blurb": "While the FBI listed hundreds of addresses in its notice, Chainalysis said the Binance attackers have already used \"thousands addresses,\" and expects this number to continue growing.",
+   "headline": "Sherrod Brown's Ohio edge threatens a rough go for crypto next year",
+   "blurb": "The industry's $63 million question revolves around whether its political adversary in Ohio rides the Trump backlash back into the Senate.",
    "source": "CoinDesk",
-   "ts": "2026-11-01T01:10:05+00:00",
-   "url": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses"
+   "ts": "2026-11-01T13:00:00+00:00",
+   "url": "https://www.coindesk.com/news-analysis/2026/11/01/sherrod-brown-s-ohio-edge-threatens-a-rough-go-for-crypto-next-year"
   },
   {
    "category": "Geopolitics",
-   "headline": "These firms you've never heard of are feeding fears the AI bubble could burst",
-   "blurb": "The amount of debt held by data centres is measured in the tens of billions of pounds.",
+   "headline": "Israeli strikes in Gaza kill eight including child, hospitals say",
+   "blurb": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say.",
    "source": "BBC",
-   "ts": "2026-11-01T01:37:26+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-01T17:06:32+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "US tech stocks see sharp falls as AI spending nears $1tn",
-   "blurb": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
+   "headline": "Soaring cost of Halloween treats spooks shoppers",
+   "blurb": "The price of candy, especially chocolate, is up, and Halloween bargain hunters are searching for deals and ways to cut costs.",
    "source": "BBC",
-   "ts": "2026-10-30T20:34:46+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-30T21:34:32+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cr0qk25p1yeno?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Data analysts flag mismatches in Trump administration California voter eligibility list",
-   "blurb": "Data analysts have flagged mismatches on a Trump administration list concerning California voters’ eligibility and their citizenship status, according to The Associated Press. The outlet reported that over 40 percent of names that the Trump administration labeled as potential California voters who are not U.S. citizens were not on Golden State voter rolls, a Saturday...",
+   "headline": "El-Sayed brushes off late Stevens endorsement of Rogers",
+   "blurb": "Michigan Senate Democratic candidate Abdul El-Sayed brushed off his former rival Haley Stevens’s surprising and late endorsement of GOP nominee Mike Rogers, saying on Sunday it didn’t matter and that he was focused on issues in his state. “At the end of the day, I actually don’t think about Haley Stevens,” El-Sayed told reporters, flanked...",
    "source": "The Hill",
-   "ts": "2026-11-01T15:15:32+00:00",
-   "url": "https://thehill.com/homenews/campaign/6186744-trump-administration-voter-list-mismatches/"
+   "ts": "2026-11-01T19:21:48+00:00",
+   "url": "https://thehill.com/homenews/campaign/6187116-el-sayed-dismisses-stevens-rogers-endorsement/"
   },
   {
    "category": "India Politics",
-   "headline": "Nitin Nabin to participate in BJP’s ‘Maha Padayatra’ in Karimnagar on November 5",
-   "blurb": "",
+   "headline": "Litigants will not be entitled to refund of court fees if disputes get settled out of court after commencement of trial, rules Madras High Court",
+   "blurb": "Justice P.B. Balaji refuses to follow Supreme Court’s 2017 verdict in M.C. Subramaniam’s case and instead follows the top court’s 2010 judgment in Afcons Infrastructure case",
    "source": "The Hindu",
-   "ts": "2026-11-01T16:33:14+00:00",
-   "url": "https://www.thehindu.com/news/national/telangana/nitin-nabin-to-participate-in-bjps-maha-padayatra-in-karimnagar-on-november-5/article71653909.ece"
+   "ts": "2026-11-01T18:56:12+00:00",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/litigants-will-not-be-entitled-to-refund-of-court-fees-if-disputes-get-settled-out-of-court-after-commencement-of-trial-rules-madras-high-court/article71653425.ece"
   },
   {
    "category": "AI",
@@ -364,43 +364,43 @@
   },
   {
    "category": "Crypto",
-   "headline": "Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered",
-   "blurb": "Eighteen years after Satoshi published the Bitcoin white paper, business owners are still covering the cost of a system built on bailouts, and they can protect part of their surplus by keeping it in bitcoin, argues Onramp CEO Michael Tanguma.",
+   "headline": "Binance opens crypto withdrawals in phases starting with bitcoin following $6.3 billion hack",
+   "blurb": "Binance reopens customer withdrawals following a record $6.3 billion exploit. Bitcoin leads the first phase.",
    "source": "CoinDesk",
-   "ts": "2026-10-31T18:00:00+00:00",
-   "url": "https://www.coindesk.com/opinion/2026/10/31/bitcoin-s-white-paper-turns-18-and-small-businesses-are-still-paying-for-the-bailouts-it-answered"
+   "ts": "2026-11-01T10:35:42+00:00",
+   "url": "https://www.coindesk.com/markets/2026/11/01/binance-opens-crypto-withdrawals-in-phases-starting-with-bitcoin-following-usd6-3-billion-hack"
   },
   {
    "category": "Geopolitics",
-   "headline": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
-   "blurb": "Defeat for Serbia's Aleksandar Vučiċ in last weekend's vote was a carbon copy of Viktor Orbán's fall in Hungary.",
+   "headline": "University of Cambridge scientist among those who died in Spanish train crash",
+   "blurb": "Marta Shahbazi was an \"inspiring, talented and passionate scientist\", says the laboratory where she worked.",
    "source": "BBC",
-   "ts": "2026-11-01T00:55:06+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-01T17:05:18+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "City of London chief tops UK Black Powerlist",
-   "blurb": "Ian Thomas, who heads the City of London Corporation, tops the Black Powerlist in its 21st year.",
+   "headline": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+   "blurb": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
    "source": "BBC",
-   "ts": "2026-10-30T18:00:24+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c98rz4pxm4ymo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-30T21:13:14+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Judge dismisses Trump’s defamation suit against WSJ a second time",
-   "blurb": "A federal judge on Saturday dismissed for the second time President Trump’s defamation lawsuit against The Wall Street Journal in connection with an article about a letter sent to convicted sex offender Jeffrey Epstein. Last year, the president filed a lawsuit against the Journal after it published an article detailing a 2003 letter he allegedly sent to...",
+   "headline": "Stevens defends surprise Rogers endorsement: 'I'm not turning my back on Democrats'",
+   "blurb": "Democratic Rep. Haley Stevens (Mich.) defended her last-minute endorsement of Republican Mike Rogers in the battleground Michigan Senate race after initially supporting Democrat Abdul El-Sayed \"I'm not turning my back on Democrats,\" she told reporters in Detroit alongside Rogers. \"It is this one vote.\" \"It's my personal and private decision. I still love the party....",
    "source": "The Hill",
-   "ts": "2026-11-01T15:02:52+00:00",
-   "url": "https://thehill.com/regulation/court-battles/6186579-trump-journal-lawsuit-dismissed/"
+   "ts": "2026-11-01T19:02:12+00:00",
+   "url": "https://thehill.com/homenews/campaign/6187043-stevens-defends-rogers-endorsement/"
   },
   {
    "category": "India Politics",
-   "headline": "Focus on worker-centric innovations across domains, Labour Minister tells EPFO employees",
-   "blurb": "Social security must be driven by human sensitivity and every concern and grievance of workers must be addressed with compassion and empathy, says Mansukh Mandaviya",
+   "headline": "BJP alleges rift between Rahul, Priyanka; accuses LoP of sidelining sister at INDIA bloc protests",
+   "blurb": "‘Yesterday, during the mock Parliament organised by the Congress party and led by Rahul Gandhi, I observed one thing: Priyanka Vadra was not given an opportunity to speak by Rahul Gandhi or the Congress party,’ said Sambit Patra",
    "source": "The Hindu",
-   "ts": "2026-11-01T16:33:08+00:00",
-   "url": "https://www.thehindu.com/news/national/focus-on-worker-centric-innovations-across-domains-labour-minister-tells-epfo-employees/article71653633.ece"
+   "ts": "2026-11-01T18:55:18+00:00",
+   "url": "https://www.thehindu.com/news/national/bjp-alleges-rift-between-rahul-priyanka-accuses-lop-of-sidelining-sister-at-india-bloc-protests/article71654117.ece"
   },
   {
    "category": "AI",
@@ -420,43 +420,43 @@
   },
   {
    "category": "Crypto",
-   "headline": "A stolen iPhone, $14,000 in losses and London's crypto theft problem",
-   "blurb": "Two strangers befriended Magnus Ahmad outside a London bar. Hours later, thieves had emptied his crypto wallets, accessed his bank accounts and disabled his laptop.",
+   "headline": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
+   "blurb": "While the FBI listed hundreds of addresses in its notice, Chainalysis said the Binance attackers have already used \"thousands addresses,\" and expects this number to continue growing.",
    "source": "CoinDesk",
-   "ts": "2026-10-31T16:09:30+00:00",
-   "url": "https://www.coindesk.com/business/2026/11/01/a-stolen-iphone-usd14-000-in-losses-and-london-s-crypto-theft-problem"
+   "ts": "2026-11-01T01:10:05+00:00",
+   "url": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses"
   },
   {
    "category": "Geopolitics",
-   "headline": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
-   "blurb": "The incumbent Republican running for re-election and allies have accused the Democrats of trying to confuse voters by recruiting a second Dan Sullivan to also stand in the race.",
+   "headline": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+   "blurb": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
    "source": "BBC",
-   "ts": "2026-11-01T00:46:12+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-01T13:11:37+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Binance's $6.3bn crypto hack biggest in history",
-   "blurb": "Cryptocurrency giant Binance said on Thursday that $6.3bn (£4.7bn) of digital assets have been impacted by what is thought to be the biggest crypto hack on record.",
+   "headline": "US tech stocks see sharp falls as AI spending nears $1tn",
+   "blurb": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
    "source": "BBC",
-   "ts": "2026-10-30T17:41:10+00:00",
-   "url": "https://www.bbc.co.uk/news/videos/c6m2dpz0yxn8o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-10-30T20:34:46+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Lawfare against Elon Musk could affect the Artemis program",
-   "blurb": "Such a move could have profound effects on American space policy and politics.",
+   "headline": "Trump says he'll become 'Mr. Veto' if Democrats take Congress",
+   "blurb": "President Trump said his strategy if the GOP loses control of the House and the Senate would be to “become Mr. Veto.” “Well, if that happens, I guess I'll become Mr. Veto. I'm not going to let them through,” Trump said during an interview with Fox News. “And then at some point, we'll probably make...",
    "source": "The Hill",
-   "ts": "2026-11-01T15:00:00+00:00",
-   "url": "https://thehill.com/opinion/congress-blog/technology/6184967-democrats-target-musk-lawfare/"
+   "ts": "2026-11-01T19:01:40+00:00",
+   "url": "https://thehill.com/homenews/administration/6186898-trump-plans-veto-strategy/"
   },
   {
    "category": "India Politics",
-   "headline": "Five persons arrested for circulating counterfeit currencies in Vellore",
-   "blurb": "Police identified the arrested persons as Mohammed Rafiq, 48, Ahmed, 56, Kamaraj, 32, Gopal, 51, and Babu, 59. They are residents of Gudiyatham and Ambur towns",
+   "headline": "NTK cadre want Seeman to seek AIADMK, DMK support for Ambasamudram byelection",
+   "blurb": "His decision to contest is being seen as ‘bold’ and has reportedly energised the cadre after a disappointing showing in this year’s Assembly elections",
    "source": "The Hindu",
-   "ts": "2026-11-01T16:27:10+00:00",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/five-persons-arrested-for-circulating-counterfeit-currencies-in-vellore/article71652700.ece"
+   "ts": "2026-11-01T18:54:25+00:00",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/ntk-cadre-want-seeman-to-seek-aiadmk-dmk-support-for-ambasamudram-byelection/article71653213.ece"
   },
   {
    "category": "AI",
