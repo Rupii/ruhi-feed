@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T02:13:10+00:00",
+ "updated": "2026-11-05T10:42:28+00:00",
  "count": 58,
  "stories": [
   {
@@ -7,56 +7,56 @@
    "headline": "The economy brought Trump back to power. Now it's his downfall",
    "blurb": "Participants in the CNBC Voter Poll ranked the economy the most important issue facing the country, ahead of topics tied to democracy and immigration.",
    "source": "CNBC",
-   "ts": "2026-11-04T22:59:27+00:00",
+   "ts": "2026-11-05T04:13:28+00:00",
    "url": "https://www.cnbc.com/2026/11/04/2026-midterms-trump-economy-iran-war.html"
   },
   {
    "category": "Crypto",
-   "headline": "Tokenization and stablecoins may weather Democrats' sweep as broader crypto rules face uncertainty",
-   "blurb": "Wall Street's push to bring finance onto blockchain rails may continue under existing laws, though the SEC and CFTC face tougher oversight and questions over how long their rules will last, experts said.",
+   "headline": "Bitcoin miner Riot could pay Anthropic 12% interest under $28 billion AI deal",
+   "blurb": "Riot has sold most of its bitcoin to fund its move into data centers. Its latest agreement gives Anthropic a way to finance part of the build and collect interest through rent deductions.",
    "source": "CoinDesk",
-   "ts": "2026-11-04T22:55:00+00:00",
-   "url": "https://www.coindesk.com/policy/2026/11/04/tokenization-and-stablecoins-may-weather-democrats-sweep-as-broader-crypto-rules-face-uncertainty"
+   "ts": "2026-11-05T09:36:32+00:00",
+   "url": "https://www.coindesk.com/tech/2026/11/05/bitcoin-miner-riot-could-pay-anthropic-12-interest-under-usd28-billion-ai-deal"
   },
   {
    "category": "Gold",
-   "headline": "Gold and Platinum Rally, but Both Face Critical Tests Before a Full Recovery",
+   "headline": "Oil Futures Hold Amid Market Anticipation of US Election Consequences",
    "blurb": "",
    "source": "Investing.com",
-   "ts": "2026-11-04T19:21:00+00:00",
-   "url": "https://www.investing.com/analysis/gold-and-platinum-rally-but-both-face-critical-tests-before-a-full-recovery-200690882"
+   "ts": "2026-11-05T10:08:00+00:00",
+   "url": "https://www.investing.com/analysis/oil-futures-hold-amid-market-anticipation-of-us-election-consequences-200690918"
   },
   {
    "category": "Geopolitics",
-   "headline": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
-   "blurb": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
+   "headline": "France gears up for strikes and protests as unions promise national mobilisation",
+   "blurb": "Five of France's unions have joined a wave of strikes and protests in a national day of action.",
    "source": "BBC",
-   "ts": "2026-11-04T22:48:43+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-05T10:26:03+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Australia's oldest department store David Jones collapses after 188 years",
-   "blurb": "The brand's 38 physical stores and online site will continue to operate while receivers review its operations.",
+   "headline": "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown",
+   "blurb": "A consultation will consider fines and other ways to clamp down on dangerous e-bike riders.",
    "source": "BBC",
-   "ts": "2026-11-05T00:59:22+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cky93z5y0171o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-05T10:04:51+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cmze4zk4d789o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Cruz warns 'Texans will be hurt' after 'blue tsunami'",
-   "blurb": "Texas Sen. Ted Cruz (R) issued a stark warning on Wednesday evening after Democrats flipped a Texas Senate seat and the governor’s mansion in the midterm elections. In a lengthy statement shared on social media, the GOP senator said that “Texans will be hurt” by the blue tsunami that swept across the state and country...",
+   "headline": "No more red energy, blue energy. Geothermal is purple — and Washington is delaying it.",
+   "blurb": "Geothermal energy offers a politically neutral solution to America's power needs, yet its potential growth is being hindered by slow federal permitting processes.",
    "source": "The Hill",
-   "ts": "2026-11-05T01:59:27+00:00",
-   "url": "https://thehill.com/homenews/senate/6199935-cruz-warns-democrat-texas-wins/"
+   "ts": "2026-11-05T05:30:00+00:00",
+   "url": "https://thehill.com/opinion/energy-environment/6199155-us-geothermal-power-potential/"
   },
   {
    "category": "India Politics",
-   "headline": "Three Govts., three CMs in Telangana failed to complete ₹35 crore 700-metre bridge in 15 years",
-   "blurb": "The 700-metre Ghatkesar rail-cum-road bridge has divided a village on the city’s outskirts; residents travel four km to cover a distance of barely 50 metres",
+   "headline": "KTR questions BJP’s inaction on alleged ‘RR tax’ collection",
+   "blurb": "BRS working president alleges that ₹200 was being collected per square foot in the name of ‘RR tax’",
    "source": "The Hindu",
-   "ts": "2026-11-05T02:01:21+00:00",
-   "url": "https://www.thehindu.com/news/national/telangana/three-govts-three-cms-failed-to-complete-35-crore-700-metre-road-bridge-in-15-years/article71664827.ece"
+   "ts": "2026-11-05T10:34:32+00:00",
+   "url": "https://www.thehindu.com/news/national/telangana/ktr-questions-bjps-inaction-on-alleged-rr-tax-collection/article71669383.ece"
   },
   {
    "category": "AI",
@@ -76,51 +76,51 @@
   },
   {
    "category": "Crypto",
-   "headline": "Crypto's Washington hopes fade, but Grayscale and BlackRock see growth ahead",
-   "blurb": "The asset manager says global demand and institutional adoption will sustain the industry despite a political setback, while BlackRock sees little impact on its crypto business.",
+   "headline": "Hong Kong passes law requiring crypto exchanges to report customer transactions to tax authorities",
+   "blurb": "Crypto firms must collect customer and transaction data from 2027, with Hong Kong sharing the information with overseas tax authorities from 2028.",
    "source": "CoinDesk",
-   "ts": "2026-11-04T22:51:42+00:00",
-   "url": "https://www.coindesk.com/business/2026/11/04/crypto-s-washington-hopes-fade-but-grayscale-and-blackrock-see-growth-ahead"
+   "ts": "2026-11-05T08:35:37+00:00",
+   "url": "https://www.coindesk.com/policy/2026/11/04/hong-kong-passes-law-requiring-crypto-exchanges-to-report-customer-transactions-to-tax-authorities"
   },
   {
    "category": "Gold",
-   "headline": "Gold’s Historical Midterm Performance Returns to Focus as Democrats Take Congress",
+   "headline": "Oil Prices Continue to Fall as Democratic Sweep Shakes Energy Markets",
    "blurb": "",
    "source": "Investing.com",
-   "ts": "2026-11-04T18:30:00+00:00",
-   "url": "https://www.investing.com/analysis/golds-historical-midterm-performance-returns-to-focus-as-democrats-take-congress-200690879"
+   "ts": "2026-11-05T08:39:00+00:00",
+   "url": "https://www.investing.com/analysis/oil-prices-continue-to-fall-as-democratic-sweep-shakes-energy-markets-200690911"
   },
   {
    "category": "Geopolitics",
-   "headline": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
-   "blurb": "With Canada-US trade talks back on, Tuesday’s midterm Democratic wave puts pressure on the White House to come to a deal.",
+   "headline": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+   "blurb": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.",
    "source": "BBC",
-   "ts": "2026-11-04T18:01:31+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-05T08:07:22+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Interest rates expected to rise for first time in over three years",
-   "blurb": "Most analysts are predicting an increase from 3.75% to 4%, the first increase in more than three years.",
+   "headline": "Second buyer makes rescue bid for Poundland as retailer faces collapse",
+   "blurb": "A little-known investment group has made a bid to buy the business.",
    "source": "BBC",
-   "ts": "2026-11-05T00:00:09+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-05T09:46:32+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c6lykq0kqwn7o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Democrats flip open Arizona House seat",
-   "blurb": "Former Democratic state Rep. Amish Shah is projected to defeat Republican former NFL kicker Jay Feely to win Arizona’s 1st District, according to Decision Desk HQ (DDHQ), flipping a competitive seat Shah narrowly lost two years earlier. Shah led with 52.5 percent of the vote to Feely's 45.5 percent with over 95 percent of votes...",
+   "headline": "Zelensky speaks with US envoys ahead of trilateral talks",
+   "blurb": "Ukrainian President Volodymyr Zelensky on Wednesday said he spoke with U.S. special envoy Steve Witkoff and Jared Kushner, President Trump's son-in-law, ahead of trilateral talks with his country, the U.S. and Russia. Zelensky said the three spoke for 90 minutes in anticipation for the talks slated to be held Nov. 10-11. He said the meeting...",
    "source": "The Hill",
-   "ts": "2026-11-05T01:44:21+00:00",
-   "url": "https://thehill.com/homenews/house/6190311-shah-wins-arizona-house-race/"
+   "ts": "2026-11-05T03:40:24+00:00",
+   "url": "https://thehill.com/policy/international/6200015-zelensky-witkoff-kushner-talks/"
   },
   {
    "category": "India Politics",
-   "headline": "Nine rescue personnel feared missing as boats capsize in Telangana’s swollen Peddacheruvu",
-   "blurb": "According to sources, the incident occurred when the rescue teams, comprising SDRF and Fire Services personnel, ventured into the swollen rivulet to rescue the stranded fishermen",
+   "headline": "Climate change increased tropical Cyclone Arnab’s damage by 33%: Study",
+   "blurb": "“Climate change increased Cyclone Arnab’s maximum wind speed by approximately 5%, and intensified its eyewall rainfall rate by 11% at landfall,” according to the study",
    "source": "The Hindu",
-   "ts": "2026-11-05T01:55:16+00:00",
-   "url": "https://www.thehindu.com/news/national/telangana/nine-rescue-personnel-feared-missing-as-boats-capsize-in-swollen-peddacheruvu-in-khammam-district/article71667132.ece"
+   "ts": "2026-11-05T10:33:18+00:00",
+   "url": "https://www.thehindu.com/sci-tech/energy-and-environment/climate-change-increased-tropical-cyclone-arnabs-damage-by-33-study/article71669447.ece"
   },
   {
    "category": "AI",
@@ -140,43 +140,43 @@
   },
   {
    "category": "Crypto",
-   "headline": "Crypto's powerhouse super PAC suffers costly setback as Democrats sweep Congress",
-   "blurb": "The industry's primary campaign arm had cultivated a reputation as an unstoppable force, but more than a third of its spending failed to hit the mark, especially in Ohio.",
+   "headline": "OpenAI says its AI can break into Linux at scale. Here's what it means for crypto",
+   "blurb": "OpenAI says its AI found 948 Linux flaws and wrote a working attack for each one. Crypto security voices say decentralization leaves the industry better placed than most to cope.",
    "source": "CoinDesk",
-   "ts": "2026-11-04T20:29:12+00:00",
-   "url": "https://www.coindesk.com/news-analysis/2026/11/04/crypto-s-powerhouse-super-pac-fairshake-found-its-kryptonite"
+   "ts": "2026-11-05T08:26:26+00:00",
+   "url": "https://www.coindesk.com/tech/2026/11/05/openai-says-its-ai-can-break-into-linux-at-scale-here-s-what-it-means-for-crypto"
   },
   {
    "category": "Geopolitics",
-   "headline": "Iran's chief negotiator says Americans voted 'no to war'",
-   "blurb": "\"We endorse this message,\" Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat.",
+   "headline": "Italian chef fired after refusing to put pineapple on pizza",
+   "blurb": "He had told his employer, an Australian restaurant, that pineapple on pizza was \"offensive\" to Italian culture.",
    "source": "BBC",
-   "ts": "2026-11-04T16:59:15+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-05T07:56:53+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cx4g1qy6gq9mo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Pound rises to its highest level since the Brexit referendum",
-   "blurb": "Pound reaches highest level against a basket of currencies since the Brexit referendum a decade ago",
+   "headline": "Poundland owner in crunch talks as retailer's collapse looms",
+   "blurb": "Gordon Brothers will meet Jonathan Reynolds on Wednesday as the investment firm faces scrutiny over Poundland.",
    "source": "BBC",
-   "ts": "2026-11-04T23:30:28+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-05T06:58:03+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Gluesenkamp Perez holds on to Washington House seat",
-   "blurb": "Rep. Marie Gluesenkamp Perez (D-Wash.) is projected to defend her House seat and defeat her GOP challenger, John Braun, in the race for Washington’s 3rd District, according to Decision Desk HQ. Gluesenkamp Perez currently stands at about 55 percent of the vote to her Republican rival's 44 percent with 81 percent reporting, per DDHQ. Gluesenkamp...",
+   "headline": "Trump urges Congress to pass daylight saving bill after 'ridiculous' early sunset",
+   "blurb": "President Trump on Wednesday called on Congress to pass the Sunshine Protection Act, which would make daylight saving time permanent, after the day's \"ridiculous\" early sunset. \"Too bad the Senate has not yet approved the Sunshine Protection Act or, the 'I Don’t Want to Change My Clocks Anymore Act,'\" he wrote on Truth Social. \"It’s...",
    "source": "The Hill",
-   "ts": "2026-11-05T01:32:33+00:00",
-   "url": "https://thehill.com/homenews/campaign/6142047-gluesenkamp-perez-defeats-braun/"
+   "ts": "2026-11-05T02:48:08+00:00",
+   "url": "https://thehill.com/homenews/administration/6199783-trump-calls-congress-daylight-saving/"
   },
   {
    "category": "India Politics",
-   "headline": "Mahadev app co-promoter Ravi Uppal arrested in UAE, India moves for his extradition",
-   "blurb": "Authorities in Dubai arrested a 46-year-old Ravi Uppal based on an Interpol Red Notice issued by Indian probe agencies, officials told PTI",
+   "headline": "Andhra local body polls: Clashes erupt between YSRCP, TDP groups in Kadapa",
+   "blurb": "Both groups of people attacked each other in Yerripalli, R. Thummalapalli and Parnapalli villages in Pulivendla",
    "source": "The Hindu",
-   "ts": "2026-11-05T01:54:13+00:00",
-   "url": "https://www.thehindu.com/news/national/mahadev-app-co-promoter-ravi-uppal-arrested-in-uae-india-moves-for-his-extradition/article71668416.ece"
+   "ts": "2026-11-05T10:31:44+00:00",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-local-body-polls-clashes-erupt-between-ysrcp-tdpgroups-in-kadapa/article71669332.ece"
   },
   {
    "category": "AI",
@@ -196,43 +196,43 @@
   },
   {
    "category": "Crypto",
-   "headline": "U.S. Democratic sweep could be the final nail in the ‘Clarity Act’s coffin’",
-   "blurb": "Industry experts warn the Clarity Act is likely dead in its current form as incoming Democratic majorities eye tighter scrutiny of crypto markets and tokenized stocks.",
+   "headline": "Zcash is about to freeze $16 million in its oldest privacy pool",
+   "blurb": "About 12,200 ZEC remains in Sprout, the privacy pool Zcash launched in 2016. Roughly 10,000 coins have left over the past week, but only about 40 moved out Wednesday.",
    "source": "CoinDesk",
-   "ts": "2026-11-04T16:11:29+00:00",
-   "url": "https://www.coindesk.com/policy/2026/11/04/u-s-democratic-sweep-could-be-the-final-nail-in-the-clarity-act-s-coffin"
+   "ts": "2026-11-05T05:47:01+00:00",
+   "url": "https://www.coindesk.com/tech/2026/11/05/zcash-is-about-to-freeze-usd16-million-in-its-oldest-privacy-pool"
   },
   {
    "category": "Geopolitics",
-   "headline": "'Most difficult days of my life' for keeper Owono",
-   "blurb": "FC Andorra goalkeeper Jesus Owono puts out a statement through his club, expressing his sorrow and pain after Tenerife forward Jesus de Miguel's death.",
+   "headline": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+   "blurb": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
    "source": "BBC",
-   "ts": "2026-11-04T16:40:38+00:00",
-   "url": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-05T03:47:56+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
-   "blurb": "Musk spent nearly $500m in the 2026 US midterm elections, an individual election spending record.",
+   "headline": "Food, fuel and taxes – can the Democrats do anything to ease cost of living pressures?",
+   "blurb": "Democrats will hold Congress but President Donald Trump still has the power to block their plans.",
    "source": "BBC",
-   "ts": "2026-11-04T21:41:15+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-05T06:01:05+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/ck1ex50x5q46o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Raman ousts Bass as Los Angeles mayor",
-   "blurb": "Los Angeles City Council member Nithya Raman (D) is projected to become the next mayor of Los Angeles after ousting embattled Mayor Karen Bass (D) after one term, according to Decision Desk HQ. The race was called Wednesday evening with Raman leading by about 26,000 votes—roughly 3 percent—out of 784,262 votes cast, per DDHQ. Raman...",
+   "headline": "Scott Wiener prevails in race to succeed retiring Pelosi",
+   "blurb": "Democrat Scott Wiener is poised to win the California seat to succeed Rep. Nancy Pelosi (D-Calif.), after his opponent San Francisco Supervisor Connie Chan conceded Wednesday evening in a statement according to local Fox affiliate KTVU. Decision Desk HQ (DDHQ), The Hill's partner, has not called the race yet, but Wiener leads Chan by about...",
    "source": "The Hill",
-   "ts": "2026-11-05T01:10:59+00:00",
-   "url": "https://thehill.com/homenews/state-watch/6149517-nithya-raman-los-angeles-mayor/"
+   "ts": "2026-11-05T02:43:36+00:00",
+   "url": "https://thehill.com/homenews/house/6184793-scott-wiener-wins-pelosi-seat/"
   },
   {
    "category": "India Politics",
-   "headline": "Falling fertility rate makes two-child penalties outdated in India, says Supreme Court",
-   "blurb": "‘The foundation of such laws, that is, the fear of overpopulation, has crumbled due to demographic changes in the past few decades’, says Bench",
+   "headline": "Chennai Press Club president and two other journalists move Madras High Court seeking anticipatory bail",
+   "blurb": "They apprehend arrest by the city police in a case registered on the basis of a defamation complaint lodged by a fellow journalist",
    "source": "The Hindu",
-   "ts": "2026-11-05T01:39:57+00:00",
-   "url": "https://www.thehindu.com/news/national/rolling-effect-of-decelerating-population-growth-very-hard-to-reverse-supreme-court/article71666136.ece"
+   "ts": "2026-11-05T10:25:14+00:00",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/chennai-press-club-president-and-two-other-journalists-move-madras-high-court-seeking-anticipatory-bail/article71640943.ece"
   },
   {
    "category": "AI",
@@ -252,43 +252,43 @@
   },
   {
    "category": "Crypto",
-   "headline": "Wall Street rethinks AI data center boom as Texas election raises new risks",
-   "blurb": "Bitcoin miners pivoting to AI face new uncertainty over power access and construction permits, while companies with approved projects could benefit from tighter supply.",
+   "headline": "The pile of lawsuits against Kalshi just grew by one",
+   "blurb": "Arkansas has accused the prediction market of running illegal gambling, joining Utah and several other U.S. states that have filed criminal or civil charges.",
    "source": "CoinDesk",
-   "ts": "2026-11-04T16:08:14+00:00",
-   "url": "https://www.coindesk.com/markets/2026/11/04/wall-street-cuts-bitcoin-miner-price-targets-after-democrats-texas-win-threatens-ai-data-center-boom"
+   "ts": "2026-11-05T05:28:52+00:00",
+   "url": "https://www.coindesk.com/policy/2026/11/05/the-pile-of-lawsuits-against-kalshi-just-grew-by-one"
   },
   {
    "category": "Geopolitics",
-   "headline": "The young politicians with African roots making history in the US midterms",
-   "blurb": "For some young Africans, these victories offer a glimpse of what a new generation of voters could do at home.",
+   "headline": "Pope Leo hosts Bob Dylan at official residence in Rome",
+   "blurb": "Pope Leo had previously quoted Dylan's work in the preface of a book warning against nuclear rearmament.",
    "source": "BBC",
-   "ts": "2026-11-04T16:34:32+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cmrly6j6lpydo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-05T02:09:23+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cm0e035n13ylo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Poundland owner in crunch talks as retailer's collapse looms",
-   "blurb": "Gordon Brothers will meet Jonathan Reynolds on Wednesday as the investment firm faces scrutiny over Poundland.",
+   "headline": "Why do veterinary fees and sausage rolls vary in price across London?",
+   "blurb": "Location is not just the only factor on why prices differ across London, as Anna O'Neill finds out.",
    "source": "BBC",
-   "ts": "2026-11-04T19:44:46+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-05T05:56:46+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cmgqw51gdnzyo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Live updates: Trump blames Iran war for midterm loss while touting ballroom construction",
-   "blurb": "In his first public appearance since Republicans lost big in the midterms, President Trump showed off the construction of the White House ballroom. \"It's for the country, and it's free,\" he said. Trump also told reporters that the Iran war was the \"primary reason\" for the GOP's losses. Hours earlier, Vice President Vance said in...",
+   "headline": "Cruz warns 'Texans will be hurt' after 'blue tsunami'",
+   "blurb": "Texas Sen. Ted Cruz (R) issued a stark warning on Wednesday evening after Democrats flipped a Texas Senate seat and the governor’s mansion in the midterm elections. In a lengthy statement shared on social media, the GOP senator said that “Texans will be hurt” by the blue tsunami that swept across the state and country...",
    "source": "The Hill",
-   "ts": "2026-11-05T00:56:00+00:00",
-   "url": "https://thehill.com/homenews/campaign/6188142-live-updates-trump-democrats-congress-control/"
+   "ts": "2026-11-05T01:59:27+00:00",
+   "url": "https://thehill.com/homenews/senate/6199935-cruz-warns-democrat-texas-wins/"
   },
   {
    "category": "India Politics",
-   "headline": "ECI separates online Form 6, accompanying declaration for States undergoing SIR",
-   "blurb": "Earlier in September, it had already withdrawn the declaration from its digital platforms in States where SIR had been completed",
+   "headline": "SRM A.P. tops State ranking in QS Asia University Rankings 2027",
+   "blurb": "",
    "source": "The Hindu",
-   "ts": "2026-11-05T01:26:13+00:00",
-   "url": "https://www.thehindu.com/news/national/eci-separates-online-form-6-accompanying-declaration-for-states-undergoing-sir/article71665706.ece"
+   "ts": "2026-11-05T10:24:22+00:00",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/srm-ap-ranks-no-1-in-ap-in-qs-asia-university-rankings-2027/article71664163.ece"
   },
   {
    "category": "AI",
@@ -308,43 +308,43 @@
   },
   {
    "category": "Crypto",
-   "headline": "Crypto Long & Short: ICE is betting on retail’s appetite for quick outcomes",
-   "blurb": "Retail traders increasingly want trades that resolve fast, from prediction markets to same-day options. Andy Baehr of GSR argues perpetual futures belong in that group, and that ICE’s deal to bring Trade[XYZ]’s Hyperliquid markets onshore is a play for that customer, one that doesn’t need a crypto asset to work.",
+   "headline": "XRP Ledger fixes a disclosed bug that could have led to the creation of new tokens",
+   "blurb": "The fix went live Wednesday after validator support reset the activation clock in October. XRP itself was unaffected.",
    "source": "CoinDesk",
-   "ts": "2026-11-04T15:27:20+00:00",
-   "url": "https://www.coindesk.com/coindesk-indices/2026/11/04/crypto-long-and-short-ice-is-betting-on-retail-s-appetite-for-quick-outcomes"
+   "ts": "2026-11-05T05:25:06+00:00",
+   "url": "https://www.coindesk.com/markets/2026/11/05/xrp-ledger-closes-bug-that-let-approved-token-burners-create-new-tokens"
   },
   {
    "category": "Geopolitics",
-   "headline": "French blood storage impacted by freezer hacks as theories swirl about culprits",
-   "blurb": "The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers.",
+   "headline": "Mother and daughter die after suspected grizzly bear attack in Canada",
+   "blurb": "Authorities in British Columbia say evidence suggests an animal may have been involved in the women's deaths.",
    "source": "BBC",
-   "ts": "2026-11-04T16:26:15+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-04T23:50:40+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cqvgry8k5d01o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change",
-   "blurb": "The cereal giant has changed the recipes for Rice Krispies and Coco Pops, sparking a backlash online.",
+   "headline": "Pound rises to its highest level since the Brexit referendum",
+   "blurb": "Pound reaches highest level against a basket of currencies since the Brexit referendum a decade ago.",
    "source": "BBC",
-   "ts": "2026-11-04T19:38:53+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-05T04:21:35+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Texas state rep calls on Abbott to curb Hinojosa's power before inauguration",
-   "blurb": "Texas state Rep. Brian Harrison (R) on Wednesday called on Gov. Greg Abbott (R) to curb Gov.-elect Gina Hinojosa's (D) power before she is sworn in next year. \"We still have total power in Texas, and we must act like it by using the remaining ten weeks to restore separation of powers and limit the...",
+   "headline": "Democrats flip open Arizona House seat",
+   "blurb": "Former Democratic state Rep. Amish Shah is projected to defeat Republican former NFL kicker Jay Feely to win Arizona’s 1st District, according to Decision Desk HQ (DDHQ), flipping a competitive seat Shah narrowly lost two years earlier. Shah led with 52.5 percent of the vote to Feely's 45.5 percent with over 95 percent of votes...",
    "source": "The Hill",
-   "ts": "2026-11-05T00:53:15+00:00",
-   "url": "https://thehill.com/homenews/state-watch/6199751-harrison-calls-abbott-limit-hinojosa/"
+   "ts": "2026-11-05T01:44:21+00:00",
+   "url": "https://thehill.com/homenews/house/6190311-shah-wins-arizona-house-race/"
   },
   {
    "category": "India Politics",
-   "headline": "Raipur court grants CBI eight days custody of Sourabh Chandrakar; to be interrogated in Delhi",
-   "blurb": "The development follows the recent extradition of Chandrakar from Oman to Delhi, after which he was brought to Raipur on a private flight on November 3 evening.",
+   "headline": "Bhu Bharati portal not fully operational yet",
+   "blurb": "A major problem in land transactions is said to be mismatch in the extent of lands owned by farmers on the ground and the entries mentioned in records",
    "source": "The Hindu",
-   "ts": "2026-11-05T00:26:48+00:00",
-   "url": "https://www.thehindu.com/news/national/chhattisgarh/mahadev-betting-app-case-cbi-gets-8-day-custody-of-kingpin-saurabh-chandrakar/article71665795.ece"
+   "ts": "2026-11-05T10:23:26+00:00",
+   "url": "https://www.thehindu.com/news/national/telangana/bhu-bharati-portal-not-fully-operational-yet/article71669298.ece"
   },
   {
    "category": "AI",
@@ -364,43 +364,43 @@
   },
   {
    "category": "Crypto",
-   "headline": "The election changes Washington. The work on crypto continues",
-   "blurb": "The next Congress inherits an unfinished assignment: establishing clear, lasting rules for digital assets that protect consumers and ensure American innovation continues to thrive, writes Blockchain Association's Lindsay Fraser.",
+   "headline": "Bitcoin holds above $80,000 as Zcash jumps 12% in post-election crypto rebound",
+   "blurb": "Ether rose 8% as falling oil prices and a weaker dollar helped markets recover, even as traders weighed a tougher path for U.S. crypto legislation.",
    "source": "CoinDesk",
-   "ts": "2026-11-04T14:25:12+00:00",
-   "url": "https://www.coindesk.com/opinion/2026/11/04/the-election-changes-washington-the-work-on-crypto-continues"
+   "ts": "2026-11-05T05:13:45+00:00",
+   "url": "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-as-zcash-jumps-12-in-post-election-crypto-rebound"
   },
   {
    "category": "Geopolitics",
-   "headline": "Israel's president begins consultations with parties after election deadlock",
-   "blurb": "Herzog warns politicians that \"not every commitment and promise can be fulfilled\" if they want to avoid another election.",
+   "headline": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
+   "blurb": "Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather.",
    "source": "BBC",
-   "ts": "2026-11-04T16:18:21+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-04T23:12:47+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "What's happening to UK interest rates and what does it mean for mortgages?",
-   "blurb": "The interest rate set by the Bank of England affects mortgage, loan and savings rates for millions.",
+   "headline": "Australia's oldest department store David Jones folds after 188 years",
+   "blurb": "The brand's 38 physical stores and online site will continue to operate while receivers review its operations.",
    "source": "BBC",
-   "ts": "2026-11-04T10:47:31+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c3dky111m40o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-05T00:59:22+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cky93z5y0171o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Iowa Democrat who quit race wins seat anyway",
-   "blurb": "The Democratic nominee in an Iowa state House District race won his race on Wednesday afternoon, despite suspending his bid in September for health reasons, amid a historic election night Democrats have declared a “blue tsunami.” Eric Armstrong, a retired railroad executive, defeated GOP candidate Keith Jones by about 9 percentage points and around 865...",
+   "headline": "Gluesenkamp Perez holds on to Washington House seat",
+   "blurb": "Rep. Marie Gluesenkamp Perez (D-Wash.) is projected to defend her House seat and defeat her GOP challenger, John Braun, in the race for Washington’s 3rd District, according to Decision Desk HQ. Gluesenkamp Perez currently stands at about 55 percent of the vote to her Republican rival's 44 percent with 81 percent reporting, per DDHQ. Gluesenkamp...",
    "source": "The Hill",
-   "ts": "2026-11-05T00:41:44+00:00",
-   "url": "https://thehill.com/homenews/state-watch/6199864-eric-armstrong-iowa-house-win/"
+   "ts": "2026-11-05T01:32:33+00:00",
+   "url": "https://thehill.com/homenews/campaign/6142047-gluesenkamp-perez-defeats-braun/"
   },
   {
    "category": "India Politics",
-   "headline": "BJP not giving much importance to Rajput, says Rajiv Pratap Rudy",
-   "blurb": "After facing defeat from Saran Teachers seat in Council polls, JD(U) candidate Mr. Pushkar who belongs from Brahmin community has alleged that BJP betrayed and all the Rajput MPs and MLAs of Saran including Rajiv Pratap Rudy, helped the independent candidate to win",
+   "headline": "Madras High Court grants anticipatory bail to Chennai Press Club president, two other journalists",
+   "blurb": "Justice N. Ramesh says: “It is unfortunate that journalism, in the hands of those who hold office in its associations, has come down to this level.”",
    "source": "The Hindu",
-   "ts": "2026-11-05T00:23:40+00:00",
-   "url": "https://www.thehindu.com/news/national/bihar/bjp-not-giving-much-importance-to-rajput-says-rajiv-pratap-rudy/article71666350.ece"
+   "ts": "2026-11-05T10:21:37+00:00",
+   "url": "https://www.thehindu.com/news/cities/chennai/madras-high-court-grants-anticipatory-bail-to-chennai-press-club-president-suresh-vedhanayagam-two-other-journalists/article71666553.ece"
   },
   {
    "category": "AI",
@@ -420,43 +420,43 @@
   },
   {
    "category": "Crypto",
-   "headline": "Live updates: Bitcoin rises above $80,000 as stocks gain following Blue Wave",
-   "blurb": "The biggest losers were the AI data center stocks following victories for several candidates who campaigned expressly against the sector.",
+   "headline": "Trump Media moves $342 million in bitcoin to Crypto.com, blockchain data show",
+   "blurb": "A wallet supposedly linked to Trump Media has made a large BTC transfer to Crypto.com, data tracked by Arkham show.",
    "source": "CoinDesk",
-   "ts": "2026-11-04T14:00:53+00:00",
-   "url": "https://www.coindesk.com/tech/2026/11/04/live-updates-bitcoin-and-stocks-reverse-overnight-plunge-following-blue-wave-landslide"
+   "ts": "2026-11-05T04:11:33+00:00",
+   "url": "https://www.coindesk.com/markets/2026/11/05/trump-media-moves-usd434-million-in-bitcoin-to-crypto-com-blockchain-data-show"
   },
   {
    "category": "Geopolitics",
-   "headline": "Secret police files released in Hungary, 37 years after fall of communism",
-   "blurb": "Critics say the move comes too late, that the files themselves are incomplete, and the move risks sowing division and causing unnecessary anguish.",
+   "headline": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+   "blurb": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
    "source": "BBC",
-   "ts": "2026-11-04T15:28:18+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c977p01kgmmko?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-04T22:48:43+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Swim and gym prices set to rise above inflation",
-   "blurb": "The rises would impact Perdiswell, St John's Sports Centre and Nunnery Wood Sports Complex.",
+   "headline": "Interest rates expected to rise for first time in over three years",
+   "blurb": "Most analysts are predicting an increase from 3.75% to 4%, the first increase in more than three years.",
    "source": "BBC",
-   "ts": "2026-11-04T06:13:19+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c6pvgw8gz1k4o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-05T00:00:09+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "None of the House Republicans who voted to impeach Trump will be in the next Congress",
-   "blurb": "None of the House Republicans who voted to impeach President Trump over the Jan. 6, 2021, attack on the Capitol will be in Congress after this year following Tuesday’s midterm elections. The last Republican still in the House is outgoing Rep. David Valadao (Calif.) who was defeated by Democrat Randy Villegas. Valadao was among the...",
+   "headline": "Raman ousts Bass as Los Angeles mayor",
+   "blurb": "Los Angeles City Council member Nithya Raman (D) is projected to become the next mayor of Los Angeles after ousting embattled Mayor Karen Bass (D) after one term, according to Decision Desk HQ. The race was called Wednesday evening with Raman leading by about 26,000 votes—roughly 3 percent—out of 784,262 votes cast, per DDHQ. Raman...",
    "source": "The Hill",
-   "ts": "2026-11-05T00:33:50+00:00",
-   "url": "https://thehill.com/homenews/house/6199833-trump-impeachment-vote-republicans-exit/"
+   "ts": "2026-11-05T01:10:59+00:00",
+   "url": "https://thehill.com/homenews/state-watch/6149517-nithya-raman-los-angeles-mayor/"
   },
   {
    "category": "India Politics",
-   "headline": "MP Ruhullah’s exit from NC a success of BJP, attempt to disempower people like in 1953: NC leaders",
-   "blurb": "NC leader and legislator, Salman Sagar, said the BJP succeeded in Aga Syed Ruhullah’s exit from the NC and implemented the “Operation Lotus” with his help",
+   "headline": "Keralam PWD wary of wider adoption of white-topped roads despite proven durability",
+   "blurb": "Relatively high initial construction costs cited. The technology offers several advantages over conventional asphalt roads, particularly in urban areas of Keralam that experience heavy rainfall, high summer temperatures and severe traffic congestion",
    "source": "The Hindu",
-   "ts": "2026-11-04T23:20:42+00:00",
-   "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/mp-ruhullahs-exit-from-nc-a-success-of-bjp-attempt-to-disempower-people-like-in-1953-nc-leaders/article71666469.ece"
+   "ts": "2026-11-05T10:16:09+00:00",
+   "url": "https://www.thehindu.com/news/national/kerala/keralam-pwd-wary-of-wider-adoption-of-white-topped-roads-despite-proven-durability/article71669229.ece"
   },
   {
    "category": "AI",
