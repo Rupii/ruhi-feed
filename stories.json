@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T13:53:37+00:00",
+ "updated": "2026-11-07T18:39:19+00:00",
  "count": 58,
  "stories": [
   {
@@ -12,11 +12,11 @@
   },
   {
    "category": "Crypto",
-   "headline": "Apple, Meta reject OKX–ICE tokenized stock plans, leaving crypto firms as the ones to watch",
-   "blurb": "Strategy, Coinbase, Circle and Robinhood are among six companies from the venture’s initial selection with no disclosed objection, after 90% of issuers opted out.",
+   "headline": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
+   "blurb": "Treasury billed the move as part of its campaign against Iran, but the order rests on MEXC's alleged role in Russian illicit finance.",
    "source": "CoinDesk",
-   "ts": "2026-11-06T20:09:18+00:00",
-   "url": "https://www.coindesk.com/policy/2026/11/06/apple-meta-reject-okx-ice-tokenized-stock-plans-leaving-crypto-firms-as-the-ones-to-watch"
+   "ts": "2026-11-07T17:36:46+00:00",
+   "url": "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows"
   },
   {
    "category": "Gold",
@@ -28,15 +28,15 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "Ukraine's power network suffers further damage after fresh Russian strikes",
-   "blurb": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
+   "headline": "What we know about Krakow mass shooting so far",
+   "blurb": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.",
    "source": "BBC",
-   "ts": "2026-11-07T12:49:36+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-07T18:22:11+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "'My mortgage is going up £200': How rising interest rates are hitting people's pockets",
+   "headline": "'My mortgage is going up £200 a month': How rising interest rates are hitting people's pockets",
    "blurb": "With UK interest rates set to rise, mortgages, credit cards and loans could get more expensive for millions.",
    "source": "BBC",
    "ts": "2026-11-07T01:41:36+00:00",
@@ -44,19 +44,19 @@
   },
   {
    "category": "US Politics",
-   "headline": "Peltola campaign sues Alaska over rejected absentee ballot records",
-   "blurb": "Democrat Mary Peltola’s campaign is suing the state of Alaska to obtain access to records for absentee ballots that were rejected by the Alaska Division of Elections, a new court filing shows. Peltola’s campaign said they previously requested records of the rejected ballots on multiple occasions but were denied access. “Plaintiff cannot ensure that its...",
+   "headline": "Meet Stephen Miller, Trump's new chief of staff: 5 things to know",
+   "blurb": "President Trump announced Friday that longtime White House aide Stephen Miller would be his next chief of staff, replacing Susie Wiles — who has served in the role since Trump returned to office. Miller is an immigration hardliner and Trump loyalist who has been with the president since he launched his first campaign. The promotion...",
    "source": "The Hill",
-   "ts": "2026-11-07T13:03:05+00:00",
-   "url": "https://thehill.com/homenews/campaign/6205934-peltola-campaign-alaska-ballot-lawsuit/"
+   "ts": "2026-11-07T18:22:14+00:00",
+   "url": "https://thehill.com/homenews/administration/6206059-stephen-miller-chief-of-staff-info/"
   },
   {
    "category": "India Politics",
-   "headline": "Punjab anti-drug activist Jhota's autopsy conducted at PGIMER, cremation on Nov. 8",
-   "blurb": "Nihang Raja Raj Singh, a religious leader, said that Parvinder Singh Jhota's family has decided to hold the cremation around 12 noon on Sunday",
+   "headline": "Bangalore University to establish placement cells in all affiliated colleges",
+   "blurb": "",
    "source": "The Hindu",
-   "ts": "2026-11-07T13:51:01+00:00",
-   "url": "https://www.thehindu.com/news/national/punjab/punjab-anti-drug-activist-jhotas-autopsy-conducted-at-pgimer-cremation/article71678138.ece"
+   "ts": "2026-11-07T18:33:53+00:00",
+   "url": "https://www.thehindu.com/news/national/karnataka/bangalore-university-to-establish-placement-cells-in-all-affiliated-colleges/article71678576.ece"
   },
   {
    "category": "AI",
@@ -76,11 +76,11 @@
   },
   {
    "category": "Crypto",
-   "headline": "U.S. prediction markets regulator issues demand that clashes directly with courts",
-   "blurb": "The Commodity Futures Trading Commission said regulated exchanges can't cut off customers state-by-state, but firms like Kalshi are under court orders to do so.",
+   "headline": "Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets",
+   "blurb": "One user said the exposed data tied his home address and card number to every crypto wallet linked to his account, raising the risk of targeted scams.",
    "source": "CoinDesk",
-   "ts": "2026-11-06T17:42:28+00:00",
-   "url": "https://www.coindesk.com/policy/2026/11/06/u-s-prediction-markets-regulator-issues-demand-that-clashes-directly-with-courts"
+   "ts": "2026-11-07T16:51:00+00:00",
+   "url": "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets"
   },
   {
    "category": "Gold",
@@ -92,11 +92,11 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "Four things we learned this week about 2028 White House race",
-   "blurb": "The seismic Democratic gains in Congress could shape the presidential election, so who had a good night and who's making moves?",
+   "headline": "US offers $20m reward for information about Iran's nuclear programme",
+   "blurb": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.",
    "source": "BBC",
-   "ts": "2026-11-07T12:23:28+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-07T18:14:38+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
@@ -108,19 +108,19 @@
   },
   {
    "category": "US Politics",
-   "headline": "The Memo: GOP fumbles for way forward in a world beyond Trump",
-   "blurb": "A historic election week is ending, but the debate about the future of the Republican Party is just beginning. On one side are those who see the midterms as a wholesale repudiation of President Trump — or at least a startling reminder that neither he nor his party is immune to the laws of political...",
+   "headline": "President Trump: Forget the midterms and finish the job in Iran",
+   "blurb": "The war will only end by returning to the first objective Trump dropped from his list: the collapse of the fanatical, barbaric Tehran regime.",
    "source": "The Hill",
-   "ts": "2026-11-07T11:00:00+00:00",
-   "url": "https://thehill.com/homenews/analysis/6205560-trump-midterm-elections-republican-party-direction/"
+   "ts": "2026-11-07T18:00:00+00:00",
+   "url": "https://thehill.com/opinion/international/6204551-trump-finish-iran-job/"
   },
   {
    "category": "India Politics",
-   "headline": "Land acquisition and construction of Kuttikkada railway overbridge will meet deadline, says MLA",
-   "blurb": "Chief Minister has already clarified in the board of directors meeting and the Assembly that ongoing policy discussions regarding KIIFB projects will not affect the current construction and land acquisition procedures, says Vishnu Mohan, MLA",
+   "headline": "India’s policy shift towards Israel is regrettable, says former Madras High Court judge at book launch",
+   "blurb": "The book, Amerikka-Israel Aneethiyum Makkal Samuga Kadamaiyum, features articles examining the trajectory of hostilities between the United States and Iran and the Israel-Lebanon conflict",
    "source": "The Hindu",
-   "ts": "2026-11-07T13:50:48+00:00",
-   "url": "https://www.thehindu.com/news/national/kerala/land-acquisition-and-construction-of-kuttikkada-railway-overbridge-will-meet-deadline-says-mla/article71678297.ece"
+   "ts": "2026-11-07T18:30:38+00:00",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/indias-policy-shift-towards-israel-is-regrettable-says-former-madras-high-court-judge-at-book-launch/article71679140.ece"
   },
   {
    "category": "AI",
@@ -140,19 +140,19 @@
   },
   {
    "category": "Crypto",
-   "headline": "The crypto industry has found new ways to grow. Making money from them is another story",
-   "blurb": "Coinbase, Robinhood and Circle are expanding into stablecoins, payments and prediction markets, but their latest earnings show how hard it is to escape crypto's boom-and-bust cycles.",
+   "headline": "Apple, Meta reject OKX–ICE tokenized stock plans, leaving crypto firms as the ones to watch",
+   "blurb": "Strategy, Coinbase, Circle and Robinhood are among six companies from the venture’s initial selection with no disclosed objection, after 90% of issuers opted out.",
    "source": "CoinDesk",
-   "ts": "2026-11-06T15:26:38+00:00",
-   "url": "https://www.coindesk.com/markets/2026/11/05/the-crypto-industry-has-found-new-ways-to-grow-making-money-from-them-is-another-story"
+   "ts": "2026-11-06T20:09:18+00:00",
+   "url": "https://www.coindesk.com/policy/2026/11/06/apple-meta-reject-okx-ice-tokenized-stock-plans-leaving-crypto-firms-as-the-ones-to-watch"
   },
   {
    "category": "Geopolitics",
-   "headline": "Paraguay's president impeached and under house arrest after bank collapse",
-   "blurb": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+   "headline": "Gaza wedding festival sees 250 couples married at the same time",
+   "blurb": "A mass wedding for Palestinian brides and grooms has taken place in the rubble-strewn streets of Gaza.",
    "source": "BBC",
-   "ts": "2026-11-07T07:20:00+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-07T17:58:41+00:00",
+   "url": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
@@ -164,19 +164,19 @@
   },
   {
    "category": "US Politics",
-   "headline": "Schools scramble after Google gives AI ultimatum",
-   "blurb": "Schools are scrambling after Google said Tuesday that education leaders need to either accept some AI in classrooms or lose access to its search engine. School officials trying to push back on an encroaching AI are in a bind. The tech giant dominates search online, and it didn't give much time for districts to...",
+   "headline": "Are hackers targeting America's food supply?",
+   "blurb": "A series of cyberattacks on grocery stores out of Europe raises concerns for cyber threats stateside.",
    "source": "The Hill",
-   "ts": "2026-11-07T11:00:00+00:00",
-   "url": "https://thehill.com/homenews/education/6198820-schools-scramble-after-google-gives-ai-ultimatum/"
+   "ts": "2026-11-07T17:01:21+00:00",
+   "url": "https://thehill.com/policy/technology/6206043-fridges-blood-banks-cyberattacks-federal-warning/"
   },
   {
    "category": "India Politics",
-   "headline": "Farmers demand water from Bhadra reservoir for plantations",
-   "blurb": "",
+   "headline": "Madras HC refuses to reject Anbil Mahesh Poyyamozhi’s election petition",
+   "blurb": "Justice K. Kumaresh Babu dismisses an application filed by Thiruverumbur TVK MLA Vijayakumar alias Navalpattu Viji to reject the election petition",
    "source": "The Hindu",
-   "ts": "2026-11-07T13:50:21+00:00",
-   "url": "https://www.thehindu.com/news/national/karnataka/farmers-demand-water-from-bhadra-reservoir-for-plantations/article71678006.ece"
+   "ts": "2026-11-07T18:20:33+00:00",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/madras-hc-refuses-to-reject-anbil-mahesh-poyyamozhis-election-petition/article71678946.ece"
   },
   {
    "category": "AI",
@@ -196,19 +196,19 @@
   },
   {
    "category": "Crypto",
-   "headline": "Thailand moves to block Bitget as crypto exchange's local acquisition faces uncertainty",
-   "blurb": "Thailand’s SEC filed a criminal complaint against Bitget’s operator, alleging it ran an unlicensed crypto exchange for Thai users from 2022 to 2025.",
+   "headline": "U.S. prediction markets regulator issues demand that clashes directly with courts",
+   "blurb": "The Commodity Futures Trading Commission said regulated exchanges can't cut off customers state-by-state, but firms like Kalshi are under court orders to do so.",
    "source": "CoinDesk",
-   "ts": "2026-11-06T14:33:49+00:00",
-   "url": "https://www.coindesk.com/business/2026/11/05/thailand-moves-to-block-bitget-as-crypto-exchange-s-local-acquisition-faces-uncertainty"
+   "ts": "2026-11-06T17:42:28+00:00",
+   "url": "https://www.coindesk.com/policy/2026/11/06/u-s-prediction-markets-regulator-issues-demand-that-clashes-directly-with-courts"
   },
   {
    "category": "Geopolitics",
-   "headline": "Pope in 'pretty good health' as he starts Latin America tour",
-   "blurb": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer.",
+   "headline": "Houthis say at least 25 killed in Saudi air strike",
+   "blurb": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
    "source": "BBC",
-   "ts": "2026-11-07T06:59:48+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-07T17:09:24+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
@@ -220,19 +220,19 @@
   },
   {
    "category": "US Politics",
-   "headline": "Trump sends 'clear message' to Democrats with Miller promotion",
-   "blurb": "President Trump sent a blunt message to the incoming Democratic majority on Capitol Hill by tapping Stephen Miller to be his new chief of staff, setting up what is likely to be a contentious two years between both ends of Pennsylvania Avenue. Miller is loathed by most Democrats, many of whom view him as xenophobic...",
+   "headline": "Plane etiquette is getting worse, survey finds. These are the biggest offenses",
+   "blurb": "Flying used to be seen as a luxurious experience. Now, it’s more likely to be something you dread.",
    "source": "The Hill",
-   "ts": "2026-11-07T11:00:00+00:00",
-   "url": "https://thehill.com/homenews/administration/6205475-trump-miller-promotion-democrats-majority/"
+   "ts": "2026-11-07T17:00:00+00:00",
+   "url": "https://thehill.com/business/6158203-plane-etiquette-is-getting-worse-survey-finds-these-are-the-biggest-offenses/"
   },
   {
    "category": "India Politics",
-   "headline": "Karnataka dairy farmers seek KMF reforms based on Amul model, more investment in milk procurement",
-   "blurb": "Farmers demand that the State government improve animal health, vaccination, artificial insemination and breed improvement facilities at the village level, as a majority of the farmers involved in dairy farming are in rural areas",
+   "headline": "Bengaluru Metro conducts trial run of Blue Line train at Byappanahalli depot",
+   "blurb": "",
    "source": "The Hindu",
-   "ts": "2026-11-07T13:49:56+00:00",
-   "url": "https://www.thehindu.com/news/national/karnataka/karnataka-dairy-farmers-seek-kmf-reforms-based-on-amul-model-more-investment-in-milk-procurement/article71678244.ece"
+   "ts": "2026-11-07T18:12:53+00:00",
+   "url": "https://www.thehindu.com/news/national/karnataka/bengaluru-metro-conducts-trial-run-of-blue-line-train-at-byappanahalli-depot/article71679376.ece"
   },
   {
    "category": "AI",
@@ -252,19 +252,19 @@
   },
   {
    "category": "Crypto",
-   "headline": "U.S. added 165,000 jobs in October, blowing past 65,000 estimate",
-   "blurb": "The unemployment rate unexpectedly fell to 4.1%. The strong showing surely puts a December rate hike in play, but next week's inflation numbers and the fate of the stock market could prove more important.",
+   "headline": "The crypto industry has found new ways to grow. Making money from them is another story",
+   "blurb": "Coinbase, Robinhood and Circle are expanding into stablecoins, payments and prediction markets, but their latest earnings show how hard it is to escape crypto's boom-and-bust cycles.",
    "source": "CoinDesk",
-   "ts": "2026-11-06T13:31:54+00:00",
-   "url": "https://www.coindesk.com/markets/2026/11/06/u-s-added-165-000-jobs-in-october-blowing-past-65-000-estimate"
+   "ts": "2026-11-06T15:26:38+00:00",
+   "url": "https://www.coindesk.com/markets/2026/11/05/the-crypto-industry-has-found-new-ways-to-grow-making-money-from-them-is-another-story"
   },
   {
    "category": "Geopolitics",
-   "headline": "This man refused life-saving treatment because of his religion - days later the rules changed",
-   "blurb": "Jehovah's Witness leaders relaxed strict rules on blood transfusions, but the change came 23 days too late for Isaac Valdez.",
+   "headline": "Italian foreign minister says hackers leaked his personal data",
+   "blurb": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online.",
    "source": "BBC",
-   "ts": "2026-11-07T01:27:47+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cx5ynly549njo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-07T16:50:06+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
@@ -276,19 +276,19 @@
   },
   {
    "category": "US Politics",
-   "headline": "Do midterms change the calculus for bipartisan permitting reform?",
-   "blurb": "With the midterm elections in the rearview mirror, the Senate is barreling ahead with major energy and infrastructure legislation in the lame-duck session. The bill, which seeks to make it easier to build energy and other infrastructure projects more quickly, is slated for a procedural vote in the Senate on Monday, a key test of...",
+   "headline": "Trump’s glide path to judicial confirmations comes to an end",
+   "blurb": "Democrats' Senate victory means President Trump for the first time will lose a glide path to nominate judges and Supreme Court justices. Pressure had grown on conservative Justices Clarence Thomas and Samuel Alito to retire, but they show no sign of imminently stepping down. And Senate Democratic Leader Chuck Schumer (N.Y.) is already signaling...",
    "source": "The Hill",
-   "ts": "2026-11-07T11:00:00+00:00",
-   "url": "https://thehill.com/policy/energy-environment/6205516-bipartisan-permitting-reform-lame-duck-congress/"
+   "ts": "2026-11-07T17:00:00+00:00",
+   "url": "https://thehill.com/regulation/court-battles/6205209-trump-judicial-confirmations-democrats-senate/"
   },
   {
    "category": "India Politics",
-   "headline": "Nellore DLSA chief calls for mediation to speed up case resolutions",
-   "blurb": "Both the Nellore and Kadapa District Legal Services Authority (DLSA) centres conduct awareness programmes ahead of National Legal Services Day which will be observed on November 9",
+   "headline": "Mathematics key to AI’s advancement, says expert",
+   "blurb": "",
    "source": "The Hindu",
-   "ts": "2026-11-07T13:49:49+00:00",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/nellore-dlsa-chief-calls-for-mediation-to-speed-up-case-resolutions/article71678373.ece"
+   "ts": "2026-11-07T18:05:15+00:00",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/mathematics-key-to-ais-advancement-says-expert/article71679093.ece"
   },
   {
    "category": "AI",
@@ -308,19 +308,19 @@
   },
   {
    "category": "Crypto",
-   "headline": "Over $1 billion in bullish bets liquidated while ETF flows suggest no help in spot market",
-   "blurb": "Your day-ahead look for Nov. 6, 2026",
+   "headline": "Thailand moves to block Bitget as crypto exchange's local acquisition faces uncertainty",
+   "blurb": "Thailand’s SEC filed a criminal complaint against Bitget’s operator, alleging it ran an unlicensed crypto exchange for Thai users from 2022 to 2025.",
    "source": "CoinDesk",
-   "ts": "2026-11-06T12:30:00+00:00",
-   "url": "https://www.coindesk.com/daybook-us/2026/11/06/over-usd1-billion-in-bullish-bets-liquidated-while-etf-flows-suggest-no-help-in-spot-market"
+   "ts": "2026-11-06T14:33:49+00:00",
+   "url": "https://www.coindesk.com/business/2026/11/05/thailand-moves-to-block-bitget-as-crypto-exchange-s-local-acquisition-faces-uncertainty"
   },
   {
    "category": "Geopolitics",
-   "headline": "The young Somali woman changing how the world sees Mogadishu",
-   "blurb": "For some tourists, the contrast between Somalia's reputation and what they experience on the ground can be striking.",
+   "headline": "No clear winner after tight New Zealand general election",
+   "blurb": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
    "source": "BBC",
-   "ts": "2026-11-07T01:19:49+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cq0k0lg48705o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-07T15:56:28+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
@@ -332,19 +332,19 @@
   },
   {
    "category": "US Politics",
-   "headline": "Tillis says Miller is 'worst of all possible choices' for chief of staff role",
-   "blurb": "Sen. Thom Tillis (R-N.C.) blasted President Trump’s Friday decision to replace outgoing White House chief of staff Susie Wiles with top adviser Stephen Miller, saying the president “needs to rethink” his decision. “I've criticized a lot of the president's advisors for bad advice that I think … created some of the environment on Tuesday, but...",
+   "headline": "The ascendency of JD Vance",
+   "blurb": "The Republican Party failed “Working Class 101” on Tuesday, to the sustained glee of the Democratic Party. Will the GOP learn its lesson before 2028?",
    "source": "The Hill",
-   "ts": "2026-11-07T04:12:52+00:00",
-   "url": "https://thehill.com/homenews/administration/6205824-tillis-slams-trump-miller-hire/"
+   "ts": "2026-11-07T17:00:00+00:00",
+   "url": "https://thehill.com/opinion/campaign/6204310-vance-blue-tsunami-postmortem/"
   },
   {
    "category": "India Politics",
-   "headline": "Ration dealers to protest Centre’s cash transfer plan",
-   "blurb": "The AKRRDA said the proposed cash transfer move would weaken Keralam’s public distribution system and affect the food security of ordinary people",
+   "headline": "Lucknow-bound IndiGo flight returns to Bengaluru after hijack threat note found onboard",
+   "blurb": "Flight 6E-451 had departed from Terminal 1 of KIA when cabin crew members found the note that said “This flight is going to hijack at 6.30, ignore and see the consequences”",
    "source": "The Hindu",
-   "ts": "2026-11-07T13:49:47+00:00",
-   "url": "https://www.thehindu.com/news/national/kerala/ration-dealers-to-protest-centres-cash-transfer-plan/article71678235.ece"
+   "ts": "2026-11-07T17:52:43+00:00",
+   "url": "https://www.thehindu.com/news/national/karnataka/lucknow-bound-indigo-flight-emergency-returns-to-bengaluru-after-hijack-threat-note-found-onboard/article71679041.ece"
   },
   {
    "category": "AI",
@@ -364,19 +364,19 @@
   },
   {
    "category": "Crypto",
-   "headline": "Live updates: Bitcoin flatlines under $76,000 as stock bounce loses steam into the close",
-   "blurb": "The Nasdaq gained just 1.1%, while the S&P 500 only edged higher, and the DJIA lost more ground.",
+   "headline": "U.S. added 165,000 jobs in October, blowing past 65,000 estimate",
+   "blurb": "The unemployment rate unexpectedly fell to 4.1%. The strong showing surely puts a December rate hike in play, but next week's inflation numbers and the fate of the stock market could prove more important.",
    "source": "CoinDesk",
-   "ts": "2026-11-06T11:58:40+00:00",
-   "url": "https://www.coindesk.com/tech/2026/11/06/live-updates-nasdaq-100-futures-rally-points-to-stock-market-respite"
+   "ts": "2026-11-06T13:31:54+00:00",
+   "url": "https://www.coindesk.com/markets/2026/11/06/u-s-added-165-000-jobs-in-october-blowing-past-65-000-estimate"
   },
   {
    "category": "Geopolitics",
-   "headline": "Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations",
-   "blurb": "Friday's resolution by academic staff is largely symbolic as they do not have the power to remove those in charge of the university.",
+   "headline": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+   "blurb": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
    "source": "BBC",
-   "ts": "2026-11-06T23:46:08+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c933xxl8yv0go?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-07T15:19:35+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
@@ -388,19 +388,19 @@
   },
   {
    "category": "US Politics",
-   "headline": "Former GOP governor: 'Wisconsin is a blue state'",
-   "blurb": "Former Wisconsin Gov. Tommy Thompson (R) declared the Badger State blue in a post-election interview Wednesday, pointing to recent statewide defeats for the GOP — including in its gubernatorial race. “Wisconsin is no longer a purple state,” Thompson told Wisconsin Public Radio. “We haven’t won a statewide race for a long time. Wisconsin is a...",
+   "headline": "Higher ed affordability is about more than tuition",
+   "blurb": "A program can look affordable on paper but still be financially and pragmatically out of reach for many students.",
    "source": "The Hill",
-   "ts": "2026-11-07T03:13:21+00:00",
-   "url": "https://thehill.com/homenews/campaign/6205785-tommy-thompson-declares-wisconsin-blue-midterms/"
+   "ts": "2026-11-07T16:00:00+00:00",
+   "url": "https://thehill.com/opinion/education/6203690-higher-ed-affordability-beyond-tuition/"
   },
   {
    "category": "India Politics",
-   "headline": "T.N. CM Vijay writes to PM Modi expressing concerns over inspection of Union govt. officials regarding Mekedatu dam project",
-   "blurb": "CM Vijay said there was an apprehension growing among farmers of Tamil Nadu over the recent developments with respect to the proposed Mekedatu Dam Project of Karnataka",
+   "headline": "Rajajingar murders: How did the accused transport bodies across locations without being detected?",
+   "blurb": "Neither a patrolling vehicle nor a checkpoint detected the accused Indushekhar even as he crossed State borders",
    "source": "The Hindu",
-   "ts": "2026-11-07T13:49:46+00:00",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-cm-vijay-writes-to-pm-modi-expressing-concerns-over-inspection-of-union-govt-officials-regarding-mekedatu-dam-project/article71677987.ece"
+   "ts": "2026-11-07T17:50:04+00:00",
+   "url": "https://www.thehindu.com/news/cities/bangalore/rajajingar-murders-how-did-the-accused-transport-bodies-across-locations-without-being-intercepted/article71679003.ece"
   },
   {
    "category": "AI",
@@ -420,19 +420,19 @@
   },
   {
    "category": "Crypto",
-   "headline": "Bitcoin steadies after AI-led selloff as eyes turn to latest U.S. jobs figures",
-   "blurb": "Bitcoin bounced from around $75,200 after Thursday’s AI-led selloff, which drove more than $1 billion in liquidations, as traders await the U.S. jobs report.",
+   "headline": "Over $1 billion in bullish bets liquidated while ETF flows suggest no help in spot market",
+   "blurb": "Your day-ahead look for Nov. 6, 2026",
    "source": "CoinDesk",
-   "ts": "2026-11-06T11:49:35+00:00",
-   "url": "https://www.coindesk.com/markets/2026/11/06/bitcoin-steadies-near-usd76-000-after-ai-led-selloff"
+   "ts": "2026-11-06T12:30:00+00:00",
+   "url": "https://www.coindesk.com/daybook-us/2026/11/06/over-usd1-billion-in-bullish-bets-liquidated-while-etf-flows-suggest-no-help-in-spot-market"
   },
   {
    "category": "Geopolitics",
-   "headline": "With Stephen Miller pick, Trump readies for a battle",
-   "blurb": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
+   "headline": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
+   "blurb": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
    "source": "BBC",
-   "ts": "2026-11-06T23:24:15+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-07T12:49:36+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
@@ -444,19 +444,19 @@
   },
   {
    "category": "US Politics",
-   "headline": "DOJ dismisses lawsuit over California's 20,000 disputed ballots",
-   "blurb": "The Justice Department (DOJ) requested Friday to dismiss its lawsuit against California, which sought to make the state's election officials set aside roughly 20,000 ballots for voters the federal government alleged were not U.S. citizens. The Supreme Court already ruled against the Trump administration in an emergency order ahead of Election Day, preventing them from...",
+   "headline": "Miller calls chief of staff promotion 'honor of my life' at Mar-a-Lago event",
+   "blurb": "Longtime White House aide Stephen Miller pledged his “absolute loyalty” to President Trump in short remarks Friday evening shortly after being promoted to chief of staff — replacing Susie Wiles “We need to stand with the man who has stood with us with every fiber of his being,” Miller said in a video Trump posted...",
    "source": "The Hill",
-   "ts": "2026-11-07T02:32:58+00:00",
-   "url": "https://thehill.com/blogs/ballot-box/6205747-doj-dismisses-california-ballot-lawsuit/"
+   "ts": "2026-11-07T15:33:46+00:00",
+   "url": "https://thehill.com/homenews/administration/6206000-stephen-miller-white-house-promotion-speech/"
   },
   {
    "category": "India Politics",
-   "headline": "Govt. committed to ensuring equal opportunities and dignity for children with special needs: Minister",
+   "headline": "Students urged to dream big, prepare for a self-reliant India",
    "blurb": "",
    "source": "The Hindu",
-   "ts": "2026-11-07T13:48:46+00:00",
-   "url": "https://www.thehindu.com/news/national/kerala/govt-committed-to-ensuring-equal-opportunities-and-dignity-for-children-with-special-needs-minister/article71678342.ece"
+   "ts": "2026-11-07T17:47:05+00:00",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/students-urged-to-dream-big-prepare-for-a-self-reliant-india/article71679044.ece"
   },
   {
    "category": "AI",
