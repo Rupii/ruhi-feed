@@ -1,7 +1,135 @@
 {
- "updated": "2026-11-09T18:40:15+00:00",
+ "updated": "2026-11-10T01:58:42+00:00",
  "count": 58,
  "stories": [
+  {
+   "category": "Equities",
+   "headline": "3 unexpected reasons the October jobs report was so strong",
+   "blurb": "October's jobs report blew past economist forecasts. Here are three reasons.",
+   "source": "CNBC",
+   "ts": "2026-11-09T22:23:56+00:00",
+   "url": "https://www.cnbc.com/2026/11/09/october-jobs-report-hiring-by-sector.html"
+  },
+  {
+   "category": "Crypto",
+   "headline": "Securitize pushes into $6 trillion asset-backed finance market with River One acquisition",
+   "blurb": "The tokenization firm unveiled an acquisition and a $50 million stock buyback as quarterly revenue rose 13%. SECZ shares jumped 10% after hours.",
+   "source": "CoinDesk",
+   "ts": "2026-11-09T22:56:27+00:00",
+   "url": "https://www.coindesk.com/business/2026/11/09/securitize-pushes-into-usd6-trillion-asset-backed-finance-market-with-river-one-acquisition"
+  },
+  {
+   "category": "Gold",
+   "headline": "Can Gold Turn Recovery Into a Sustainable Rebound?",
+   "blurb": "",
+   "source": "Investing.com",
+   "ts": "2026-11-09T15:21:00+00:00",
+   "url": "https://www.investing.com/analysis/can-gold-turn-recovery-into-a-sustainable-rebound-200691220"
+  },
+  {
+   "category": "Geopolitics",
+   "headline": "Qantas to outsource 850 local jobs with most roles moving to India",
+   "blurb": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.",
+   "source": "BBC",
+   "ts": "2026-11-10T01:55:22+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "category": "Macro",
+   "headline": "Headteachers say families will struggle after another rise in school dinner prices",
+   "blurb": "The price of a school dinner in a primary school will have risen from £2.60 to £3.40 since the start of 2026.",
+   "source": "BBC",
+   "ts": "2026-11-10T00:00:22+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c9m262yv6yx8o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "category": "US Politics",
+   "headline": "Cornyn declines to say if he voted for Paxton, cites Paxton’s ‘corruption’ as issue",
+   "blurb": "Outgoing Sen. John Cornyn (R-Texas) declined to say Monday whether he voted for Texas Attorney General Ken Paxton, the Republican candidate in Texas’s Senate race who defeated Cornyn earlier this year in a primary runoff election, and cited Paxton’s “corruption” as a major reason why he lost to Democrat James Talarico. “The Republican Party treated...",
+   "source": "The Hill",
+   "ts": "2026-11-10T00:50:06+00:00",
+   "url": "https://thehill.com/homenews/senate/6209581-texas-senate-election-talarico-victory/"
+  },
+  {
+   "category": "India Politics",
+   "headline": "Return of patriarch: Farooq steps in as NC old guard reasserts influence to check Omar",
+   "blurb": "In seven decades of the National Conference, the parallel party meeting was seen as a rare implosion and a visible crack that the Opposition parties could exploit to tilt the balance of numbers against the Omar Abdullah government.",
+   "source": "The Hindu",
+   "ts": "2026-11-10T00:57:33+00:00",
+   "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/return-of-patriarch-farooq-steps-in-as-nc-old-guard-reasserts-influence-to-check-omar/article71683985.ece"
+  },
+  {
+   "category": "AI",
+   "headline": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+   "blurb": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said: \"I think when you zoom out and look at production, AI really has the potential to […]",
+   "source": "The Verge",
+   "ts": "2026-11-10T00:28:49+00:00",
+   "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai"
+  },
+  {
+   "category": "Equities",
+   "headline": "A key report for where inflation stood in October comes out Tuesday. Here's what to expect",
+   "blurb": "The CPI headline reading is expected to show an increase of 0.3% while the core is forecast to increase 0.2%.",
+   "source": "CNBC",
+   "ts": "2026-11-09T21:03:55+00:00",
+   "url": "https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html"
+  },
+  {
+   "category": "Crypto",
+   "headline": "Robinhood backs tokenization of its stock on OKX–ICE platform even as most companies opt out",
+   "blurb": "The brokerage firm said it would rather help build tokenized markets than sit on the sidelines, following a wave of early corporate pushback to the Intercontinental Exchange and OKX joint venture.",
+   "source": "CoinDesk",
+   "ts": "2026-11-09T19:36:15+00:00",
+   "url": "https://www.coindesk.com/business/2026/11/09/robinhood-backs-tokenization-of-its-stock-on-okx-ice-platform-even-as-most-companies-opt-out"
+  },
+  {
+   "category": "Gold",
+   "headline": "Gold and Rates: The Decoupling and the Recoupling",
+   "blurb": "",
+   "source": "Investing.com",
+   "ts": "2026-11-09T12:41:00+00:00",
+   "url": "https://www.investing.com/analysis/gold-and-rates-the-decoupling-and-the-recoupling-200691227"
+  },
+  {
+   "category": "Geopolitics",
+   "headline": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+   "blurb": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+   "source": "BBC",
+   "ts": "2026-11-10T01:44:53+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "category": "Macro",
+   "headline": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
+   "blurb": "Jensen Huang is being investigated by his own company over an extramarital affair with a woman alleged to be a Chinese spy.",
+   "source": "BBC",
+   "ts": "2026-11-09T21:52:28+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "category": "US Politics",
+   "headline": "A different kind of war: Massie kicks off Hegseth impeachment effort in House",
+   "blurb": "Welcome to The Hill's Defense & NatSec newsletter {beacon} Defense &National Security Defense &National Security The Big Story A different kind of war: Massie kicks off Hegseth impeachment effort in House Rep. Thomas Massie (R-Ky.) is forcing a House vote later in the week to impeach and remove Defense Secretary Pete Hegseth over his role...",
+   "source": "The Hill",
+   "ts": "2026-11-10T00:47:02+00:00",
+   "url": "https://thehill.com/newsletters/defense-national-security/6209567-massie-kicks-hegseth-impeachment/"
+  },
+  {
+   "category": "India Politics",
+   "headline": "Kochi Corporation plans water security assessment to strengthen city’s resilience",
+   "blurb": "The project, which will be implemented with technical support from the Kerala Water Authority, is expected to be completed in six months",
+   "source": "The Hindu",
+   "ts": "2026-11-10T00:34:07+00:00",
+   "url": "https://www.thehindu.com/news/national/kerala/kochi-corporation-plans-water-security-assessment-to-strengthen-citys-resilience/article71682168.ece"
+  },
+  {
+   "category": "AI",
+   "headline": "What could China get from Jensen Huang?",
+   "blurb": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been an influential investor in a wide range of up-and-coming AI companies in recent years, with about […]",
+   "source": "The Verge",
+   "ts": "2026-11-10T00:07:10+00:00",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang"
+  },
   {
    "category": "Equities",
    "headline": "China wholesale inflation hits highest in more than four years as consumer measure slows",
@@ -19,52 +147,44 @@
    "url": "https://www.coindesk.com/tech/2026/11/09/a-bitcoin-block-just-neared-a-2015-transaction-record-but-paid-only-usd180-in-fees"
   },
   {
-   "category": "Gold",
-   "headline": "Can Gold Turn Recovery Into a Sustainable Rebound?",
-   "blurb": "",
-   "source": "Investing.com",
-   "ts": "2026-11-09T15:21:00+00:00",
-   "url": "https://www.investing.com/analysis/can-gold-turn-recovery-into-a-sustainable-rebound-200691220"
-  },
-  {
    "category": "Geopolitics",
    "headline": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
-   "blurb": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process.",
+   "blurb": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process next year.",
    "source": "BBC",
-   "ts": "2026-11-09T18:19:19+00:00",
+   "ts": "2026-11-10T01:38:49+00:00",
    "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "How a civil servant got away with juggling five jobs for so long",
-   "blurb": "Kashim Chowdhury has been convicted of fraud after pocketing £284,000 of taxpayers' money over three years.",
+   "headline": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+   "blurb": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
    "source": "BBC",
-   "ts": "2026-11-09T18:02:09+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cw1m4d8vjvppo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-09T19:58:01+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Hegseth plans press conference, says he's 'not worried' about impeachment push",
-   "blurb": "Defense Secretary Pete Hegseth said he plans to hold a press conference at the Pentagon on Tuesday morning and argued that he is “not worried” about the impeachment articles Rep. Thomas Massie (R-Ky.) plans to reintroduce against him this week. “We're not worried about that,” Hegseth told reporters in Newport, R.I., on Monday when asked...",
+   "headline": "Senate advances bill to boost energy and infrastructure – teeing up passage",
+   "blurb": "{beacon} Energy & Environment Energy & Environment The Big Story Senate advances permitting bill, teeing up passage The Senate voted Monday to advance a major bipartisan bill that aims to speed up the construction of energy and other infrastructure projects — clearing a key hurdle toward the measure becoming law. © Greg Nash...",
    "source": "The Hill",
-   "ts": "2026-11-09T18:13:25+00:00",
-   "url": "https://thehill.com/policy/defense/6208537-hegseth-pentagon-press-conference/"
+   "ts": "2026-11-10T00:43:51+00:00",
+   "url": "https://thehill.com/newsletters/energy-environment/6209573-senate-advances-bill-to-boost-energy-and-infrastructure-teeing-up-passage/"
   },
   {
    "category": "India Politics",
-   "headline": "Raptadu chainsaw attack victim’s condition improving, says A.P. Health Minister",
-   "blurb": "Dressing has been changed for injuries on her head, neck, face, arms, and back. The wounds are healing well and she is responding positively to the treatment, says Satya Kumar Yadav",
+   "headline": "Demand grows for alternative greenfield road corridors to Infopark in Kochi",
+   "blurb": "IT professionals flag safety concerns over narrow, potholed roads and traffic snarls, and call for parallel roads through vacant plots to improve connectivity to Infopark",
    "source": "The Hindu",
-   "ts": "2026-11-09T18:17:49+00:00",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/raptadu-chainsaw-attack-victims-condition-improving-says-ap-health-minister/article71683834.ece"
+   "ts": "2026-11-10T00:33:27+00:00",
+   "url": "https://www.thehindu.com/news/national/kerala/demand-grows-for-alternative-greenfield-road-corridors-to-infopark-in-kochi/article71682589.ece"
   },
   {
    "category": "AI",
-   "headline": "Instagram’s Effect Builder makes new filters from AI prompts",
-   "blurb": "After expanding its Edits app to macOS last week, Instagram's next move is launching this Effect Builder that generates custom filters for your Stories posts with AI. Available now for US residents who are over 18, it has a prompt box for describing your filter idea to the chatbot, with an option to attach style […]",
+   "headline": "Here’s what Trump said he knew about Jensen Huang",
+   "blurb": "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this weekend that he had been \"​​unfaithful\" to his wife, and the company has opened an investigation into Huang. Recent articles from The New […]",
    "source": "The Verge",
-   "ts": "2026-11-09T18:07:23+00:00",
-   "url": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters"
+   "ts": "2026-11-10T00:02:17+00:00",
+   "url": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference"
   },
   {
    "category": "Equities",
@@ -83,52 +203,44 @@
    "url": "https://www.coindesk.com/markets/2026/11/09/google-s-ai-chip-push-adds-more-pressure-on-nvidia"
   },
   {
-   "category": "Gold",
-   "headline": "Gold and Rates: The Decoupling and the Recoupling",
-   "blurb": "",
-   "source": "Investing.com",
-   "ts": "2026-11-09T12:41:00+00:00",
-   "url": "https://www.investing.com/analysis/gold-and-rates-the-decoupling-and-the-recoupling-200691227"
-  },
-  {
    "category": "Geopolitics",
-   "headline": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
-   "blurb": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
+   "headline": "Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
+   "blurb": "A woman says an agency boss sent her to photoshoots at the sex offender's Florida beach home.",
    "source": "BBC",
-   "ts": "2026-11-09T18:11:11+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-10T00:14:03+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Civil servant who secretly held five jobs found guilty of fraud",
-   "blurb": "Kashim Chowdhury had secretly held multiple public sector jobs on full-time salaries.",
+   "headline": "The facial recognition technology stopping shoplifters",
+   "blurb": "Business correspondent Emma Simpson tries out Sainsbury's facial recognition technology.",
    "source": "BBC",
-   "ts": "2026-11-09T17:17:16+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-09T19:00:43+00:00",
+   "url": "https://www.bbc.co.uk/news/videos/c5x2v2kpwzgvo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Biden: Jan. 6 riots should follow Trump 'to his grave'",
-   "blurb": "Former President Biden wrote in his upcoming memoir that the Jan. 6, 2021, attack on Capitol Hill should follow President Trump \"to his grave.\" The Associated Press on Monday reported on an excerpt from Biden's presidential memoir, \"Promise Me, America,\" out Nov. 17. The passage focused on the Jan. 6 attack, when rioters attacked Capitol...",
+   "headline": "Crane staves off Democratic challenger in Arizona House race",
+   "blurb": "Rep. Eli Crane (R-Ariz.) is projected to win reelection in Arizona's 2nd Congressional District, according to Decision Desk HQ (DDHQ), defeating Democrat Jonathan Nez for the second consecutive election cycle. The race was close enough that DDHQ did not make its projection until a week after the election, as Democrats prepare to take over the...",
    "source": "The Hill",
-   "ts": "2026-11-09T18:07:05+00:00",
-   "url": "https://thehill.com/homenews/administration/6208410-biden-memoir-january-6-trump/"
+   "ts": "2026-11-10T00:41:20+00:00",
+   "url": "https://thehill.com/homenews/campaign/6180310-eli-crane-arizona-2nd-district/"
   },
   {
    "category": "India Politics",
-   "headline": "APSDRF rescues eight, evacuates 341 during Cyclone Arnab relief efforts",
-   "blurb": "",
+   "headline": "Trinamool MLA Paresh Ram Das arrested on charges of rape and extortion",
+   "blurb": "Several leaders of the Trinamool Congress have been arrested after the BJP came to power in May 2026, which includes five former Ministers",
    "source": "The Hindu",
-   "ts": "2026-11-09T18:11:02+00:00",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/apsdrf-rescues-eight-evacuates-341-during-cyclone-arnab-relief-efforts/article71683550.ece"
+   "ts": "2026-11-09T23:08:34+00:00",
+   "url": "https://www.thehindu.com/news/cities/kolkata/trinamool-mla-paresh-ram-das-arrested-on-charges-of-rape-and-extortion/article71683579.ece"
   },
   {
    "category": "AI",
-   "headline": "Nvidia is investigating Jensen Huang’s relationship with an alleged Chinese spy",
-   "blurb": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement posted by the board of directors reads: The NVIDIA Board is initiating an independent investigation in light […]",
+   "headline": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+   "blurb": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice Huang (no relation) as not only the exec for an AI compute company renting access to […]",
    "source": "The Verge",
-   "ts": "2026-11-09T17:49:31+00:00",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy"
+   "ts": "2026-11-09T23:46:30+00:00",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang"
   },
   {
    "category": "Equities",
@@ -148,43 +260,43 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "Russia's leading independent newspaper closes after eviction",
-   "blurb": "The outlet has been evicted from its offices of three decades and says it's been blocked from receiving donations.",
+   "headline": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+   "blurb": "Kyiv, Washington and Moscow are all sending delegation to the United Arab Emirates for the first trilateral talks since February.",
    "source": "BBC",
-   "ts": "2026-11-09T18:08:07+00:00",
-   "url": "https://www.bbc.co.uk/news/videos/cvrlylj9r11go?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-10T00:09:49+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Poundland unable to buy new stock as fears over collapse grow",
-   "blurb": "The discount chain is continuing to edge towards collapse and is said to be \"running on fumes\", according to one insider.",
+   "headline": "How a civil servant got away with juggling five jobs for so long",
+   "blurb": "Kashim Chowdhury has been convicted of fraud after pocketing £284,000 of taxpayers' money over three years.",
    "source": "BBC",
-   "ts": "2026-11-09T16:46:40+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cw1l3lmem165o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-09T18:40:31+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cw1m4d8vjvppo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Trump casts doubt on midterm results: ‘How could the polls be so wrong?’",
-   "blurb": "President Trump on Monday asked how the polls could have been “so wrong” after Democrats won back control of both the House and Senate in the midterms, raising questions about whether last week's elections were “honest” after signaling he’d accept the results. \"Does anybody really believe that this ‘Election’ was honest. How could the Polls...",
+   "headline": "5 takeaways from Trump's surprise White House briefing",
+   "blurb": "President Trump carried out a surprise press briefing at the White House on Monday, teasing reporters with an appearance by UFC head Dana White — to whom he offered the job as press secretary — and providing a combative response to the GOP’s stunning defeat in the midterm elections. The president took a wide range...",
    "source": "The Hill",
-   "ts": "2026-11-09T18:04:35+00:00",
-   "url": "https://thehill.com/homenews/campaign/6208460-trump-questions-midterm-results/"
+   "ts": "2026-11-10T00:09:56+00:00",
+   "url": "https://thehill.com/homenews/administration/6209377-trump-briefing-dana-white-pete-hegseth/"
   },
   {
    "category": "India Politics",
-   "headline": "Disha higher education exhibition draws large crowds in Malappuram",
-   "blurb": "Disha, organised by the Career Guidance and Adolescent Counselling Cell (CG&AC) under the General Education department, aims to guide students on higher education options after Plus Two, career-oriented courses and scholarships.",
+   "headline": "Outcry as J&K Bank implements reservation policy pushed by ex-chairman and VHP trustee R.K. Chhibber",
+   "blurb": "The bank has decided to fill 1400 vacancies, including 323 probationary officers and 1033 posts for banking associates, as per the new reservation policy",
    "source": "The Hindu",
-   "ts": "2026-11-09T18:00:36+00:00",
-   "url": "https://www.thehindu.com/news/national/kerala/disha-higher-education-exhibition-draws-large-crowds-in-malappuram/article71683137.ece"
+   "ts": "2026-11-09T22:57:23+00:00",
+   "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/outcry-as-jk-bank-implements-reservation-policy-pushed-by-ex-chairman-and-vhp-trustee-rk-chhibber/article71683483.ece"
   },
   {
    "category": "AI",
-   "headline": "Here’s the full text of Jensen Huang’s memo to Nvidia",
-   "blurb": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees acknowledging the affair. You can read the full text below. To my […]",
+   "headline": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
+   "blurb": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49.99, as spotted by 9to5Mac. It has a built-in AI assistant to do things like \"start a new song, set […]",
    "source": "The Verge",
-   "ts": "2026-11-09T17:46:40+00:00",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia"
+   "ts": "2026-11-09T19:09:58+00:00",
+   "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro"
   },
   {
    "category": "Equities",
@@ -204,43 +316,43 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "Turkey steel factory blast kills at least 16 people",
-   "blurb": "Eyewitnesses say the explosion shook the ground, with one believing an earthquake had hit near the Habas Demir Celik plant in Aliaga.",
+   "headline": "The superpower battle over energy – and what it means for your bills",
+   "blurb": "A tug-of-war between China and the US could have a big impact on energy costs, but who will win?",
    "source": "BBC",
-   "ts": "2026-11-09T18:04:01+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-10T00:08:28+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Action on energy costs is my overriding aim, says Fahnbulleh",
-   "blurb": "The energy secretary says reducing bills is key to maintaining public support for climate action.",
+   "headline": "Civil servant who secretly held five jobs found guilty of fraud",
+   "blurb": "Kashim Chowdhury had secretly held multiple public sector jobs on full-time salaries.",
    "source": "BBC",
-   "ts": "2026-11-09T16:01:19+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cmz7x7q7q8vvo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-09T17:17:16+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Burchett 'absolutely' would take appointment to Blackburn's seat",
-   "blurb": "Rep. Tim Burchett (R-Tenn.) expressed interest in taking outgoing senator and Tennessee Gov.-elect Marsha Blackburn’s seat once she resigns from upper chamber. Burchett said he would \"absolutely\" take an appointment to the Senate, making the case that he is more popular and better positioned than any of the others on Blackburn’s reported shortlist. Burchett appeared...",
+   "headline": "Van Hollen 'in listening mode' on leadership run",
+   "blurb": "Sen. Chris Van Hollen (D-Md.), who has been recently discussed as a possible Senate majority leader for his party in the upcoming Congress, said Monday he is \"in listening mode\" on taking up the role. “What I've said from the very beginning is, we shouldn't have a coronation. We should have a caucus discussion about...",
    "source": "The Hill",
-   "ts": "2026-11-09T18:04:17+00:00",
-   "url": "https://thehill.com/the-120/6208488-burchett-seeks-blackburn-senate-seat/"
+   "ts": "2026-11-10T00:01:48+00:00",
+   "url": "https://thehill.com/homenews/campaign/6209487-van-hollen-senate-majority-leader/"
   },
   {
    "category": "India Politics",
-   "headline": "Children make up for half of Deepavali eye-injury cases at Hyderabad hospital",
-   "blurb": "Doctors say most patients were treated without surgery, but 10 individuals require surgical intervention, while bystanders also accounted for numerous injuries from a range of fireworks, underscoring the festival’s risk to ocular health",
+   "headline": "ED attaches properties in Kashmir in ‘misuse’ of PM Employment Generation Programme scheme case",
+   "blurb": "An ED spokesman said there was misappropriation of PMEGP Scheme’s loans in criminal conspiracy with the PMEGP borrowers, bank officials of Sumbal Branch and Gamud Gadkhud Branch of J&K Bank and other unknown persons",
    "source": "The Hindu",
-   "ts": "2026-11-09T17:51:43+00:00",
-   "url": "https://www.thehindu.com/news/cities/Hyderabad/children-make-up-nearly-half-of-deepavali-eye-injury-cases-at-hyderabad-hospital/article71681416.ece"
+   "ts": "2026-11-09T22:08:12+00:00",
+   "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/ed-attaches-properties-in-kashmir-in-misuse-of-pm-employment-generation-programme-scheme-case/article71683744.ece"
   },
   {
    "category": "AI",
-   "headline": "The future of AI hinges on… Jensen Huang’s sex life?",
-   "blurb": "I would prefer that these people's sex lives were none of my business but I guess we have to talk about Jensen Huang and the National Security Incident. Who could have guessed that the guy who was out here signing titties might not have great judgment about how to behave around women? Alice Huang - […]",
+   "headline": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+   "blurb": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show improvements in coding, reasoning, and vision, and can generate outputs faster than the 5.1 versions of the Fable and Mythos models. Claude Fable […]",
    "source": "The Verge",
-   "ts": "2026-11-09T17:36:26+00:00",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me"
+   "ts": "2026-11-09T18:58:38+00:00",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2"
   },
   {
    "category": "Equities",
@@ -260,43 +372,43 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "Trump questions midterm elections integrity after previously accepting results",
-   "blurb": "Trump made the claims, without evidence, on Truth Social on Monday.",
-   "source": "BBC",
-   "ts": "2026-11-09T17:47:29+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "category": "Macro",
    "headline": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
    "blurb": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
    "source": "BBC",
-   "ts": "2026-11-09T15:46:20+00:00",
+   "ts": "2026-11-09T23:51:22+00:00",
    "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss"
   },
   {
+   "category": "Macro",
+   "headline": "Poundland unable to buy new stock as fears over collapse grow",
+   "blurb": "The discount chain is continuing to edge towards collapse and is said to be \"running on fumes\", according to one insider.",
+   "source": "BBC",
+   "ts": "2026-11-09T16:46:40+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cw1l3lmem165o?at_medium=RSS&at_campaign=rss"
+  },
+  {
    "category": "US Politics",
-   "headline": "Even this blue wave probably won't wash tariffs away",
-   "blurb": "While a Democratic shift in Congress might alter the tone of American trade policy, the underlying bipartisan commitment to economic security and industrial policy suggests that major tariffs and trade restrictions will likely persist.",
+   "headline": "Senate advances bipartisan permitting reform bill, teeing up passage",
+   "blurb": "The Senate voted Monday to advance a major bipartisan bill that aims to speed up the construction of energy and other infrastructure projects — clearing a key hurdle toward the measure becoming law. The vote was 73-25, teeing up likely Senate passage in the weeks ahead. Sen. Mike Rounds (S.D.) was the only GOP no...",
    "source": "The Hill",
-   "ts": "2026-11-09T18:00:00+00:00",
-   "url": "https://thehill.com/opinion/international/6207357-us-tariffs-china-allies/"
+   "ts": "2026-11-09T23:35:08+00:00",
+   "url": "https://thehill.com/policy/energy-environment/6208626-bipartisan-permitting-reform-bill-energy-infrastructure/"
   },
   {
    "category": "India Politics",
-   "headline": "Police seize third video allegedly showing ‘Gem Granites’ Veeramani abusing minor",
-   "blurb": "The deleted content was retrieved by cyber forensic experts from a storage device, say police sources",
+   "headline": "Postpone panchayat, municipal elections to April-May next year: Ladakh group",
+   "blurb": "“We suspect that this government is up to some mischief. We saw ‘vote chori’ in West Bengal, Bihar, Haryana, Maharashtra etc. In entire India 13 crore voters were dropped from the voter list. Ladakh is a small region and fraud is easy,” said Ladakh Buddhist Association (LBA) chairman Tsering Dorjey Lakrook",
    "source": "The Hindu",
-   "ts": "2026-11-09T17:48:56+00:00",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/police-seize-third-video-allegedly-showing-gem-granites-veeramani-abusing-minor/article71683139.ece"
+   "ts": "2026-11-09T21:54:17+00:00",
+   "url": "https://www.thehindu.com/news/national/ladakh/postpone-panchayat-municipal-elections-to-april-may-next-year-ladakh-group/article71683915.ece"
   },
   {
    "category": "AI",
-   "headline": "Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec",
-   "blurb": "Asked about AI executives' warnings about their models' safety on 60 Minutes, Trump said, \"I think that the risk is not nearly as real as it- as they talk, and I think the risk can be managed, and it's managed.\" He claimed the DOJ is managing that risk, saying, \"We had a situation where somebody […]",
+   "headline": "Instagram’s Effect Builder makes new filters from AI prompts",
+   "blurb": "After expanding its Edits app to macOS last week, Instagram's next move is launching this Effect Builder that generates custom filters for your Stories posts with AI. Available now for US residents who are over 18, it has a prompt box for describing your filter idea to the chatbot, with an option to attach style […]",
    "source": "The Verge",
-   "ts": "2026-11-09T16:00:35+00:00",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai"
+   "ts": "2026-11-09T18:07:23+00:00",
+   "url": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters"
   },
   {
    "category": "Equities",
@@ -316,155 +428,43 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "Nine Zimbabweans caught allegedly trying to leave South Africa to fight in Ukraine",
-   "blurb": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine.",
+   "headline": "Judge denies motion to dismiss Lindsay Clancy's murder case",
+   "blurb": "The ruling means the case can move forward, possibly with reduced charges in a new trial.",
    "source": "BBC",
-   "ts": "2026-11-09T17:06:18+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-09T23:28:53+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Rising cost of living tests UK's net zero ambitions",
-   "blurb": "From floods to wildfires to heatwaves, 2026 is the year it became hard to ignore the impact of climate change on UK weather. But will soaring living costs affect the government’s commitment to tackling climate change?",
+   "headline": "Action on energy costs is my overriding aim, says Fahnbulleh",
+   "blurb": "The energy secretary says reducing bills is key to maintaining public support for climate action.",
    "source": "BBC",
-   "ts": "2026-11-09T13:42:03+00:00",
-   "url": "https://www.bbc.co.uk/news/videos/cm1dwd4e4ywvo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-09T16:01:19+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cmz7x7q7q8vvo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Hegseth in crosshairs as Congress returns",
-   "blurb": "Presented by American Meat Producers Association — Plus: Are Vance’s 2028 hopes dwindling? {beacon} PRESENTED BY AMERICAN MEAT PRODUCERS ASSOCIATION It’s Monday. And while it might feel chilly in the Washington area, things are heating up on Capitol Hill with lawmakers back from a weeks-long recess. In today's issue: Congress returns after elections ...",
+   "headline": "Shapiro vows minimum wage hike, abortion protections with Pennsylvania’s Democratic trifecta",
+   "blurb": "Pennsylvania Gov. Josh Shapiro (D) on Sunday vowed measures like raising the state minimum wage and protections for abortion following his party locking down the state House and Senate. “We’re going to more than double Pennsylvania‘s minimum wage. Codify abortion rights into our state Constitution. Fund mass transit. Build more housing,” Shapiro said in a...",
    "source": "The Hill",
-   "ts": "2026-11-09T17:42:13+00:00",
-   "url": "https://thehill.com/newsletters/1230-report/6208459-pete-hegseth-impeachment-jd-vance-donald-trump-iran-war-midtern-losses-2026/"
+   "ts": "2026-11-09T23:23:59+00:00",
+   "url": "https://thehill.com/homenews/state-watch/6209350-shapiro-promises-minimum-wage-hike/"
   },
   {
    "category": "India Politics",
-   "headline": "Why Manaveeyam Veedhi is at the centre of a political battle between BJP, CPI(M) in Keralam capital",
-   "blurb": "The BJP-led Corporation has made clear its intent to make the street 'protest-free' and to keep it limited to cultural activities. Former Mayor and CPI(M) leader V. Sivankutty says the road is under the Public Works department and its management rights have never been transferred to the Corporation",
+   "headline": "Six of family killed in fire at home above grocery store in Maharashtra",
+   "blurb": "A boy, who was brought downstairs to safety by his parents before they went back in an effort to rescue the others, was the sole survivor",
    "source": "The Hindu",
-   "ts": "2026-11-09T17:38:25+00:00",
-   "url": "https://www.thehindu.com/news/national/kerala/why-manaveeyam-veedhi-is-at-the-centre-of-a-political-battle-between-bjp-cpim-in-keralam-capital/article71670739.ece"
+   "ts": "2026-11-09T21:16:04+00:00",
+   "url": "https://www.thehindu.com/news/national/maharashtra/six-of-family-killed-in-fire-at-home-above-grocery-store-in-maharashtra/article71683897.ece"
   },
   {
    "category": "AI",
-   "headline": "Disney and Adobe are building generative AI tools together",
-   "blurb": "The Walt Disney Company has teamed up with Adobe to develop proprietary \"artist-led\" generative AI models to support Disney's production pipeline. The multiyear partnership was announced today at Adobe's MAX conference, and it will see Adobe providing Disney with early access to its latest technologies for everything from Disney's theme parks and cruise line to […]",
+   "headline": "The future of AI hinges on… Jensen Huang’s sex life?",
+   "blurb": "I would prefer that these people's sex lives were none of my business but I guess we have to talk about Jensen Huang and the National Security Incident. Who could have guessed that the guy who was out here signing titties might not have great judgment about how to behave around women? Alice Huang - […]",
    "source": "The Verge",
-   "ts": "2026-11-09T15:54:52+00:00",
-   "url": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership"
-  },
-  {
-   "category": "Equities",
-   "headline": "Here's what the Democratic election rout could mean for the U.S. economy",
-   "blurb": "The biggest forces shaping the economy aren't going to change just because the party in power did.",
-   "source": "CNBC",
-   "ts": "2026-11-05T14:33:32+00:00",
-   "url": "https://www.cnbc.com/2026/11/05/emocratic-midterm-economy.html"
-  },
-  {
-   "category": "Crypto",
-   "headline": "Bitcoin bulls can't rely on ETF flows",
-   "blurb": "Your day-ahead look for Nov. 9, 2026",
-   "source": "CoinDesk",
-   "ts": "2026-11-09T12:30:00+00:00",
-   "url": "https://www.coindesk.com/daybook-us/2026/11/09/bitcoin-bulls-can-t-rely-on-etf-flows"
-  },
-  {
-   "category": "Geopolitics",
-   "headline": "Watch: Rare insight into France's drug gangs recruiting children to commit violence",
-   "blurb": "\"It destroys people, but we all make our own choices\" - Marseille drug-gang members spoke to the BBC.",
-   "source": "BBC",
-   "ts": "2026-11-09T16:59:46+00:00",
-   "url": "https://www.bbc.co.uk/news/videos/cwe9l98l5n2po?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "category": "Macro",
-   "headline": "Government's EV targets expected to be reduced this week",
-   "blurb": "New petrol or diesel cars are due to be phased out by 2030 and by 2035 all new cars must be zero emission.",
-   "source": "BBC",
-   "ts": "2026-11-09T12:06:22+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cqkg5g2970epo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "category": "US Politics",
-   "headline": "We want your vote, but we don’t want you: Republicans failed on diversity yet again",
-   "blurb": "Writing in the wake of the 2026 midterms, Joslin Joseph argues that the Republican Party must purge itself of nationalist and fascist elements to successfully embrace its diverse voter base ahead of the 2028 election.",
-   "source": "The Hill",
-   "ts": "2026-11-09T17:30:00+00:00",
-   "url": "https://thehill.com/opinion/campaign/6207067-gop-must-embrace-diversity/"
-  },
-  {
-   "category": "India Politics",
-   "headline": "Four acres of encroached land reclaimed in Ballari; task force clears 150 acres",
-   "blurb": "The district administration carries out a drive in the city, demolishes a compound wall built on govt. land",
-   "source": "The Hindu",
-   "ts": "2026-11-09T17:18:35+00:00",
-   "url": "https://www.thehindu.com/news/national/karnataka/four-acres-of-encroached-land-reclaimed-in-ballari-task-force-clears-150-acres/article71682668.ece"
-  },
-  {
-   "category": "AI",
-   "headline": "Hold up — I had a great time talking to the RIAA guy",
-   "blurb": "Today, I’m talking with Mitch Glazier, who is CEO and chairman of the RIAA. This conversation was a real full-circle moment for me: I was in college when Napster hit, and the RIAA became everyone’s villain for suing kids for downloading music. That was when I decided to go be a copyright lawyer, which set […]",
-   "source": "The Verge",
-   "ts": "2026-11-09T15:22:38+00:00",
-   "url": "https://www.theverge.com/podcast/1029684/riaa-mitch-glazier-napster-ai-labels-music"
-  },
-  {
-   "category": "Equities",
-   "headline": "Analysis: The Democrats have one chance to extract concessions from Trump. Markets will hate it",
-   "blurb": "The next debt-ceiling confrontation could reverse Washington's traditional political roles, raising the possibility of spending concessions, market volatility and a damaging default.",
-   "source": "CNBC",
-   "ts": "2026-11-04T22:46:43+00:00",
-   "url": "https://www.cnbc.com/2026/11/04/democrats-trump-debt-ceiling-fight.html"
-  },
-  {
-   "category": "Crypto",
-   "headline": "Nvidia-led tech selloff weighs on crypto majors",
-   "blurb": "Only five of the top 100 cryptocurrencies by market value are up 1% or more over the past 24 hours. That is the state of the market today.",
-   "source": "CoinDesk",
-   "ts": "2026-11-09T11:42:04+00:00",
-   "url": "https://www.coindesk.com/markets/2026/11/09/tech-selloff-weighs-on-crypto-majors"
-  },
-  {
-   "category": "Geopolitics",
-   "headline": "France accuses Iran of supermarket fridge hacking",
-   "blurb": "The cyber-attack last month saw fridges and freezers in hundreds of supermarkets across France heated up.",
-   "source": "BBC",
-   "ts": "2026-11-09T16:55:07+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "category": "Macro",
-   "headline": "Is it the end of free school milk?",
-   "blurb": "Free school milk has been provided to children in Wales since the 1970s, but that could now change.",
-   "source": "BBC",
-   "ts": "2026-11-09T08:12:30+00:00",
-   "url": "https://www.bbc.co.uk/news/videos/c65ynnx2e7kko?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "category": "US Politics",
-   "headline": "Ohio State suspends fraternity after video shows two individuals on fire",
-   "blurb": "The Ohio State University put Sigma Alpha Epsilon on interim suspension while the college investigates an online video showing two individuals set on fire. The video on X appears to show one individual whose pants were on fire lunging at a second person, catching him on fire as well. One person is seen with a...",
-   "source": "The Hill",
-   "ts": "2026-11-09T17:22:06+00:00",
-   "url": "https://thehill.com/homenews/education/6208411-ohio-state-sigma-alpha-epsilon-interim-suspension/"
-  },
-  {
-   "category": "India Politics",
-   "headline": "At peak of air pollution on Deepavali night, data goes missing at several govt monitoring stations in Delhi",
-   "blurb": "Data missing from several monitoring stations at the peak of air pollution during the intervening night of November 8 and 9",
-   "source": "The Hindu",
-   "ts": "2026-11-09T17:17:57+00:00",
-   "url": "https://www.thehindu.com/news/cities/Delhi/at-peak-of-air-pollution-on-deepavali-night-data-goes-missing-at-several-govt-monitoring-stations-in-delhi/article71682391.ece"
-  },
-  {
-   "category": "AI",
-   "headline": "Jonathan Kanter is using AI to take on Big Tech",
-   "blurb": "When Jonathan Kanter stepped down as head of the Justice Department's Antitrust Division in 2024, he set out to keep fighting to dismantle illegal monopolies. But this time, he's continuing the fight in the private sector, and with a perhaps unexpected tool: AI. Alongside former acting Antitrust Division chief Doha Mekki, Kanter recently launched a […]",
-   "source": "The Verge",
-   "ts": "2026-11-09T14:10:44+00:00",
-   "url": "https://www.theverge.com/policy/1029652/kanter-doj-biden-legal-tech"
+   "ts": "2026-11-09T17:36:26+00:00",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me"
   }
  ]
 }
