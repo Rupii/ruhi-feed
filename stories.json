@@ -1,62 +1,62 @@
 {
- "updated": "2026-11-10T01:58:42+00:00",
+ "updated": "2026-11-10T09:37:47+00:00",
  "count": 58,
  "stories": [
   {
    "category": "Equities",
-   "headline": "3 unexpected reasons the October jobs report was so strong",
-   "blurb": "October's jobs report blew past economist forecasts. Here are three reasons.",
+   "headline": "China's goods surplus tops $1 trillion for second year amid calls for Beijing to rebalance trade",
+   "blurb": "China's trade surplus topped $1 trillion as of October, potentially intensifying complaints from trading partners already wary over the glut of cheap Chinese goods.",
    "source": "CNBC",
-   "ts": "2026-11-09T22:23:56+00:00",
-   "url": "https://www.cnbc.com/2026/11/09/october-jobs-report-hiring-by-sector.html"
+   "ts": "2026-11-10T09:27:16+00:00",
+   "url": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html"
   },
   {
    "category": "Crypto",
-   "headline": "Securitize pushes into $6 trillion asset-backed finance market with River One acquisition",
-   "blurb": "The tokenization firm unveiled an acquisition and a $50 million stock buyback as quarterly revenue rose 13%. SECZ shares jumped 10% after hours.",
+   "headline": "Coinbase, Kalshi, Kraken parent back CFTC in legal fight over stock perpetual futures",
+   "blurb": "The Capital Markets Alliance argues that the products fall under the Securities and Exchange Commission’s jurisdiction.",
    "source": "CoinDesk",
-   "ts": "2026-11-09T22:56:27+00:00",
-   "url": "https://www.coindesk.com/business/2026/11/09/securitize-pushes-into-usd6-trillion-asset-backed-finance-market-with-river-one-acquisition"
+   "ts": "2026-11-10T09:14:30+00:00",
+   "url": "https://www.coindesk.com/policy/2026/11/10/coinbase-kalshi-kraken-parent-back-cftc-in-legal-fight-over-stock-perpetual-futures"
   },
   {
    "category": "Gold",
-   "headline": "Can Gold Turn Recovery Into a Sustainable Rebound?",
+   "headline": "Gold Consolidates Below $4,150 Ahead of US CPI Data",
    "blurb": "",
    "source": "Investing.com",
-   "ts": "2026-11-09T15:21:00+00:00",
-   "url": "https://www.investing.com/analysis/can-gold-turn-recovery-into-a-sustainable-rebound-200691220"
+   "ts": "2026-11-10T07:36:00+00:00",
+   "url": "https://www.investing.com/analysis/gold-consolidates-below-4150-ahead-of-us-cpi-data-200691258"
   },
   {
    "category": "Geopolitics",
-   "headline": "Qantas to outsource 850 local jobs with most roles moving to India",
-   "blurb": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.",
+   "headline": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+   "blurb": "Kyiv, Washington and Moscow have all sent delegations to the United Arab Emirates for the first trilateral talks since February.",
    "source": "BBC",
-   "ts": "2026-11-10T01:55:22+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-10T09:07:00+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Headteachers say families will struggle after another rise in school dinner prices",
-   "blurb": "The price of a school dinner in a primary school will have risen from £2.60 to £3.40 since the start of 2026.",
+   "headline": "Holiday hunger bill to face final Stormont hurdle",
+   "blurb": "The new law would would help poorer families with food costs during school holidays.",
    "source": "BBC",
-   "ts": "2026-11-10T00:00:22+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c9m262yv6yx8o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-10T09:35:03+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cmewewgvrwpqo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Cornyn declines to say if he voted for Paxton, cites Paxton’s ‘corruption’ as issue",
-   "blurb": "Outgoing Sen. John Cornyn (R-Texas) declined to say Monday whether he voted for Texas Attorney General Ken Paxton, the Republican candidate in Texas’s Senate race who defeated Cornyn earlier this year in a primary runoff election, and cited Paxton’s “corruption” as a major reason why he lost to Democrat James Talarico. “The Republican Party treated...",
+   "headline": "Massie: 'High probability' Hegseth won't make it to the end of the year",
+   "blurb": "Rep. Thomas Massie (R-Ky.), who is leading an impeachment effort against Defense Secretary Pete Hegseth, said Monday that Hegseth will not be in his role by the new year. In an interview with CNN’s Kaitlan Collins on “The Source,” Massie said that he thought there was “a high probability that Pete Hegseth won't make it...",
    "source": "The Hill",
-   "ts": "2026-11-10T00:50:06+00:00",
-   "url": "https://thehill.com/homenews/senate/6209581-texas-senate-election-talarico-victory/"
+   "ts": "2026-11-10T04:00:33+00:00",
+   "url": "https://thehill.com/policy/defense/6209701-massie-impeaches-hegseth/"
   },
   {
    "category": "India Politics",
-   "headline": "Return of patriarch: Farooq steps in as NC old guard reasserts influence to check Omar",
-   "blurb": "In seven decades of the National Conference, the parallel party meeting was seen as a rare implosion and a visible crack that the Opposition parties could exploit to tilt the balance of numbers against the Omar Abdullah government.",
+   "headline": "Sonia Gandhi’s ‘Belonging’ | What is the controversy over its publication in India?",
+   "blurb": "The book was initially expected to be published in India by Penguin Random House India (PRHI); however, PRHI announced on August 28 that it was not the publisher of the memoir in India",
    "source": "The Hindu",
-   "ts": "2026-11-10T00:57:33+00:00",
-   "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/return-of-patriarch-farooq-steps-in-as-nc-old-guard-reasserts-influence-to-check-omar/article71683985.ece"
+   "ts": "2026-11-10T09:25:46+00:00",
+   "url": "https://www.thehindu.com/books/sonia-gandhis-belonging-what-is-the-controversy-over-its-publication-in-india/article71431117.ece"
   },
   {
    "category": "AI",
@@ -68,59 +68,59 @@
   },
   {
    "category": "Equities",
-   "headline": "A key report for where inflation stood in October comes out Tuesday. Here's what to expect",
-   "blurb": "The CPI headline reading is expected to show an increase of 0.3% while the core is forecast to increase 0.2%.",
+   "headline": "3 unexpected reasons the October jobs report was so strong",
+   "blurb": "October's jobs report blew past economist forecasts. Here are three reasons.",
    "source": "CNBC",
-   "ts": "2026-11-09T21:03:55+00:00",
-   "url": "https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html"
+   "ts": "2026-11-09T22:23:56+00:00",
+   "url": "https://www.cnbc.com/2026/11/09/october-jobs-report-hiring-by-sector.html"
   },
   {
    "category": "Crypto",
-   "headline": "Robinhood backs tokenization of its stock on OKX–ICE platform even as most companies opt out",
-   "blurb": "The brokerage firm said it would rather help build tokenized markets than sit on the sidelines, following a wave of early corporate pushback to the Intercontinental Exchange and OKX joint venture.",
+   "headline": "An 11-year-old Ethereum wallet moved $4.6 million and dodged a scam set up in minutes",
+   "blurb": "Bots spotted a wallet from Ethereum’s 2015 launch the moment it stirred and planted lookalike addresses in its history, but the owner sent the money to the right place anyway.",
    "source": "CoinDesk",
-   "ts": "2026-11-09T19:36:15+00:00",
-   "url": "https://www.coindesk.com/business/2026/11/09/robinhood-backs-tokenization-of-its-stock-on-okx-ice-platform-even-as-most-companies-opt-out"
+   "ts": "2026-11-10T07:01:06+00:00",
+   "url": "https://www.coindesk.com/tech/2026/11/10/an-11-year-old-ethereum-wallet-moved-usd4-6-million-and-dodged-a-scam-set-up-in-minutes"
   },
   {
    "category": "Gold",
-   "headline": "Gold and Rates: The Decoupling and the Recoupling",
+   "headline": "Gold Faces Rejection at 0.786 Arc, Awaiting Directional Confirmation",
    "blurb": "",
    "source": "Investing.com",
-   "ts": "2026-11-09T12:41:00+00:00",
-   "url": "https://www.investing.com/analysis/gold-and-rates-the-decoupling-and-the-recoupling-200691227"
+   "ts": "2026-11-10T07:19:00+00:00",
+   "url": "https://www.investing.com/analysis/gold-faces-rejection-at-0786-arc-awaiting-directional-confirmation-200691255"
   },
   {
    "category": "Geopolitics",
-   "headline": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-   "blurb": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+   "headline": "DR Congo sentences 66 soldiers to death for being 'cowards'",
+   "blurb": "The Congolese army's fight against rebel groups has long been hampered by disarray within its ranks.",
    "source": "BBC",
-   "ts": "2026-11-10T01:44:53+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-10T08:39:05+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cmreye1q3dnjo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
-   "blurb": "Jensen Huang is being investigated by his own company over an extramarital affair with a woman alleged to be a Chinese spy.",
+   "headline": "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
+   "blurb": "The contents of the calendar, including hair clips and keychains, have been widely criticised on social media.",
    "source": "BBC",
-   "ts": "2026-11-09T21:52:28+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-10T09:26:59+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "A different kind of war: Massie kicks off Hegseth impeachment effort in House",
-   "blurb": "Welcome to The Hill's Defense & NatSec newsletter {beacon} Defense &National Security Defense &National Security The Big Story A different kind of war: Massie kicks off Hegseth impeachment effort in House Rep. Thomas Massie (R-Ky.) is forcing a House vote later in the week to impeach and remove Defense Secretary Pete Hegseth over his role...",
+   "headline": "Trump says Hegseth should be praised, not impeached",
+   "blurb": "President Trump on Monday shot back at efforts to impeach Defense Secretary Pete Hegseth. “Defeated Republican Congressman Thomas Massie, a total loser, is trying to Impeach perhaps the most popular and successful military official in the Country, Secretary of War, Pete Hegseth,” Trump said in a Truth Social post Monday night. “With recruitment at an ALL-TIME...",
    "source": "The Hill",
-   "ts": "2026-11-10T00:47:02+00:00",
-   "url": "https://thehill.com/newsletters/defense-national-security/6209567-massie-kicks-hegseth-impeachment/"
+   "ts": "2026-11-10T03:05:58+00:00",
+   "url": "https://thehill.com/homenews/administration/6209668-trump-defends-hegseth-impeachment/"
   },
   {
    "category": "India Politics",
-   "headline": "Kochi Corporation plans water security assessment to strengthen city’s resilience",
-   "blurb": "The project, which will be implemented with technical support from the Kerala Water Authority, is expected to be completed in six months",
+   "headline": "Pannun’s civil lawsuit: U.S. State Department formally serves notice on India",
+   "blurb": "The U.S. State Department said it was legally obliged to do so and is not taking a position on the case",
    "source": "The Hindu",
-   "ts": "2026-11-10T00:34:07+00:00",
-   "url": "https://www.thehindu.com/news/national/kerala/kochi-corporation-plans-water-security-assessment-to-strengthen-citys-resilience/article71682168.ece"
+   "ts": "2026-11-10T09:24:57+00:00",
+   "url": "https://www.thehindu.com/news/international/pannuns-civil-lawsuit-us-state-department-formally-serves-notice-to-india/article71685482.ece"
   },
   {
    "category": "AI",
@@ -132,51 +132,51 @@
   },
   {
    "category": "Equities",
-   "headline": "China wholesale inflation hits highest in more than four years as consumer measure slows",
-   "blurb": "The PPI for October came in at 5.7%, compared to the 5.3% expected by economists polled by Reuters.",
+   "headline": "A key report for where inflation stood in October comes out Tuesday. Here's what to expect",
+   "blurb": "The CPI headline reading is expected to show an increase of 0.3% while the core is forecast to increase 0.2%.",
    "source": "CNBC",
-   "ts": "2026-11-09T02:50:22+00:00",
-   "url": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html"
+   "ts": "2026-11-09T21:03:55+00:00",
+   "url": "https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html"
   },
   {
    "category": "Crypto",
-   "headline": "A Bitcoin block just neared a 2015 transaction record, but paid only $180 in fees",
-   "blurb": "The AntPool block came within 984 transactions of Bitcoin’s 2015 record, even as fees made up less than 0.1% of the miner’s payout.",
+   "headline": "Bitcoin miner MARA sold 13,597 BTC for $1.1 billion in six weeks, plans to sell more",
+   "blurb": "MARA paid off every loan backed by its bitcoin and says the rest of its coins can fund AI datacenters.",
    "source": "CoinDesk",
-   "ts": "2026-11-09T16:19:45+00:00",
-   "url": "https://www.coindesk.com/tech/2026/11/09/a-bitcoin-block-just-neared-a-2015-transaction-record-but-paid-only-usd180-in-fees"
+   "ts": "2026-11-10T05:18:31+00:00",
+   "url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-miner-mara-sold-13-597-btc-for-usd1-1-billion-in-six-weeks-plans-to-sell-more"
   },
   {
    "category": "Geopolitics",
-   "headline": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
-   "blurb": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process next year.",
+   "headline": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+   "blurb": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
    "source": "BBC",
-   "ts": "2026-11-10T01:38:49+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-10T08:23:21+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
-   "blurb": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
+   "headline": "Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security",
+   "blurb": "Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other tech bosses.",
    "source": "BBC",
-   "ts": "2026-11-09T19:58:01+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-10T09:23:55+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Senate advances bill to boost energy and infrastructure – teeing up passage",
-   "blurb": "{beacon} Energy & Environment Energy & Environment The Big Story Senate advances permitting bill, teeing up passage The Senate voted Monday to advance a major bipartisan bill that aims to speed up the construction of energy and other infrastructure projects — clearing a key hurdle toward the measure becoming law. © Greg Nash...",
+   "headline": "Qatari prime minister says Iran discussions with US were 'positive'",
+   "blurb": "Qatari Prime Minister Sheikh Mohammed bin Abdulrahman Al Thani on Monday described talks about Iran with the U.S. as “positive.” “It was great meeting with President @realDonaldTrump and Vice President @VP in Washington,” the prime minister said in a post to the social platform X Monday evening. “We discussed the situation in the region and...",
    "source": "The Hill",
-   "ts": "2026-11-10T00:43:51+00:00",
-   "url": "https://thehill.com/newsletters/energy-environment/6209573-senate-advances-bill-to-boost-energy-and-infrastructure-teeing-up-passage/"
+   "ts": "2026-11-10T02:59:34+00:00",
+   "url": "https://thehill.com/policy/international/6209663-us-middle-east-war-midterms/"
   },
   {
    "category": "India Politics",
-   "headline": "Demand grows for alternative greenfield road corridors to Infopark in Kochi",
-   "blurb": "IT professionals flag safety concerns over narrow, potholed roads and traffic snarls, and call for parallel roads through vacant plots to improve connectivity to Infopark",
+   "headline": "Rahul Gandhi challenges PM Modi to open debate after ‘Intellectual Naxal’ remark",
+   "blurb": "A fresh political confrontation has erupted between the Congress and the BJP after Prime Minister Narendra Modi’s remarks about “intellectual Naxals” during his Deepavali visit to Bastar. Leader of the Opposition Rahul Gandhi responded by challenging the Prime Minister to an open debate on who is truly anti-national and who is influenced by foreign forces. The Congress has accused PM Modi of using official platforms to attack political opponents, while the BJP maintains that Parliament remains the proper forum for debate.",
    "source": "The Hindu",
-   "ts": "2026-11-10T00:33:27+00:00",
-   "url": "https://www.thehindu.com/news/national/kerala/demand-grows-for-alternative-greenfield-road-corridors-to-infopark-in-kochi/article71682589.ece"
+   "ts": "2026-11-10T09:24:50+00:00",
+   "url": "https://www.thehindu.com/videos/rahul-gandhi-challenges-pm-modi-to-open-debate-after-intellectual-naxal-remark/article71685614.ece"
   },
   {
    "category": "AI",
@@ -188,51 +188,51 @@
   },
   {
    "category": "Equities",
-   "headline": "A disturbing employment trend is hiding beneath the latest strong job numbers",
-   "blurb": "The average jobless worker's bout of unemployment surpassed 27 weeks in October, the highest outside of the pandemic period in a decade.",
+   "headline": "China wholesale inflation hits highest in more than four years as consumer measure slows",
+   "blurb": "The PPI for October came in at 5.7%, compared to the 5.3% expected by economists polled by Reuters.",
    "source": "CNBC",
-   "ts": "2026-11-06T20:11:17+00:00",
-   "url": "https://www.cnbc.com/2026/11/06/long-term-unemployment-october-jobs-report.html"
+   "ts": "2026-11-09T02:50:22+00:00",
+   "url": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html"
   },
   {
    "category": "Crypto",
-   "headline": "Google’s AI chip push adds more pressure on Nvidia",
-   "blurb": "Google’s specialised AI chips threaten greater competition as Nvidia faces a leadership investigation.",
+   "headline": "XRP Ledger maps out quantum-proof accounts, with no extra fees for users",
+   "blurb": "The XRP Ledger Foundation’s design lets owners add a quantum-resistant key and switch off the old one, part of a roadmap that puts the network on track for a full transition by 2028.",
    "source": "CoinDesk",
-   "ts": "2026-11-09T15:20:05+00:00",
-   "url": "https://www.coindesk.com/markets/2026/11/09/google-s-ai-chip-push-adds-more-pressure-on-nvidia"
+   "ts": "2026-11-10T04:51:20+00:00",
+   "url": "https://www.coindesk.com/tech/2026/11/10/xrp-ledger-maps-out-quantum-proof-accounts-with-no-extra-fees-for-users"
   },
   {
    "category": "Geopolitics",
-   "headline": "Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
-   "blurb": "A woman says an agency boss sent her to photoshoots at the sex offender's Florida beach home.",
+   "headline": "Oxford museum returns ancestral Naga skulls to India",
+   "blurb": "The remains will be taken to Nagaland, where tribal leaders plan a joint memorial and burial.",
    "source": "BBC",
-   "ts": "2026-11-10T00:14:03+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-10T06:23:42+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/ck1l3lzg3y79o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "The facial recognition technology stopping shoplifters",
-   "blurb": "Business correspondent Emma Simpson tries out Sainsbury's facial recognition technology.",
+   "headline": "Headteachers say families will struggle after another rise in school dinner prices",
+   "blurb": "The price of a school dinner in a primary school will have risen from £2.60 to £3.40 since the start of 2026.",
    "source": "BBC",
-   "ts": "2026-11-09T19:00:43+00:00",
-   "url": "https://www.bbc.co.uk/news/videos/c5x2v2kpwzgvo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-10T09:13:30+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c9m262yv6yx8o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Crane staves off Democratic challenger in Arizona House race",
-   "blurb": "Rep. Eli Crane (R-Ariz.) is projected to win reelection in Arizona's 2nd Congressional District, according to Decision Desk HQ (DDHQ), defeating Democrat Jonathan Nez for the second consecutive election cycle. The race was close enough that DDHQ did not make its projection until a week after the election, as Democrats prepare to take over the...",
+   "headline": "Returning to Washington, Republicans vent anger, frustrations after midterm drubbing",
+   "blurb": "Republicans returned to Washington on Monday following an election rout that saw them lose both chambers of Congress for the final two years of President Trump’s time in office. Their mood matched their fortunes. The blue wave that crashed into the midterms has forced a reckoning within the GOP, sparking questions about what went wrong,...",
    "source": "The Hill",
-   "ts": "2026-11-10T00:41:20+00:00",
-   "url": "https://thehill.com/homenews/campaign/6180310-eli-crane-arizona-2nd-district/"
+   "ts": "2026-11-10T01:49:19+00:00",
+   "url": "https://thehill.com/the-120/6209621-gop-midterm-loss-reckoning/"
   },
   {
    "category": "India Politics",
-   "headline": "Trinamool MLA Paresh Ram Das arrested on charges of rape and extortion",
-   "blurb": "Several leaders of the Trinamool Congress have been arrested after the BJP came to power in May 2026, which includes five former Ministers",
+   "headline": "Does the Temple wearable reveal useful information about brain health?",
+   "blurb": "Billionaire Deepinder Goyal has begun selling Temple, a temple-attached wearable he says can monitor brain health and ageing by measuring cerebral blood flow outside the lab. Critics and doctors question the device’s medical claims, noting the evidence is preliminary, not peer-reviewed, and its core metric—the Brain Flow index—remains controversial amid concerns over links to longevity or cognitive outcomes",
    "source": "The Hindu",
-   "ts": "2026-11-09T23:08:34+00:00",
-   "url": "https://www.thehindu.com/news/cities/kolkata/trinamool-mla-paresh-ram-das-arrested-on-charges-of-rape-and-extortion/article71683579.ece"
+   "ts": "2026-11-10T09:24:41+00:00",
+   "url": "https://www.thehindu.com/sci-tech/health/does-the-temple-wearable-reveal-useful-information-about-brain-health/article71678659.ece"
   },
   {
    "category": "AI",
@@ -244,51 +244,51 @@
   },
   {
    "category": "Equities",
-   "headline": "U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1%",
-   "blurb": "Nonfarm payrolls were expected to increase by 59,000 in October as the unemployment rate was expected to hold steady at 4.2%.",
+   "headline": "A disturbing employment trend is hiding beneath the latest strong job numbers",
+   "blurb": "The average jobless worker's bout of unemployment surpassed 27 weeks in October, the highest outside of the pandemic period in a decade.",
    "source": "CNBC",
-   "ts": "2026-11-06T16:06:59+00:00",
-   "url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html"
+   "ts": "2026-11-06T20:11:17+00:00",
+   "url": "https://www.cnbc.com/2026/11/06/long-term-unemployment-october-jobs-report.html"
   },
   {
    "category": "Crypto",
-   "headline": "North Korean hackers are creating memecoins to wash loot from $6.3 billion Binance hack",
-   "blurb": "North Korean hackers used six homemade memecoins to launder 117,000 NEAR, worth about $430,000, from the $6.3 billion Binance hack, Elliptic says.",
+   "headline": "Bitcoin faces U.S. CPI test as analysts warn inflation relief may not be enough",
+   "blurb": "Bitcoin trades below $75,000 ahead of the October inflation data. Analysts warning that sustainable recovery depends on improving liquidity and spot ETF demand rather than temporary macro relief.",
    "source": "CoinDesk",
-   "ts": "2026-11-09T15:00:44+00:00",
-   "url": "https://www.coindesk.com/business/2026/11/09/north-korean-hackers-are-creating-memecoins-to-wash-loot-from-usd6-3-billion-binance-hack"
+   "ts": "2026-11-10T03:22:26+00:00",
+   "url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-faces-u-s-cpi-test-as-analysts-warn-inflation-relief-may-not-be-enough"
   },
   {
    "category": "Geopolitics",
-   "headline": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
-   "blurb": "Kyiv, Washington and Moscow are all sending delegation to the United Arab Emirates for the first trilateral talks since February.",
+   "headline": "Polish unity on show as thousands join silent march for Krakow shooting victims",
+   "blurb": "Fiercely proud of its reputation for safety, Poland has been profoundly shaken by Saturday's attack, writes Sarah Rainsford.",
    "source": "BBC",
-   "ts": "2026-11-10T00:09:49+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-10T05:38:53+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cqkg5gm4nr4no?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "How a civil servant got away with juggling five jobs for so long",
-   "blurb": "Kashim Chowdhury has been convicted of fraud after pocketing £284,000 of taxpayers' money over three years.",
+   "headline": "Independent bookshop closing after rise in bills",
+   "blurb": "The Chicken and Frog in Brentwood says business rates and electricity bills have risen dramatically.",
    "source": "BBC",
-   "ts": "2026-11-09T18:40:31+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cw1m4d8vjvppo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-10T06:22:52+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/crx2dd92ne9yo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "5 takeaways from Trump's surprise White House briefing",
-   "blurb": "President Trump carried out a surprise press briefing at the White House on Monday, teasing reporters with an appearance by UFC head Dana White — to whom he offered the job as press secretary — and providing a combative response to the GOP’s stunning defeat in the midterm elections. The president took a wide range...",
+   "headline": "Cornyn declines to say if he voted for Paxton, cites Paxton’s ‘corruption’ as issue",
+   "blurb": "Outgoing Sen. John Cornyn (R-Texas) declined to say Monday whether he voted for Texas Attorney General Ken Paxton, the Republican candidate in Texas’s Senate race who defeated Cornyn earlier this year in a primary runoff election, and cited Paxton’s “corruption” as a major reason why he lost to Democrat James Talarico. “The Republican Party treated...",
    "source": "The Hill",
-   "ts": "2026-11-10T00:09:56+00:00",
-   "url": "https://thehill.com/homenews/administration/6209377-trump-briefing-dana-white-pete-hegseth/"
+   "ts": "2026-11-10T00:50:06+00:00",
+   "url": "https://thehill.com/homenews/senate/6209581-texas-senate-election-talarico-victory/"
   },
   {
    "category": "India Politics",
-   "headline": "Outcry as J&K Bank implements reservation policy pushed by ex-chairman and VHP trustee R.K. Chhibber",
-   "blurb": "The bank has decided to fill 1400 vacancies, including 323 probationary officers and 1033 posts for banking associates, as per the new reservation policy",
+   "headline": "Hyderabad gears up for Chhath Puja from November 13-16, 2026",
+   "blurb": "Bihar Association urges civic bodies to make arrangements with focus on sanitation and hygiene. Telangana government directs civic bodies and disaster management authorities to facilitate Chhath Puja at 28 locations across Hyderabad",
    "source": "The Hindu",
-   "ts": "2026-11-09T22:57:23+00:00",
-   "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/outcry-as-jk-bank-implements-reservation-policy-pushed-by-ex-chairman-and-vhp-trustee-rk-chhibber/article71683483.ece"
+   "ts": "2026-11-10T09:24:21+00:00",
+   "url": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-gears-up-for-chhath-puja-from-november-13-16-2026/article71685398.ece"
   },
   {
    "category": "AI",
@@ -300,51 +300,51 @@
   },
   {
    "category": "Equities",
-   "headline": "The October jobs report is out Friday. Here's everything to expect",
-   "blurb": "The Bureau of Labor Statistics releases the October nonfarm payrolls report Friday at 8:30 a.m. ET.",
+   "headline": "U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1%",
+   "blurb": "Nonfarm payrolls were expected to increase by 59,000 in October as the unemployment rate was expected to hold steady at 4.2%.",
    "source": "CNBC",
-   "ts": "2026-11-05T21:32:52+00:00",
-   "url": "https://www.cnbc.com/2026/11/05/october-jobs-report-preview.html"
+   "ts": "2026-11-06T16:06:59+00:00",
+   "url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html"
   },
   {
    "category": "Crypto",
-   "headline": "NYSE picks Avalanche to settle tokenized stocks amid Wall Street's blockchain race",
-   "blurb": "Avalanche will serve as the core settlement ledger for the exchange's planned blockchain stock market",
+   "headline": "Securitize pushes into $6 trillion asset-backed finance market with River One acquisition",
+   "blurb": "The tokenization firm unveiled an acquisition and a $50 million stock buyback as quarterly revenue rose 13%. SECZ shares jumped 10% after hours.",
    "source": "CoinDesk",
-   "ts": "2026-11-09T13:40:06+00:00",
-   "url": "https://www.coindesk.com/business/2026/11/09/nyse-picks-avalanche-to-settle-tokenized-stocks-amid-wall-street-s-blockchain-race"
+   "ts": "2026-11-09T22:56:27+00:00",
+   "url": "https://www.coindesk.com/business/2026/11/09/securitize-pushes-into-usd6-trillion-asset-backed-finance-market-with-river-one-acquisition"
   },
   {
    "category": "Geopolitics",
-   "headline": "The superpower battle over energy – and what it means for your bills",
-   "blurb": "A tug-of-war between China and the US could have a big impact on energy costs, but who will win?",
+   "headline": "Trump says more US attacks on Iran 'highly unlikely'",
+   "blurb": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation change.",
    "source": "BBC",
-   "ts": "2026-11-10T00:08:28+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-10T05:33:25+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Civil servant who secretly held five jobs found guilty of fraud",
-   "blurb": "Kashim Chowdhury had secretly held multiple public sector jobs on full-time salaries.",
+   "headline": "New chief outlines main issues facing Isle of Man",
+   "blurb": "The chief minister says connectivity and food storage were among his top government priorities.",
    "source": "BBC",
-   "ts": "2026-11-09T17:17:16+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-10T06:09:01+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cw0737zmv799o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Van Hollen 'in listening mode' on leadership run",
-   "blurb": "Sen. Chris Van Hollen (D-Md.), who has been recently discussed as a possible Senate majority leader for his party in the upcoming Congress, said Monday he is \"in listening mode\" on taking up the role. “What I've said from the very beginning is, we shouldn't have a coronation. We should have a caucus discussion about...",
+   "headline": "A different kind of war: Massie kicks off Hegseth impeachment effort in House",
+   "blurb": "Welcome to The Hill's Defense & NatSec newsletter {beacon} Defense &National Security Defense &National Security The Big Story A different kind of war: Massie kicks off Hegseth impeachment effort in House Rep. Thomas Massie (R-Ky.) is forcing a House vote later in the week to impeach and remove Defense Secretary Pete Hegseth over his role...",
    "source": "The Hill",
-   "ts": "2026-11-10T00:01:48+00:00",
-   "url": "https://thehill.com/homenews/campaign/6209487-van-hollen-senate-majority-leader/"
+   "ts": "2026-11-10T00:47:02+00:00",
+   "url": "https://thehill.com/newsletters/defense-national-security/6209567-massie-kicks-hegseth-impeachment/"
   },
   {
    "category": "India Politics",
-   "headline": "ED attaches properties in Kashmir in ‘misuse’ of PM Employment Generation Programme scheme case",
-   "blurb": "An ED spokesman said there was misappropriation of PMEGP Scheme’s loans in criminal conspiracy with the PMEGP borrowers, bank officials of Sumbal Branch and Gamud Gadkhud Branch of J&K Bank and other unknown persons",
+   "headline": "Andhra government expected to make significant allocations for Neradi barrage to be constructed on Vamsadhara river",
+   "blurb": "According to BRR Vamsadhara Project Chairman Aravala Ravindrababu, the State government which had given an administrative sanction for ₹461 crores a couple of months back, may give additional sanctions in the next budget",
    "source": "The Hindu",
-   "ts": "2026-11-09T22:08:12+00:00",
-   "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/ed-attaches-properties-in-kashmir-in-misuse-of-pm-employment-generation-programme-scheme-case/article71683744.ece"
+   "ts": "2026-11-10T09:22:45+00:00",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-government-expected-to-make-significant-allocations-for-neradi-barrage-to-be-constructed-on-vamsadhara-river/article71685074.ece"
   },
   {
    "category": "AI",
@@ -356,51 +356,51 @@
   },
   {
    "category": "Equities",
-   "headline": "Voters say the economy drove them to the polls — and blame Trump for their troubles",
-   "blurb": "Participants in the CNBC Voter Poll ranked the economy the most important issue facing the country, ahead of topics tied to democracy and immigration.",
+   "headline": "The October jobs report is out Friday. Here's everything to expect",
+   "blurb": "The Bureau of Labor Statistics releases the October nonfarm payrolls report Friday at 8:30 a.m. ET.",
    "source": "CNBC",
-   "ts": "2026-11-05T16:07:59+00:00",
-   "url": "https://www.cnbc.com/2026/11/04/2026-midterms-trump-economy-iran-war.html"
+   "ts": "2026-11-05T21:32:52+00:00",
+   "url": "https://www.cnbc.com/2026/11/05/october-jobs-report-preview.html"
   },
   {
    "category": "Crypto",
-   "headline": "Solana set for its first tokenized stock venue under SEC framework, listing Galaxy",
-   "blurb": "Formation Securities plans to launch in early 2027 with Galaxy, Exodus and Forward Industries shares, expanding the U.S. regulator's experiment in blockchain-based stock trading.",
+   "headline": "Robinhood backs tokenization of its stock on OKX–ICE platform even as most companies opt out",
+   "blurb": "The brokerage firm said it would rather help build tokenized markets than sit on the sidelines, following a wave of early corporate pushback to the Intercontinental Exchange and OKX joint venture.",
    "source": "CoinDesk",
-   "ts": "2026-11-09T12:41:35+00:00",
-   "url": "https://www.coindesk.com/business/2026/11/06/solana-lset-for-its-first-tokenized-stock-venue-under-sec-framework-listing-galaxy"
+   "ts": "2026-11-09T19:36:15+00:00",
+   "url": "https://www.coindesk.com/business/2026/11/09/robinhood-backs-tokenization-of-its-stock-on-okx-ice-platform-even-as-most-companies-opt-out"
   },
   {
    "category": "Geopolitics",
-   "headline": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
-   "blurb": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
+   "headline": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
+   "blurb": "AI safety regulator will also be created after a rogue OpenAI agent hacked government websites.",
    "source": "BBC",
-   "ts": "2026-11-09T23:51:22+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-10T05:22:39+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Poundland unable to buy new stock as fears over collapse grow",
-   "blurb": "The discount chain is continuing to edge towards collapse and is said to be \"running on fumes\", according to one insider.",
+   "headline": "Californians reject wealth tax for billionaires",
+   "blurb": "Proposition 40 targeted Californian billionaires with a 5% tax on their total wealth, including assets such as shares as well as income.",
    "source": "BBC",
-   "ts": "2026-11-09T16:46:40+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cw1l3lmem165o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-10T03:34:46+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cq398em3032wo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Senate advances bipartisan permitting reform bill, teeing up passage",
-   "blurb": "The Senate voted Monday to advance a major bipartisan bill that aims to speed up the construction of energy and other infrastructure projects — clearing a key hurdle toward the measure becoming law. The vote was 73-25, teeing up likely Senate passage in the weeks ahead. Sen. Mike Rounds (S.D.) was the only GOP no...",
+   "headline": "Senate advances bill to boost energy and infrastructure – teeing up passage",
+   "blurb": "{beacon} Energy & Environment Energy & Environment The Big Story Senate advances permitting bill, teeing up passage The Senate voted Monday to advance a major bipartisan bill that aims to speed up the construction of energy and other infrastructure projects — clearing a key hurdle toward the measure becoming law. © Greg Nash...",
    "source": "The Hill",
-   "ts": "2026-11-09T23:35:08+00:00",
-   "url": "https://thehill.com/policy/energy-environment/6208626-bipartisan-permitting-reform-bill-energy-infrastructure/"
+   "ts": "2026-11-10T00:43:51+00:00",
+   "url": "https://thehill.com/newsletters/energy-environment/6209573-senate-advances-bill-to-boost-energy-and-infrastructure-teeing-up-passage/"
   },
   {
    "category": "India Politics",
-   "headline": "Postpone panchayat, municipal elections to April-May next year: Ladakh group",
-   "blurb": "“We suspect that this government is up to some mischief. We saw ‘vote chori’ in West Bengal, Bihar, Haryana, Maharashtra etc. In entire India 13 crore voters were dropped from the voter list. Ladakh is a small region and fraud is easy,” said Ladakh Buddhist Association (LBA) chairman Tsering Dorjey Lakrook",
+   "headline": "Farmers demand uniform ₹4,200 sugarcane rate across Maharashtra",
+   "blurb": "The delegation demanded a ₹2 lakh incentive grant for farmers who regularly repay their loans and ₹1 lakh per hectare in financial assistance for drought-affected cultivators",
    "source": "The Hindu",
-   "ts": "2026-11-09T21:54:17+00:00",
-   "url": "https://www.thehindu.com/news/national/ladakh/postpone-panchayat-municipal-elections-to-april-may-next-year-ladakh-group/article71683915.ece"
+   "ts": "2026-11-10T09:18:34+00:00",
+   "url": "https://www.thehindu.com/news/national/maharashtra/farmers-demand-uniform-4200-sugarcane-rate-across-maharashtra/article71685497.ece"
   },
   {
    "category": "AI",
@@ -412,51 +412,51 @@
   },
   {
    "category": "Equities",
-   "headline": "Bank of England hikes interest rate for the first time since Iran war, warns inflation will near 5%",
-   "blurb": "One policymaker voted to raise the bank's key interest rate to 4.25%.",
+   "headline": "Voters say the economy drove them to the polls — and blame Trump for their troubles",
+   "blurb": "Participants in the CNBC Voter Poll ranked the economy the most important issue facing the country, ahead of topics tied to democracy and immigration.",
    "source": "CNBC",
-   "ts": "2026-11-05T16:01:47+00:00",
-   "url": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html"
+   "ts": "2026-11-05T16:07:59+00:00",
+   "url": "https://www.cnbc.com/2026/11/04/2026-midterms-trump-economy-iran-war.html"
   },
   {
    "category": "Crypto",
-   "headline": "Trump says he knows ‘nothing’ about World Liberty’s UAE ties as Justin Sun challenges filings",
-   "blurb": "Trump confirmed he co-owns World Liberty, whose UAE ownership could derail Justin Sun’s federal lawsuit over frozen WLFI tokens",
+   "headline": "A Bitcoin block just neared a 2015 transaction record, but paid only $180 in fees",
+   "blurb": "The AntPool block came within 984 transactions of Bitcoin’s 2015 record, even as fees made up less than 0.1% of the miner’s payout.",
    "source": "CoinDesk",
-   "ts": "2026-11-09T12:37:13+00:00",
-   "url": "https://www.coindesk.com/business/2026/11/09/trump-says-he-knows-nothing-about-world-liberty-s-uae-ties-as-justin-sun-challenges-filings"
+   "ts": "2026-11-09T16:19:45+00:00",
+   "url": "https://www.coindesk.com/tech/2026/11/09/a-bitcoin-block-just-neared-a-2015-transaction-record-but-paid-only-usd180-in-fees"
   },
   {
    "category": "Geopolitics",
-   "headline": "Judge denies motion to dismiss Lindsay Clancy's murder case",
-   "blurb": "The ruling means the case can move forward, possibly with reduced charges in a new trial.",
+   "headline": "Qantas to outsource 850 local jobs with most roles moving to India",
+   "blurb": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.",
    "source": "BBC",
-   "ts": "2026-11-09T23:28:53+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-10T01:55:22+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Action on energy costs is my overriding aim, says Fahnbulleh",
-   "blurb": "The energy secretary says reducing bills is key to maintaining public support for climate action.",
+   "headline": "I took Vinted to court to get my money back",
+   "blurb": "The BBC hears from Vinted sellers who describe difficulties accessing money held in their online wallets.",
    "source": "BBC",
-   "ts": "2026-11-09T16:01:19+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cmz7x7q7q8vvo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-10T00:27:37+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cm369e3l15lwo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Shapiro vows minimum wage hike, abortion protections with Pennsylvania’s Democratic trifecta",
-   "blurb": "Pennsylvania Gov. Josh Shapiro (D) on Sunday vowed measures like raising the state minimum wage and protections for abortion following his party locking down the state House and Senate. “We’re going to more than double Pennsylvania‘s minimum wage. Codify abortion rights into our state Constitution. Fund mass transit. Build more housing,” Shapiro said in a...",
+   "headline": "Crane staves off Democratic challenger in Arizona House race",
+   "blurb": "Rep. Eli Crane (R-Ariz.) is projected to win reelection in Arizona's 2nd Congressional District, according to Decision Desk HQ (DDHQ), defeating Democrat Jonathan Nez for the second consecutive election cycle. The race was close enough that DDHQ did not make its projection until a week after the election, as Democrats prepare to take over the...",
    "source": "The Hill",
-   "ts": "2026-11-09T23:23:59+00:00",
-   "url": "https://thehill.com/homenews/state-watch/6209350-shapiro-promises-minimum-wage-hike/"
+   "ts": "2026-11-10T00:41:20+00:00",
+   "url": "https://thehill.com/homenews/campaign/6180310-eli-crane-arizona-2nd-district/"
   },
   {
    "category": "India Politics",
-   "headline": "Six of family killed in fire at home above grocery store in Maharashtra",
-   "blurb": "A boy, who was brought downstairs to safety by his parents before they went back in an effort to rescue the others, was the sole survivor",
+   "headline": "DMK leader Stalin criticises disbanding of Union-State relations committee in Tamil Nadu",
+   "blurb": "The former Chief Minister said the argument that the mandate of the High-Level Committee on Union-State Relations overlapped with that of the Tamil Nadu State Law Commission was unacceptable.",
    "source": "The Hindu",
-   "ts": "2026-11-09T21:16:04+00:00",
-   "url": "https://www.thehindu.com/news/national/maharashtra/six-of-family-killed-in-fire-at-home-above-grocery-store-in-maharashtra/article71683897.ece"
+   "ts": "2026-11-10T09:17:55+00:00",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/government-can-disband-the-union-state-relations-committee-but-not-its-ideas-and-contribution-says-mk-stalin/article71683716.ece"
   },
   {
    "category": "AI",
