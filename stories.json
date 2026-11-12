@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T21:14:26+00:00",
+ "updated": "2026-11-12T02:49:35+00:00",
  "count": 58,
  "stories": [
   {
@@ -7,7 +7,7 @@
    "headline": "Analysis: Is Nvidia too big to fail? Its AI financing web raises the stakes",
    "blurb": "The tech giant's web of ties to other companies is raising the possibility that it could do far-reaching economic and financial damage.",
    "source": "CNBC",
-   "ts": "2026-11-11T20:59:14+00:00",
+   "ts": "2026-11-11T22:59:33+00:00",
    "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html"
   },
   {
@@ -28,43 +28,43 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "Clashes erupt in Barcelona as thousands join Spain general strike",
-   "blurb": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
+   "headline": "New York building collapse kills one person and injures 12",
+   "blurb": "Rescuers are searching for people who may be trapped under the rubble of the three-story building in Brooklyn.",
    "source": "BBC",
-   "ts": "2026-11-11T20:52:52+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-12T02:33:12+00:00",
+   "url": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "'Not the answer': Labour MPs speak out against Rosebank as decision looms",
-   "blurb": "There is a growing expectation among senior Labour figures that drilling in the oil field will be given the green light.",
+   "headline": "Poundland set for more time to secure a rescue deal as emergency talks continue",
+   "blurb": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
    "source": "BBC",
-   "ts": "2026-11-11T19:15:45+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cqp9dr79jkrzo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-12T00:49:05+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "House Democrat responds to White House warning: 'Come at me, bro'",
-   "blurb": "Rep. Stephen Lynch (D-Mass.) on Wednesday clapped back at the White House's threat to investigate Democrats if they plan to probe President Trump and his administration, telling administration lawyers to \"Come at me, bro.\" \"I just think we are so well situated to do our jobs. What they're saying is: 'Don't do our jobs. Don't...",
+   "headline": "GOP senator feels 'strongly' Jensen Huang should resign at Nvidia",
+   "blurb": "Sen. Kevin Cramer (R-N.D.) said he feels “strongly” that Nvidia CEO Jensen Huang should resign following reports alleging the tech leader had an \"intimate relationship” with an accused Chinese spy and another with an Nvidia executive who reported to him. \"I can't believe we are even considering him not resigning. I mean, I do feel...",
    "source": "The Hill",
-   "ts": "2026-11-11T20:35:23+00:00",
-   "url": "https://thehill.com/homenews/house/6214211-lynch-trump-oversight-clash/"
+   "ts": "2026-11-12T01:57:13+00:00",
+   "url": "https://thehill.com/homenews/senate/6215009-senator-cramer-calls-nvidia-ceo-resignation/"
   },
   {
    "category": "India Politics",
-   "headline": "Keralam government centralising power in Chief Minister’s office: Pinarayi Vijayan",
-   "blurb": "",
+   "headline": "NTR Health University scrutinises 1,622 applications for UG research programme",
+   "blurb": "NTRUHS to earmark 10 to 25 grants from a pool of 200 Faculty Research Grants for PG students undertaking research projects independently of their mandatory dissertations",
    "source": "The Hindu",
-   "ts": "2026-11-11T20:47:39+00:00",
-   "url": "https://www.thehindu.com/news/national/kerala/keralam-government-centralising-power-in-chief-ministers-office-pinarayi-vijayan/article71689433.ece"
+   "ts": "2026-11-12T02:13:18+00:00",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/ntr-health-university-scrutinises-1622-applications-for-ug-research-programme/article71689876.ece"
   },
   {
    "category": "AI",
-   "headline": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
-   "blurb": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem that could hold important clues to the causes of disease - and point the way to new treatments. AlphaGenome 2 is the successor […]",
+   "headline": "Nvidia is reportedly preparing to fire Jensen Huang",
+   "blurb": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was with an executive who […]",
    "source": "The Verge",
-   "ts": "2026-11-11T14:18:08+00:00",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model"
+   "ts": "2026-11-12T00:55:40+00:00",
+   "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor"
   },
   {
    "category": "Equities",
@@ -92,43 +92,43 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "African writing award probe finds 'no evidence' winning story was AI generated",
-   "blurb": "Zimbabwean writer Simbarashe Kundizeza has also vehemently denied the allegation made in a US magazine.",
+   "headline": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+   "blurb": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
    "source": "BBC",
-   "ts": "2026-11-11T20:00:54+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cmglr260z7eko?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-12T02:09:08+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Poundland set for more time to secure a rescue deal as emergency talks continue",
-   "blurb": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
+   "headline": "From Paris to DC - why offices are being turned into apartments",
+   "blurb": "Office buildings with low occupancy rates are being transformed into flats.",
    "source": "BBC",
-   "ts": "2026-11-11T18:48:19+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-12T00:05:40+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cm89ze7qepvyo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Sentinel at Tomb of Unknown Soldier yells at Hegseth group to maintain decorum",
-   "blurb": "A group including Defense Secretary Pete Hegseth broke decorum and was loudly admonished by the Army sentinel at the Tomb of the Unknown Soldier at Arlington National Cemetery on Wednesday. Hegseth was accompanied by some of his senior staff for the annual Veterans Day ceremony when they stopped to take photos. In videos shared online,...",
+   "headline": "Tech Oversight Project hands Democrats 100-day blueprint",
+   "blurb": "{beacon} Technology Technology The Big Story What Tech Oversight Project wants to see from Democrats in the first 100 days The Tech Oversight Project is offering a blueprint for Democrats in the new Congress after what it described as the “first AI and tech accountability election.” © Getty Images In a memo shared first...",
    "source": "The Hill",
-   "ts": "2026-11-11T20:26:23+00:00",
-   "url": "https://thehill.com/policy/defense/6214248-pete-hegseth-decorum-army-sentinel-veterans-day-tomb-unknown-soldier/"
+   "ts": "2026-11-12T00:22:02+00:00",
+   "url": "https://thehill.com/newsletters/technology/6214905-tech-oversight-project-hands-democrats-100-day-blueprint/"
   },
   {
    "category": "India Politics",
-   "headline": "Kerala High Court orders government to ready adequate medicines, vehicles at mental health centres by November 24",
-   "blurb": "",
+   "headline": "Gorakhpur-bound train derails in Kanpur, no casualties",
+   "blurb": "Around 300 passengers were travelling in the four affected coaches, railway officials said",
    "source": "The Hindu",
-   "ts": "2026-11-11T20:46:19+00:00",
-   "url": "https://www.thehindu.com/news/national/kerala/kerala-high-court-orders-government-to-ready-adequate-medicines-vehicles-at-mental-health-centres-by-november-24/article71690314.ece"
+   "ts": "2026-11-12T02:08:05+00:00",
+   "url": "https://www.thehindu.com/news/national/uttar-pradesh/gorakhpur-bound-train-derails-in-kanpur-no-casualties/article71692171.ece"
   },
   {
    "category": "AI",
-   "headline": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
-   "blurb": "Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual similarities with workplace management apps like Asana and Monday, but with a built-in AI feature that allows you to vibecode personalized interactive tools by describing […]",
+   "headline": "United won’t let your AI agent book your flight",
+   "blurb": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from other businesses like Doordash. But United is concerned […]",
    "source": "The Verge",
-   "ts": "2026-11-11T14:15:27+00:00",
-   "url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability"
+   "ts": "2026-11-11T21:54:21+00:00",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents"
   },
   {
    "category": "Equities",
@@ -148,43 +148,43 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
-   "blurb": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public. It is not known if the incidents are linked.",
+   "headline": "Nigeria's president launches re-election manifesto but can he regain voters' trust?",
+   "blurb": "For Nigerians to feel meaningful improvements, reforms will need to go beyond the promises outlined, analysts say.",
    "source": "BBC",
-   "ts": "2026-11-11T18:38:45+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-12T00:36:11+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/ck5ynyw527wdo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Poundland founder writes to King for help",
-   "blurb": "Poundland has filed a notice of intention to appoint administrators, which protects it from creditors until Thursday.",
+   "headline": "Some under-25s should get less benefits, Milburn review to say",
+   "blurb": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
    "source": "BBC",
-   "ts": "2026-11-11T17:59:35+00:00",
-   "url": "https://www.bbc.co.uk/news/videos/cm4gndjd4nnno?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-11T23:22:04+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Sanders: 'I will support' Van Hollen for majority leader if he runs",
-   "blurb": "Sen. Bernie Sanders (I-Vt.) said he would support Sen. Chris Van Hollen (D-Md.) for majority leader if he chose to run following the independent saying he would not back Senate Minority Leader Chuck Schumer (D-N.Y.) for the leadership role. “Look, I have known Chuck Schumer for a very long time. Actually, Chuck and I grew...",
+   "headline": "Hawley calls for Senate to pass data center moratorium",
+   "blurb": "Sen. Josh Hawley (R-Mo.) is calling on the Senate to pass a moratorium on data center construction in the period before Republicans lose the majority, the first GOP senator to call for the move nationwide. The Missouri senator listed his five priorities for his party in a post to the social platform X, including passing...",
    "source": "The Hill",
-   "ts": "2026-11-11T20:20:43+00:00",
-   "url": "https://thehill.com/the-120/6214240-sanders-supports-van-hollen/"
+   "ts": "2026-11-12T00:08:46+00:00",
+   "url": "https://thehill.com/homenews/senate/6214878-hawley-calls-gop-data-center-moratorium/"
   },
   {
    "category": "India Politics",
-   "headline": "Great Trigonometrical Survey stations in Tamil Nadu documented, published in five volumes",
-   "blurb": "",
+   "headline": "Environmental, social costs of Vizhinjam port railway tunnel to be higher than anticipated",
+   "blurb": "The proposed tunnel between Balaramapuram and Vizhinjam to provide rail connectivity to Vizhinjam International Seaport has triggered serious environmental and land stability concerns in the region",
    "source": "The Hindu",
-   "ts": "2026-11-11T20:42:08+00:00",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/great-trigonometrical-survey-stations-in-tamil-nadu-documented-published-in-five-volumes/article71689260.ece"
+   "ts": "2026-11-12T02:01:12+00:00",
+   "url": "https://www.thehindu.com/news/national/kerala/environmental-social-costs-of-vizhinjam-port-railway-tunnel-to-be-higher-than-anticipated/article71688975.ece"
   },
   {
    "category": "AI",
-   "headline": "Adobe’s AI experiments let you walk around in photos and interview your characters",
-   "blurb": "Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it's developing, and the latest of those tools are being announced today: they can transform images into explorable 3D scenes, design AI characters by talking to them, and turn photo editing into a copy/paste process. […]",
+   "headline": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
+   "blurb": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem that could hold important clues to the causes of disease - and point the way to new treatments. AlphaGenome 2 is the successor […]",
    "source": "The Verge",
-   "ts": "2026-11-11T12:56:24+00:00",
-   "url": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai"
+   "ts": "2026-11-11T14:18:08+00:00",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model"
   },
   {
    "category": "Equities",
@@ -204,43 +204,43 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "Missing 11-month-old baby found buried alive in a crate in South Carolina",
-   "blurb": "Officials say the child was found close to his father's home on Tuesday, a day after he was taken, and is being cared for in hospital.",
+   "headline": "Clashes erupt in Barcelona after thousands join Spain general strike",
+   "blurb": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
    "source": "BBC",
-   "ts": "2026-11-11T18:10:57+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c8e391xzg6z2o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-11T22:07:37+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Brad Friedel on Shrewsbury Town takeover",
-   "blurb": "Exclusive interview with BBC Radio Shropshire, Brad Friedel on Shrewsbury Town takeover.",
+   "headline": "'Not the answer': Labour MPs speak out against Rosebank as decision looms",
+   "blurb": "There is a growing expectation among senior Labour figures that drilling in the oil field will be given the green light.",
    "source": "BBC",
-   "ts": "2026-11-11T17:55:43+00:00",
-   "url": "https://www.bbc.co.uk/news/videos/cq62p80pe3yzo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-11T21:42:20+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cqp9dr79jkrzo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Haley rules out 2028 White House bid",
-   "blurb": "Former South Carolina Gov. Nikki Haley said she will not be making a presidential bid in 2028 but noted that she will continue to “push good policy” and “support good candidates.” “I am not running in 2028, but I will continue to talk about the things that I care about,” Haley said in an interview...",
+   "headline": "Former Navy JAG who flipped Kentucky House seat: 'Premature' to discuss Hegseth impeachment",
+   "blurb": "Rep.-elect Zach Dembo (D-Ky.) said Wednesday it would be “premature” to discuss Defense Secretary Pete Hegseth’s impeachment following a failed House vote to oust the head of the Pentagon. “Look, I just got elected a week ago. I don't even have an office yet. I'll tell you, I did not come here with the goal...",
    "source": "The Hill",
-   "ts": "2026-11-11T20:08:56+00:00",
-   "url": "https://thehill.com/homenews/administration/6214225-nikki-haley-not-running-2028/"
+   "ts": "2026-11-12T00:04:22+00:00",
+   "url": "https://thehill.com/the-120/6214824-dembo-hegseth-impeachment-vote/"
   },
   {
    "category": "India Politics",
-   "headline": "Daughter of Cheranalloor accident victim files review petition before Kerala High Court",
-   "blurb": "",
+   "headline": "First phase of Musi rejuvenation to begin shortly, says Telangana CM Revath",
+   "blurb": "The Chief Minister said the lake would become a new destination alongside Shilparamam and called for developing a lake economy around it",
    "source": "The Hindu",
-   "ts": "2026-11-11T20:40:25+00:00",
-   "url": "https://www.thehindu.com/news/national/kerala/daughter-of-cheranalloor-accident-victim-files-review-petition-before-kerala-high-court/article71690911.ece"
+   "ts": "2026-11-12T01:35:38+00:00",
+   "url": "https://www.thehindu.com/news/national/telangana/first-phase-of-musi-rejuvenation-to-begin-shortly-says-telangana-cm-revath/article71690889.ece"
   },
   {
    "category": "AI",
-   "headline": "The US is winning the AI race. Jensen Huang could have blown it",
-   "blurb": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of important people. He also wears a cool leather jacket. Which makes […]",
+   "headline": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
+   "blurb": "Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual similarities with workplace management apps like Asana and Monday, but with a built-in AI feature that allows you to vibecode personalized interactive tools by describing […]",
    "source": "The Verge",
-   "ts": "2026-11-10T19:31:58+00:00",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy"
+   "ts": "2026-11-11T14:15:27+00:00",
+   "url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability"
   },
   {
    "category": "Equities",
@@ -260,43 +260,43 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
-   "blurb": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday.",
+   "headline": "African writing award probe finds 'no evidence' winning story was AI generated",
+   "blurb": "Zimbabwean writer Simbarashe Kundizeza has also vehemently denied the allegation made in a US magazine.",
    "source": "BBC",
-   "ts": "2026-11-11T18:04:58+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-11T20:00:54+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cmglr260z7eko?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Workers across Spain stage first general strike in 14 years",
-   "blurb": "People across Spain are striking, primarily over housing costs.",
+   "headline": "Poundland founder writes to King for help",
+   "blurb": "Poundland has filed a notice of intention to appoint administrators, which protects it from creditors until Thursday.",
    "source": "BBC",
-   "ts": "2026-11-11T17:01:07+00:00",
-   "url": "https://www.bbc.co.uk/news/videos/c920xlpdl28eo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-11T17:59:35+00:00",
+   "url": "https://www.bbc.co.uk/news/videos/cm4gndjd4nnno?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Kudlow calls on Nvidia CEO to step down",
-   "blurb": "Fox Business host Larry Kudlow called for Nvidia CEO Jensen Huang to resign after it was revealed the tech billionaire had an affair with a woman suspected of spying for China, arguing the scandal makes him a liability to the AI industry. “Step down, Mr. Huang. Right now,” Kudlow, a former economic adviser to President...",
+   "headline": "GOP's Murphy concedes in North Carolina House race",
+   "blurb": "Rep. Gregory Murphy (R-N.C.) conceded his reelection race Wednesday to Democrat Raymond Smith, flipping another House seat for Democrats after a close contest in North Carolina’s 3rd Congressional District a week after the midterm elections. Decision Desk HQ, The Hill’s polling partner, has yet to call the race, but as of Wednesday evening Smith led...",
    "source": "The Hill",
-   "ts": "2026-11-11T20:06:36+00:00",
-   "url": "https://thehill.com/policy/technology/6214124-larry-kudlow-calls-nvidia-ceo-resign/"
+   "ts": "2026-11-11T23:55:55+00:00",
+   "url": "https://thehill.com/homenews/campaign/6214832-murphy-concedes-north-carolina-house/"
   },
   {
    "category": "India Politics",
-   "headline": "Cochin shipyard, SFO Technologies jointly develop sophisticated laser arc welding technology",
-   "blurb": "",
+   "headline": "Norwegian journalist Helle Lyng says she has been stopped from coming to Hyderabad for Bharat Summit",
+   "blurb": "Ms. Lyng says she has been denied entry into India despite having a visa",
    "source": "The Hindu",
-   "ts": "2026-11-11T20:33:35+00:00",
-   "url": "https://www.thehindu.com/news/national/kerala/cochin-shipyard-sfo-technologies-jointly-develop-sophisticated-laser-arc-welding-technology/article71690473.ece"
+   "ts": "2026-11-12T01:30:04+00:00",
+   "url": "https://www.thehindu.com/news/national/norwegian-journalist-helle-lyng-says-she-has-been-stopped-from-coming-to-hyderabad-for-bharat-summit/article71691222.ece"
   },
   {
    "category": "AI",
-   "headline": "The indie game community is in disarray over AI and Big Walk",
-   "blurb": "Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in \"any capacity.\" Soon after, the developer of indie hit Big Walk has published a statement saying it \"sparingly\" used AI in the \"final stretch\" of the game's development to \"help work through difficult […]",
+   "headline": "Adobe’s AI experiments let you walk around in photos and interview your characters",
+   "blurb": "Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it's developing, and the latest of those tools are being announced today: they can transform images into explorable 3D scenes, design AI characters by talking to them, and turn photo editing into a copy/paste process. […]",
    "source": "The Verge",
-   "ts": "2026-11-10T19:06:22+00:00",
-   "url": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai"
+   "ts": "2026-11-11T12:56:24+00:00",
+   "url": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai"
   },
   {
    "category": "Equities",
@@ -316,43 +316,43 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
-   "blurb": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
+   "headline": "Famed ship SS United States to be sunk off coast of Florida",
+   "blurb": "Activists unsuccessfully fought for the historic liner to be preserved and turned into a museum, but it will now become the world's largest artificial ocean reef.",
    "source": "BBC",
-   "ts": "2026-11-11T16:59:34+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-11T18:42:27+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Protesters gather in Spain for first general strike in 14 years",
-   "blurb": "Thousands are protesting across Spain over housing and the high cost of living.",
+   "headline": "Brad Friedel on Shrewsbury Town takeover",
+   "blurb": "Exclusive interview with BBC Radio Shropshire, Brad Friedel on Shrewsbury Town takeover.",
    "source": "BBC",
-   "ts": "2026-11-11T16:12:12+00:00",
-   "url": "https://www.bbc.co.uk/news/videos/cwj0587gde88o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-11T17:55:43+00:00",
+   "url": "https://www.bbc.co.uk/news/videos/cq62p80pe3yzo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Rand Paul plans to be top Republican on Senate health committee",
-   "blurb": "Sen. Rand Paul (R-Ky.) said Wednesday he is seeking the top GOP spot on the powerful Senate health committee next Congress, a move that would likely signal a major shift for the focus of Republicans on the panel. Paul, an ophthalmologist, is the most senior Republican on the panel. He is currently the chair of the...",
+   "headline": "Nvidia stock tanks after report of second Jensen Huang affair",
+   "blurb": "Shares of Nvidia tanked early Wednesday evening, after The New York Times reported that the tech firm’s CEO Jensen Huang had a second affair. The company’s stock was down roughly 8.3 percent during after-hours trading, dipping below $160 per share. Nvidia shares had not fallen below that threshold since June 2025. Nvidia shares were trading at...",
    "source": "The Hill",
-   "ts": "2026-11-11T20:06:23+00:00",
-   "url": "https://thehill.com/the-120/6214202-rand-paul-seeks-gop-help-leadership/"
+   "ts": "2026-11-11T23:48:26+00:00",
+   "url": "https://thehill.com/business/6214833-nvidia-ceo-jesen-huang-affair/"
   },
   {
    "category": "India Politics",
-   "headline": "Consultations with Governor ongoing to arrive at agreement over V-C appointment: Higher Education Minister",
-   "blurb": "",
+   "headline": "Rights panel steps in to address alleged contamination of well water near temple",
+   "blurb": "The PCB and temple committee have assured that water contamination near the temple will be permanently resolved once the new waste treatment plant becomes operational",
    "source": "The Hindu",
-   "ts": "2026-11-11T20:30:56+00:00",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/consultations-with-governor-ongoing-to-arrive-at-agreement-over-v-c-appointment-higher-education-minister/article71690509.ece"
+   "ts": "2026-11-12T01:23:15+00:00",
+   "url": "https://www.thehindu.com/news/national/kerala/rights-panel-steps-in-to-address-alleged-contamination-of-well-water-near-temple/article69787014.ece"
   },
   {
    "category": "AI",
-   "headline": "Anthropic targets $1.4 trillion IPO",
-   "blurb": "Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations. Its IPO price is expected to be between $70.00 and $78.00 per share, which would put its valuation as high as $1.4 trillion, according to the The New York Times. The Wall Street Journal […]",
+   "headline": "The US is winning the AI race. Jensen Huang could have blown it",
+   "blurb": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of important people. He also wears a cool leather jacket. Which makes […]",
    "source": "The Verge",
-   "ts": "2026-11-10T16:38:24+00:00",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion"
+   "ts": "2026-11-10T19:31:58+00:00",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy"
   },
   {
    "category": "Equities",
@@ -372,43 +372,43 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
-   "blurb": "Bessent is now one of several Trump administration officials to live on military bases due to safety concerns.",
+   "headline": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
+   "blurb": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public.",
    "source": "BBC",
-   "ts": "2026-11-11T16:45:11+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-11T18:38:45+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "What are cold weather payments and who can get them?",
-   "blurb": "Some people in England, Wales and Northern Ireland can get help with heating costs during cold spells.",
+   "headline": "Workers across Spain stage first general strike in 14 years",
+   "blurb": "People across Spain are striking, primarily over housing costs.",
    "source": "BBC",
-   "ts": "2026-11-11T12:49:31+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c87470q4w21o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-11T17:01:07+00:00",
+   "url": "https://www.bbc.co.uk/news/videos/c920xlpdl28eo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "These 4 House Democrats say traffic caused them to miss Hegseth vote",
-   "blurb": "Eleven Democrats missed a consequential vote in the House Tuesday on impeaching Defense Secretary Pete Hegseth, allowing Republicans to band together and shut down the effort. Rep. Thomas Massie (R-Ky.) was the only Republican who joined Democrats on the losing side on a 211-204 vote, a seven-vote margin. Most of the members who missed have...",
+   "headline": "A missed opportunity: Dems stew over vote on Hegseth impeachment",
+   "blurb": "Welcome to The Hill's Defense & NatSec newsletter {beacon} Defense &National Security Defense &National Security The Big Story A missed opportunity: Dems stew over vote on Hegseth impeachment House Democrats are steaming after 11 colleagues missed a vote to impeach Pete Hegseth, allowing the Defense secretary’s Republican allies to defeat the measure this week. ...",
    "source": "The Hill",
-   "ts": "2026-11-11T19:50:00+00:00",
-   "url": "https://thehill.com/homenews/house/6214123-democrats-miss-hegseth-impeachment-vote-traffic/"
+   "ts": "2026-11-11T23:38:00+00:00",
+   "url": "https://thehill.com/newsletters/defense-national-security/6214779-a-missed-opportunity-dems-stew-over-vote-on-hegseth-impeachment/"
   },
   {
    "category": "India Politics",
-   "headline": "Cusat Syndicate member approaches Kerala High Court against employees’ strike",
-   "blurb": "",
+   "headline": "Two SPOs go missing in J&K's Kishtwar; massive search operation launched",
+   "blurb": "The officials said the two SPOs were travelling from Kiyar camp to an Army post at Dharna-Marwah when they failed to reach their destination",
    "source": "The Hindu",
-   "ts": "2026-11-11T20:29:12+00:00",
-   "url": "https://www.thehindu.com/news/national/kerala/cusat-syndicate-member-approaches-kerala-high-court-against-employees-strike/article71690657.ece"
+   "ts": "2026-11-12T01:21:56+00:00",
+   "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/two-spos-go-missing-in-jks-kishtwar-massive-search-operation-launched/article71692139.ece"
   },
   {
    "category": "AI",
-   "headline": "ChatGPT is getting verified AI ‘Business Agents’",
-   "blurb": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and online service businesses in the US, is launching as part of a suite of business-focused features in ChatGPT being announced today in beta. You […]",
+   "headline": "The indie game community is in disarray over AI and Big Walk",
+   "blurb": "Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in \"any capacity.\" Soon after, the developer of indie hit Big Walk has published a statement saying it \"sparingly\" used AI in the \"final stretch\" of the game's development to \"help work through difficult […]",
    "source": "The Verge",
-   "ts": "2026-11-10T16:34:41+00:00",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub"
+   "ts": "2026-11-10T19:06:22+00:00",
+   "url": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai"
   },
   {
    "category": "Equities",
@@ -428,43 +428,43 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "Indonesia's vice president resigns amid signs ruling alliance is fraying",
-   "blurb": "The news comes at a turbulent time for Prabowo, who faces a growing rift with his predecessor Joko Widodo.",
+   "headline": "Missing 11-month-old baby rescued after being buried alive in a crate in South Carolina",
+   "blurb": "Officials say the child was found close to his father's home on Tuesday, a day after he was taken, and is being cared for in hospital.",
    "source": "BBC",
-   "ts": "2026-11-11T16:38:07+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-11T18:10:57+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c8e391xzg6z2o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "The Global Story",
-   "blurb": "Tracking down the men who have made serious money from internet porn.",
+   "headline": "Protesters gather in Spain for first general strike in 14 years",
+   "blurb": "Thousands are protesting across Spain over housing and the high cost of living.",
    "source": "BBC",
-   "ts": "2026-11-11T10:00:00+00:00",
-   "url": "https://www.bbc.co.uk/sounds/play/w3ct8mlr?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-11T16:12:12+00:00",
+   "url": "https://www.bbc.co.uk/news/videos/cwj0587gde88o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Kate Middleton says she found ‘hope’ in nature amid cancer journey",
-   "blurb": "Kate Middleton shared in 2024 she was diagnosed with cancer and was undergoing chemotherapy.",
+   "headline": "Interior plans public land sales",
+   "blurb": "{beacon} Energy & Environment Energy & Environment The Big Story Interior eyes public land sales and workforce change The Trump administration is planning to sell some public lands in the years ahead, it announced this week. © AP Photo/Alex Brandon The Interior Department “will work to decrease the size of the federal estate by...",
    "source": "The Hill",
-   "ts": "2026-11-11T19:46:22+00:00",
-   "url": "https://thehill.com/blogs/in-the-know/6213797-kate-middleton-cancer-journey-reflection/"
+   "ts": "2026-11-11T23:30:41+00:00",
+   "url": "https://thehill.com/newsletters/energy-environment/6214742-interior-plans-public-land-sales/"
   },
   {
    "category": "India Politics",
-   "headline": "MYL rally in Keralam’s Kochi: contempt of court plea filed before High Court",
-   "blurb": "",
+   "headline": "Thousands struggling without water after a major leak in a pipeline in Kolkata’s Tala area",
+   "blurb": "According to the Kolkata Municipal Corporation, over 5 million gallons of water have been gushed out after the 72-inch pipeline got damaged on Monday (November 9, 2026) morning",
    "source": "The Hindu",
-   "ts": "2026-11-11T20:28:19+00:00",
-   "url": "https://www.thehindu.com/news/national/kerala/myl-rally-contempt-of-court-plea-filed-before-hc/article71690768.ece"
+   "ts": "2026-11-11T22:37:04+00:00",
+   "url": "https://www.thehindu.com/news/cities/kolkata/thousands-struggling-without-water-after-a-major-leak-in-a-pipeline-in-kolkatas-tala-area/article71690884.ece"
   },
   {
    "category": "AI",
-   "headline": "eBay appears to have shut the door on third-party AI agents",
-   "blurb": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race. A reader tells The Verge that for several weeks he's had his Muse agent browse and curate a daily digest of watches for sale on platforms like eBay, including a […]",
+   "headline": "ChatGPT is getting verified AI ‘Business Agents’",
+   "blurb": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and online service businesses in the US, is launching as part of a suite of business-focused features in ChatGPT being announced today in beta. You […]",
    "source": "The Verge",
-   "ts": "2026-11-10T16:20:30+00:00",
-   "url": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping"
+   "ts": "2026-11-10T16:34:41+00:00",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub"
   }
  ]
 }
