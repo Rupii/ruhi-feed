@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T16:33:26+00:00",
+ "updated": "2026-11-14T21:19:41+00:00",
  "count": 58,
  "stories": [
   {
@@ -12,11 +12,11 @@
   },
   {
    "category": "Crypto",
-   "headline": "Kazakhstan plans tokenized government bonds in first quarter after $22 million note sale",
-   "blurb": "The plan follows Kazakhstan's first sale of tokenized central bank notes as the country expands its crypto market.",
+   "headline": "Bitcoin slides to 3-month low of $65,000 as analyst flags fourth capitulation wave",
+   "blurb": "\"They are now selling at the very price they wish they had taken advantage of three months ago,\" wrote James Check.",
    "source": "CoinDesk",
-   "ts": "2026-11-14T15:38:27+00:00",
-   "url": "https://www.coindesk.com/business/2026/11/14/kazakhstan-plans-tokenized-government-bonds-in-first-quarter-after-usd22-million-note-sale"
+   "ts": "2026-11-14T16:33:29+00:00",
+   "url": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst"
   },
   {
    "category": "Gold",
@@ -28,11 +28,11 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-   "blurb": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+   "headline": "Second catch attempt as SpaceX Starship rocket heads back to Earth",
+   "blurb": "The attempt follows an unsuccessful effort to catch of the rocket’s booster which instead came down in the ocean.",
    "source": "BBC",
-   "ts": "2026-11-14T15:53:55+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-14T21:05:14+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
@@ -44,19 +44,19 @@
   },
   {
    "category": "US Politics",
-   "headline": "Musk: 'Critical deals will be lost' at Nvidia without Huang",
-   "blurb": "SpaceX CEO Elon Musk wrote on Saturday that Nvidia will lose “critical deals” after CEO Jensen Huang’s exit from the company following reports of his extramarital affairs, including one with an alleged Chinese spy. “Jensen drove supply chain brilliantly at Nvidia, but many of those deals were a handshake with Jensen, not a written contract,”...",
+   "headline": "Italy fines Meta $887M for accessing users' photos without specific consent",
+   "blurb": "Italy announced Saturday it is handing Meta an $887 million fine for using photos and videos from Android users’ Facebook galleries without specific consent. Investigators found Facebook had enabled a “get suggestions from gallery when browsing” feature by default and requested access to users' personal photo library through a single permission notice, according to a...",
    "source": "The Hill",
-   "ts": "2026-11-14T16:02:25+00:00",
-   "url": "https://thehill.com/policy/technology/6220693-elon-musk-predicts-nvidia-losses/"
+   "ts": "2026-11-14T20:34:36+00:00",
+   "url": "https://thehill.com/policy/technology/6220878-meta-italian-privacy-fine-consent/"
   },
   {
    "category": "India Politics",
-   "headline": "Sports festival lays foundation for sporting revolution in Kalaburagi: Priyank Kharge",
-   "blurb": "",
+   "headline": "Man held for conducting ‘reconnaissance’ of sensitive locations in Mumbai",
+   "blurb": "Yash Singh told the police that he was tasked by social media handlers linked to mafia gangs and subversive elements to carry out a recce of sensitive areas of South Mumbai, particularly around Colaba",
    "source": "The Hindu",
-   "ts": "2026-11-14T16:28:13+00:00",
-   "url": "https://www.thehindu.com/news/national/karnataka/sports-festival-lays-foundation-for-sporting-revolution-in-kalaburagi-priyank-kharge/article71701956.ece"
+   "ts": "2026-11-14T20:56:32+00:00",
+   "url": "https://www.thehindu.com/news/national/maharashtra/man-held-for-conducting-reconnaissance-of-sensitive-locations-in-mumbai/article71702932.ece"
   },
   {
    "category": "AI",
@@ -76,11 +76,11 @@
   },
   {
    "category": "Crypto",
-   "headline": "UK, Singapore, and Thailand central banks test cross-border FX settlement as stablecoins gain ground",
-   "blurb": "Project Meridian FX APAC said it demonstrated how transactions can be coordinated across conventional settlement systems and those built using blockchain technology.",
+   "headline": "Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business",
+   "blurb": "Decentralized Finance total value locked on MegaETH dropped significantly from over $245 million to $8.8 million.",
    "source": "CoinDesk",
-   "ts": "2026-11-14T15:00:00+00:00",
-   "url": "https://www.coindesk.com/policy/2026/11/14/uk-singapore-and-thailand-central-banks-test-cross-border-fx-settlement-as-stablecoins-gain-ground"
+   "ts": "2026-11-14T16:33:23+00:00",
+   "url": "https://www.coindesk.com/business/2026/11/14/ethereum-scaling-project-megaeth-slashes-staff-by-20-as-it-pursues-ai-business"
   },
   {
    "category": "Gold",
@@ -92,11 +92,11 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
-   "blurb": "The foreign ministry in Abuja says 6 Nigerians with underlying health problems have died this year while transiting through Addis Ababa.",
+   "headline": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+   "blurb": "The US has not confirmed the Ukrainian president's comments which follow meetings US envoys had with him and Russia's Vladimir Putin.",
    "source": "BBC",
-   "ts": "2026-11-14T15:42:54+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-14T20:41:45+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
@@ -108,19 +108,19 @@
   },
   {
    "category": "US Politics",
-   "headline": "A different kind of ticket-splitting",
-   "blurb": "While Democrats won significant victories in recent midterm elections, voters in several states also approved conservative-leaning ballot initiatives regarding school sports and voter identification.",
+   "headline": "Blumenthal says Lutnick ‘must go’ following Nvidia scandal",
+   "blurb": "Democratic Sen. Richard Blumenthal (Conn.) called on Howard Lutnick, President Trump’s Commerce secretary, to step down over reports the cabinet member shielded Nvidia from federal oversight — accusations which emerged after the tech giant's CEO resigned this week. Jensen Huang stepped down from Nvidia's chief role Thursday after claims came to light of his reported...",
    "source": "The Hill",
-   "ts": "2026-11-14T16:00:00+00:00",
-   "url": "https://thehill.com/opinion/campaign/6219403-midterm-election-ticket-splitting-results/"
+   "ts": "2026-11-14T20:33:01+00:00",
+   "url": "https://thehill.com/homenews/senate/6220891-blumenthal-calls-lutnick-resign-nvidia-scandal/"
   },
   {
    "category": "India Politics",
-   "headline": "Centre operationalises portal for online declaration of rice, paddy stock",
-   "blurb": "Units that are not registered on the portal or that violate stock limits will face action under Sections 6 and 7 of the Essential Commodities Act, 1955",
+   "headline": "TGPCB recommends closures, forfeitures over dusty construction",
+   "blurb": "",
    "source": "The Hindu",
-   "ts": "2026-11-14T16:27:01+00:00",
-   "url": "https://www.thehindu.com/news/national/centre-operationalises-portal-for-online-declaration-of-rice-paddy-stock/article71702654.ece"
+   "ts": "2026-11-14T20:41:50+00:00",
+   "url": "https://www.thehindu.com/news/national/telangana/tgpcb-recommends-closures-forfeitures-over-dusty-construction/article71702047.ece"
   },
   {
    "category": "AI",
@@ -140,19 +140,19 @@
   },
   {
    "category": "Crypto",
-   "headline": "Britain could turn wasted Scottish wind power into bitcoin to cut its $1.3 billion grid bill",
-   "blurb": "Britain could use bitcoin mining to absorb surplus Scottish wind power and reduce payments to wind farms to halt generation, according to a Bitcoin Policy Institute report.",
+   "headline": "Kazakhstan plans tokenized government bonds in first quarter after $22 million note sale",
+   "blurb": "The plan follows Kazakhstan's first sale of tokenized central bank notes as the country expands its crypto market.",
    "source": "CoinDesk",
-   "ts": "2026-11-14T13:00:00+00:00",
-   "url": "https://www.coindesk.com/policy/2026/11/13/britain-could-turn-wasted-scottish-wind-power-into-bitcoin-to-cut-its-usd1-3-billion-grid-bill"
+   "ts": "2026-11-14T15:38:27+00:00",
+   "url": "https://www.coindesk.com/business/2026/11/14/kazakhstan-plans-tokenized-government-bonds-in-first-quarter-after-usd22-million-note-sale"
   },
   {
    "category": "Geopolitics",
-   "headline": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-   "blurb": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
+   "headline": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+   "blurb": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
    "source": "BBC",
-   "ts": "2026-11-14T15:15:57+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-14T20:23:06+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
@@ -164,19 +164,19 @@
   },
   {
    "category": "US Politics",
-   "headline": "FAA ground stop leads to multiple delays, postponements in college football",
-   "blurb": "Friday’s nationwide ground stop issued by the Federal Aviation Administration (FAA) has led to some changes in Saturday's schedule for several college football games across the country. The nationwide grounding began at around 4 p.m. EST and lasted several hours impacting travel plans for multiple teams including Ole Miss, Kansas State University, University of Utah...",
+   "headline": "Trump says he's working with bipartisan senators on film industry legislation",
+   "blurb": "President Trump announced plans to pursue legislation to boost the U.S. film industry alongside a group of Republican and Democratic senators, a show of bipartisanship as his party prepares to hand over both chambers of Congress in January. The president said Friday he will cooperate on the legislation with Democratic Sens. Adam Schiff (Calif.), Raphael...",
    "source": "The Hill",
-   "ts": "2026-11-14T15:19:35+00:00",
-   "url": "https://thehill.com/policy/sports-gaming/6220667-faa-ground-stop-college-football-delays/"
+   "ts": "2026-11-14T20:29:07+00:00",
+   "url": "https://thehill.com/business/6220886-trump-bipartisan-film-industry-bill/"
   },
   {
    "category": "India Politics",
-   "headline": "India supports UNGA resolution on permanent sovereignty of Palestinian people",
-   "blurb": "It demanded that Israel “cease the exploitation, damage, cause of loss or depletion and endangerment of the natural resources in the Occupied Palestinian Territory, including East Jerusalem, and in the occupied Syrian Golan",
+   "headline": "Six-month traffic disruption ahead as Ranigunj railway underpass work to begin in Hyderabad",
+   "blurb": "The existing 13-metre carriageway will be widened to 22 metres, allowing four-way traffic movement, with an additional three metres of road space sought at Karbala Maidan to facilitate one-way movement during diversions.",
    "source": "The Hindu",
-   "ts": "2026-11-14T16:26:52+00:00",
-   "url": "https://www.thehindu.com/news/national/india-supports-unga-resolution-on-permanent-sovereignty-of-palestinian-people/article71701074.ece"
+   "ts": "2026-11-14T20:37:46+00:00",
+   "url": "https://www.thehindu.com/news/national/telangana/six-month-traffic-disruption-ahead-as-ranigunj-railway-underpass-work-to-begin-in-hyderabad/article71699562.ece"
   },
   {
    "category": "AI",
@@ -196,43 +196,43 @@
   },
   {
    "category": "Crypto",
-   "headline": "A behind the scenes force may amplify bitcoin and ether price volatility",
-   "blurb": "Both bitcoin and ether are trading in price ranges where market makers and dealers may add to market volatility.",
+   "headline": "UK, Singapore, and Thailand central banks test cross-border FX settlement as stablecoins gain ground",
+   "blurb": "Project Meridian FX APAC said it demonstrated how transactions can be coordinated across conventional settlement systems and those built using blockchain technology.",
    "source": "CoinDesk",
-   "ts": "2026-11-14T12:57:00+00:00",
-   "url": "https://www.coindesk.com/markets/2026/11/14/a-behind-the-scenes-force-may-amplify-bitcoin-and-ether-price-volatility"
+   "ts": "2026-11-14T15:00:00+00:00",
+   "url": "https://www.coindesk.com/policy/2026/11/14/uk-singapore-and-thailand-central-banks-test-cross-border-fx-settlement-as-stablecoins-gain-ground"
   },
   {
    "category": "Geopolitics",
-   "headline": "What we know about the ground stop and what to do if you're affected",
+   "headline": "How telecoms upgrade work sparked US flight chaos",
    "blurb": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
    "source": "BBC",
-   "ts": "2026-11-14T14:20:57+00:00",
+   "ts": "2026-11-14T20:03:48+00:00",
    "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Food bank sees donations drop by 10% each year",
-   "blurb": "Staff fear the government stockpiling advice will have an impact on donations as Christmas looms.",
+   "headline": "Microsoft says services fully restored after day-long global outage",
+   "blurb": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
    "source": "BBC",
-   "ts": "2026-11-14T06:33:06+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c6702j7e48eno?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-14T06:42:27+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Democrats win an election and immediately move to subvert democracy",
-   "blurb": "The standard for impeachment is not \"kind of legalizing a lot.\"",
+   "headline": "The MAGA-lomaniacs who could drag America into the abyss",
+   "blurb": "Recent midterm elections resulted in a significant rebuke of the Trump administration, prompting criticism of unfulfilled campaign promises from both former allies like Tucker Carlson and Vice President JD Vance.",
    "source": "The Hill",
-   "ts": "2026-11-14T15:00:00+00:00",
-   "url": "https://thehill.com/opinion/campaign/6218044-democrats-undermine-democratic-norms/"
+   "ts": "2026-11-14T19:00:00+00:00",
+   "url": "https://thehill.com/opinion/white-house/6219083-midterm-rebuke-trump-gop/"
   },
   {
    "category": "India Politics",
-   "headline": "Grand start to Kannada Sahitya Sammelana in Raichur; Ramanna Havale urges govt. to make Kannada compulsory up to class 7",
+   "headline": "Traffic diversions for steel flyover construction in Banjara Hills",
    "blurb": "",
    "source": "The Hindu",
-   "ts": "2026-11-14T16:26:22+00:00",
-   "url": "https://www.thehindu.com/news/national/karnataka/grand-start-to-kannada-sahitya-sammelana-in-raichur-ramanna-havale-urges-govt-to-make-kannada-compulsory-up-to-class-7/article71701992.ece"
+   "ts": "2026-11-14T20:36:07+00:00",
+   "url": "https://www.thehindu.com/news/national/telangana/traffic-diversions-for-steel-flyover-construction-in-banjara-hills/article71702037.ece"
   },
   {
    "category": "AI",
@@ -252,43 +252,43 @@
   },
   {
    "category": "Crypto",
-   "headline": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
-   "blurb": "The roughly $5 million transfer also spent the tiny payment used to deliver a court notice to the address in May.",
+   "headline": "Britain could turn wasted Scottish wind power into bitcoin to cut its $1.3 billion grid bill",
+   "blurb": "Britain could use bitcoin mining to absorb surplus Scottish wind power and reduce payments to wind farms to halt generation, according to a Bitcoin Policy Institute report.",
    "source": "CoinDesk",
-   "ts": "2026-11-14T04:30:00+00:00",
-   "url": "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011"
+   "ts": "2026-11-14T13:00:00+00:00",
+   "url": "https://www.coindesk.com/policy/2026/11/13/britain-could-turn-wasted-scottish-wind-power-into-bitcoin-to-cut-its-usd1-3-billion-grid-bill"
   },
   {
    "category": "Geopolitics",
-   "headline": "Second catch attempt for SpaceX Starship rocket",
-   "blurb": "The attempt follows an unsuccessful effort to catch of the rocket’s booster which instead came down in the ocean.",
+   "headline": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
+   "blurb": "Around 130 people were rescued from a cruise ship after it was struck by a tanker while docked in New Orleans, Louisiana on Friday.",
    "source": "BBC",
-   "ts": "2026-11-14T14:18:41+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-14T19:14:33+00:00",
+   "url": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
-   "blurb": "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\".",
+   "headline": "Food bank sees donations drop by 10% each year",
+   "blurb": "Staff fear the government stockpiling advice will have an impact on donations as Christmas looms.",
    "source": "BBC",
-   "ts": "2026-11-13T19:53:57+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-14T06:33:06+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c6702j7e48eno?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "3,000+ flights canceled after FAA's ground stop",
-   "blurb": "U.S. air traffic is slowly returning to normal after a nationwide ground stop Friday halted flights and left thousands canceled and delayed. As of Saturday morning, nearly 2,000 flights within, into or out of the U.S. are delayed, and nearly 3,800 have been canceled, according to flight tracking website FlightAware. FlightAware shows Hartsfield-Jackson Atlanta International...",
+   "headline": "Johnson says 'we don’t really need any investigation' on FAA ground stop",
+   "blurb": "House Speaker Mike Johnson (R-La.) said there is no need for an investigation into the ground stop issued by the Federal Aviation Administration (FAA) on Friday, instead highlighting the need for “investment.” “We don’t really need any investigation … we need further investment,” Johnson said during an interview with Fox News’s Saturday in America. “I...",
    "source": "The Hill",
-   "ts": "2026-11-14T14:54:46+00:00",
-   "url": "https://thehill.com/policy/transportation/6220654-us-air-traffic-cancellations-delays/"
+   "ts": "2026-11-14T18:56:40+00:00",
+   "url": "https://thehill.com/policy/transportation/6220851-mike-johnson-faa-ground-stop/"
   },
   {
    "category": "India Politics",
-   "headline": "BRS wants CM, Irrigation Minister to protect interests of Telangana’s river water rights in Delhi",
+   "headline": "Telangana Greyhounds get new shooting range at Rajendranagar",
    "blurb": "",
    "source": "The Hindu",
-   "ts": "2026-11-14T16:26:17+00:00",
-   "url": "https://www.thehindu.com/news/national/telangana/brs-wants-cm-irrigation-minister-to-protect-interests-of-telanganas-river-water-rights-in-delhi/article71702629.ece"
+   "ts": "2026-11-14T20:35:07+00:00",
+   "url": "https://www.thehindu.com/news/national/telangana/telangana-greyhounds-get-new-shooting-range-at-rajendranagar/article71702096.ece"
   },
   {
    "category": "AI",
@@ -308,43 +308,43 @@
   },
   {
    "category": "Crypto",
-   "headline": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
-   "blurb": "Contracts that sell power to a 4% slice of the world’s bitcoin mining at $44 a megawatt-hour expire on Dec. 31, 2027. Paraguay’s state utility calls the date final, and it has just signed a 15-year deal to power a Founders Fund-backed AI campus.",
+   "headline": "A behind the scenes force may amplify bitcoin and ether price volatility",
+   "blurb": "Both bitcoin and ether are trading in price ranges where market makers and dealers may add to market volatility.",
    "source": "CoinDesk",
-   "ts": "2026-11-13T23:30:00+00:00",
-   "url": "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out"
+   "ts": "2026-11-14T12:57:00+00:00",
+   "url": "https://www.coindesk.com/markets/2026/11/14/a-behind-the-scenes-force-may-amplify-bitcoin-and-ether-price-volatility"
   },
   {
    "category": "Geopolitics",
-   "headline": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
-   "blurb": "Around 130 people were rescued from a cruise ship after it was struck by a tanker while docked in New Orleans, Louisiana on Friday.",
+   "headline": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+   "blurb": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
    "source": "BBC",
-   "ts": "2026-11-14T11:30:10+00:00",
-   "url": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-14T19:12:25+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Why is Microsoft's outage lasting so long and will emails be lost?",
-   "blurb": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
+   "headline": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
+   "blurb": "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\".",
    "source": "BBC",
-   "ts": "2026-11-13T18:36:57+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-13T19:53:57+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Live updates: US air travel recovers from ground stop; Federalist Society gathers following blue wave",
-   "blurb": "U.S. airports and airlines are still playing catch up on Saturday following Friday's four hour long nationwide ground, with travelers across the country scrambling to get to their destinations after facing delays and cancellations. Transportation Secretary Sean Duffy said Friday night he expects the transition back to normal air travel to be \"slow\" following the...",
+   "headline": "Fetterman: Naming Van Hollen majority leader 'would be troubling'",
+   "blurb": "Sen. John Fetterman (D-Pa.) hinted that he could leave the Democratic Party if Sen. Chris Van Hollen (D-Md.) is elected as the Senate Majority Leader. “Yeah, absolutely, it would be troubling if my caucus elects someone like Van Hollen that has really made his name being very anti … hostile to Israel,” Fetterman said when...",
    "source": "The Hill",
-   "ts": "2026-11-14T14:00:00+00:00",
-   "url": "https://thehill.com/homenews/administration/6220447-live-trump-admin-faa-federalist-society/"
+   "ts": "2026-11-14T18:19:50+00:00",
+   "url": "https://thehill.com/homenews/campaign/6220813-fetterman-van-hollen-democrats/"
   },
   {
    "category": "India Politics",
-   "headline": "India is no longer functioning as a democracy, destroyed since 2014: Rahul Gandhi",
-   "blurb": "At the Bharat Summit, the LoP says money power, institutional capture changed the political landscape, left Opposition in shock for a decade; cites anomalies in Maharashtra elections",
+   "headline": "Eight varieties of pharmaceutical ingredients worth ₹3.54 lakh seized in TG SAFE raid at Ameenpur firm",
+   "blurb": "",
    "source": "The Hindu",
-   "ts": "2026-11-14T16:21:34+00:00",
-   "url": "https://www.thehindu.com/news/national/india-no-longer-a-democracy-under-bjp-led-regime-rahul-gandhi/article71702053.ece"
+   "ts": "2026-11-14T20:30:04+00:00",
+   "url": "https://www.thehindu.com/news/national/telangana/eight-varieties-of-pharmaceutical-ingredients-worth-354-lakh-seized-in-tg-safe-raid-at-ameenpur-firm/article71702513.ece"
   },
   {
    "category": "AI",
@@ -364,43 +364,43 @@
   },
   {
    "category": "Crypto",
-   "headline": "Bitcoin plunges to $68,000 as Anthropic IPO frenzy adds to market jitters",
-   "blurb": "Analysts see no direct link between Nvidia and bitcoin's decline, pointing instead to investor capital headed into Anthropic as well as a broader risk-off move.",
+   "headline": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
+   "blurb": "The roughly $5 million transfer also spent the tiny payment used to deliver a court notice to the address in May.",
    "source": "CoinDesk",
-   "ts": "2026-11-13T18:39:58+00:00",
-   "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off"
+   "ts": "2026-11-14T04:30:00+00:00",
+   "url": "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011"
   },
   {
    "category": "Geopolitics",
-   "headline": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
-   "blurb": "Prime Minister Péter Magyar promised a sweeping anti-corruption drive after ousting Orbán in April.",
+   "headline": "Italy fines Meta €805m over accessing users' photos",
+   "blurb": "The social media giant is accused of not informing 20 million users it had access to their photos.",
    "source": "BBC",
-   "ts": "2026-11-14T10:42:20+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-14T18:28:06+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Are board games making a comeback this Christmas?",
-   "blurb": "Are board games making a comeback this Christmas?",
+   "headline": "Why is Microsoft's outage lasting so long and will emails be lost?",
+   "blurb": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
    "source": "BBC",
-   "ts": "2026-11-13T18:00:40+00:00",
-   "url": "https://www.bbc.co.uk/news/videos/ckp80l667rdjo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-13T18:36:57+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "The new center of gravity in Europe",
-   "blurb": "Central and Northern European states are becoming Europe’s economic backbone and increasingly its military one.",
+   "headline": "Russia must be held accountable for its crimes",
+   "blurb": "Investigations by the International Criminal Court, United Nations and independent human rights organizations have created substantial proof.",
    "source": "The Hill",
-   "ts": "2026-11-14T14:00:00+00:00",
-   "url": "https://thehill.com/opinion/international/6218544-central-europe-nato-pillar/"
+   "ts": "2026-11-14T18:00:00+00:00",
+   "url": "https://thehill.com/opinion/international/6218654-russia-war-crimes-ukraine/"
   },
   {
    "category": "India Politics",
-   "headline": "Bengaluru Metro’s Yellow Line to run 13 trains daily from November 16; peak-hour frequency cut to 5.5 minutes",
+   "headline": "Four arrested for illegal sand extraction in Madgul",
    "blurb": "",
    "source": "The Hindu",
-   "ts": "2026-11-14T16:17:21+00:00",
-   "url": "https://www.thehindu.com/news/national/karnataka/bengaluru-metros-yellow-line-to-run-13-trains-daily-from-november-16-peak-hour-frequency-cut-to-55-minutes/article71702621.ece"
+   "ts": "2026-11-14T20:27:08+00:00",
+   "url": "https://www.thehindu.com/news/national/telangana/four-arrested-for-illegal-sand-extraction-in-madgul/article71702555.ece"
   },
   {
    "category": "AI",
@@ -420,43 +420,43 @@
   },
   {
    "category": "Crypto",
-   "headline": "U.S. Senate Banking Committee races toward hearing on new SEC nominations",
-   "blurb": "The committee that needs to advance President Donald Trump's nominees responded quickly to set his SEC picks for review next week.",
+   "headline": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
+   "blurb": "Contracts that sell power to a 4% slice of the world’s bitcoin mining at $44 a megawatt-hour expire on Dec. 31, 2027. Paraguay’s state utility calls the date final, and it has just signed a 15-year deal to power a Founders Fund-backed AI campus.",
    "source": "CoinDesk",
-   "ts": "2026-11-13T17:05:43+00:00",
-   "url": "https://www.coindesk.com/policy/2026/11/13/u-s-senate-banking-committee-races-toward-hearing-on-new-sec-nominations"
+   "ts": "2026-11-13T23:30:00+00:00",
+   "url": "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out"
   },
   {
    "category": "Geopolitics",
-   "headline": "Microsoft says services fully restored after day-long global outage",
-   "blurb": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
+   "headline": "Philippines wins first Eurovision Song Contest Asia",
+   "blurb": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra.",
    "source": "BBC",
-   "ts": "2026-11-14T06:42:27+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-14T18:17:58+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "What are people emergency stockpiling?",
-   "blurb": "From cider to candy canes: What people are emergency stockpiling",
+   "headline": "Are board games making a comeback this Christmas?",
+   "blurb": "Are board games making a comeback this Christmas?",
    "source": "BBC",
-   "ts": "2026-11-13T16:31:22+00:00",
-   "url": "https://www.bbc.co.uk/news/videos/c6zxvg79rr9yo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-13T18:00:40+00:00",
+   "url": "https://www.bbc.co.uk/news/videos/ckp80l667rdjo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Greene calls Duffy, Mullin press briefing 'a shakedown for more money'",
-   "blurb": "Former Rep. Marjorie Taylor Greene (R-Ga.) accused Transportation Secretary Sean Duffy and Homeland Security Secretary Markwayne Mullin of using Friday’s nationwide ground stop to demand more taxpayer money, calling their joint press conference “unreal bulls—.” “It doesn’t matter to any of them that the US Congress and every administration has spent like $15 trillion on...",
+   "headline": "5 things to know on the FAA groundings",
+   "blurb": "The Federal Aviation Administration (FAA) has air traffic control systems back online after a major telecommunications outage grounded all U.S. flights Friday evening. The delay stranded passengers across the country and forced airlines to delay or cancel thousands of flights, a disruption that may take days to get back to normal. Those affected included everyday...",
    "source": "The Hill",
-   "ts": "2026-11-14T13:57:34+00:00",
-   "url": "https://thehill.com/homenews/administration/6220625-greene-criticizes-duffy-mullin/"
+   "ts": "2026-11-14T17:52:00+00:00",
+   "url": "https://thehill.com/policy/transportation/6220783-faa-ground-stop-what-to-know/"
   },
   {
    "category": "India Politics",
-   "headline": "CM Revanth to meet Modi today seeking special funds for drought",
+   "headline": "25 kg of chloral hydrate seized, five arrested in adulterated toddy raids",
    "blurb": "",
    "source": "The Hindu",
-   "ts": "2026-11-14T16:17:16+00:00",
-   "url": "https://www.thehindu.com/news/national/telangana/cm-revanth-to-meet-modi-today-seeking-special-funds-for-drought/article71702577.ece"
+   "ts": "2026-11-14T20:25:28+00:00",
+   "url": "https://www.thehindu.com/news/national/telangana/25-kg-of-chloral-hydrate-seized-five-arrested-in-adulterated-toddy-raids/article71702569.ece"
   },
   {
    "category": "AI",
