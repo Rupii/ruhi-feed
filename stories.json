@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T21:54:20+00:00",
+ "updated": "2026-11-14T02:13:19+00:00",
  "count": 58,
  "stories": [
   {
@@ -12,11 +12,11 @@
   },
   {
    "category": "Crypto",
-   "headline": "Bitcoin plunges to $68,000 as Anthropic IPO frenzy adds to market jitters",
-   "blurb": "Analysts see no direct link between Nvidia and bitcoin's decline, pointing instead to investor capital headed into Anthropic as well as a broader risk-off move.",
+   "headline": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
+   "blurb": "Contracts that sell power to a 4% slice of the world’s bitcoin mining at $44 a megawatt-hour expire on Dec. 31, 2027. Paraguay’s state utility calls the date final, and it has just signed a 15-year deal to power a Founders Fund-backed AI campus.",
    "source": "CoinDesk",
-   "ts": "2026-11-13T18:39:58+00:00",
-   "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off"
+   "ts": "2026-11-13T23:30:00+00:00",
+   "url": "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out"
   },
   {
    "category": "Gold",
@@ -28,11 +28,11 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
-   "blurb": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
+   "headline": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
+   "blurb": "Jojo was poached as an infant and grew up in captivity. His keepers want to find him a friend - but it's not straightforward.",
    "source": "BBC",
-   "ts": "2026-11-13T21:14:22+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-14T00:03:56+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
@@ -44,27 +44,27 @@
   },
   {
    "category": "US Politics",
-   "headline": "Hassett denies report he is leaving White House",
-   "blurb": "Kevin Hassett, the director of the National Economic Council (NEC), pushed back Friday on a report that he will depart the Trump administration in the coming weeks. He told CNBC’s Eamon Javers through text that the report is “not true.” The White House also denied the report, writing on X, “There is no factual basis...",
+   "headline": "Trump, Putin and Xi to meet in first trilateral meeting between leaders",
+   "blurb": "President Trump plans to meet with Russian President Vladimir Putin and Chinese President Xi Jinping on the sidelines of the Asia-Pacific Economic Cooperation (APEC) summit in China next week, marking the first-ever trilateral meeting between the three leaders. Trump will be in Asia for The Association of Southeast Asian Nations summit in the Philippines and...",
    "source": "The Hill",
-   "ts": "2026-11-13T21:26:26+00:00",
-   "url": "https://thehill.com/homenews/administration/6219713-kevin-hassett-denies-departure/"
+   "ts": "2026-11-14T01:30:55+00:00",
+   "url": "https://thehill.com/homenews/administration/6220278-trump-putin-xi-trilateral-meeting/"
   },
   {
    "category": "India Politics",
-   "headline": "The challenge of holding the Quad together",
-   "blurb": "The big ticket question confronting the Quad, however, is how Donald Trump engages with the group and the broader Indo-Pacific geography",
+   "headline": "Microsoft outage hits businesses worldwide; India feels impact",
+   "blurb": "Disruption to Microsoft’s cloud-based email service affects business operations and airline customer support in India; public services in several countries also report problems",
    "source": "The Hindu",
-   "ts": "2026-11-13T19:57:29+00:00",
-   "url": "https://www.thehindu.com/opinion/op-ed/the-challenge-of-holding-the-quad-together/article71698092.ece"
+   "ts": "2026-11-14T01:51:27+00:00",
+   "url": "https://www.thehindu.com/sci-tech/technology/microsoft-outage-hits-businesses-worldwide-india-feels-impact/article71698919.ece"
   },
   {
    "category": "AI",
-   "headline": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
-   "blurb": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express, Chase, Mastercard and Visa cards.\" After adding a card […]",
+   "headline": "Amazon has a plan to index the world’s online shopping data",
+   "blurb": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less likely that shoppers leave Amazon to do their […]",
    "source": "The Verge",
-   "ts": "2026-11-13T20:45:10+00:00",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet"
+   "ts": "2026-11-13T23:49:11+00:00",
+   "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search"
   },
   {
    "category": "Equities",
@@ -76,11 +76,11 @@
   },
   {
    "category": "Crypto",
-   "headline": "U.S. Senate Banking Committee races toward hearing on new SEC nominations",
-   "blurb": "The committee that needs to advance President Donald Trump's nominees responded quickly to set his SEC picks for review next week.",
+   "headline": "Bitcoin plunges to $68,000 as Anthropic IPO frenzy adds to market jitters",
+   "blurb": "Analysts see no direct link between Nvidia and bitcoin's decline, pointing instead to investor capital headed into Anthropic as well as a broader risk-off move.",
    "source": "CoinDesk",
-   "ts": "2026-11-13T17:05:43+00:00",
-   "url": "https://www.coindesk.com/policy/2026/11/13/u-s-senate-banking-committee-races-toward-hearing-on-new-sec-nominations"
+   "ts": "2026-11-13T18:39:58+00:00",
+   "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off"
   },
   {
    "category": "Gold",
@@ -92,43 +92,43 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
-   "blurb": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.",
+   "headline": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
+   "blurb": "The 52-year-old general’s provocative posts and military threats have fuelled rumours of a dynastic succession.",
    "source": "BBC",
-   "ts": "2026-11-13T19:53:57+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-14T00:03:52+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Are board games making a comeback this Christmas?",
-   "blurb": "Are board games making a comeback this Christmas?",
+   "headline": "Why is Microsoft's outage lasting so long and will emails be lost?",
+   "blurb": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
    "source": "BBC",
-   "ts": "2026-11-13T18:00:40+00:00",
-   "url": "https://www.bbc.co.uk/news/videos/ckp80l667rdjo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-13T18:36:57+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "FAA orders nationwide ground stop",
-   "blurb": "The Federal Aviation Administration (FAA) issued a nationwide ground stop for all U.S. flights, Transportation Secretary Sean Duffy confirmed on Friday. “The [FAA] issued a nationwide ground stop for all U.S. airports following a communication issue impacting all Air Route Traffic Control Centers,” Duffy wrote on the social platform X. “FAA technicians are investigating the...",
+   "headline": "Rubio, off script, leans into inspiring vision for America as 2028 speculation grows",
+   "blurb": "Secretary of State Marco Rubio promoted an inspirational view of the United States during remarks at a conservative law conference Friday, invoking the image of a country where an ambitious attitude binds Americans — striving toward living up to the founding ideals Rubio’s off-script remarks, which followed a keynote address during the annual conference of...",
    "source": "The Hill",
-   "ts": "2026-11-13T21:23:00+00:00",
-   "url": "https://thehill.com/policy/transportation/6219722-faa-issues-us-flight-ground-stop/"
+   "ts": "2026-11-14T01:14:44+00:00",
+   "url": "https://thehill.com/homenews/administration/6220243-rubio-federalist-society-remarks-2028-preview/"
   },
   {
    "category": "India Politics",
-   "headline": "Comply with new prices of 137 anti-cancer drugs or face action, says regulator",
-   "blurb": "NPPA directs State drug controllers to strictly monitor prices",
+   "headline": "Himachal approves ₹1,500 monthly financial assistance for women",
+   "blurb": "Under the scheme, eligible beneficiary families will also receive 300 units of free electricity",
    "source": "The Hindu",
-   "ts": "2026-11-13T19:47:05+00:00",
-   "url": "https://www.thehindu.com/sci-tech/health/comply-with-new-prices-of-137-anti-cancer-drugs-or-face-action-says-regulator/article71698592.ece"
+   "ts": "2026-11-14T01:47:55+00:00",
+   "url": "https://www.thehindu.com/news/national/himachal-pradesh/himachal-approves-1500-monthly-financial-assistance-for-women/article71698523.ece"
   },
   {
    "category": "AI",
-   "headline": "What’s really at stake in the Jensen Huang saga",
-   "blurb": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold. A story about Nvidia's dealings in China, about the US government's willingness […]",
+   "headline": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+   "blurb": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express, Chase, Mastercard and Visa cards.\" After adding a card […]",
    "source": "The Verge",
-   "ts": "2026-11-13T19:17:15+00:00",
-   "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast"
+   "ts": "2026-11-13T20:45:10+00:00",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet"
   },
   {
    "category": "Equities",
@@ -140,51 +140,51 @@
   },
   {
    "category": "Crypto",
-   "headline": "Bitcoin heads for sixth weekly loss as Anthropic’s blockbuster IPO looms",
-   "blurb": "Bitcoin is down 21% this year as investors weigh Anthropic’s anticipated listing, Nvidia’s leadership upheaval and rising Fed rate hike expectations.",
+   "headline": "U.S. Senate Banking Committee races toward hearing on new SEC nominations",
+   "blurb": "The committee that needs to advance President Donald Trump's nominees responded quickly to set his SEC picks for review next week.",
    "source": "CoinDesk",
-   "ts": "2026-11-13T16:01:27+00:00",
-   "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-heads-for-sixth-weekly-loss-as-anthropic-s-blockbuster-ipo-looms"
+   "ts": "2026-11-13T17:05:43+00:00",
+   "url": "https://www.coindesk.com/policy/2026/11/13/u-s-senate-banking-committee-races-toward-hearing-on-new-sec-nominations"
   },
   {
    "category": "Geopolitics",
-   "headline": "Democratic Senate leader Schumer set to face leadership challenge",
-   "blurb": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes.",
+   "headline": "Setback for SpaceX Starship rocket's double-catch test",
+   "blurb": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.",
    "source": "BBC",
-   "ts": "2026-11-13T19:03:10+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-14T00:01:01+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "What are people emergency stockpiling?",
-   "blurb": "From cider to candy canes: What people are emergency stockpiling",
+   "headline": "Are board games making a comeback this Christmas?",
+   "blurb": "Are board games making a comeback this Christmas?",
    "source": "BBC",
-   "ts": "2026-11-13T16:31:22+00:00",
-   "url": "https://www.bbc.co.uk/news/videos/c6zxvg79rr9yo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-13T18:00:40+00:00",
+   "url": "https://www.bbc.co.uk/news/videos/ckp80l667rdjo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Uber reports US driver's license information stolen during data breach",
-   "blurb": "Uber disclosed this week an unauthorized third party improperly accessed the ride-hailing platform's data, according to a notice shared by the California attorney general’s office. In the notice, dated Nov. 10, the company said a service provider had notified them of the incident a month prior. The platform then conducted an investigation, which found the...",
+   "headline": "Watch: Duffy, Mullin hold press briefing on FAA nationwide ground stop",
+   "blurb": "Homeland Security Secretary Markwayne Mullin and Transportation Secretary Sean Duffy will hold a press briefing at the White House on Friday night to provide an update on the Federal Aviation Administration's (FAA) nationwide ground stop. “The @FAANews [FAA] issued a nationwide ground stop for all U.S. airports following a communication issue impacting all Air Route...",
    "source": "The Hill",
-   "ts": "2026-11-13T21:12:15+00:00",
-   "url": "https://thehill.com/policy/technology/6219607-uber-drivers-license-data-stolen/"
+   "ts": "2026-11-14T00:54:31+00:00",
+   "url": "https://thehill.com/video-clips/6220247-watch-duffy-mullin-hold-press-briefing-on-faa-nationwide-ground-stop/"
   },
   {
    "category": "India Politics",
-   "headline": "Andhra Pradesh secures ₹9.88 lakh crore investment commitments at CII Partnership Summit in Vizag",
-   "blurb": "A.P. government will implement Investment Protection Act with retrospective effect from 2024, says Chief Minister Naidu",
+   "headline": "Over 7,000 books removed from District Central Libraries in Vellore, nearby districts",
+   "blurb": "Ranipet and Tirupattur have the highest number (2,401) of books each from these publications",
    "source": "The Hindu",
-   "ts": "2026-11-13T19:45:08+00:00",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-secures-988-lakh-crore-investment-commitments-at-cii-partnership-summit-in-vizag/article71699029.ece"
+   "ts": "2026-11-14T01:43:03+00:00",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/over-7000-books-removed-from-district-central-libraries-in-vellore-nearby-districts/article71698167.ece"
   },
   {
    "category": "AI",
-   "headline": "Let’s talk about Jensen Huang’s many affairs!",
-   "blurb": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the rate Jensen Huang's new mistresses are dropping, I am concerned we are approaching an affair Singularity. If […]",
+   "headline": "What’s really at stake in the Jensen Huang saga",
+   "blurb": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold. A story about Nvidia's dealings in China, about the US government's willingness […]",
    "source": "The Verge",
-   "ts": "2026-11-13T19:07:12+00:00",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow"
+   "ts": "2026-11-13T19:17:15+00:00",
+   "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast"
   },
   {
    "category": "Equities",
@@ -196,51 +196,51 @@
   },
   {
    "category": "Crypto",
-   "headline": "Kraken parent Payward says expansion outside crypto trading helps cushion revenue decline",
-   "blurb": "While earnings and the company’s newly introduced financial performance measure remained below year-earlier levels, there are signs of improvement from the second quarter.",
+   "headline": "Bitcoin heads for sixth weekly loss as Anthropic’s blockbuster IPO looms",
+   "blurb": "Bitcoin is down 21% this year as investors weigh Anthropic’s anticipated listing, Nvidia’s leadership upheaval and rising Fed rate hike expectations.",
    "source": "CoinDesk",
-   "ts": "2026-11-13T14:02:00+00:00",
-   "url": "https://www.coindesk.com/business/2026/11/13/kraken-parent-payward-says-expansion-outside-crypto-trading-helps-cushion-revenue-decline"
+   "ts": "2026-11-13T16:01:27+00:00",
+   "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-heads-for-sixth-weekly-loss-as-anthropic-s-blockbuster-ipo-looms"
   },
   {
    "category": "Geopolitics",
-   "headline": "Why is Microsoft's outage lasting so long and will emails be lost?",
-   "blurb": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
+   "headline": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+   "blurb": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
    "source": "BBC",
-   "ts": "2026-11-13T18:36:57+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-13T23:40:45+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Shoplifters 'stealing to order' in Scottish shops",
-   "blurb": "Shopworkers in Scotland say they're facing rising levels of violence, including attacks with harpoon guns and machetes, as reports of shoplifting rise dramatically.",
+   "headline": "What are people emergency stockpiling?",
+   "blurb": "From cider to candy canes: What people are emergency stockpiling",
    "source": "BBC",
-   "ts": "2026-11-13T14:16:09+00:00",
-   "url": "https://www.bbc.co.uk/news/videos/cw772xkxjm37o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-13T16:31:22+00:00",
+   "url": "https://www.bbc.co.uk/news/videos/c6zxvg79rr9yo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Peltola vs. Sullivan not alone: 24 Alaska races still too close to call",
-   "blurb": "Twenty-four races for federal and state office in Alaska remain uncalled more than a week after Election Day, including the closely watched U.S. Senate contest, as votes from across the expansive state trickle in. Roughly 84 percent of the expected vote has been reported statewide, according to The Hill’s election desk partner Decision Desk HQ...",
+   "headline": "Hegseth directs Pentagon CFO to transform military pay systems",
+   "blurb": "Welcome to The Hill's Defense & NatSec newsletter {beacon} Defense &National Security Defense &National Security The Big Story Hegseth directs Pentagon CFO to transform military pay systems Defense Secretary Pete Hegseth directed the Pentagon's comptroller to begin a \"comprehensive transformation\" of the military pay systems, arguing the current process has resulted in a growing...",
    "source": "The Hill",
-   "ts": "2026-11-13T21:11:08+00:00",
-   "url": "https://thehill.com/homenews/campaign/6219645-peltola-sullivan-alaska-races-ranked-choice/"
+   "ts": "2026-11-14T00:25:15+00:00",
+   "url": "https://thehill.com/newsletters/defense-national-security/6220214-hegseth-directs-pentagon-cfo-to-transform-military-pay-systems/"
   },
   {
    "category": "India Politics",
-   "headline": "Manipur probe panel gets sixth extension; no sign of report yet",
-   "blurb": "The report is awaited even as the ethnic conflict has now spread to Kuki and Naga communities",
+   "headline": "Congress launches website to help voters check SIR deletions, seek restoration",
+   "blurb": "Announcing the initiative, Congress general secretary (organisation) K.C. Venugopal said the website, Iamvoterakshak.in, would allow citizens to verify their names and formally protest against deletions by applying for restoration",
    "source": "The Hindu",
-   "ts": "2026-11-13T19:42:04+00:00",
-   "url": "https://www.thehindu.com/news/national/manipur/centre-gives-another-extension-to-panel-probing-2023-manipur-violence/article71697573.ece"
+   "ts": "2026-11-14T01:42:21+00:00",
+   "url": "https://www.thehindu.com/news/national/congress-launches-website-to-help-voters-check-sir-deletions-seek-restoration/article71699249.ece"
   },
   {
    "category": "AI",
-   "headline": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
-   "blurb": "Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don't write code. It's been an interesting couple […]",
+   "headline": "Let’s talk about Jensen Huang’s many affairs!",
+   "blurb": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the rate Jensen Huang's new mistresses are dropping, I am concerned we are approaching an affair Singularity. If […]",
    "source": "The Verge",
-   "ts": "2026-11-13T00:23:32+00:00",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on"
+   "ts": "2026-11-13T19:07:12+00:00",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow"
   },
   {
    "category": "Equities",
@@ -252,51 +252,51 @@
   },
   {
    "category": "Crypto",
-   "headline": "Bitcoin's momentum gauge is turning red, could send prices back below $60,000",
-   "blurb": "Your day-ahead look for Nov. 13, 2026",
+   "headline": "Kraken parent Payward says expansion outside crypto trading helps cushion revenue decline",
+   "blurb": "While earnings and the company’s newly introduced financial performance measure remained below year-earlier levels, there are signs of improvement from the second quarter.",
    "source": "CoinDesk",
-   "ts": "2026-11-13T12:14:22+00:00",
-   "url": "https://www.coindesk.com/daybook-us/2026/11/13/bitcoin-s-momentum-gauge-is-turning-red-could-send-prices-back-below-usd60-000"
+   "ts": "2026-11-13T14:02:00+00:00",
+   "url": "https://www.coindesk.com/business/2026/11/13/kraken-parent-payward-says-expansion-outside-crypto-trading-helps-cushion-revenue-decline"
   },
   {
    "category": "Geopolitics",
-   "headline": "The Peruvian city that has embraced Pope Leo as one of its own",
-   "blurb": "Pope Leo XIV is in Peru as part of his Latin America tour, just weeks after having surgery for lung cancer.",
+   "headline": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
+   "blurb": "A new wave of youth dissent swept India this summer, fuelled by frustration and irreverent online satire.",
    "source": "BBC",
-   "ts": "2026-11-13T18:34:45+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-13T23:11:51+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "How a sex scandal at Nvidia is putting pressure on the White House",
-   "blurb": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself.",
+   "headline": "Shoplifters 'stealing to order' in Scottish shops",
+   "blurb": "Shopworkers in Scotland say they're facing rising levels of violence, including attacks with harpoon guns and machetes, as reports of shoplifting rise dramatically.",
    "source": "BBC",
-   "ts": "2026-11-13T12:22:30+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-13T14:16:09+00:00",
+   "url": "https://www.bbc.co.uk/news/videos/cw772xkxjm37o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Merkley, senior Senate progressive, backs Van Hollen over Schumer",
-   "blurb": "Sen. Jeff Merkley (D-Ore.), the ranking member of the Senate Budget Committee and an influential progressive voice in the Senate Democratic caucus, announced Friday that he will support Sen. Chris Van Hollen (D-Md.) over Sen. Chuck Schumer (D-N.Y.) to serve as majority leader next year. “Americans are desperate to restore government by and for the...",
+   "headline": "Multiple college football teams in flight limbo due to FAA ground stop",
+   "blurb": "The nationwide ground stop issued by the Federal Aviation Administration Friday afternoon has impacted travel plans for college football teams scheduled to fly to their destinations. Among teams impacted are four schools in the NCAA's Big 12 Conference, Baylor University, Kansas State University, University of Utah and Arizona State University; three in the Big Ten...",
    "source": "The Hill",
-   "ts": "2026-11-13T21:01:04+00:00",
-   "url": "https://thehill.com/the-120/6219652-merkley-supports-van-hollen-majority-leader/"
+   "ts": "2026-11-14T00:08:59+00:00",
+   "url": "https://thehill.com/policy/sports-gaming/6220145-faa-ground-stop-impacts-college-football/"
   },
   {
    "category": "India Politics",
-   "headline": "Four-day Chhath festival begins in Bihar with Nahay Khay",
-   "blurb": "Out of 103 ghats in Patna, 90 have been declared safe for devotees, while 13 have been termed unsafe",
+   "headline": "India-Bangladesh consular dialogue will be held on a mutually convenient date, says Ministry of External Affairs",
+   "blurb": "Diplomatic sources had indicated that the postponement of talks was because of the spike in tensions in view of the proposed return of former Prime Minister Sheikh Hasina to Bangladesh",
    "source": "The Hindu",
-   "ts": "2026-11-13T19:40:13+00:00",
-   "url": "https://www.thehindu.com/news/national/bihar/four-day-chhath-festival-begins-in-bihar-with-nahay-khay/article71698082.ece"
+   "ts": "2026-11-14T01:42:00+00:00",
+   "url": "https://www.thehindu.com/news/national/india-bangladesh-consular-dialogue-will-be-held-on-a-mutually-convenient-date-says-ministry-of-external-affairs/article71698994.ece"
   },
   {
    "category": "AI",
-   "headline": "Google’s new Gemini model is better at understanding complicated questions",
-   "blurb": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can break down your questions and address each part in its responses. It's available starting today in search, the Gemini app, all tiers of Google […]",
+   "headline": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+   "blurb": "Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don't write code. It's been an interesting couple […]",
    "source": "The Verge",
-   "ts": "2026-11-12T21:55:32+00:00",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen"
+   "ts": "2026-11-13T00:23:32+00:00",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on"
   },
   {
    "category": "Equities",
@@ -308,51 +308,51 @@
   },
   {
    "category": "Crypto",
-   "headline": "Bitcoin hits 12-week low as dollar rallies on interest-rate outlook, liquidations top $1.6 billion",
-   "blurb": "Bitcoin (BTC) fell below $70,000 for the first time since August and is down 3.5% since midnight UTC, as the dollar climbs and liquidations top $1.6 billion.",
+   "headline": "Bitcoin's momentum gauge is turning red, could send prices back below $60,000",
+   "blurb": "Your day-ahead look for Nov. 13, 2026",
    "source": "CoinDesk",
-   "ts": "2026-11-13T11:52:25+00:00",
-   "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-hits-12-week-low-as-dollar-rallies-on-interest-rate-outlook-liquidations-top-usd1-6-billion"
+   "ts": "2026-11-13T12:14:22+00:00",
+   "url": "https://www.coindesk.com/daybook-us/2026/11/13/bitcoin-s-momentum-gauge-is-turning-red-could-send-prices-back-below-usd60-000"
   },
   {
    "category": "Geopolitics",
-   "headline": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
-   "blurb": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
+   "headline": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+   "blurb": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
    "source": "BBC",
-   "ts": "2026-11-13T16:40:31+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-13T23:00:31+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Heat pumps: How much heat does your home really need?",
-   "blurb": "Knowing how much heat your home loses is important before installing a new heating system.",
+   "headline": "How a sex scandal at Nvidia is putting pressure on the White House",
+   "blurb": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself.",
    "source": "BBC",
-   "ts": "2026-11-13T09:29:25+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-13T12:22:30+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Ocasio-Cortez: Stevens has 'been with the Republicans' since Congress returned",
-   "blurb": "Rep. Alexandria Ocasio-Cortez (D-N.Y.) said Rep. Haley Stevens (D-Mich.) has “been with the Republicans” since Congress returned, after the Michigan Democrat endorsed former Rep. Mike Rogers (R-Mich.) in the midterms. “She’s been with the Republicans ever since she’s come back. So she’s been on the Republican side of the aisle,” Ocasio-Cortez said during an appearance...",
+   "headline": "US poised to lose measles elimination status",
+   "blurb": "Presented by CareQuest {beacon} Healthcare Healthcare The Big Story U.S. poised to lose measles elimination status The United States is on the brink of losing its measles elimination status after more than 25 years. Losing measles elimination status would be mostly symbolic, but it marks a step back for public health. © Annie Rice, Associated...",
    "source": "The Hill",
-   "ts": "2026-11-13T20:58:47+00:00",
-   "url": "https://thehill.com/homenews/campaign/6219619-ocasio-cortez-stevens-republicans/"
+   "ts": "2026-11-14T00:08:41+00:00",
+   "url": "https://thehill.com/newsletters/healthcare/6220185-u-s-poised-to-lose-measles-elimination-status/"
   },
   {
    "category": "India Politics",
-   "headline": "Man held for setting house on fire in Vellore",
-   "blurb": "",
+   "headline": "Tejashwi accuses BJP MLA Maithili Thakur’s father of land grabbing",
+   "blurb": "Ms. Thakur, who represents the Alinagar Assembly constituency, denied the charges saying that her family has valid land document",
    "source": "The Hindu",
-   "ts": "2026-11-13T19:31:01+00:00",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/man-held-for-setting-house-on-fire-in-vellore/article71698182.ece"
+   "ts": "2026-11-14T01:40:18+00:00",
+   "url": "https://www.thehindu.com/news/national/bihar/tejashwi-accuses-bjp-mla-maithili-thakurs-father-of-land-grabbing/article71699123.ece"
   },
   {
    "category": "AI",
-   "headline": "No, AI agents did not discover a previously unknown Maya site",
-   "blurb": "Armed with a team of AI agents, Google researcher Pietro Miotti claimed earlier this week to have discovered a potentially unmapped Maya site in Mexico. There was just one problem: The site had already been discovered and was published in an academic journal last year. The incident, which sparked criticism among archeologists online, underscores a […]",
+   "headline": "Google’s new Gemini model is better at understanding complicated questions",
+   "blurb": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can break down your questions and address each part in its responses. It's available starting today in search, the Gemini app, all tiers of Google […]",
    "source": "The Verge",
-   "ts": "2026-11-12T19:42:40+00:00",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery"
+   "ts": "2026-11-12T21:55:32+00:00",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen"
   },
   {
    "category": "Equities",
@@ -364,51 +364,51 @@
   },
   {
    "category": "Crypto",
-   "headline": "Live updates: Bitcoin eyes bear market lows as late summer rally mostly wiped out",
-   "blurb": "Equity markets are falling as well, with interest rates and the dollar surging amid an increasingly hawkish Federal Reserve.",
+   "headline": "Bitcoin hits 12-week low as dollar rallies on interest-rate outlook, liquidations top $1.6 billion",
+   "blurb": "Bitcoin (BTC) fell below $70,000 for the first time since August and is down 3.5% since midnight UTC, as the dollar climbs and liquidations top $1.6 billion.",
    "source": "CoinDesk",
-   "ts": "2026-11-13T09:16:58+00:00",
-   "url": "https://www.coindesk.com/tech/2026/11/13/live-news-bitcoin-drops-below-200-week-moving-average-as-dollar-strength-pressures-risk-assets"
+   "ts": "2026-11-13T11:52:25+00:00",
+   "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-hits-12-week-low-as-dollar-rallies-on-interest-rate-outlook-liquidations-top-usd1-6-billion"
   },
   {
    "category": "Geopolitics",
-   "headline": "German spies handed new powers to tackle 'hybrid threats' from abroad",
-   "blurb": "German reforms mean foreign and domestic intelligence services will have greater powers to combat espionage, terrorism and sabotage.",
+   "headline": "Watch: Cruise ship seen sinking after collision with cargo ship in New Orleans",
+   "blurb": "All passengers have been accounted for after a cargo ship collided with a docked cruise ship.",
    "source": "BBC",
-   "ts": "2026-11-13T15:42:52+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-13T21:15:24+00:00",
+   "url": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Politicians back focus on cost of living",
-   "blurb": "The Government of Jersey's key priorities are passed despite concerns over a lack of \"real action\".",
+   "headline": "Heat pumps: How much heat does your home really need?",
+   "blurb": "Knowing how much heat your home loses is important before installing a new heating system.",
    "source": "BBC",
-   "ts": "2026-11-13T06:23:37+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cqj9mjl8jy4no?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-13T09:29:25+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Slotkin: Elected officials fighting over progressive vs. moderate 'missed the plot'",
-   "blurb": "Sen. Elissa Slotkin (D-Mich.) said lawmakers who are warring with the opposite faction within the party had “missed the plot” of the midterm results during a major Democratic conference on Friday. “I think Michigan gave a really clear demonstration that whatever side of the Democrats you feel like you’re on, that is not what is...",
+   "headline": "House Democrat calls FAA stop 'quite disturbing'",
+   "blurb": "Rep. Robert Garcia (D-Calif.) called the nationwide ground stop issued by the Federal Aviation Administration (FAA) on Friday “quite disturbing.” “This is quite disturbing and pretty extraordinary of a action taken,” Garcia said during an appearance on MS NOW. “Whatever it is, I think deserves as much transparency as possible.” “The impact is going to...",
    "source": "The Hill",
-   "ts": "2026-11-13T20:42:02+00:00",
-   "url": "https://thehill.com/homenews/6219574-elissa-slotkin-midterm-voters-democratic-party/"
+   "ts": "2026-11-13T23:22:00+00:00",
+   "url": "https://thehill.com/policy/transportation/6220064-garcia-calls-faa-ground-stop-disturbing/"
   },
   {
    "category": "India Politics",
-   "headline": "Tamil Nadu engages realty developers to fast track Global Capability Centre corridors",
-   "blurb": "",
+   "headline": "Mirwaiz delivers sermon after two weeks of ‘house arrest’, welcomes Kashmir Waza Association’s deadline for wedding dinners",
+   "blurb": "In his sermon, the Mirwaiz expressed concern over the “repeated restrictions on his religious and public activities”",
    "source": "The Hindu",
-   "ts": "2026-11-13T19:29:47+00:00",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-engages-realty-developers-to-fast-track-global-capability-centre-corridors/article71698884.ece"
+   "ts": "2026-11-14T01:34:13+00:00",
+   "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/mirwaizdelivers-sermonafter-two-weeks-of-house-arrest-welcomes-kashmir-waza-associations-deadline-for-wedding-dinners/article71698923.ece"
   },
   {
    "category": "AI",
-   "headline": "The Jensen Huang scandal is hardly over",
-   "blurb": "I was certain, until the story of Jensen Huang's second affair hit, that Huang was bulletproof. After all, why wouldn't he be? He's placed himself indispensably at the center of the AI industry and famously had no succession plan at Nvidia. In fact, he's the only CEO Nvidia has ever had. L'état c'est moi. Then […]",
+   "headline": "No, AI agents did not discover a previously unknown Maya site",
+   "blurb": "Armed with a team of AI agents, Google researcher Pietro Miotti claimed earlier this week to have discovered a potentially unmapped Maya site in Mexico. There was just one problem: The site had already been discovered and was published in an academic journal last year. The incident, which sparked criticism among archeologists online, underscores a […]",
    "source": "The Verge",
-   "ts": "2026-11-12T19:16:51+00:00",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling"
+   "ts": "2026-11-12T19:42:40+00:00",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery"
   },
   {
    "category": "Equities",
@@ -420,51 +420,51 @@
   },
   {
    "category": "Crypto",
-   "headline": "Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy",
-   "blurb": "The Nasdaq-listed company has 46,676 ETH backing its borrowings, and the loan could become eligible for liquidation if ether slides to around $1,700.",
+   "headline": "Live updates: Bitcoin eyes bear market lows as late summer rally mostly wiped out",
+   "blurb": "Equity markets are falling as well, with interest rates and the dollar surging amid an increasingly hawkish Federal Reserve.",
    "source": "CoinDesk",
-   "ts": "2026-11-13T07:05:29+00:00",
-   "url": "https://www.coindesk.com/markets/2026/11/13/ethereum-treasury-firm-btcs-sold-ether-at-a-loss-to-keep-usd64-million-aave-loan-healthy"
+   "ts": "2026-11-13T09:16:58+00:00",
+   "url": "https://www.coindesk.com/tech/2026/11/13/live-news-bitcoin-drops-below-200-week-moving-average-as-dollar-strength-pressures-risk-assets"
   },
   {
    "category": "Geopolitics",
-   "headline": "At least 24 killed after bus collides with truck in north-east India",
-   "blurb": "Several of the deceased are college students, according to local official Atul Bora, but they have not yet been publicly identified.",
+   "headline": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+   "blurb": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
    "source": "BBC",
-   "ts": "2026-11-13T15:16:50+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-13T21:14:22+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Cider makers fear future for orchards as costs grow",
-   "blurb": "Producers claimed without more support, they could be forced to stop using British-grown apples.",
+   "headline": "Politicians back focus on cost of living",
+   "blurb": "The Government of Jersey's key priorities are passed despite concerns over a lack of \"real action\".",
    "source": "BBC",
-   "ts": "2026-11-13T06:21:34+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c5zjxjzx2dpwo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-13T06:23:37+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cqj9mjl8jy4no?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Van Hollen calls to abolish Senate filibuster, rules out 2028 White House bid",
-   "blurb": "Sen. Chris Van Hollen (D-Md.), who is challenging Sen. Chuck Schumer (D-N.Y.) to be the next Senate majority leader, said Friday he wants to abolish the filibuster and ruled out a potential presidential run in 2028. Van Hollen, speaking to reporters at the What’s Next conference in Denver, argued that legislation should pass the Senate...",
+   "headline": "Trump administration delays Medicaid work requirement enforcement",
+   "blurb": "The Trump administration is delaying the implementation of controversial Medicaid work requirements, giving states an extra six months to prepare. The work requirements, which Republicans established in the One Big Beautiful Bill Act last year, will still technically go into effect Jan. 1. But states will have an optional “hold harmless” transition period that will...",
    "source": "The Hill",
-   "ts": "2026-11-13T20:36:13+00:00",
-   "url": "https://thehill.com/homenews/senate/6219585-van-hollen-filibuster-2028/"
+   "ts": "2026-11-13T23:19:17+00:00",
+   "url": "https://thehill.com/policy/healthcare/6220069-trump-delays-medicaid-work-requirements/"
   },
   {
    "category": "India Politics",
-   "headline": "To strengthen the Supreme Court, divide it",
-   "blurb": "Adding judges without sorting the work risks enlarging the same overburdened court. The task is not to move the same work faster but to sort it",
+   "headline": "Calcutta High Court halts demolition of ex-TMC strongman Jahangir Khan’s Falta house",
+   "blurb": "",
    "source": "The Hindu",
-   "ts": "2026-11-13T19:24:50+00:00",
-   "url": "https://www.thehindu.com/opinion/lead/to-strengthen-the-supreme-court-divide-it/article71698099.ece"
+   "ts": "2026-11-14T01:33:41+00:00",
+   "url": "https://www.thehindu.com/news/national/west-bengal/calcutta-high-court-halts-demolition-of-ex-tmc-strongman-jahangir-khans-falta-house/article71698974.ece"
   },
   {
    "category": "AI",
-   "headline": "AI chatbots are recommending fake retail websites, study finds",
-   "blurb": "Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found. The study conducted by IP protection firm Podqi and shared exclusively with The Verge prompted ChatGPT, Gemini, and Perplexity with a handful of shopping-related questions involving a selection of […]",
+   "headline": "The Jensen Huang scandal is hardly over",
+   "blurb": "I was certain, until the story of Jensen Huang's second affair hit, that Huang was bulletproof. After all, why wouldn't he be? He's placed himself indispensably at the center of the AI industry and famously had no succession plan at Nvidia. In fact, he's the only CEO Nvidia has ever had. L'état c'est moi. Then […]",
    "source": "The Verge",
-   "ts": "2026-11-12T18:35:54+00:00",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations"
+   "ts": "2026-11-12T19:16:51+00:00",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling"
   }
  ]
 }
