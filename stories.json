@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T01:44:30+00:00",
+ "updated": "2026-11-15T09:10:07+00:00",
  "count": 58,
  "stories": [
   {
@@ -12,11 +12,11 @@
   },
   {
    "category": "Crypto",
-   "headline": "Bitcoin crashes to 3-month low below $64,000 as analyst flags fourth capitulation wave",
-   "blurb": "\"They are now selling at the very price they wish they had taken advantage of three months ago,\" wrote James Check.",
+   "headline": "XRP crashes to its lowest since November 2024 as money leaves crypto",
+   "blurb": "XRP tanked to its lowest level since November 2024 as ETF outflows and shrinking stablecoin supply add to pressure on crypto markets.",
    "source": "CoinDesk",
-   "ts": "2026-11-14T16:33:29+00:00",
-   "url": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst"
+   "ts": "2026-11-15T02:50:57+00:00",
+   "url": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto"
   },
   {
    "category": "Gold",
@@ -28,11 +28,11 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
-   "blurb": "Fear and misinformation surrounds the Ebola outbreak in DR Congo - Dr Kamwanga's mother was not immune.",
+   "headline": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+   "blurb": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
    "source": "BBC",
-   "ts": "2026-11-15T00:06:55+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cmvg2e2q28w1o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-15T08:17:41+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
@@ -44,19 +44,19 @@
   },
   {
    "category": "US Politics",
-   "headline": "Bigger and more-frequent wildfires threaten water supplies across the US",
-   "blurb": "Wildfires leave behind charred trees and scorched vegetation that impact the streams and rivers providing drinking water to much of the country, and new studies show that contamination could remain for more than a decade.",
+   "headline": "SpaceX catches Starship for first time, drawing praise in Washington",
+   "blurb": "SpaceX’s Starship aircraft successfully touched back down at a South Texas launch site Saturday afternoon — marking a historic milestone in the aerospace giant's effort to build reusable rockets. The 170-foot-long spacecraft launched from Starbase, Texas, on Friday for its 15th flight, the Elon Musk-headed company wrote in a Saturday release. Once it got into orbit,...",
    "source": "The Hill",
-   "ts": "2026-11-15T01:13:19+00:00",
-   "url": "https://thehill.com/policy/energy-environment/6220821-wildfire-contamination-drinking-water-rises/"
+   "ts": "2026-11-15T04:14:36+00:00",
+   "url": "https://thehill.com/policy/technology/6221123-spacex-starship-historic-landing-lawmakers-react/"
   },
   {
    "category": "India Politics",
-   "headline": "U.S. must respect India’s right to defend itself, maintain zero tolerance towards terrorism: Blinken",
-   "blurb": "“India is a global force,” Mr. Blinken said, adding that the relationship and shared interests between Washington and New Delhi were “really global in nature”",
+   "headline": "Statewide vaccination drive to protect children aged 10 and 16 against tetanus and diphtheria",
+   "blurb": "Children receive Pentavalent vaccines when very young as part of the immunisation programme, and the TD vaccine is administered to provide additional protection",
    "source": "The Hindu",
-   "ts": "2026-11-15T01:38:27+00:00",
-   "url": "https://www.thehindu.com/news/international/us-must-respect-indias-right-to-defend-itself-maintain-zero-tolerance-towards-terrorism-blinken/article71703984.ece"
+   "ts": "2026-11-15T08:40:31+00:00",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/statewide-vaccination-drive-to-protect-children-aged-10-and-16-against-tetanus-and-diphtheria/article71704354.ece"
   },
   {
    "category": "AI",
@@ -76,11 +76,11 @@
   },
   {
    "category": "Crypto",
-   "headline": "Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business",
-   "blurb": "Decentralized Finance total value locked on MegaETH dropped significantly from over $245 million to $8.8 million.",
+   "headline": "Bitcoin crashes to 3-month low below $63,000 as analyst flags fourth capitulation wave",
+   "blurb": "\"They are now selling at the very price they wish they had taken advantage of three months ago,\" wrote James Check.",
    "source": "CoinDesk",
-   "ts": "2026-11-14T16:33:23+00:00",
-   "url": "https://www.coindesk.com/business/2026/11/14/ethereum-scaling-project-megaeth-slashes-staff-by-20-as-it-pursues-ai-business"
+   "ts": "2026-11-14T16:33:29+00:00",
+   "url": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst"
   },
   {
    "category": "Gold",
@@ -92,11 +92,11 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "Judo champion shakes up French presidential race with surprise candidacy",
-   "blurb": "Teddy Riner is one of the most popular figures in modern-day France, and one in five voters say they could support him.",
+   "headline": "Copper wire upgrade behind US flight suspension, transport secretary says",
+   "blurb": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
    "source": "BBC",
-   "ts": "2026-11-15T00:06:51+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-15T07:10:31+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
@@ -108,19 +108,19 @@
   },
   {
    "category": "US Politics",
-   "headline": "Carney says he's 'making progress' with Trump on possible US-Canada trade deal",
-   "blurb": "Canadian Prime Minister Mark Carney said Saturday trade negotiations between his government and the U.S. were progressing amid a monthslong tariff battle between the two countries. The leader told reporters in Manila he had a conversation with President Trump, U.S. Trade Representative Jamieson Greer, White House chief of staff Stephen Miller and other officials \"just...",
+   "headline": "Federal judge temporarily blocks Trump administration from closing East Potomac Park",
+   "blurb": "A federal judge barred the Trump administration Saturday from closing East Potomac Park this weekend, ruling the closure could not go forward for at least another two weeks. It's a setback for President Trump, who said the park would close on Sunday so construction of an 18-hole, championship-length golf course designed by architect Tom Fazio...",
    "source": "The Hill",
-   "ts": "2026-11-15T00:26:46+00:00",
-   "url": "https://thehill.com/policy/international/6221010-carney-trump-canada-us-trade-progress/"
+   "ts": "2026-11-15T02:02:59+00:00",
+   "url": "https://thehill.com/regulation/court-battles/6221069-judge-blocks-east-potomac-park-closure/"
   },
   {
    "category": "India Politics",
-   "headline": "China border has become 'more alive,' India enhancing frontier infrastructure: Jaishankar",
-   "blurb": "The External Affairs Minister said India's capability to \"deploy\" its troops on that border has seen \"a very marked\" improvement",
+   "headline": "Dhinakaran, Vasan urge Vijay to protect interests of T.N. farmers in Mekedatu issue",
+   "blurb": "In a statement, Mr. Dhinakaran accused Mr. Vijay of failing to discharge his responsibility to protect farmers’ livelihoods for the sake of retaining power, alleging this had emboldened D.K. Shivakumar to persist with the Mekedatu project",
    "source": "The Hindu",
-   "ts": "2026-11-15T01:23:00+00:00",
-   "url": "https://www.thehindu.com/news/national/china-border-has-become-more-alive-india-enhancing-frontier-infrastructure-jaishankar/article71703982.ece"
+   "ts": "2026-11-15T08:07:11+00:00",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/dhinakaran-vasan-urge-vijay-to-protect-interests-of-tn-farmers-in-mekedatu-issue/article71704365.ece"
   },
   {
    "category": "AI",
@@ -140,19 +140,19 @@
   },
   {
    "category": "Crypto",
-   "headline": "Kazakhstan plans tokenized government bonds in first quarter after $22 million note sale",
-   "blurb": "The plan follows Kazakhstan's first sale of tokenized central bank notes as the country expands its crypto market.",
+   "headline": "Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business",
+   "blurb": "Decentralized Finance total value locked on MegaETH dropped significantly from over $245 million to $8.8 million.",
    "source": "CoinDesk",
-   "ts": "2026-11-14T15:38:27+00:00",
-   "url": "https://www.coindesk.com/business/2026/11/14/kazakhstan-plans-tokenized-government-bonds-in-first-quarter-after-usd22-million-note-sale"
+   "ts": "2026-11-14T16:33:23+00:00",
+   "url": "https://www.coindesk.com/business/2026/11/14/ethereum-scaling-project-megaeth-slashes-staff-by-20-as-it-pursues-ai-business"
   },
   {
    "category": "Geopolitics",
-   "headline": "How telecoms upgrade work sparked US flight chaos",
-   "blurb": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
+   "headline": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
+   "blurb": "It is the latest development in a months-long challenge to the US president's plans for East Potomac Golf Links.",
    "source": "BBC",
-   "ts": "2026-11-14T23:11:27+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-15T03:21:04+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
@@ -164,19 +164,19 @@
   },
   {
    "category": "US Politics",
-   "headline": "Sunday shows preview: Democrats gear Trump administration probes amid leadership disputes",
-   "blurb": "Democrats are charting their political future and issuing warnings to exercise their oversight powers against the Trump administration after gaining control of Congress with sweeping midterm election wins. This week, more races were called in Democrats’ favor in Mississippi and Colorado. The Alaska Senate race remains uncalled as of Saturday afternoon, but new ballot counts...",
+   "headline": "Bigger and more-frequent wildfires threaten water supplies across the US",
+   "blurb": "Wildfires leave behind charred trees and scorched vegetation that impact the streams and rivers providing drinking water to much of the country, and new studies show that contamination could remain for more than a decade.",
    "source": "The Hill",
-   "ts": "2026-11-14T23:55:20+00:00",
-   "url": "https://thehill.com/homenews/sunday-talk-shows/6220953-sunday-shows-trump-cabinet-democrats-congress/"
+   "ts": "2026-11-15T01:13:19+00:00",
+   "url": "https://thehill.com/policy/energy-environment/6220821-wildfire-contamination-drinking-water-rises/"
   },
   {
    "category": "India Politics",
-   "headline": "Drought-stricken Beed: Land of parched fields and broken promises",
-   "blurb": "Drought has devastated Maharashtra’s Beed district, pushing women farmers and labourers towards distress migration. Despite repeated pleas for employment, villagers say government job guarantees have failed them, even as the State announces a ₹6,728-crore package",
+   "headline": "German delegation visits Auroville",
+   "blurb": "The Ambassador also expressed his interest in the founders’ spiritual vision and said he planned to return to Auroville in December",
    "source": "The Hindu",
-   "ts": "2026-11-14T22:56:01+00:00",
-   "url": "https://www.thehindu.com/news/national/maharashtra/drought-stricken-beed-land-of-parched-fields-and-broken-promises/article71689837.ece"
+   "ts": "2026-11-15T08:03:35+00:00",
+   "url": "https://www.thehindu.com/news/cities/puducherry/german-delegation-visits-auroville/article71704359.ece"
   },
   {
    "category": "AI",
@@ -196,19 +196,19 @@
   },
   {
    "category": "Crypto",
-   "headline": "UK, Singapore, and Thailand central banks test cross-border FX settlement as stablecoins gain ground",
-   "blurb": "Project Meridian FX APAC said it demonstrated how transactions can be coordinated across conventional settlement systems and those built using blockchain technology.",
+   "headline": "Kazakhstan plans tokenized government bonds in first quarter after $22 million note sale",
+   "blurb": "The plan follows Kazakhstan's first sale of tokenized central bank notes as the country expands its crypto market.",
    "source": "CoinDesk",
-   "ts": "2026-11-14T15:00:00+00:00",
-   "url": "https://www.coindesk.com/policy/2026/11/14/uk-singapore-and-thailand-central-banks-test-cross-border-fx-settlement-as-stablecoins-gain-ground"
+   "ts": "2026-11-14T15:38:27+00:00",
+   "url": "https://www.coindesk.com/business/2026/11/14/kazakhstan-plans-tokenized-government-bonds-in-first-quarter-after-usd22-million-note-sale"
   },
   {
    "category": "Geopolitics",
-   "headline": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-   "blurb": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
+   "headline": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+   "blurb": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the pope served as bishop from 2015 to 2023.",
    "source": "BBC",
-   "ts": "2026-11-14T22:37:25+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-15T02:49:45+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
@@ -220,19 +220,19 @@
   },
   {
    "category": "US Politics",
-   "headline": "Federalist Society's celebrations mix with shock over Democratic sweep",
-   "blurb": "Two years ago, a champagne cork went flying on the Federalist Society convention stage as panelists toasted recent Supreme Court wins. A celebratory mood was still on display at this year’s annual gathering of the conservative legal movement, but those feelings were mixed with shock from Democrats' midterm victories. \"On election night, there was a congressman...",
+   "headline": "Carney says he's 'making progress' with Trump on possible US-Canada trade deal",
+   "blurb": "Canadian Prime Minister Mark Carney said Saturday trade negotiations between his government and the U.S. were progressing amid a monthslong tariff battle between the two countries. The leader told reporters in Manila he had a conversation with President Trump, U.S. Trade Representative Jamieson Greer, White House chief of staff Stephen Miller and other officials \"just...",
    "source": "The Hill",
-   "ts": "2026-11-14T23:25:26+00:00",
-   "url": "https://thehill.com/policy/6220956-federalist-society-convention-midterm-shock/"
+   "ts": "2026-11-15T00:26:46+00:00",
+   "url": "https://thehill.com/policy/international/6221010-carney-trump-canada-us-trade-progress/"
   },
   {
    "category": "India Politics",
-   "headline": "Maritime security in focus at India-Belgium naval talks",
-   "blurb": "The bilateral talk was aimed at strengthening maritime cooperation and further deepening navy-to-navy engagements between the two countries",
+   "headline": "Palaniswami urges Vijay to raise Mekedatu issue with Congress leadership",
+   "blurb": "Mr. Palaniswami criticised Karnataka Chief Minister D.K. Shivakumar for repeatedly asserting that building a dam at Mekedatu was Karnataka’s right and required no one’s permission",
    "source": "The Hindu",
-   "ts": "2026-11-14T22:30:45+00:00",
-   "url": "https://www.thehindu.com/news/national/maritime-security-in-focus-at-india-belgium-naval-talks/article71702848.ece"
+   "ts": "2026-11-15T07:58:34+00:00",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/palaniswami-urges-vijay-to-raise-mekedatu-issue-with-congress-leadership/article71704352.ece"
   },
   {
    "category": "AI",
@@ -252,19 +252,19 @@
   },
   {
    "category": "Crypto",
-   "headline": "Britain could turn wasted Scottish wind power into bitcoin to cut its $1.3 billion grid bill",
-   "blurb": "Britain could use bitcoin mining to absorb surplus Scottish wind power and reduce payments to wind farms to halt generation, according to a Bitcoin Policy Institute report.",
+   "headline": "UK, Singapore, and Thailand central banks test cross-border FX settlement as stablecoins gain ground",
+   "blurb": "Project Meridian FX APAC said it demonstrated how transactions can be coordinated across conventional settlement systems and those built using blockchain technology.",
    "source": "CoinDesk",
-   "ts": "2026-11-14T13:00:00+00:00",
-   "url": "https://www.coindesk.com/policy/2026/11/13/britain-could-turn-wasted-scottish-wind-power-into-bitcoin-to-cut-its-usd1-3-billion-grid-bill"
+   "ts": "2026-11-14T15:00:00+00:00",
+   "url": "https://www.coindesk.com/policy/2026/11/14/uk-singapore-and-thailand-central-banks-test-cross-border-fx-settlement-as-stablecoins-gain-ground"
   },
   {
    "category": "Geopolitics",
-   "headline": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
-   "blurb": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
+   "headline": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
+   "blurb": "Fear and misinformation surrounds the Ebola outbreak in DR Congo - Dr Kamwanga's mother was not immune.",
    "source": "BBC",
-   "ts": "2026-11-14T22:09:40+00:00",
-   "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-15T00:06:55+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cmvg2e2q28w1o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
@@ -276,19 +276,19 @@
   },
   {
    "category": "US Politics",
-   "headline": "Burchett rips Johnson, Thune over FAA funding: 'Step up to the daggum plate'",
-   "blurb": "GOP Rep. Tim Burchett (Tenn.) called on his party's congressional leadership — House Speaker Mike Johnson (La.) and Senate Majority Leader John Thune (S.D.) to \"step up to the daggum plate\" Saturday morning, urging the pair to pass legislation funding air travel infrastructure updates in light of Friday's nationwide ground stop. “We know that it...",
+   "headline": "Sunday shows preview: Democrats gear Trump administration probes amid leadership disputes",
+   "blurb": "Democrats are charting their political future and issuing warnings to exercise their oversight powers against the Trump administration after gaining control of Congress with sweeping midterm election wins. This week, more races were called in Democrats’ favor in Mississippi and Colorado. The Alaska Senate race remains uncalled as of Saturday afternoon, but new ballot counts...",
    "source": "The Hill",
-   "ts": "2026-11-14T23:08:06+00:00",
-   "url": "https://thehill.com/homenews/house/6220943-burchett-urges-gop-aviation-funding/"
+   "ts": "2026-11-14T23:55:20+00:00",
+   "url": "https://thehill.com/homenews/sunday-talk-shows/6220953-sunday-shows-trump-cabinet-democrats-congress/"
   },
   {
    "category": "India Politics",
-   "headline": "In Jharkhand, even jails are not safe: Babulal Marandi",
-   "blurb": "Launching a sharp attack on Sorens’ government, Mr. Marandi said law and order in Jharkhand has collapsed and it raises serious questions on the functioning of the government",
+   "headline": "Political leaders mourn veteran Telugu actor Giribabu",
+   "blurb": "Governor, Chief Minister, Deputy Chief Minister and YSRCP president recall his contribution to Telugu cinema spanning over five decades and more than 600 films",
    "source": "The Hindu",
-   "ts": "2026-11-14T22:10:13+00:00",
-   "url": "https://www.thehindu.com/news/national/jharkhand/in-jharkhand-even-jails-are-not-safe-babulal-marandi/article71703040.ece"
+   "ts": "2026-11-15T07:49:24+00:00",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/political-leaders-mourn-veteran-telugu-actor-giribabu/article71701937.ece"
   },
   {
    "category": "AI",
@@ -308,19 +308,19 @@
   },
   {
    "category": "Crypto",
-   "headline": "A behind the scenes force may amplify bitcoin and ether price volatility",
-   "blurb": "Both bitcoin and ether are trading in price ranges where market makers and dealers may add to market volatility.",
+   "headline": "Britain could turn wasted Scottish wind power into bitcoin to cut its $1.3 billion grid bill",
+   "blurb": "Britain could use bitcoin mining to absorb surplus Scottish wind power and reduce payments to wind farms to halt generation, according to a Bitcoin Policy Institute report.",
    "source": "CoinDesk",
-   "ts": "2026-11-14T12:57:00+00:00",
-   "url": "https://www.coindesk.com/markets/2026/11/14/a-behind-the-scenes-force-may-amplify-bitcoin-and-ether-price-volatility"
+   "ts": "2026-11-14T13:00:00+00:00",
+   "url": "https://www.coindesk.com/policy/2026/11/13/britain-could-turn-wasted-scottish-wind-power-into-bitcoin-to-cut-its-usd1-3-billion-grid-bill"
   },
   {
    "category": "Geopolitics",
-   "headline": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
-   "blurb": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
+   "headline": "Judo champion shakes up French presidential race with surprise candidacy",
+   "blurb": "Teddy Riner is one of the most popular figures in modern-day France, and one in five voters say they could support him.",
    "source": "BBC",
-   "ts": "2026-11-14T20:23:06+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-15T00:06:51+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
@@ -332,19 +332,19 @@
   },
   {
    "category": "US Politics",
-   "headline": "Microsoft services fully restored after global disruptions",
-   "blurb": "Microsoft confirmed its services are fully restored as of Saturday after the tech company faced a massive global outage impacting its platforms earlier in the week. “We have completed our efforts to address the underlying issue of the incident and restored service to the remaining impacted customers and regions,” the company wrote in a post...",
+   "headline": "Federalist Society's celebrations mix with shock over Democratic sweep",
+   "blurb": "Two years ago, a champagne cork went flying on the Federalist Society convention stage as panelists toasted recent Supreme Court wins. A celebratory mood was still on display at this year’s annual gathering of the conservative legal movement, but those feelings were mixed with shock from Democrats' midterm victories. \"On election night, there was a congressman...",
    "source": "The Hill",
-   "ts": "2026-11-14T21:39:16+00:00",
-   "url": "https://thehill.com/policy/technology/6220925-microsoft-services-fully-restored-after-global-disruptions/"
+   "ts": "2026-11-14T23:25:26+00:00",
+   "url": "https://thehill.com/policy/6220956-federalist-society-convention-midterm-shock/"
   },
   {
    "category": "India Politics",
-   "headline": "Villagers in 25 districts cast votes for panchayat elections’ final phase in Rajasthan",
-   "blurb": "The final phase polls across 25 districts for Zila Parishad and Panchayat Samiti faced EVM glitches, boycotts, and a 72% turnout",
+   "headline": "Veteran Telugu actor Giri Babu dies at 80",
+   "blurb": "Through his five-decade-long career, Giri Babu acted in over 600 films He also directed and produced a few films",
    "source": "The Hindu",
-   "ts": "2026-11-14T21:52:18+00:00",
-   "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-panchayat-local-elections-2026-final-phase-voting/article71700929.ece"
+   "ts": "2026-11-15T07:45:19+00:00",
+   "url": "https://www.thehindu.com/news/national/telangana/veteran-telugu-actor-giri-babu-dies-at-80/article71702232.ece"
   },
   {
    "category": "AI",
@@ -364,19 +364,19 @@
   },
   {
    "category": "Crypto",
-   "headline": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
-   "blurb": "The roughly $5 million transfer also spent the tiny payment used to deliver a court notice to the address in May.",
+   "headline": "A behind the scenes force may amplify bitcoin and ether price volatility",
+   "blurb": "Both bitcoin and ether are trading in price ranges where market makers and dealers may add to market volatility.",
    "source": "CoinDesk",
-   "ts": "2026-11-14T04:30:00+00:00",
-   "url": "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011"
+   "ts": "2026-11-14T12:57:00+00:00",
+   "url": "https://www.coindesk.com/markets/2026/11/14/a-behind-the-scenes-force-may-amplify-bitcoin-and-ether-price-volatility"
   },
   {
    "category": "Geopolitics",
-   "headline": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
-   "blurb": "Around 130 people were rescued from a cruise ship after it was struck by a tanker while docked in New Orleans, Louisiana on Friday.",
+   "headline": "How telecoms upgrade work sparked US flight chaos",
+   "blurb": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
    "source": "BBC",
-   "ts": "2026-11-14T19:14:33+00:00",
-   "url": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-14T23:11:27+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
@@ -388,19 +388,19 @@
   },
   {
    "category": "US Politics",
-   "headline": "Italy fines Meta $887M for accessing users' photos without specific consent",
-   "blurb": "Italy announced Saturday it is handing Meta an $887 million fine for using photos and videos from Android users’ Facebook galleries without specific consent. Investigators found Facebook had enabled a “get suggestions from gallery when browsing” feature by default and requested access to users' personal photo library through a single permission notice, according to a...",
+   "headline": "Burchett rips Johnson, Thune over FAA funding: 'Step up to the daggum plate'",
+   "blurb": "GOP Rep. Tim Burchett (Tenn.) called on his party's congressional leadership — House Speaker Mike Johnson (La.) and Senate Majority Leader John Thune (S.D.) to \"step up to the daggum plate\" Saturday morning, urging the pair to pass legislation funding air travel infrastructure updates in light of Friday's nationwide ground stop. “We know that it...",
    "source": "The Hill",
-   "ts": "2026-11-14T20:34:36+00:00",
-   "url": "https://thehill.com/policy/technology/6220878-meta-italian-privacy-fine-consent/"
+   "ts": "2026-11-14T23:08:06+00:00",
+   "url": "https://thehill.com/homenews/house/6220943-burchett-urges-gop-aviation-funding/"
   },
   {
    "category": "India Politics",
-   "headline": "Mumbai police announce traffic diversion ahead of Britain’s Prince William visit",
-   "blurb": "The ceremony is hosted in Mumbai from November 16 to 18 for the sixth annual Earthshot Prize",
+   "headline": "Three arrested in Bhopal for duping Delhi woman of ₹71 lakh in ‘digital arrest’ scam",
+   "blurb": "The accused impersonated an IPS officer and threatened the victim with arrest in a fake ₹6.5-crore money laundering case; IFSO uncovers a network of mule bank accounts used to route the cheated money",
    "source": "The Hindu",
-   "ts": "2026-11-14T21:41:27+00:00",
-   "url": "https://www.thehindu.com/news/national/maharashtra/mumbai-police-announce-traffic-diversion-ahead-ofbritains-prince-william-visit/article71702944.ece"
+   "ts": "2026-11-15T07:42:23+00:00",
+   "url": "https://www.thehindu.com/news/cities/Delhi/three-arrested-in-bhopal-for-duping-delhi-woman-of-71-lakh-in-digital-arrest-scam/article71704339.ece"
   },
   {
    "category": "AI",
@@ -420,19 +420,19 @@
   },
   {
    "category": "Crypto",
-   "headline": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
-   "blurb": "Contracts that sell power to a 4% slice of the world’s bitcoin mining at $44 a megawatt-hour expire on Dec. 31, 2027. Paraguay’s state utility calls the date final, and it has just signed a 15-year deal to power a Founders Fund-backed AI campus.",
+   "headline": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
+   "blurb": "The roughly $5 million transfer also spent the tiny payment used to deliver a court notice to the address in May.",
    "source": "CoinDesk",
-   "ts": "2026-11-13T23:30:00+00:00",
-   "url": "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out"
+   "ts": "2026-11-14T04:30:00+00:00",
+   "url": "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011"
   },
   {
    "category": "Geopolitics",
-   "headline": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
-   "blurb": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+   "headline": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+   "blurb": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
    "source": "BBC",
-   "ts": "2026-11-14T19:12:25+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-14T22:37:25+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
@@ -444,19 +444,19 @@
   },
   {
    "category": "US Politics",
-   "headline": "Blumenthal says Lutnick ‘must go’ following Nvidia scandal",
-   "blurb": "Democratic Sen. Richard Blumenthal (Conn.) called on Howard Lutnick, President Trump’s Commerce secretary, to step down over reports the cabinet member shielded Nvidia from federal oversight — accusations which emerged after the tech giant's CEO resigned this week. Jensen Huang stepped down from Nvidia's chief role Thursday after claims came to light of his reported...",
+   "headline": "Microsoft services fully restored after global disruptions",
+   "blurb": "Microsoft confirmed its services are fully restored as of Saturday after the tech company faced a massive global outage impacting its platforms earlier in the week. “We have completed our efforts to address the underlying issue of the incident and restored service to the remaining impacted customers and regions,” the company wrote in a post...",
    "source": "The Hill",
-   "ts": "2026-11-14T20:33:01+00:00",
-   "url": "https://thehill.com/homenews/senate/6220891-blumenthal-calls-lutnick-resign-nvidia-scandal/"
+   "ts": "2026-11-14T21:39:16+00:00",
+   "url": "https://thehill.com/policy/technology/6220925-microsoft-services-fully-restored-after-global-disruptions/"
   },
   {
    "category": "India Politics",
-   "headline": "4.5 magnitude earthquake tremors felt in Maharashtra’s Jalgaon",
-   "blurb": "District Collector Rohan Ghuge said, “No loss of life or property damage in Jalgaon has been reported. Residents should not panic or fall prey to any rumours”",
+   "headline": "Rainfall expected in Tamil Nadu as depression to turn severe cyclonic storm over Bay of Bengal by November 17",
+   "blurb": "Rains are expected to occur in north coastal districts in Tamil Nadu, Puducherry and Karaikal area, it said. So far, no rainfall alerts have been given for Andhra Pradesh.",
    "source": "The Hindu",
-   "ts": "2026-11-14T21:18:48+00:00",
-   "url": "https://www.thehindu.com/news/national/maharashtra/45-magnitude-earthquake-tremors-felt-in-jalgaon/article71702938.ece"
+   "ts": "2026-11-15T07:41:25+00:00",
+   "url": "https://www.thehindu.com/news/national/depression-to-turn-severe-cyclonic-storm-over-bay-of-bengal-by-november-17/article71704137.ece"
   },
   {
    "category": "AI",
