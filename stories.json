@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T13:05:32+00:00",
+ "updated": "2026-11-17T21:43:09+00:00",
  "count": 58,
  "stories": [
   {
@@ -7,64 +7,128 @@
    "headline": "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
    "blurb": "Kevin Warsh sees AI at a turning point. He faces tough questions on jobs and interest rates.",
    "source": "CNBC",
-   "ts": "2026-11-17T00:42:33+00:00",
+   "ts": "2026-11-17T15:35:13+00:00",
    "url": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html"
   },
   {
    "category": "Crypto",
-   "headline": "Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps",
-   "blurb": "In addition to that broader estimate, independent audits have uncovered hundreds of separate compatibility problems, with core developers set to reconsider the changes Thursday.",
+   "headline": "Nvidia tops estimates, issues strong guidance; shares rise",
+   "blurb": "The results come days following the resignation of CEO Jensen Huang.",
    "source": "CoinDesk",
-   "ts": "2026-11-17T13:02:56+00:00",
-   "url": "https://www.coindesk.com/tech/2026/11/17/ethereum-s-glamsterdam-upgrade-risks-breaking-up-to-15-000-contracts"
+   "ts": "2026-11-17T21:25:50+00:00",
+   "url": "https://www.coindesk.com/markets/2026/11/17/nvidia-tops-estimates-issues-strong-guidance-adds-usd150-billion-to-buyback-authorization"
   },
   {
    "category": "Gold",
-   "headline": "US Oil Breaks Below Bear Flag as $80 Comes Into Focus",
+   "headline": "Silver Hits Fibonacci Target, but Resistance Keeps the Bearish Case Alive",
    "blurb": "",
    "source": "Investing.com",
-   "ts": "2026-11-17T11:03:00+00:00",
-   "url": "https://www.investing.com/analysis/us-oil-breaks-below-bear-flag-as-80-comes-into-focus-200691734"
+   "ts": "2026-11-17T21:11:00+00:00",
+   "url": "https://www.investing.com/analysis/silver-hits-fibonacci-target-but-resistance-keeps-the-bearish-case-alive-200691776"
   },
   {
    "category": "Geopolitics",
-   "headline": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
-   "blurb": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
+   "headline": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+   "blurb": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
    "source": "BBC",
-   "ts": "2026-11-17T13:02:17+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-17T21:24:35+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
    "headline": "Speed camera fault may have allowed drivers to escape fines",
    "blurb": "The Home Office has revoked approval that allowed footage from speed cameras to be used in evidence.",
    "source": "BBC",
-   "ts": "2026-11-17T13:03:30+00:00",
+   "ts": "2026-11-17T20:04:54+00:00",
    "url": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Friday's ground stop should be a wakeup call for Congress",
-   "blurb": "On Friday, America's aviation system came to a near standstill. A communications failure affecting air traffic control facilities triggered a nationwide FAA ground stop, halting departures across the country for more than four hours. Thousands of flights were canceled, thousands more delayed. Travelers, businesses and supply chains felt the impact. Transportation Secretary Sean Duffy pointed...",
+   "headline": "Watch live: Ocasio-Cortez, Paris Hilton push for action on AI deepfakes",
+   "blurb": "Rep. Alexandria Ocasio-Cortez (D-N.Y.) and media personality Paris Hilton are set to hold a press conference on Tuesday alongside lawmakers from both parties to push for legislation targeting sexually explicit deepfakes created using artificial intelligence. The DEFIANCE Act would allow victims of nonconsensual, sexually explicit deepfakes to sue those responsible for creating or distributing the...",
    "source": "The Hill",
-   "ts": "2026-11-17T12:30:00+00:00",
-   "url": "https://thehill.com/opinion/congress-blog/6223592-faa-ground-stop-modernization/"
+   "ts": "2026-11-17T21:20:00+00:00",
+   "url": "https://thehill.com/policy/technology/6226070-watch-live-alexandria-ocasio-cortez-paris-hilton-ai-deepfakes/"
   },
   {
    "category": "India Politics",
-   "headline": "Development will ensure NDA sweep in Rajam, says TDP MLA",
-   "blurb": "TDP MLA cites over ₹400 crore in development funding; JSP chairperson candidate B. Saujanya Lata promises priority to drinking water, solar street lighting and sanitation",
+   "headline": "Kedarnath generates 73 tonnes of waste during 2026 Char Dham Yatra",
+   "blurb": "Around 65.65 lakh pilgrims visit four Char Dham shrines and Hemkund Sahib in 2026 as Badrinath portals close for winter",
    "source": "The Hindu",
-   "ts": "2026-11-17T12:59:29+00:00",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/development-will-ensure-nda-sweep-in-rajam-says-tdp-mla/article71711672.ece"
+   "ts": "2026-11-17T21:30:56+00:00",
+   "url": "https://www.thehindu.com/news/national/uttarakhand/kedarnath-generates-73-tonnes-of-waste-during-2026-char-dham-yatra/article71712125.ece"
   },
   {
    "category": "AI",
-   "headline": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
-   "blurb": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreading throughout Silicon Valley: that the scandal is the result of a plot against the former CEO. At the […]",
+   "headline": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
+   "blurb": "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang - though that will likely change once analysts are on the line for its earnings call later. The company reported revenues of $115.8 billion, up 103 percent year-over-year, including data center revenues of $107.6 billion, which […]",
    "source": "The Verge",
-   "ts": "2026-11-16T23:20:44+00:00",
-   "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories"
+   "ts": "2026-11-17T21:40:59+00:00",
+   "url": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang"
+  },
+  {
+   "category": "Equities",
+   "headline": "St. Louis Fed's Musalem says four more rate hikes may be needed in coming months",
+   "blurb": "The forecast represents one of the most hawkish views among policymakers.",
+   "source": "CNBC",
+   "ts": "2026-11-17T13:40:54+00:00",
+   "url": "https://www.cnbc.com/2026/11/17/alberto-musalem-fed-interest-rates.html"
+  },
+  {
+   "category": "Crypto",
+   "headline": "Coinbase CEO says AI agents will account for '99.9%' of transactions within a decade",
+   "blurb": "Brian Armstrong says Coinbase is building payment tools for AI agents and believes bitcoin has hit bottom despite the selloff.",
+   "source": "CoinDesk",
+   "ts": "2026-11-17T19:45:57+00:00",
+   "url": "https://www.coindesk.com/markets/2026/11/17/coinbase-ceo-says-ai-agents-will-account-for-99-9-of-transactions-within-a-decade"
+  },
+  {
+   "category": "Gold",
+   "headline": "Silver Is Paying for a Rate Rise That Has Not Happened Yet",
+   "blurb": "",
+   "source": "Investing.com",
+   "ts": "2026-11-17T20:35:00+00:00",
+   "url": "https://www.investing.com/analysis/silver-is-paying-for-a-rate-rise-that-has-not-happened-yet-200691773"
+  },
+  {
+   "category": "Geopolitics",
+   "headline": "Russian military plane crashes killing all 19 on board",
+   "blurb": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
+   "source": "BBC",
+   "ts": "2026-11-17T21:06:11+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "category": "Macro",
+   "headline": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
+   "blurb": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
+   "source": "BBC",
+   "ts": "2026-11-17T18:24:21+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "category": "US Politics",
+   "headline": "Why an Alaska win by Peltola is so important to Democrats",
+   "blurb": "Senate Democrats are seeking to complete what has been a historic midterm election campaign with one final win in Alaska, where Democrat Mary Peltola is on track to oust Sen. Dan Sullivan (R) as ballots trickle in. A Democratic victory in Alaska would represent the party's ninth midterm Senate flip and make for a 56-seat majority in...",
+   "source": "The Hill",
+   "ts": "2026-11-17T20:52:22+00:00",
+   "url": "https://thehill.com/homenews/campaign/6226081-alaska-senate-peltola-democrats-majority/"
+  },
+  {
+   "category": "India Politics",
+   "headline": "Won’t allow hiring of outsiders, hire locals: J&K CM Omar Abdullah to outside companies",
+   "blurb": "He made the statement during the inauguration of development projects worth ₹30 crores in Jammu, Samba and Kathua districts",
+   "source": "The Hindu",
+   "ts": "2026-11-17T20:47:09+00:00",
+   "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/wont-allow-hiring-of-outsiders-hire-locals-jk-cm-omar-abdullah-to-outside-companies/article71713475.ece"
+  },
+  {
+   "category": "AI",
+   "headline": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+   "blurb": "Instagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent executives. Earlier in November, Alexandr Wang, Meta's chief AI officer, shared a short clip to promote Muse, the company's consumer AI agent. In the AI-generated clip, Wang, Meta CEO Mark Zuckerberg, OpenAI CEO Sam Altman, and […]",
+   "source": "The Verge",
+   "ts": "2026-11-17T21:00:55+00:00",
+   "url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake"
   },
   {
    "category": "Equities",
@@ -76,59 +140,51 @@
   },
   {
    "category": "Crypto",
-   "headline": "Decentralized exchange Grvt looks to makes commodity trading more predictable with stable funding perps",
-   "blurb": "Grvt’s new Stable Funding Perps tie the cost of holding commodities trades to traditional-market financing costs, rather than volatile crypto-style funding.",
+   "headline": "Predictions platform Kalshi complies with order to halt Trump mention contracts",
+   "blurb": "The company confirmed that the Commodity Futures Trading Commission ordered it to stop \"mention\" contracts involving the U.S. president.",
    "source": "CoinDesk",
-   "ts": "2026-11-17T13:00:00+00:00",
-   "url": "https://www.coindesk.com/markets/2026/11/17/decentralized-exchange-grvt-makes-commodity-trading-more-predictable-with-stable-funding-perps"
-  },
-  {
-   "category": "Gold",
-   "headline": "Gold Stays Fragile Below 4,000 as US Dollar Strength and Rate-Hike Bets Weigh",
-   "blurb": "",
-   "source": "Investing.com",
-   "ts": "2026-11-17T09:25:00+00:00",
-   "url": "https://www.investing.com/analysis/gold-stays-fragile-below-4000-as-us-dollar-strength-and-ratehike-bets-weigh-200691726"
+   "ts": "2026-11-17T19:16:00+00:00",
+   "url": "https://www.coindesk.com/policy/2026/11/17/predictions-platform-kalshi-complies-with-order-to-halt-trump-mention-contracts"
   },
   {
    "category": "Geopolitics",
-   "headline": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-   "blurb": "Ukraine says the attack took weeks to plan, while the Kremlin vows to rebuild the strategic bridge.",
+   "headline": "US loses measles elimination status after 26 years amid record case numbers",
+   "blurb": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
    "source": "BBC",
-   "ts": "2026-11-17T13:01:11+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-17T21:04:00+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Government must act now or lose Royal Mail, former minister warns",
-   "blurb": "The former business secretary says \"undercutting\" by rivals will make Royal Mail \"unviable\".",
+   "headline": "We can't afford to hire under-25s, say firms. Will Milburn plans help?",
+   "blurb": "The proposal to cut employers' National Insurance costs is \"essential\" to tackling the Neet problem, one business group says.",
    "source": "BBC",
-   "ts": "2026-11-17T12:43:07+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cjvg26p3z2gdo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-17T15:56:04+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c6d01e8m15mko?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "What to watch on Trump's trip to Asia",
-   "blurb": "In today's issue: ▪ Trump lands in Asia ▪ Senate majority leader race whip count ▪ GOP split on key immigration issue: poll ▪ U.S. to lose measles elimination status President Trump is embarking on a trip to Asia this week for two major conferences with various regional leaders as he juggles technological and national...",
+   "headline": "FBI says Chase outage tracks back to software release, not malicious activity",
+   "blurb": "The FBI said on Monday that the Chase outage was connected to a software release, not malicious activity. The agency told The Hill’s sister network NewsNation that it didn’t see any signs pointing toward malicious or external activity in the outage, finding that it was linked to a software release. In a Monday post to...",
    "source": "The Hill",
-   "ts": "2026-11-17T12:30:00+00:00",
-   "url": "https://thehill.com/newsletters/morning-report/6224302-donald-trump-philippines-china-trip-what-to-know/"
+   "ts": "2026-11-17T20:38:16+00:00",
+   "url": "https://thehill.com/business/6226179-chase-outage-software-bug/"
   },
   {
    "category": "India Politics",
-   "headline": "Calicut varsity in Keralam to tighten its grip on autonomous colleges",
-   "blurb": "The university’s Syndicate recently decided to form district-level inspection commissions for detailed assessments of all unauthorised courses in self-financing and autonomous colleges",
+   "headline": "Ruckus erupts between SFI activists and police over setting up bookstalls near Calcutta University",
+   "blurb": "The SFI leaders said they sought permission from the Kolkata Police to set up a bookstall on the College Street footpath, but police refused on November 16 evening, saying it could disrupt traffic",
    "source": "The Hindu",
-   "ts": "2026-11-17T12:57:44+00:00",
-   "url": "https://www.thehindu.com/news/national/kerala/calicut-varsity-in-keralam-to-tighten-its-grip-on-autonomous-colleges/article71710712.ece"
+   "ts": "2026-11-17T20:22:19+00:00",
+   "url": "https://www.thehindu.com/news/national/west-bengal/ruckus-erupts-between-sfi-activists-and-police-over-setting-up-bookstalls-near-calcutta-university/article71713007.ece"
   },
   {
    "category": "AI",
-   "headline": "California sues OpenAI over rogue AI hacking incidents",
-   "blurb": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper oversight,\" as reported earlier by Reuters. The lawsuit claims the […]",
+   "headline": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+   "blurb": "Google is rebranding its Spark AI agent as \"Tasks\" and making it free to use. The feature, which is powered by Google's new Gemini 4 Hydrogen AI model, can do things like create meal plans, manage your calendar, and dig through your emails to find recurring expenses you might not need. Users in the US […]",
    "source": "The Verge",
-   "ts": "2026-11-16T23:04:02+00:00",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit"
+   "ts": "2026-11-17T18:58:54+00:00",
+   "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free"
   },
   {
    "category": "Equities",
@@ -140,51 +196,51 @@
   },
   {
    "category": "Crypto",
-   "headline": "Crypto's 'casino-chips' are disappearing, adding to pain from spot ETF outflows",
-   "blurb": "Your day-ahead look for Nov. 17, 2026",
+   "headline": "Druckenmiller says he is short copper, warns of economic weakness in 2027",
+   "blurb": "The billionaire investor is prioritizing capital preservation and shifting his AI focus from infrastructure to applications.",
    "source": "CoinDesk",
-   "ts": "2026-11-17T12:16:53+00:00",
-   "url": "https://www.coindesk.com/daybook-us/2026/11/17/crypto-s-casino-chips-are-disappearing-adding-to-pain-from-spot-etf-outflows"
+   "ts": "2026-11-17T17:42:40+00:00",
+   "url": "https://www.coindesk.com/business/2026/11/17/druckenmiller-says-he-is-short-copper-warns-of-economic-weakness-in-2027"
   },
   {
    "category": "Geopolitics",
-   "headline": "Mozambique opposition leader faces trial over deadly 2024 election unrest",
-   "blurb": "Venâncio Mondlane faces several charges over 2024 post-election protests that left hundreds of people dead.",
+   "headline": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
+   "blurb": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
    "source": "BBC",
-   "ts": "2026-11-17T12:35:57+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/crq5vl1l6z2po?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-17T20:44:54+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Where are the most jobs for 18-24 year-olds?",
-   "blurb": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
+   "headline": "US bank services returning to normal after major outage",
+   "blurb": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\".",
    "source": "BBC",
-   "ts": "2026-11-17T12:35:53+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-17T15:04:24+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Live updates: Trump kicks off Asia trip ahead of Xi-Putin talks; Nvidia scrutiny mounts",
-   "blurb": "President Trump is kicking off his trip to Asia with a few bumps along the way — and a high-stakes diplomatic agenda ahead. Extreme weather in Anchorage, Alaska, forced Air Force One to reroute to Fairbanks on Monday for refueling before continuing to the Philippines. Trump is expected to meet with Chinese President Xi Jinping...",
+   "headline": "Judge agrees 'vast majority' of Omar investigation should remain sealed",
+   "blurb": "A federal judge sided with the Justice Department (DOJ) Tuesday in its push to seal the “vast majority” of the search warrant affidavit connected to the criminal investigation of Rep. Ilhan Omar (D-Minn.). Chief U.S. District Judge James Boasberg said releasing the full affidavit would be “premature” as federal investigators continue reviewing materials seized during...",
    "source": "The Hill",
-   "ts": "2026-11-17T12:30:00+00:00",
-   "url": "https://thehill.com/homenews/administration/6224028-live-updates-donald-trump-asia-trip-xi-putin-talks-nvidia-senate-house/"
+   "ts": "2026-11-17T20:37:19+00:00",
+   "url": "https://thehill.com/regulation/court-battles/6226144-judge-seals-omar-search-warrant-doj/"
   },
   {
    "category": "India Politics",
-   "headline": "Telangana’s debt servicing accounted to 26.8% of 2024-25 total receipts, says CESS study",
-   "blurb": "No information on maturity dates and interest pertaining to OBBs, says the report",
+   "headline": "Elanthoor human sacrifice case: witness examination nearing final stage",
+   "blurb": "",
    "source": "The Hindu",
-   "ts": "2026-11-17T12:55:30+00:00",
-   "url": "https://www.thehindu.com/news/national/telangana/telanganas-debt-servicing-accounted-to-268-of-2024-25-total-receipts-says-cess-study/article71711006.ece"
+   "ts": "2026-11-17T20:12:44+00:00",
+   "url": "https://www.thehindu.com/news/national/kerala/elanthoor-human-sacrifice-case-witness-examination-nearing-final-stage/article71712944.ece"
   },
   {
    "category": "AI",
-   "headline": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
-   "blurb": "OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer,\" Altman said today. \"I think the home tinkering is great.\" […]",
+   "headline": "Jensen Huang says he’s willing to return as Nvidia CEO",
+   "blurb": "Jensen Huang, who resigned as Nvidia's CEO last week, would be willing to return as CEO if the company's board of directors wanted it, he said in a statement reported on by The Wall Street Journal. \"Since my departure, I've seen an outpouring of calls from Nvidia's employees, investors, business partners, and customers for me […]",
    "source": "The Verge",
-   "ts": "2026-11-16T22:47:14+00:00",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor"
+   "ts": "2026-11-17T17:04:40+00:00",
+   "url": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement"
   },
   {
    "category": "Equities",
@@ -196,51 +252,51 @@
   },
   {
    "category": "Crypto",
-   "headline": "Ex-OpenAI researcher fund dumps bitcoin miners, cuts IREN 94% after portfolio slump",
-   "blurb": "The fund swapped its common stock in Bloom Energy, Nebius and SanDisk for call options, keeping its bet on AI power, computing and memory.",
+   "headline": "U.S. Fed Governor Waller pitches keeping central bank at the center of tokenization",
+   "blurb": "Waller suggested the Federal Reserve could provide trusted rails for emerging innovation tied to tokenized assets and agentic AI.",
    "source": "CoinDesk",
-   "ts": "2026-11-17T12:00:55+00:00",
-   "url": "https://www.coindesk.com/business/2026/11/17/ex-openai-researcher-fund-dumps-bitcoin-miners-cuts-iren-94-after-portfolio-slump"
+   "ts": "2026-11-17T17:00:05+00:00",
+   "url": "https://www.coindesk.com/policy/2026/11/17/u-s-fed-governor-waller-pitches-keeping-central-bank-at-the-center-of-tokenization"
   },
   {
    "category": "Geopolitics",
-   "headline": "Gunmen kill Costa Rican journalist who reported on drugs trade",
-   "blurb": "Rodríguez had denounced alleged links between criminal organisations and powerful figures in Costa Rica.",
+   "headline": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
+   "blurb": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
    "source": "BBC",
-   "ts": "2026-11-17T11:58:16+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c6ly7g5lx7gyo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-17T20:30:20+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "US government confirms investigation into tech firm Megaspeed",
-   "blurb": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
+   "headline": "How new US chip restrictions on South East Asia will hit China",
+   "blurb": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
    "source": "BBC",
-   "ts": "2026-11-17T11:17:32+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-17T14:25:45+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Trump on dirty bomb report: 'We take it very seriously'",
-   "blurb": "President Trump said Tuesday that he takes the threat of the dirty bomb from Iran “very seriously” because “they happen to be crazy.” Trump, speaking to reporters in Manila, Philippines, said the administration was looking into Iran’s reported plans to drop a dirty bomb on Washington. “Well if there is there is they will pay...",
+   "headline": "Skepticism grows within GOP over tech failures: 'Americans aren't stupid'",
+   "blurb": "Republican lawmakers and other prominent conservatives have grown skeptical over a wave of recent technology outages and failures in recent days, as some Americans stockpile canned foods and bottled water amid several high-profile outages. \"Americans aren't stupid. We want and deserve to know what's really going on,\" Tricia McLaughlin, former deputy assistant secretary for the...",
    "source": "The Hill",
-   "ts": "2026-11-17T12:19:18+00:00",
-   "url": "https://thehill.com/policy/defense/6224265-donald-trump-iran-dirty-bomb-threat/"
+   "ts": "2026-11-17T20:27:22+00:00",
+   "url": "https://thehill.com/policy/technology/6225734-lawmakers-skepticism-tech-outages/"
   },
   {
    "category": "India Politics",
-   "headline": "Andhra Pradesh ranks fourth in installation of rooftop solar systems nationally",
-   "blurb": "The State accounts for nearly 13% of the 56.97 lakh households covered across the country, behind Uttar Pradesh, Gujarat and Maharashtra",
+   "headline": "Convocation ceremony row: Maharaja’s College council asks suspended students to accept their mistake",
+   "blurb": "The incident caused disrepute to the image of the institution in the public domain, finds inquiry report",
    "source": "The Hindu",
-   "ts": "2026-11-17T12:53:39+00:00",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-ranks-fourth-in-installation-of-rooftop-solar-systems-nationally/article71711726.ece"
+   "ts": "2026-11-17T20:12:21+00:00",
+   "url": "https://www.thehindu.com/news/national/kerala/convocation-ceremony-row-maharajas-college-council-asks-suspended-students-to-accept-their-mistake/article71713079.ece"
   },
   {
    "category": "AI",
-   "headline": "Big Nuclear isn’t worried about the Democrats stopping data centers",
-   "blurb": "Constellation Energy - America's largest operator of nuclear power plants - does not share Wall Street's concerns that the Democrats will slow down data center development. On the company's third-quarter earnings call last week, CEO Joe Dominguez was, for lack of a better word, unbothered as he addressed the blue wave. \"I do think we've […]",
+   "headline": "The DOJ says it’s investigating Megaspeed",
+   "blurb": "The Justice and Commerce Departments said that they are investigating Megaspeed, the Singapore-based data center company intertwined with the resignation of Nvidia CEO Jensen Huang, after reporting suggested an investigation had been halted last year. \"While we don't typically comment on ongoing investigations, it is in the public interest to provide the facts and address […]",
    "source": "The Verge",
-   "ts": "2026-11-16T20:32:51+00:00",
-   "url": "https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats"
+   "ts": "2026-11-17T16:19:03+00:00",
+   "url": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update"
   },
   {
    "category": "Equities",
@@ -252,51 +308,51 @@
   },
   {
    "category": "Crypto",
-   "headline": "Bitcoin remains penned in near $64,000 even as ETF outflow streak ends",
-   "blurb": "Bitcoin (BTC) is down a further 1.0% since midnight UTC at around $64,200, with its bounce from the weekend selloff stalled and pressure building on all fronts.",
+   "headline": "Hong Kong, Swift test tokenized deposits as banks chase stablecoin-style speed",
+   "blurb": "Hong Kong and Swift expanded their efforts to connect tokenized bank deposits across currencies, building on earlier work involving digital central bank money.",
    "source": "CoinDesk",
-   "ts": "2026-11-17T11:36:07+00:00",
-   "url": "https://www.coindesk.com/markets/2026/11/17/bitcoin-remains-penned-in-near-usd64-000-even-as-etf-outflow-streak-ends"
+   "ts": "2026-11-17T15:11:00+00:00",
+   "url": "https://www.coindesk.com/business/2026/11/17/hong-kong-swift-test-tokenized-deposits-as-banks-chase-stablecoin-style-speed"
   },
   {
    "category": "Geopolitics",
-   "headline": "Pretending to be in New Zealand, booking leave and buying consoles - the lengths fans are going to for GTA 6",
-   "blurb": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox",
+   "headline": "Trump in Asia ahead of talks with Russian and Chinese presidents",
+   "blurb": "The US president said he would be open to a one-on-one meeting with Russia's Vladimir Putin \"if it's available\".",
    "source": "BBC",
-   "ts": "2026-11-17T11:49:01+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-17T20:25:46+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Immigration arrests after organised crime blitz",
-   "blurb": "Eighteen people were arrested for a range of suspected crimes including modern slavery, police say.",
+   "headline": "Government must act now or lose Royal Mail, former minister warns",
+   "blurb": "The former business secretary says \"undercutting\" by rivals will make Royal Mail \"unviable\".",
    "source": "BBC",
-   "ts": "2026-11-17T10:49:58+00:00",
-   "url": "https://www.bbc.co.uk/news/videos/cm3eg3q758gjo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-17T12:43:07+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cjvg26p3z2gdo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "How red Idaho held the line in a blue wave",
-   "blurb": "States that vote overwhelmingly Republican today can look very different a generation from now if the party becomes complacent and neglects its grassroots voters.",
+   "headline": "Schumer declares he has votes to beat Van Hollen and become majority leader",
+   "blurb": "Sen. Chuck Schumer (D-N.Y.) announced Tuesday that he has locked down the votes to be elected majority leader and urged Senate Democrats to “roll up our sleeves” and “focus on lowering costs” and “ending corruption.” Schumer, speaking to reporters after a Democratic caucus lunch, declared that his race against Sen. Chris Van Hollen (D-Md.) to...",
    "source": "The Hill",
-   "ts": "2026-11-17T12:00:00+00:00",
-   "url": "https://thehill.com/opinion/campaign/6224078-idaho-republicans-withstand-blue-wave/"
+   "ts": "2026-11-17T20:23:05+00:00",
+   "url": "https://thehill.com/homenews/senate/6226192-schumer-vs-van-hollen-leadership-race/"
   },
   {
    "category": "India Politics",
-   "headline": "ASEAN Summit LIVE updates: Quad is a ‘trusted partnership’ delivering solutions, says PM Modi",
-   "blurb": "In the first Quad Summit since 2024, PM Modi is expected to meet U.S. President Trump, Japanese PM Takaichi and Australian PM Albanese",
+   "headline": "Kochi woman loses ₹90,000 in credit card activation scam",
+   "blurb": "The complainant, a resident of Mulavukad, was allegedly cheated by an unidentified person who contacted her over the phone, promising to activate a credit card issued by a private sector bank",
    "source": "The Hindu",
-   "ts": "2026-11-17T12:52:52+00:00",
-   "url": "https://www.thehindu.com/news/international/asean-india-summit-manila-november-2026-quad-live-updates-pm-modi-trump-meeting-latest-news/article71710382.ece"
+   "ts": "2026-11-17T20:04:19+00:00",
+   "url": "https://www.thehindu.com/news/national/kerala/kochi-woman-loses-90000-in-credit-card-activation-scam/article71711687.ece"
   },
   {
    "category": "AI",
-   "headline": "US data centers now burn more electricity than a midsized country",
-   "blurb": "Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows. They likely burn through more electricity collectively than many countries do, resulting in a serious amount of greenhouse gas emissions. The study homes in on hyperscale facilities - the […]",
+   "headline": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
+   "blurb": "OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer,\" Altman said today. \"I think the home tinkering is great.\" […]",
    "source": "The Verge",
-   "ts": "2026-11-16T20:27:58+00:00",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard"
+   "ts": "2026-11-17T14:45:26+00:00",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor"
   },
   {
    "category": "Equities",
@@ -308,51 +364,51 @@
   },
   {
    "category": "Crypto",
-   "headline": "Solana Foundation takes majority stake in crypto data provider CoinGecko",
-   "blurb": "The foundation plans Solana-powered trading on CoinGecko's website, GeckoTerminal and app.",
+   "headline": "Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps",
+   "blurb": "In addition to that broader estimate, independent audits have uncovered hundreds of separate compatibility problems, with core developers set to reconsider the changes Thursday.",
    "source": "CoinDesk",
-   "ts": "2026-11-17T11:29:51+00:00",
-   "url": "https://www.coindesk.com/business/2026/11/17/solana-foundation-takes-majority-stake-in-crypto-data-provider-coingecko"
+   "ts": "2026-11-17T13:02:56+00:00",
+   "url": "https://www.coindesk.com/tech/2026/11/17/ethereum-s-glamsterdam-upgrade-risks-breaking-up-to-15-000-contracts"
   },
   {
    "category": "Geopolitics",
-   "headline": "Nvidia partner Megaspeed being investigated by US government over chip exports",
-   "blurb": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
+   "headline": "Carney looks to China as Trump tariffs squeeze Canada's car industry",
+   "blurb": "The PM has suggested Chinese automakers could replace American ones in Canada - but some say that would not be easy.",
    "source": "BBC",
-   "ts": "2026-11-17T11:17:32+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-17T18:58:57+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
-   "blurb": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
+   "headline": "Where are the most jobs for 18-24 year-olds?",
+   "blurb": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
    "source": "BBC",
-   "ts": "2026-11-17T02:37:53+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-17T12:35:53+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Nationwide Emergency Alert System to be tested Tuesday: What to know",
-   "blurb": "A nationwide test of the Emergency Alert System will be conducted on Tuesday, according to federal officials.",
+   "headline": "CNBC host presses Mullin on flight to football game amid FAA outage fallout",
+   "blurb": "Homeland Security Secretary Markwayne Mullin defended his trip to a college football game using a government plane over the weekend, as U.S. air traffic was still recovering from an hours-long nationwide ground stop on Friday. “Well, I'm required to be in communication 24/7, seven days a week, 365 days a year. This isn't a business...",
    "source": "The Hill",
-   "ts": "2026-11-17T11:28:38+00:00",
-   "url": "https://thehill.com/homenews/6223945-nationwide-emergency-alert-test/"
+   "ts": "2026-11-17T20:16:08+00:00",
+   "url": "https://thehill.com/homenews/administration/6226126-homeland-security-secretary-lsu-game/"
   },
   {
    "category": "India Politics",
-   "headline": "Dhoni ends IPL playing career as CSK appoints him team mentor",
-   "blurb": "The announcement comes ahead of the IPL 2027 retention deadline",
+   "headline": "Kerala High Court allows Cusat employees to seek review of suspension",
+   "blurb": "The court directed the Syndicate to examine whether the continued suspension was justified",
    "source": "The Hindu",
-   "ts": "2026-11-17T12:48:00+00:00",
-   "url": "https://www.thehindu.com/sport/cricket/chennai-super-kings-ms-dhoni-team-mentor-retire-nov-17-2026/article71711142.ece"
+   "ts": "2026-11-17T20:01:05+00:00",
+   "url": "https://www.thehindu.com/news/cities/Kochi/kerala-high-court-allows-cusat-employees-to-seek-review-of-suspension/article71712795.ece"
   },
   {
    "category": "AI",
-   "headline": "Apple is testing daily usage limits for more complex Siri AI interactions",
-   "blurb": "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, according to MacRumors. Basic Siri commands and requests will remain free and unlimited, but more advanced features that rely on […]",
+   "headline": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+   "blurb": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreading throughout Silicon Valley: that the scandal is the result of a plot against the former CEO. At the […]",
    "source": "The Verge",
-   "ts": "2026-11-16T19:25:42+00:00",
-   "url": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription"
+   "ts": "2026-11-16T23:20:44+00:00",
+   "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories"
   },
   {
    "category": "Equities",
@@ -364,107 +420,51 @@
   },
   {
    "category": "Crypto",
-   "headline": "New DeFi-yield generation targets ‘scam-like’ bank accounts that keep all the interest",
-   "blurb": "Crypto native firms like Animoca Brands are betting AI-based agentic commerce to style every area of finance with the so-called “DeFi mullet”",
+   "headline": "Decentralized exchange Grvt looks to makes commodity trading more predictable with stable funding perps",
+   "blurb": "Grvt’s new Stable Funding Perps tie the cost of holding commodities trades to traditional-market financing costs, rather than volatile crypto-style funding.",
    "source": "CoinDesk",
-   "ts": "2026-11-17T11:25:58+00:00",
-   "url": "https://www.coindesk.com/business/2026/11/16/new-defi-yield-generation-targets-scam-like-bank-accounts-that-keep-all-the-interest"
+   "ts": "2026-11-17T13:00:00+00:00",
+   "url": "https://www.coindesk.com/markets/2026/11/17/decentralized-exchange-grvt-makes-commodity-trading-more-predictable-with-stable-funding-perps"
   },
   {
    "category": "Geopolitics",
-   "headline": "How new US chip restrictions on South East Asia will hit China",
-   "blurb": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
+   "headline": "UK sanctions firms over Israeli West Bank settlements",
+   "blurb": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory.",
    "source": "BBC",
-   "ts": "2026-11-17T10:22:09+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-17T18:27:27+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Customers report service outages at major US banks",
-   "blurb": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\".",
+   "headline": "US government confirms investigation into tech firm Megaspeed",
+   "blurb": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
    "source": "BBC",
-   "ts": "2026-11-17T00:18:01+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-17T11:17:32+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "For Jeffries, the glide path to Speaker has some bumps",
-   "blurb": "With a huge Democratic majority lining up behind him, House Minority Leader Hakeem Jeffries (D-N.Y.) is a shoo-in to win the Speakership in the next Congress. But getting there won’t be a cakewalk, either. Outside liberal groups, wary that Jeffries is too moderate, have scrambled to block his promotion with a desperate search for an...",
+   "headline": "What to know about Iran's 'dirty bomb' threat",
+   "blurb": "A reported Iranian plot to carry out an alleged “dirty bomb” attack in Washington, D.C., is raising questions over potential targets, the danger of such a weapon and whether Iran even has the capability or intent to carry out that type of attack. CNN reported Monday that U.S. intelligence indicates Tehran is developing plans to...",
    "source": "The Hill",
-   "ts": "2026-11-17T11:00:00+00:00",
-   "url": "https://thehill.com/the-120/6223661-jeffries-speakership-challenges-democrats-disputes/"
+   "ts": "2026-11-17T20:15:58+00:00",
+   "url": "https://thehill.com/policy/national-security/6226127-iranian-dirty-bomb-threat-warning/"
   },
   {
    "category": "India Politics",
-   "headline": "Rajeev Taranath Memorial event in Mysuru on November 21",
-   "blurb": "",
+   "headline": "Opposition, ruling councillors in Keralam’s Kochi Corporation spar over Thuruthy Towers, ro-ro service at stormy council meet",
+   "blurb": "LDF seeks dates for apartment handover and launch of third ro-ro vessel; UDF cites procedural delays in commissioning vessel; Opposition alleges UDF is using losses incurred by KSINC to justify privatisation of ro-ro ferry operations",
    "source": "The Hindu",
-   "ts": "2026-11-17T12:47:35+00:00",
-   "url": "https://www.thehindu.com/news/national/karnataka/rajeev-taranath-memorial-event-in-mysuru-on-nov-21/article71711465.ece"
+   "ts": "2026-11-17T19:58:06+00:00",
+   "url": "https://www.thehindu.com/news/national/kerala/opposition-ruling-councillors-in-keralams-kochi-corporation-spar-over-thuruthy-towers-ro-ro-service-at-stormy-council-meet/article71713463.ece"
   },
   {
    "category": "AI",
-   "headline": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
-   "blurb": "OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly. At a Monday press briefing in Washington, DC, OpenAI announced a classifier it says can better detect abusive imagery of kids, including whether it's AI-generated. It's also offering […]",
+   "headline": "California sues OpenAI over rogue AI hacking incidents",
+   "blurb": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper oversight,\" as reported earlier by Reuters. The lawsuit claims the […]",
    "source": "The Verge",
-   "ts": "2026-11-16T19:23:45+00:00",
-   "url": "https://www.theverge.com/policy/1034527/openai-csam-classifier"
-  },
-  {
-   "category": "Equities",
-   "headline": "Consumers are showing signs of strain even as they keep spending, CNBC/NRF Retail Monitor shows",
-   "blurb": "Retail sales rose at their slowest pace in nearly a year in October as American consumers showed signs of strain from high prices.",
-   "source": "CNBC",
-   "ts": "2026-11-11T12:27:47+00:00",
-   "url": "https://www.cnbc.com/2026/11/11/october-retail-sales-cnbc-nrf-2026.html"
-  },
-  {
-   "category": "Crypto",
-   "headline": "Fed Governor Michael Barr warns AI agents could trigger bank runs in minutes",
-   "blurb": "In a speech at an AI event in Italy, Barr said automated financial decisions could overwhelm banks and raises concerns about AI systems bypassing security controls.",
-   "source": "CoinDesk",
-   "ts": "2026-11-17T10:48:12+00:00",
-   "url": "https://www.coindesk.com/business/2026/11/17/fed-governor-michael-barr-warns-ai-agents-could-trigger-bank-runs-in-minutes"
-  },
-  {
-   "category": "Geopolitics",
-   "headline": "Will President Trump meet Kim Jong Un?",
-   "blurb": "President Trump says he would be keen to meet the North Korea leader in China.",
-   "source": "BBC",
-   "ts": "2026-11-17T10:13:27+00:00",
-   "url": "https://www.bbc.co.uk/news/videos/c6grew79p7qdo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "category": "Macro",
-   "headline": "We couldn't afford a house alone, so we bought one with strangers",
-   "blurb": "People who can't afford to get on the housing ladder are buying homes with someone they don't know.",
-   "source": "BBC",
-   "ts": "2026-11-17T00:00:02+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "category": "US Politics",
-   "headline": "What Trump, Putin and Xi want from superpower summit",
-   "blurb": "President Trump’s Asia trip will be capped by an unprecedented meeting with Russian President Vladimir Putin and Chinese President Xi Jinping — a nuclear-armed trilateral that harkens back to a more Machiavellian era of geopolitics. The summit, expected to take place Wednesday on the sidelines of the Asia-Pacific Economic Cooperation summit in Shenzhen, China, is...",
-   "source": "The Hill",
-   "ts": "2026-11-17T11:00:00+00:00",
-   "url": "https://thehill.com/policy/international/6223633-trump-putin-xi-trilateral-summit/"
-  },
-  {
-   "category": "India Politics",
-   "headline": "Delhi’s construction boom, workers’ growing risks: Safety takes a back seat as violations go unchecked",
-   "blurb": "Missing helmets and protective gear, unsafe structures, punishing work hours and rushed construction expose a deepening safety crisis at Delhi’s building sites, where basic safeguards are routinely ignored and accountability often comes only after tragedy strikes",
-   "source": "The Hindu",
-   "ts": "2026-11-17T12:47:22+00:00",
-   "url": "https://www.thehindu.com/news/cities/Delhi/delhis-construction-boom-workers-growing-risks-safety-takes-a-back-seat-as-violations-go-unchecked/article71708381.ece"
-  },
-  {
-   "category": "AI",
-   "headline": "Nvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back",
-   "blurb": "Nvidia's board of directors \"isn't considering\" having Jensen Huang return as CEO, according to a report from CNBC. A source tells the outlet the board \"is focused on an investigation into Huang, and is not in discussions to bring him back.\" Since Huang's resignation last week, tech executives, along with current and former Nvidia employees, […]",
-   "source": "The Verge",
-   "ts": "2026-11-16T18:43:35+00:00",
-   "url": "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back"
+   "ts": "2026-11-16T23:04:02+00:00",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit"
   }
  ]
 }
