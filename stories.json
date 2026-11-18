@@ -1,22 +1,22 @@
 {
- "updated": "2026-11-17T21:43:09+00:00",
+ "updated": "2026-11-18T03:36:48+00:00",
  "count": 58,
  "stories": [
   {
    "category": "Equities",
-   "headline": "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
-   "blurb": "Kevin Warsh sees AI at a turning point. He faces tough questions on jobs and interest rates.",
+   "headline": "Japan exports in October surge 20.5%, beating estimates on robust chip shipments",
+   "blurb": "Semiconductor shipments spiked almost 50% year on year.",
    "source": "CNBC",
-   "ts": "2026-11-17T15:35:13+00:00",
-   "url": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html"
+   "ts": "2026-11-18T00:35:31+00:00",
+   "url": "https://www.cnbc.com/2026/11/18/japan-exports-october-imports-chips.html"
   },
   {
    "category": "Crypto",
-   "headline": "Nvidia tops estimates, issues strong guidance; shares rise",
-   "blurb": "The results come days following the resignation of CEO Jensen Huang.",
+   "headline": "CFTC nominee questions public benefit of prediction markets as legal fight grows",
+   "blurb": "One of the two picks to join the regulatory commission, Democratic nominee Matthew Rowland, said he hopes to have a say in prediction markets rulemaking.",
    "source": "CoinDesk",
-   "ts": "2026-11-17T21:25:50+00:00",
-   "url": "https://www.coindesk.com/markets/2026/11/17/nvidia-tops-estimates-issues-strong-guidance-adds-usd150-billion-to-buyback-authorization"
+   "ts": "2026-11-18T00:46:25+00:00",
+   "url": "https://www.coindesk.com/policy/2026/11/17/nominee-says-u-s-cftc-must-think-hard-about-public-benefit-of-prediction-markets"
   },
   {
    "category": "Gold",
@@ -28,43 +28,107 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-   "blurb": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
+   "headline": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+   "blurb": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
    "source": "BBC",
-   "ts": "2026-11-17T21:24:35+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-18T01:18:18+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Speed camera fault may have allowed drivers to escape fines",
-   "blurb": "The Home Office has revoked approval that allowed footage from speed cameras to be used in evidence.",
+   "headline": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007",
+   "blurb": "The Amazon CEO said he was originally \"biased against\" Pattinson \"because he's already so famous\".",
    "source": "BBC",
-   "ts": "2026-11-17T20:04:54+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-18T02:40:45+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Watch live: Ocasio-Cortez, Paris Hilton push for action on AI deepfakes",
-   "blurb": "Rep. Alexandria Ocasio-Cortez (D-N.Y.) and media personality Paris Hilton are set to hold a press conference on Tuesday alongside lawmakers from both parties to push for legislation targeting sexually explicit deepfakes created using artificial intelligence. The DEFIANCE Act would allow victims of nonconsensual, sexually explicit deepfakes to sue those responsible for creating or distributing the...",
+   "headline": "Mary Peltola flips Republican Senate seat in Alaska",
+   "blurb": "Former Rep. Mary Peltola, a Democrat, is projected to win the race for Senate in Alaska, defeating GOP incumbent Sen. Dan Sullivan and flipping a seat for the Democratic Party, according to Decision Desk HQ. With 94 percent reporting according to DDHQ, Peltola has 50.12 percent of the vote to Sullivan's 45.79 percent, which puts...",
    "source": "The Hill",
-   "ts": "2026-11-17T21:20:00+00:00",
-   "url": "https://thehill.com/policy/technology/6226070-watch-live-alexandria-ocasio-cortez-paris-hilton-ai-deepfakes/"
+   "ts": "2026-11-18T03:21:19+00:00",
+   "url": "https://thehill.com/homenews/campaign/6176074-peltola-wins-alaska-senate/"
   },
   {
    "category": "India Politics",
-   "headline": "Kedarnath generates 73 tonnes of waste during 2026 Char Dham Yatra",
-   "blurb": "Around 65.65 lakh pilgrims visit four Char Dham shrines and Hemkund Sahib in 2026 as Badrinath portals close for winter",
+   "headline": "Ladakh hill council polls: 541 candidates file nominations",
+   "blurb": "Meanwhile, ongoing protests organised by the Leh Apex Body, an amalgam of civil society bodies in Ladakh, continued for the sixth day on November 17 over six demands",
    "source": "The Hindu",
-   "ts": "2026-11-17T21:30:56+00:00",
-   "url": "https://www.thehindu.com/news/national/uttarakhand/kedarnath-generates-73-tonnes-of-waste-during-2026-char-dham-yatra/article71712125.ece"
+   "ts": "2026-11-18T03:13:41+00:00",
+   "url": "https://www.thehindu.com/news/national/ladakh/ladakh-hill-council-polls-541-candidates-file-nominations/article71713482.ece"
   },
   {
    "category": "AI",
-   "headline": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
-   "blurb": "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang - though that will likely change once analysts are on the line for its earnings call later. The company reported revenues of $115.8 billion, up 103 percent year-over-year, including data center revenues of $107.6 billion, which […]",
+   "headline": "Satya Nadella says he’s AGI-pilled now",
+   "blurb": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI-pilled in the sense that at an economy level, what is the political economy's organization around AGI?\" he asked at […]",
    "source": "The Verge",
-   "ts": "2026-11-17T21:40:59+00:00",
-   "url": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang"
+   "ts": "2026-11-18T01:48:18+00:00",
+   "url": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now"
+  },
+  {
+   "category": "Equities",
+   "headline": "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+   "blurb": "Kevin Warsh sees AI at a turning point. He faces tough questions on jobs and interest rates.",
+   "source": "CNBC",
+   "ts": "2026-11-17T15:35:13+00:00",
+   "url": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html"
+  },
+  {
+   "category": "Crypto",
+   "headline": "Nvidia shares rise on earnings beat, raised outlook despite leadership uncertainty",
+   "blurb": "Speaking on the earnings call, Chairman Harvey Jones said the board has no intention of reinstating Jensen Huang as CEO.",
+   "source": "CoinDesk",
+   "ts": "2026-11-17T21:25:50+00:00",
+   "url": "https://www.coindesk.com/markets/2026/11/17/nvidia-tops-estimates-issues-strong-guidance-adds-usd150-billion-to-buyback-authorization"
+  },
+  {
+   "category": "Gold",
+   "headline": "Silver Is Paying for a Rate Rise That Has Not Happened Yet",
+   "blurb": "",
+   "source": "Investing.com",
+   "ts": "2026-11-17T20:35:00+00:00",
+   "url": "https://www.investing.com/analysis/silver-is-paying-for-a-rate-rise-that-has-not-happened-yet-200691773"
+  },
+  {
+   "category": "Geopolitics",
+   "headline": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+   "blurb": "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips.",
+   "source": "BBC",
+   "ts": "2026-11-17T23:02:12+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "category": "Macro",
+   "headline": "Europe plans to catch the next computer chip wave",
+   "blurb": "Europe hopes to be a leader in a new generation of computer chips which use light to process data.",
+   "source": "BBC",
+   "ts": "2026-11-18T00:00:24+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "category": "US Politics",
+   "headline": "Congress agrees on civilian plane locator mandate after deadly American Airlines-Black Hawk crash",
+   "blurb": "“When military aircraft fly in the same airspace, they must meet the same standards as everyone else.\"",
+   "source": "The Hill",
+   "ts": "2026-11-18T03:16:13+00:00",
+   "url": "https://thehill.com/homenews/senate/6226791-congress-civilian-plane-locator-mandate-after-deadly-american-airlines-black-hawk-crash/"
+  },
+  {
+   "category": "India Politics",
+   "headline": "All-too fallible: On India’s vote against moratorium on death penalty",
+   "blurb": "Death penalty requires a near-infallible criminal justice system",
+   "source": "The Hindu",
+   "ts": "2026-11-18T02:55:25+00:00",
+   "url": "https://www.thehindu.com/opinion/editorial/the-hindu-editorial-on-indias-vote-against-moratorium-on-death-penalty/article71713256.ece"
+  },
+  {
+   "category": "AI",
+   "headline": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+   "blurb": "Instagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent executives. Earlier in November, Alexandr Wang, Meta's chief AI officer, shared a short clip to promote Muse, the company's consumer AI agent. In the AI-generated clip, Wang, Meta CEO Mark Zuckerberg, OpenAI CEO Sam Altman, and […]",
+   "source": "The Verge",
+   "ts": "2026-11-17T23:52:34+00:00",
+   "url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake"
   },
   {
    "category": "Equities",
@@ -83,52 +147,44 @@
    "url": "https://www.coindesk.com/markets/2026/11/17/coinbase-ceo-says-ai-agents-will-account-for-99-9-of-transactions-within-a-decade"
   },
   {
-   "category": "Gold",
-   "headline": "Silver Is Paying for a Rate Rise That Has Not Happened Yet",
-   "blurb": "",
-   "source": "Investing.com",
-   "ts": "2026-11-17T20:35:00+00:00",
-   "url": "https://www.investing.com/analysis/silver-is-paying-for-a-rate-rise-that-has-not-happened-yet-200691773"
-  },
-  {
    "category": "Geopolitics",
-   "headline": "Russian military plane crashes killing all 19 on board",
-   "blurb": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
+   "headline": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
+   "blurb": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
    "source": "BBC",
-   "ts": "2026-11-17T21:06:11+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-17T22:46:30+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
-   "blurb": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
+   "headline": "Speed camera fault may have allowed drivers to escape fines",
+   "blurb": "The Home Office has revoked approval that allowed footage from speed cameras to be used in evidence.",
    "source": "BBC",
-   "ts": "2026-11-17T18:24:21+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-17T20:04:54+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Why an Alaska win by Peltola is so important to Democrats",
-   "blurb": "Senate Democrats are seeking to complete what has been a historic midterm election campaign with one final win in Alaska, where Democrat Mary Peltola is on track to oust Sen. Dan Sullivan (R) as ballots trickle in. A Democratic victory in Alaska would represent the party's ninth midterm Senate flip and make for a 56-seat majority in...",
+   "headline": "Stephen A. Smith defends response to Trump's claims about helping Black Americans",
+   "blurb": "ESPN commentator Stephen A. Smith defended his decision not to push back on President Trump’s claims about his record with Black Americans during their recent interview, arguing that viewers deserved to hear the president’s full thoughts without constant interruptions. In an interview last week on Smith’s “Straight Shooter” podcast, Trump — who has called Smith...",
    "source": "The Hill",
-   "ts": "2026-11-17T20:52:22+00:00",
-   "url": "https://thehill.com/homenews/campaign/6226081-alaska-senate-peltola-democrats-majority/"
+   "ts": "2026-11-18T03:12:02+00:00",
+   "url": "https://thehill.com/blogs/in-the-know/6227004-smith-defends-trump-interview/"
   },
   {
    "category": "India Politics",
-   "headline": "Won’t allow hiring of outsiders, hire locals: J&K CM Omar Abdullah to outside companies",
-   "blurb": "He made the statement during the inauguration of development projects worth ₹30 crores in Jammu, Samba and Kathua districts",
+   "headline": "Bombay HC orders CBI, ED, IT probe into Sinhgad society; freezes bank accounts",
+   "blurb": "The Court was hearing writ petitions and contempt petitions filed by employees, including faculty and staff, on salary and retirement dues",
    "source": "The Hindu",
-   "ts": "2026-11-17T20:47:09+00:00",
-   "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/wont-allow-hiring-of-outsiders-hire-locals-jk-cm-omar-abdullah-to-outside-companies/article71713475.ece"
+   "ts": "2026-11-18T02:48:15+00:00",
+   "url": "https://www.thehindu.com/news/national/maharashtra/court-orders-cbi-ed-it-probe-into-sinhgad-society-freezes-bank-accounts/article71712736.ece"
   },
   {
    "category": "AI",
-   "headline": "Not even Sam Altman is safe from AI deepfakes on Instagram",
-   "blurb": "Instagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent executives. Earlier in November, Alexandr Wang, Meta's chief AI officer, shared a short clip to promote Muse, the company's consumer AI agent. In the AI-generated clip, Wang, Meta CEO Mark Zuckerberg, OpenAI CEO Sam Altman, and […]",
+   "headline": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
+   "blurb": "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible attempt at a return. On the earnings call accompanying the release, board chair Harvey Jones kicked things off by saying the board \"does not intend to reinstate Huang […]",
    "source": "The Verge",
-   "ts": "2026-11-17T21:00:55+00:00",
-   "url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake"
+   "ts": "2026-11-17T22:50:29+00:00",
+   "url": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang"
   },
   {
    "category": "Equities",
@@ -141,42 +197,42 @@
   {
    "category": "Crypto",
    "headline": "Predictions platform Kalshi complies with order to halt Trump mention contracts",
-   "blurb": "The company confirmed that the Commodity Futures Trading Commission ordered it to stop \"mention\" contracts involving the U.S. president.",
+   "blurb": "The Commodity Futures Trading Commission ordered it to stop \"mention\" contracts involving the U.S. president and is reviewing whether Kalshi followed policy.",
    "source": "CoinDesk",
    "ts": "2026-11-17T19:16:00+00:00",
    "url": "https://www.coindesk.com/policy/2026/11/17/predictions-platform-kalshi-complies-with-order-to-halt-trump-mention-contracts"
   },
   {
    "category": "Geopolitics",
-   "headline": "US loses measles elimination status after 26 years amid record case numbers",
-   "blurb": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
+   "headline": "Thomas Markle charged over child sex abuse material in Philippines",
+   "blurb": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations.",
    "source": "BBC",
-   "ts": "2026-11-17T21:04:00+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-17T22:44:15+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "We can't afford to hire under-25s, say firms. Will Milburn plans help?",
-   "blurb": "The proposal to cut employers' National Insurance costs is \"essential\" to tackling the Neet problem, one business group says.",
+   "headline": "Government backs welfare shake-up to prevent 'lost generation'",
+   "blurb": "Ex-minister Alan Milburn has set out plans to divert spending from benefits towards job support.",
    "source": "BBC",
-   "ts": "2026-11-17T15:56:04+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c6d01e8m15mko?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-17T18:43:05+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "FBI says Chase outage tracks back to software release, not malicious activity",
-   "blurb": "The FBI said on Monday that the Chase outage was connected to a software release, not malicious activity. The agency told The Hill’s sister network NewsNation that it didn’t see any signs pointing toward malicious or external activity in the outage, finding that it was linked to a software release. In a Monday post to...",
+   "headline": "Murkowski calls midterms ‘a direct pushback to President Trump’",
+   "blurb": "Sen. Lisa Murkowski (R-Alaska) said Republicans’ staggering midterm losses were were a clear rebuke of President Trump from voters. “I think what you saw was a pushback on some of the administration's policies, and a direct pushback to President Trump,” Murkowski said Tuesday during an appearance on Alaska Public Media’s “Talk of Alaska.” The moderate...",
    "source": "The Hill",
-   "ts": "2026-11-17T20:38:16+00:00",
-   "url": "https://thehill.com/business/6226179-chase-outage-software-bug/"
+   "ts": "2026-11-18T02:11:53+00:00",
+   "url": "https://thehill.com/homenews/senate/6226959-murkowski-midterm-rebuke-trump/"
   },
   {
    "category": "India Politics",
-   "headline": "Ruckus erupts between SFI activists and police over setting up bookstalls near Calcutta University",
-   "blurb": "The SFI leaders said they sought permission from the Kolkata Police to set up a bookstall on the College Street footpath, but police refused on November 16 evening, saying it could disrupt traffic",
+   "headline": "Fresh encounter in J&K’s Kulgam as security forces track escaped LeT terrorist Lateef Bhat",
+   "blurb": "There was no exchange of fire since November 16; contact with the terrorists was established during the searches this morning, leading to a renewed firefight to neutralise the only surviving local terrorist in Kashmir valley",
    "source": "The Hindu",
-   "ts": "2026-11-17T20:22:19+00:00",
-   "url": "https://www.thehindu.com/news/national/west-bengal/ruckus-erupts-between-sfi-activists-and-police-over-setting-up-bookstalls-near-calcutta-university/article71713007.ece"
+   "ts": "2026-11-18T02:43:53+00:00",
+   "url": "https://www.thehindu.com/news/national/fresh-encounter-in-kulgam-lateef-bhat-november-18-2026/article71714380.ece"
   },
   {
    "category": "AI",
@@ -204,35 +260,35 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
-   "blurb": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
+   "headline": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+   "blurb": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
    "source": "BBC",
-   "ts": "2026-11-17T20:44:54+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-17T21:24:35+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "US bank services returning to normal after major outage",
-   "blurb": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\".",
+   "headline": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
+   "blurb": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
    "source": "BBC",
-   "ts": "2026-11-17T15:04:24+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-17T18:24:21+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Judge agrees 'vast majority' of Omar investigation should remain sealed",
-   "blurb": "A federal judge sided with the Justice Department (DOJ) Tuesday in its push to seal the “vast majority” of the search warrant affidavit connected to the criminal investigation of Rep. Ilhan Omar (D-Minn.). Chief U.S. District Judge James Boasberg said releasing the full affidavit would be “premature” as federal investigators continue reviewing materials seized during...",
+   "headline": "Kelly knocks Hun Cao's analogy about food shortages on Navy ships",
+   "blurb": "Sen. Mark Kelly (D-Ariz.) knocked acting Navy Secretary Hung Cao’s confirmation hearing analogy on Navy vessel food shortages, implying the comparison undermined the reports of poor conditions aboard ships docked in the Middle East. During the hearing, Cao compared reports that certain sailors aboard the USS George Washington and the Boxer Amphibious Ready Group were...",
    "source": "The Hill",
-   "ts": "2026-11-17T20:37:19+00:00",
-   "url": "https://thehill.com/regulation/court-battles/6226144-judge-seals-omar-search-warrant-doj/"
+   "ts": "2026-11-18T01:52:11+00:00",
+   "url": "https://thehill.com/homenews/senate/6226889-kelly-criticizes-cao-navy-food/"
   },
   {
    "category": "India Politics",
-   "headline": "Elanthoor human sacrifice case: witness examination nearing final stage",
-   "blurb": "",
+   "headline": "Maharashtra Cabinet clears university law amendments, textile policy changes and new courts in Palghar",
+   "blurb": "The Cabinet approved a draft ordinance to amend Sections 13(12) and 100(5)(a) of the Maharashtra Public Universities Act, 2016, in view of changes in higher education and the implementation of the National Education Policy, 2020",
    "source": "The Hindu",
-   "ts": "2026-11-17T20:12:44+00:00",
-   "url": "https://www.thehindu.com/news/national/kerala/elanthoor-human-sacrifice-case-witness-examination-nearing-final-stage/article71712944.ece"
+   "ts": "2026-11-18T02:43:38+00:00",
+   "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-cabinet-clears-university-law-amendments-textile-policy-changes-and-new-courts-in-palghar/article71712942.ece"
   },
   {
    "category": "AI",
@@ -260,35 +316,35 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
-   "blurb": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
+   "headline": "Russian military plane crashes, killing all 19 on board",
+   "blurb": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
    "source": "BBC",
-   "ts": "2026-11-17T20:30:20+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-17T21:06:11+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "How new US chip restrictions on South East Asia will hit China",
-   "blurb": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
+   "headline": "We can't afford to hire under-25s, say firms. Will Milburn plans help?",
+   "blurb": "The proposal to cut employers' National Insurance costs is \"essential\" to tackling the Neet problem, one business group says.",
    "source": "BBC",
-   "ts": "2026-11-17T14:25:45+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-17T15:56:04+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c6d01e8m15mko?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Skepticism grows within GOP over tech failures: 'Americans aren't stupid'",
-   "blurb": "Republican lawmakers and other prominent conservatives have grown skeptical over a wave of recent technology outages and failures in recent days, as some Americans stockpile canned foods and bottled water amid several high-profile outages. \"Americans aren't stupid. We want and deserve to know what's really going on,\" Tricia McLaughlin, former deputy assistant secretary for the...",
+   "headline": "Senate Intel Vice Chair Warner says AI contributing to network outages",
+   "blurb": "Senate Intelligence Committee ranking member Mark Warner (D-Va.) alleged Tuesday that AI contributed to several high-profile system outages this week, arguing industries are under pressure to quickly identify and fix security issues the technology can easily exploit. “What appears to be happening instead is a consequence of how quickly artificial intelligence is changing the cybersecurity...",
    "source": "The Hill",
-   "ts": "2026-11-17T20:27:22+00:00",
-   "url": "https://thehill.com/policy/technology/6225734-lawmakers-skepticism-tech-outages/"
+   "ts": "2026-11-18T01:34:12+00:00",
+   "url": "https://thehill.com/homenews/senate/6226826-mark-warner-ai-cybersecurity-system-outages/"
   },
   {
    "category": "India Politics",
-   "headline": "Convocation ceremony row: Maharaja’s College council asks suspended students to accept their mistake",
-   "blurb": "The incident caused disrepute to the image of the institution in the public domain, finds inquiry report",
+   "headline": "Elusive peace: On Kashmir terror attack",
+   "blurb": "Restoration of Statehood is essential for peace in Jammu and Kashmir",
    "source": "The Hindu",
-   "ts": "2026-11-17T20:12:21+00:00",
-   "url": "https://www.thehindu.com/news/national/kerala/convocation-ceremony-row-maharajas-college-council-asks-suspended-students-to-accept-their-mistake/article71713079.ece"
+   "ts": "2026-11-18T02:40:10+00:00",
+   "url": "https://www.thehindu.com/opinion/editorial/the-hindu-editoral-on-kashmir-terror-attack/article71713251.ece"
   },
   {
    "category": "AI",
@@ -316,35 +372,35 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "Trump in Asia ahead of talks with Russian and Chinese presidents",
-   "blurb": "The US president said he would be open to a one-on-one meeting with Russia's Vladimir Putin \"if it's available\".",
+   "headline": "US loses measles elimination status after 26 years amid record case numbers",
+   "blurb": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
    "source": "BBC",
-   "ts": "2026-11-17T20:25:46+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-17T21:04:00+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Government must act now or lose Royal Mail, former minister warns",
-   "blurb": "The former business secretary says \"undercutting\" by rivals will make Royal Mail \"unviable\".",
+   "headline": "US bank services returning to normal after major outage",
+   "blurb": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\".",
    "source": "BBC",
-   "ts": "2026-11-17T12:43:07+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cjvg26p3z2gdo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-17T15:04:24+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Schumer declares he has votes to beat Van Hollen and become majority leader",
-   "blurb": "Sen. Chuck Schumer (D-N.Y.) announced Tuesday that he has locked down the votes to be elected majority leader and urged Senate Democrats to “roll up our sleeves” and “focus on lowering costs” and “ending corruption.” Schumer, speaking to reporters after a Democratic caucus lunch, declared that his race against Sen. Chris Van Hollen (D-Md.) to...",
+   "headline": "White House pulls nomination of Heidi Overton to lead FDA",
+   "blurb": "The White House withdrew the nomination of Heidi Overton to lead the Food and Drug Administration (FDA) amid opposition from Senate Republicans, it confirmed to The Hill. Overton was set to face a key vote Wednesday in the Senate health committee, where Republicans hold only a one-vote majority — meaning losing one member would be...",
    "source": "The Hill",
-   "ts": "2026-11-17T20:23:05+00:00",
-   "url": "https://thehill.com/homenews/senate/6226192-schumer-vs-van-hollen-leadership-race/"
+   "ts": "2026-11-18T01:08:53+00:00",
+   "url": "https://thehill.com/policy/healthcare/6226487-white-house-withdraws-fda-nomination/"
   },
   {
    "category": "India Politics",
-   "headline": "Kochi woman loses ₹90,000 in credit card activation scam",
-   "blurb": "The complainant, a resident of Mulavukad, was allegedly cheated by an unidentified person who contacted her over the phone, promising to activate a credit card issued by a private sector bank",
+   "headline": "Kulgam anti-terror ops. continue; body of LeT terrorist Lateef Bhat’s ‘accomplice’ retrieved from encounter site",
+   "blurb": "Security agencies released CCTV footage, which suggested Dar and Bhat were seen together on November 10 and 11 surveying multiple locations",
    "source": "The Hindu",
-   "ts": "2026-11-17T20:04:19+00:00",
-   "url": "https://www.thehindu.com/news/national/kerala/kochi-woman-loses-90000-in-credit-card-activation-scam/article71711687.ece"
+   "ts": "2026-11-18T02:37:52+00:00",
+   "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/kulgam-anti-terror-ops-continue-body-of-let-terrorist-latteef-bhats-accomplice-retrievedfrom-encounter-site/article71711187.ece"
   },
   {
    "category": "AI",
@@ -372,35 +428,35 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "Carney looks to China as Trump tariffs squeeze Canada's car industry",
-   "blurb": "The PM has suggested Chinese automakers could replace American ones in Canada - but some say that would not be easy.",
+   "headline": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
+   "blurb": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
    "source": "BBC",
-   "ts": "2026-11-17T18:58:57+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-17T20:30:20+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Where are the most jobs for 18-24 year-olds?",
-   "blurb": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
+   "headline": "How new US chip restrictions on South East Asia will hit China",
+   "blurb": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
    "source": "BBC",
-   "ts": "2026-11-17T12:35:53+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-17T14:25:45+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "CNBC host presses Mullin on flight to football game amid FAA outage fallout",
-   "blurb": "Homeland Security Secretary Markwayne Mullin defended his trip to a college football game using a government plane over the weekend, as U.S. air traffic was still recovering from an hours-long nationwide ground stop on Friday. “Well, I'm required to be in communication 24/7, seven days a week, 365 days a year. This isn't a business...",
+   "headline": "Director of National Intelligence offers explanation for tech outages",
+   "blurb": "Director of National Intelligence Jay Clayton pushed back Tuesday on public speculation surrounding recent tech outages, attributing many to system upgrades as opposed to cyberattacks. “Let me tell you what this is not, as far as we can tell ... this is not a cyberattack, and this is not a coordinated effort by a nation...",
    "source": "The Hill",
-   "ts": "2026-11-17T20:16:08+00:00",
-   "url": "https://thehill.com/homenews/administration/6226126-homeland-security-secretary-lsu-game/"
+   "ts": "2026-11-18T00:41:40+00:00",
+   "url": "https://thehill.com/policy/national-security/6226816-dni-dismisses-outage-cyberattack-theory/"
   },
   {
    "category": "India Politics",
-   "headline": "Kerala High Court allows Cusat employees to seek review of suspension",
-   "blurb": "The court directed the Syndicate to examine whether the continued suspension was justified",
+   "headline": "Jantar Mantar trespassing case: CJP leaders appear before SEM; Saurav Das’ Delhi address verified",
+   "blurb": "The leaders have been summoned again on December 11; Ashutosh Ranka announces CJP clubs for ‘like-minded people’",
    "source": "The Hindu",
-   "ts": "2026-11-17T20:01:05+00:00",
-   "url": "https://www.thehindu.com/news/cities/Kochi/kerala-high-court-allows-cusat-employees-to-seek-review-of-suspension/article71712795.ece"
+   "ts": "2026-11-18T02:24:05+00:00",
+   "url": "https://www.thehindu.com/news/cities/Delhi/cjp-leaders-saurav-das-ashutosh-ranka-to-appear-again-before-sem-in-jantar-mantar-trespass-case/article71710363.ece"
   },
   {
    "category": "AI",
@@ -409,62 +465,6 @@
    "source": "The Verge",
    "ts": "2026-11-16T23:20:44+00:00",
    "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories"
-  },
-  {
-   "category": "Equities",
-   "headline": "UK economy expands 0.7% in third quarter as AI provides 'extra engine of growth'",
-   "blurb": "The U.K. economy grew 0.7% in the third quarter of the year, in line with estimates.",
-   "source": "CNBC",
-   "ts": "2026-11-12T08:02:15+00:00",
-   "url": "https://www.cnbc.com/2026/11/12/uk-gdp-third-quarter-2026.html"
-  },
-  {
-   "category": "Crypto",
-   "headline": "Decentralized exchange Grvt looks to makes commodity trading more predictable with stable funding perps",
-   "blurb": "Grvt’s new Stable Funding Perps tie the cost of holding commodities trades to traditional-market financing costs, rather than volatile crypto-style funding.",
-   "source": "CoinDesk",
-   "ts": "2026-11-17T13:00:00+00:00",
-   "url": "https://www.coindesk.com/markets/2026/11/17/decentralized-exchange-grvt-makes-commodity-trading-more-predictable-with-stable-funding-perps"
-  },
-  {
-   "category": "Geopolitics",
-   "headline": "UK sanctions firms over Israeli West Bank settlements",
-   "blurb": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory.",
-   "source": "BBC",
-   "ts": "2026-11-17T18:27:27+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "category": "Macro",
-   "headline": "US government confirms investigation into tech firm Megaspeed",
-   "blurb": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
-   "source": "BBC",
-   "ts": "2026-11-17T11:17:32+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "category": "US Politics",
-   "headline": "What to know about Iran's 'dirty bomb' threat",
-   "blurb": "A reported Iranian plot to carry out an alleged “dirty bomb” attack in Washington, D.C., is raising questions over potential targets, the danger of such a weapon and whether Iran even has the capability or intent to carry out that type of attack. CNN reported Monday that U.S. intelligence indicates Tehran is developing plans to...",
-   "source": "The Hill",
-   "ts": "2026-11-17T20:15:58+00:00",
-   "url": "https://thehill.com/policy/national-security/6226127-iranian-dirty-bomb-threat-warning/"
-  },
-  {
-   "category": "India Politics",
-   "headline": "Opposition, ruling councillors in Keralam’s Kochi Corporation spar over Thuruthy Towers, ro-ro service at stormy council meet",
-   "blurb": "LDF seeks dates for apartment handover and launch of third ro-ro vessel; UDF cites procedural delays in commissioning vessel; Opposition alleges UDF is using losses incurred by KSINC to justify privatisation of ro-ro ferry operations",
-   "source": "The Hindu",
-   "ts": "2026-11-17T19:58:06+00:00",
-   "url": "https://www.thehindu.com/news/national/kerala/opposition-ruling-councillors-in-keralams-kochi-corporation-spar-over-thuruthy-towers-ro-ro-service-at-stormy-council-meet/article71713463.ece"
-  },
-  {
-   "category": "AI",
-   "headline": "California sues OpenAI over rogue AI hacking incidents",
-   "blurb": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper oversight,\" as reported earlier by Reuters. The lawsuit claims the […]",
-   "source": "The Verge",
-   "ts": "2026-11-16T23:04:02+00:00",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit"
   }
  ]
 }
