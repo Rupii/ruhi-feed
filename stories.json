@@ -1,7 +1,71 @@
 {
- "updated": "2026-11-19T21:22:02+00:00",
+ "updated": "2026-11-20T02:58:22+00:00",
  "count": 58,
  "stories": [
+  {
+   "category": "Equities",
+   "headline": "Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices",
+   "blurb": "The core inflation figure — which strips out prices of food — was lower than the 2.3% expected by Reuters-polled economists.",
+   "source": "CNBC",
+   "ts": "2026-11-20T01:49:03+00:00",
+   "url": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html"
+  },
+  {
+   "category": "Crypto",
+   "headline": "Sky's USDS stablecoin shrinks 35% as $1.5 billion exits reserves after illicit-finance report",
+   "blurb": "USDS held its $1 peg as a large holder linked to Poloniex withdrew much of decentralized protocol Sky's USDC liquidity backing its stablecoins.",
+   "source": "CoinDesk",
+   "ts": "2026-11-19T19:53:42+00:00",
+   "url": "https://www.coindesk.com/business/2026/11/19/sky-s-usds-stablecoin-shrinks-35-as-usd1-5-billion-exits-reserves-after-illicit-finance-report"
+  },
+  {
+   "category": "Gold",
+   "headline": "Oil’s 15% Monthly Drop Leaves Prices Exposed to a War-Risk Rebound",
+   "blurb": "",
+   "source": "Investing.com",
+   "ts": "2026-11-19T21:05:00+00:00",
+   "url": "https://www.investing.com/analysis/oils-15-monthly-drop-leaves-prices-exposed-to-a-warrisk-rebound-200691958"
+  },
+  {
+   "category": "Geopolitics",
+   "headline": "More climate money for Africa? Europe says use what's already pledged",
+   "blurb": "African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change.",
+   "source": "BBC",
+   "ts": "2026-11-20T00:54:50+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "category": "Macro",
+   "headline": "GTA 6 breaks records as sales top $2bn - industry estimate",
+   "blurb": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
+   "source": "BBC",
+   "ts": "2026-11-20T02:54:40+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "category": "US Politics",
+   "headline": "Trump's CISA nominee ducks questions on 2020 election results, Jan. 6 Capitol attack",
+   "blurb": "Michael LoSapio, President Trump's nominee to lead the Cybersecurity and Infrastructure Security Agency (CISA), on Thursday ducked questions from lawmakers about the Jan. 6, 2021, U.S. Capitol attack and who won the 2020 presidential election. LoSapio serves as the chief information security officer at tech company Palantir. He told Sen. Richard Blumenthal (D-Conn.), when asked...",
+   "source": "The Hill",
+   "ts": "2026-11-20T02:29:35+00:00",
+   "url": "https://thehill.com/homenews/administration/6231922-senate-holds-losapio-cisa-nomination/"
+  },
+  {
+   "category": "India Politics",
+   "headline": "Vizag Junior Literary Fest: Where young minds find their voice",
+   "blurb": "The seventh edition of Vizag Junior Literary Fest, to be held on November 21 and 22, brings together 20 authors, illustrators and performers as children look forward to creative discoveries and author interactions",
+   "source": "The Hindu",
+   "ts": "2026-11-20T02:54:23+00:00",
+   "url": "https://www.thehindu.com/books/vizag-junior-literary-fest-where-young-minds-find-their-voice/article71718963.ece"
+  },
+  {
+   "category": "AI",
+   "headline": "Apple is hiring engineers to build its own AI agent",
+   "blurb": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic AI assistant. […]",
+   "source": "The Verge",
+   "ts": "2026-11-19T23:13:01+00:00",
+   "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing"
+  },
   {
    "category": "Equities",
    "headline": "Peterson: Nvidia’s leadership crisis tests the chipmaker’s role as the ‘central bank of AI’",
@@ -12,11 +76,11 @@
   },
   {
    "category": "Crypto",
-   "headline": "Sky's USDS stablecoin shrinks 35% as $1.5 billion exits reserves after illicit-finance report",
-   "blurb": "USDS held its $1 peg as a large holder linked to Poloniex withdrew much of decentralized protocol Sky's USDC liquidity backing its stablecoins.",
+   "headline": "Trump's Democratic SEC pick suggests tokenization policy deserves full rule process",
+   "blurb": "The U.S. Senate Banking Committee held a confirmation hearing for the two nominees — one from each party — as the administration rebuilds the markets regulators.",
    "source": "CoinDesk",
-   "ts": "2026-11-19T19:53:42+00:00",
-   "url": "https://www.coindesk.com/business/2026/11/19/sky-s-usds-stablecoin-shrinks-35-as-usd1-5-billion-exits-reserves-after-illicit-finance-report"
+   "ts": "2026-11-19T18:15:56+00:00",
+   "url": "https://www.coindesk.com/policy/2026/11/19/trump-s-democratic-sec-pick-suggests-tokenization-policy-deserves-full-rule-process"
   },
   {
    "category": "Gold",
@@ -31,40 +95,40 @@
    "headline": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
    "blurb": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
    "source": "BBC",
-   "ts": "2026-11-19T21:16:12+00:00",
+   "ts": "2026-11-20T00:50:24+00:00",
    "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Anthropic raises $81bn in record-breaking stock market debut",
-   "blurb": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
+   "headline": "Airbnb's divisive new house rules come into force",
+   "blurb": "New rules on what Airbnb hosts can reasonably ask guests to do could mean fewer chores but higher costs for customers.",
    "source": "BBC",
-   "ts": "2026-11-19T15:58:58+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-20T00:12:28+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Judge says Rollins' religious holiday messages likely violated First Amendment",
-   "blurb": "A district court judge on Thursday said U.S. Department of Agriculture (USDA) Secretary Brooke Rollins likely violated the First Amendment after sending emails to her staff about Jesus Christ, God, Christmas and Easter. Rollins had sent out four holiday-related emails, which prompted federal employees to file a lawsuit in May. U.S. District Court Judge Trina...",
+   "headline": "Fetterman says Van Hollen will lose majority leader race: 'I'm not sure why that's news'",
+   "blurb": "Sen. John Fetterman (D-Pa.) said he was “not sure” why Sen. Chris Van Hollen (D-Md.) running for Senate majority leader was news. “I think he loses, and ... I’m not sure why that’s news. You’ll have to see how that vote goes,” Fetterman told reporters outside Congress on Thursday after being questioned about Van Hollen’s...",
    "source": "The Hill",
-   "ts": "2026-11-19T21:19:12+00:00",
-   "url": "https://thehill.com/homenews/administration/6231463-judge-rollins-usda-first-amendment/"
+   "ts": "2026-11-20T01:15:17+00:00",
+   "url": "https://thehill.com/homenews/senate/6232158-fetterman-criticizes-van-hollen-senate/"
   },
   {
    "category": "India Politics",
-   "headline": "FIR against two former Bengal Ministers over sexual assault charges",
-   "blurb": "Five former Ministers, who had been part of Mamata Banerjee’s cabinet, have been arrested since the BJP government came to power in May 2026",
+   "headline": "Tukaram Mundhe withdraws petition after dragging Centre to the court",
+   "blurb": "FDA Commissioner Tukaram Mundhe had challenged FSSAI over the constitutional validity of a few regulations. The petition had challenged the creation of a few posts by the Centre, claiming it was against the Food Safety and Standards Act, 2006",
    "source": "The Hindu",
-   "ts": "2026-11-19T20:35:27+00:00",
-   "url": "https://www.thehindu.com/news/national/west-bengal/fir-against-two-former-bengal-ministers-over-sexual-assault-charges/article71721081.ece"
+   "ts": "2026-11-20T02:45:53+00:00",
+   "url": "https://www.thehindu.com/news/national/maharashtra/tukaram-mundhe-two-months-after-deciding-to-drag-the-centre-to-court-maharashtra-government-decides-to-withdraw-petition/article71720000.ece"
   },
   {
    "category": "AI",
-   "headline": "Anthropic starts trading on Wall Street",
-   "blurb": "Anthropic has officially gone public. It began trading on the Nasdaq under the ticker symbol \"ANT\" at $111.50 per share, up from its initial $83 per share price that put company's value at around $1.5 trillion. The listing comes nearly a month after Anthropic revealed its plans to go public. In its lengthy S-1 filing, […]",
+   "headline": "A brief history of Nvidia’s recent stock fluctuations",
+   "blurb": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from its all-time high on October 6th, and wiping out a brief post-earnings […]",
    "source": "The Verge",
-   "ts": "2026-11-19T21:13:46+00:00",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq"
+   "ts": "2026-11-19T21:59:35+00:00",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings"
   },
   {
    "category": "Equities",
@@ -76,59 +140,51 @@
   },
   {
    "category": "Crypto",
-   "headline": "Trump's Democratic SEC pick suggests tokenization policy deserves full rule process",
-   "blurb": "The U.S. Senate Banking Committee held a confirmation hearing for the two nominees — one from each party — as the administration rebuilds the markets regulators.",
+   "headline": "Anthropic gains after IPO, but pulls off highest levels",
+   "blurb": "After opening at $111.50, ANT quickly slipped back under $100, still above its $83 offering price.",
    "source": "CoinDesk",
-   "ts": "2026-11-19T18:15:56+00:00",
-   "url": "https://www.coindesk.com/policy/2026/11/19/trump-s-democratic-sec-pick-suggests-tokenization-policy-deserves-full-rule-process"
-  },
-  {
-   "category": "Gold",
-   "headline": "Silver Tests 45 as Palladium Challenges Long-Term Support",
-   "blurb": "",
-   "source": "Investing.com",
-   "ts": "2026-11-19T19:07:00+00:00",
-   "url": "https://www.investing.com/analysis/silver-tests-45-as-palladium-challenges-longterm-support-200691950"
+   "ts": "2026-11-19T17:01:47+00:00",
+   "url": "https://www.coindesk.com/markets/2026/11/19/anthropic-opens-for-trade-at-usd11-50-up-34-from-ipo-price"
   },
   {
    "category": "Geopolitics",
-   "headline": "Myanmar committed genocide against Rohingya minority, top UN court rules",
-   "blurb": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
+   "headline": "Why Canada is embracing AI data centres while the US pushes back",
+   "blurb": "Shark Tank's Kevin O'Leary is among the big investors looking to Canada as a data centre development destination, while his US project faces local opposition.",
    "source": "BBC",
-   "ts": "2026-11-19T20:07:02+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-20T00:13:24+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cmx2q223z1jlo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "More support for households reliant on heating oil",
-   "blurb": "North Northamptonshire Council is encouraging eligible residents to apply for more support.",
+   "headline": "Fish and eggs al desko? The dos and don'ts of the lunch break",
+   "blurb": "What is acceptable to eat at your desk, without annoying your colleagues?",
    "source": "BBC",
-   "ts": "2026-11-19T15:22:31+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cwm2mj7vezr3o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-20T00:08:37+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cwp8g4092zglo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Hunter Biden slams Trump for 'great betrayal' after calling Putin 'friend'",
-   "blurb": "Hunter Biden, the son of former President Biden, went after President Trump over referring to Russian President Vladimir Putin as a “friend.” “The Great Betrayal. Of the allies who trusted us. Of the soldiers who served. Of every American who believed the office was larger than the man,” Hunter Biden said in a post Thursday...",
+   "headline": "California attorney general issues subpoena to Nvidia over chip sales to China",
+   "blurb": "California Attorney General Rob Bonta (D) issued subpoenas to Nvidia regarding reports that the company sold advanced AI computer chips to China, his office announced Thursday. “The conduct of Nvidia and its former CEO raises bright red flags, including about the ways in which the company may have misled investors,” Bonta said in a press...",
    "source": "The Hill",
-   "ts": "2026-11-19T20:59:45+00:00",
-   "url": "https://thehill.com/policy/international/6231503-hunter-biden-criticizes-trump-putin/"
+   "ts": "2026-11-20T01:05:38+00:00",
+   "url": "https://thehill.com/homenews/state-watch/6232059-california-bonta-subpoenas-nvidia-ai-chips/"
   },
   {
    "category": "India Politics",
-   "headline": "Cyclone ‘Akvan’ updates: Three lakh evacuated, 423 rescue teams deployed as cyclone heads to Odisha",
-   "blurb": "The severe cyclonic storm is likely to cross north Andhra Pradesh and south Odisha coasts close to Gopalpur by noon on November 20",
+   "headline": "Cyclone 'Akvan' LIVE: Landfall process begins; coastal Odisha districts receive heavy rain",
+   "blurb": "Director of Bhubaneswar Meteorological Centre Manorama Mohanty said the duration of the landfall process would be a long process which could stretch over seven to eight hours",
    "source": "The Hindu",
-   "ts": "2026-11-19T20:13:37+00:00",
-   "url": "https://www.thehindu.com/news/national/cyclone-akwan-tracker-live-updates-odisha-andhra-pradesh-landfall-imd-map-location-puri-vizag-bay-of-bengal/article71718788.ece"
+   "ts": "2026-11-20T02:39:31+00:00",
+   "url": "https://www.thehindu.com/news/national/cyclone-akvan-landfall-andhra-pradesh-odisha-imd-alert-live-updates-november-20-2026/article71722871.ece"
   },
   {
    "category": "AI",
-   "headline": "Meta’s Muse Charm might cost $300",
-   "blurb": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the Charm \"in time for the holidays in December,\" but […]",
+   "headline": "Anthropic starts trading on Wall Street",
+   "blurb": "Anthropic has officially gone public. It began trading on the Nasdaq under the ticker symbol \"ANT\" at $111.50 per share, up from its initial $83 per share price that put company's value at around $1.5 trillion. The listing comes nearly a month after Anthropic revealed its plans to go public. In its lengthy S-1 filing, […]",
    "source": "The Verge",
-   "ts": "2026-11-19T20:29:21+00:00",
-   "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price"
+   "ts": "2026-11-19T21:22:34+00:00",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq"
   },
   {
    "category": "Equities",
@@ -140,51 +196,51 @@
   },
   {
    "category": "Crypto",
-   "headline": "Anthropic gains after IPO, but pulls off highest levels",
-   "blurb": "After opening at $111.50, ANT quickly slipped back under $100, still above its $83 offering price.",
+   "headline": "Crypto for Advisors: Falling prices drove October’s 10% drop in institutional crypto exposure",
+   "blurb": "",
    "source": "CoinDesk",
-   "ts": "2026-11-19T17:01:47+00:00",
-   "url": "https://www.coindesk.com/markets/2026/11/19/anthropic-opens-for-trade-at-usd11-50-up-34-from-ipo-price"
+   "ts": "2026-11-19T16:09:28+00:00",
+   "url": "https://www.coindesk.com/coindesk-indices/2026/11/19/crypto-for-advisors-falling-prices-drove-october-s-10-drop-in-institutional-crypto-exposure"
   },
   {
    "category": "Geopolitics",
-   "headline": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
-   "blurb": "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion.",
+   "headline": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
+   "blurb": "Orla Guerin speaks to seven people trapped in Taiz by the Houthis who reveal what life is like under siege.",
    "source": "BBC",
-   "ts": "2026-11-19T17:38:22+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-20T00:13:21+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Viagogo may have broken law on hidden fees, watchdog provisionally finds",
-   "blurb": "The UK's competition body says initial findings suggest the ticket-reselling website used drip pricing.",
+   "headline": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
+   "blurb": "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.",
    "source": "BBC",
-   "ts": "2026-11-19T13:35:52+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cmvg2ex7j30lo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-20T00:02:07+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Meta brings fight over Washington state campaign ad law to Supreme Court",
-   "blurb": "Meta is asking the Supreme Court to hear its challenge to a Washington state law requiring that social media companies answer public requests for information about the political advertisements shown on their platforms. The company, which owns Facebook and Instagram, said in a petition docketed Wednesday the law is “virtually unprecedented” and violates the First...",
+   "headline": "Hackers access financial data of more than 4,000 retired NYC government workers: Report",
+   "blurb": "Hackers reportedly accessed financial data from thousands of retired New York City government workers this fall through an online database — the latest incident in a wave of cybersecurity breaches sparking public concerns around tech infrastructure vulnerabilities. The database was created to pay court settlement fees to retired employees, according to Politico, which first reported...",
    "source": "The Hill",
-   "ts": "2026-11-19T20:32:47+00:00",
-   "url": "https://thehill.com/policy/technology/6231297-meta-supreme-court-washington-political-ads/"
+   "ts": "2026-11-20T00:55:08+00:00",
+   "url": "https://thehill.com/homenews/state-watch/6232046-nyc-retirees-data-breach-report/"
   },
   {
    "category": "India Politics",
-   "headline": "Trinamool party symbol row: Abhishek Banerjee says twin flower symbol will return in seven days",
-   "blurb": "Leader of the Opposition in the West Bengal Assembly Ritabrata Banerjee said that the symbol does not belong to either faction and Mr. Banerjee will not be able to stake claim over the symbol in seven births",
+   "headline": "Very heavy rain lashes Srikakulam as Akvan moves closer to coast",
+   "blurb": "The major rainfall activity has been concentrated in the district of Srikakulam alone, while a few stations in Vizianagaram, Anakapalli, Kakinada, Visakhapatnam, have recorded light showers",
    "source": "The Hindu",
-   "ts": "2026-11-19T19:59:48+00:00",
-   "url": "https://www.thehindu.com/news/national/west-bengal/trinamool-party-symbol-row-abhishek-banerjee-says-twin-flower-symbol-will-return-in-seven-days/article71721362.ece"
+   "ts": "2026-11-20T02:37:20+00:00",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/very-heavy-rain-lashes-srikakulam-as-akvan-moves-closer-to-coast/article71722916.ece"
   },
   {
    "category": "AI",
-   "headline": "Google is putting AI chats right on the homepage",
-   "blurb": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Based on the GIF shared by Stein, it looks like you can open the sidebar by clicking the […]",
+   "headline": "Meta’s Muse Charm might cost $300",
+   "blurb": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the Charm \"in time for the holidays in December,\" but […]",
    "source": "The Verge",
-   "ts": "2026-11-19T20:14:34+00:00",
-   "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats"
+   "ts": "2026-11-19T20:29:21+00:00",
+   "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price"
   },
   {
    "category": "Equities",
@@ -196,51 +252,51 @@
   },
   {
    "category": "Crypto",
-   "headline": "Crypto for Advisors: Falling prices drove October’s 10% drop in institutional crypto exposure",
-   "blurb": "",
+   "headline": "Binance wins $6.5 billion feezing order against hackers behind crypto's largest theft",
+   "blurb": "The crypto exchange said it has already replaced the stolen assets using its own funds and insurance reserves.",
    "source": "CoinDesk",
-   "ts": "2026-11-19T16:09:28+00:00",
-   "url": "https://www.coindesk.com/coindesk-indices/2026/11/19/crypto-for-advisors-falling-prices-drove-october-s-10-drop-in-institutional-crypto-exposure"
+   "ts": "2026-11-19T15:20:38+00:00",
+   "url": "https://www.coindesk.com/business/2026/11/19/binance-wins-usd6-5-billion-feezing-order-against-hackers-behind-crypto-s-largest-theft"
   },
   {
    "category": "Geopolitics",
-   "headline": "Rohingya genocide: What was said in court and what happens now?",
-   "blurb": "The verdict marks the first time a state has ever been found to have committed genocide by an international court.",
+   "headline": "How did Anthropic's stock market debut unfold?",
+   "blurb": "The BBC's Samira Hussain breaks down the AI company's first day as a publicly traded company, as shares closed up 17%.",
    "source": "BBC",
-   "ts": "2026-11-19T17:35:05+00:00",
-   "url": "https://www.bbc.co.uk/news/videos/c60qj10j0ld5o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-19T23:52:25+00:00",
+   "url": "https://www.bbc.co.uk/news/videos/cwg7l01vg081o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Indian driver wins $1.3m in life-changing lottery prize",
-   "blurb": "A truck driver's fortunes have changed overnight after he won a Diwali lottery in the northern Indian state of Punjab.",
+   "headline": "California targets Nvidia in China AI chip probe",
+   "blurb": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure.",
    "source": "BBC",
-   "ts": "2026-11-19T11:38:09+00:00",
-   "url": "https://www.bbc.co.uk/news/videos/cke89vdn75gyo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-19T23:04:30+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Baltimore mayor blasts Marlon Humphrey after Ravens player's 'criminals' comment",
-   "blurb": "The mayor of Baltimore blasted Baltimore Ravens cornerback Marlon Humphrey for comments the defensive back made on a podcast earlier this week disparaging the city. Humphrey was asked during a recent episode of his podcast what Baltimore \"is the best at making.\" \"Criminals,\" he responded before bursting out into laughter. The comment was met with...",
+   "headline": "Slotkin picks Van Hollen over Schumer in leadership race",
+   "blurb": "Sen. Elissa Slotkin (D-Mich.) said she will vote for Sen. Chris Van Hollen (D-Md.) over Sen. Chuck Schumer (D-N.Y.) to serve as Senate majority leader next year, arguing that voters called for dramatic change in the midterm elections. “I’m encouraged that people like Chris Van Hollen got in the race and because I’ve been clear...",
    "source": "The Hill",
-   "ts": "2026-11-19T20:21:36+00:00",
-   "url": "https://thehill.com/policy/sports-gaming/6231324-baltimore-ravens-marlon-humphrey-criminals-comment/"
+   "ts": "2026-11-20T00:15:23+00:00",
+   "url": "https://thehill.com/homenews/senate/6232111-senate-leadership-race-updates/"
   },
   {
    "category": "India Politics",
-   "headline": "Advocates, traders protest in Vaniyambadi for additional district court",
-   "blurb": "At present, Vaniyambadi has three lower courts that are located in different areas in the town",
+   "headline": "BMC starts demolition of building linked to Dawood Ibrahim in Mumbai",
+   "blurb": "The building was classified as C-1, a category indicating that the structure was dangerous and required demolition",
    "source": "The Hindu",
-   "ts": "2026-11-19T19:37:09+00:00",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/advocates-traders-protest-in-vaniyambadi-for-additional-district-court/article71720306.ece"
+   "ts": "2026-11-20T02:35:25+00:00",
+   "url": "https://www.thehindu.com/news/cities/mumbai/bmc-starts-demolition-of-building-linked-to-dawood-ibrahim-in-mumbai/article71719043.ece"
   },
   {
    "category": "AI",
-   "headline": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
-   "blurb": "Today is a new beginning for Anthropic: a years-in-the-making IPO that beat out SpaceX for most valuable of all time, having raised $81.3 billion and set an important precedent for the other public AI lab debuts to come. But it's not simply a financial milestone. Anthropic was founded on the idea that it prioritized safety […]",
+   "headline": "Google is putting AI chats right on the homepage",
+   "blurb": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Based on the GIF shared by Stein, it looks like you can open the sidebar by clicking the […]",
    "source": "The Verge",
-   "ts": "2026-11-19T19:10:57+00:00",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure"
+   "ts": "2026-11-19T20:14:34+00:00",
+   "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats"
   },
   {
    "category": "Equities",
@@ -252,51 +308,51 @@
   },
   {
    "category": "Crypto",
-   "headline": "Binance wins $6.5 billion feezing order against hackers behind crypto's largest theft",
-   "blurb": "The crypto exchange said it has already replaced the stolen assets using its own funds and insurance reserves.",
+   "headline": "Crypto traders vs. Wall Street: OKX’s Anthropic markets put IPO pricing to the test",
+   "blurb": "The crypto exchange plans to launch tokenized Anthropic shares as its pre-IPO futures trade about 24% above the company’s $83 offering price.",
    "source": "CoinDesk",
-   "ts": "2026-11-19T15:20:38+00:00",
-   "url": "https://www.coindesk.com/business/2026/11/19/binance-wins-usd6-5-billion-feezing-order-against-hackers-behind-crypto-s-largest-theft"
+   "ts": "2026-11-19T13:11:31+00:00",
+   "url": "https://www.coindesk.com/markets/2026/11/19/crypto-traders-vs-wall-street-okx-s-anthropic-markets-put-ipo-pricing-to-the-test"
   },
   {
    "category": "Geopolitics",
-   "headline": "Susan Smith denied parole again 32 years after drowning her two sons",
-   "blurb": "At a hearing on the possibility of parole, Smith said she wished she could change the past, and her two children \"did not deserve to die\".",
+   "headline": "Trump posthumously pardons US baseball legend Pete Rose",
+   "blurb": "Rose, who died in 2024, was given a lifetime ban from the sport for betting on games but was reinstated last year.",
    "source": "BBC",
-   "ts": "2026-11-19T17:23:34+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-19T23:51:50+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Increase in direct cremations since pandemic",
-   "blurb": "A 2026 Cost of Dying Report found direct cremation was now chosen for about one in five funerals.",
+   "headline": "Anthropic raises $81bn in record-breaking stock market debut",
+   "blurb": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
    "source": "BBC",
-   "ts": "2026-11-19T06:23:22+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/ck5ywnr59z85o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-19T15:58:58+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Sanders pours cold water on 2028 White House bid",
-   "blurb": "Sen. Bernie Sanders (I-Vt.) has poured cold water on the idea of another run for the White House. \"I think probably not. I think taking office at 87 years of age and finishing my first term at 91 is not something that probably inspires a whole lot of people,” Sanders told host Steven Bartlett on...",
+   "headline": "White House lets go of national cyber director, names acting replacement",
+   "blurb": "Sean Cairncross, the national cyber director, has been let go from his post, a White House official confirmed to The Hill Thursday. The official said President Trump supported the decision to let go of the director, as he believed Cairncross did not have the proper cyber credentials for the job. The Defense Department Chief Information...",
    "source": "The Hill",
-   "ts": "2026-11-19T20:17:18+00:00",
-   "url": "https://thehill.com/homenews/campaign/6231265-sanders-rules-out-presidential-run/"
+   "ts": "2026-11-19T23:56:47+00:00",
+   "url": "https://thehill.com/homenews/administration/6231938-sean-cairncross-resigns-cyber-director/"
   },
   {
    "category": "India Politics",
-   "headline": "CBI secures deportation of murder accused wanted by Kerala Police from UAE",
-   "blurb": "The incident occurred on October 1, 2008, at Thirumangalam, Thrissur",
+   "headline": "Yadadri Thermal Power Plant: The toxic cost of power",
+   "blurb": "Fly ash from the 4,000-MW Yadadri thermal plant is polluting a stream that sustains farms and fishing communities, before flowing into the Krishna river. As Telangana powers up, the fallout extends beyond the vicinity of the project, which started operations less than two years ago, with concerns rising over water quality, public health and livelihoods along the river system, reports Swathi Vadlamudi",
    "source": "The Hindu",
-   "ts": "2026-11-19T19:36:03+00:00",
-   "url": "https://www.thehindu.com/news/national/kerala/cbi-secures-deportation-of-murder-accused-wanted-by-kerala-police-from-uae/article71720445.ece"
+   "ts": "2026-11-20T02:26:49+00:00",
+   "url": "https://www.thehindu.com/news/national/telangana/yadadri-thermal-power-plant-the-toxic-cost-of-power/article71721759.ece"
   },
   {
    "category": "AI",
-   "headline": "Gemini on Mac can now use your computer",
-   "blurb": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the feature might be useful for things like speeding up workflows, filling in forms, making presentations, and listing items for sale. Users will […]",
+   "headline": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
+   "blurb": "Today is a new beginning for Anthropic: a years-in-the-making IPO that beat out SpaceX for most valuable of all time, having raised $81.3 billion and set an important precedent for the other public AI lab debuts to come. But it's not simply a financial milestone. Anthropic was founded on the idea that it prioritized safety […]",
    "source": "The Verge",
-   "ts": "2026-11-19T19:07:41+00:00",
-   "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use"
+   "ts": "2026-11-19T19:10:57+00:00",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure"
   },
   {
    "category": "Equities",
@@ -308,51 +364,51 @@
   },
   {
    "category": "Crypto",
-   "headline": "Crypto traders vs. Wall Street: OKX’s Anthropic markets put IPO pricing to the test",
-   "blurb": "The crypto exchange plans to launch tokenized Anthropic shares as its pre-IPO futures trade about 24% above the company’s $83 offering price.",
+   "headline": "Trump Media wants to clear $884 million of debt without selling its bitcoin",
+   "blurb": "The Truth Social owner bought back $100 million of convertible notes this week. Holders of the rest can demand cash on Nov. 30, and its bitcoin is worth just under $1 billion.",
    "source": "CoinDesk",
-   "ts": "2026-11-19T13:11:31+00:00",
-   "url": "https://www.coindesk.com/markets/2026/11/19/crypto-traders-vs-wall-street-okx-s-anthropic-markets-put-ipo-pricing-to-the-test"
+   "ts": "2026-11-19T12:40:12+00:00",
+   "url": "https://www.coindesk.com/markets/2026/11/19/trump-media-wants-to-clear-usd884-million-of-debt-without-selling-its-bitcoin"
   },
   {
    "category": "Geopolitics",
-   "headline": "What did Trump, Xi and Putin get out of their historic meeting?",
-   "blurb": "Trump, Putin and Xi have issued a \"joint declaration of peace\" after historical trilateral talks, but what did they get out of meeting?",
+   "headline": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
+   "blurb": "Fiona, who became an internet star after her premature birth in 2017, \"fought until she couldn’t anymore\", the zoo says.",
    "source": "BBC",
-   "ts": "2026-11-19T17:23:29+00:00",
-   "url": "https://www.bbc.co.uk/news/videos/c63rgnq05pdwo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-19T23:40:29+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Gilts v kilts: What is happening with Scottish government bonds?",
-   "blurb": "MSPs have heard both the pros and cons of the government's plan to launch its first ever bond to the market.",
+   "headline": "More support for households reliant on heating oil",
+   "blurb": "North Northamptonshire Council is encouraging eligible residents to apply for more support.",
    "source": "BBC",
-   "ts": "2026-11-19T06:15:57+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cmwy8pgj2z8vo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-19T15:22:31+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cwm2mj7vezr3o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Appeals court denies full panel review of McIver bid to toss case",
-   "blurb": "The 3rd Circuit Court of Appeals on Thursday declined a request from Rep. LaMonica McIver (D-N.J.) to have a full panel of the court weigh her bid to dismiss her pending charges after a scuffle outside an immigration detention facility. McIver has pushed to get the case dismissed on various grounds, including that her visit...",
+   "headline": "USS George Washington departs Middle East",
+   "blurb": "Welcome to The Hill's Defense & NatSec newsletter {beacon} Defense &National Security Defense &National Security The Big Story USS George Washington departs Middle East The USS George Washington, a Japan-based aircraft carrier, departed the Middle East, leaving the U.S. military with two aircraft carriers in the U.S. Central Command (Centcom) region, a military official...",
    "source": "The Hill",
-   "ts": "2026-11-19T20:10:23+00:00",
-   "url": "https://thehill.com/regulation/court-battles/6231366-third-circuit-rejects-mciver-dismissal/"
+   "ts": "2026-11-19T23:48:13+00:00",
+   "url": "https://thehill.com/newsletters/defense-national-security/6232039-uss-george-washington-departs-middle-east/"
   },
   {
    "category": "India Politics",
-   "headline": "Kerala High Court disposes of PILs against reconstitution of Waqf Board",
-   "blurb": "The High Court had refused to stay the reconstitution of the board in October",
+   "headline": "Show cause notice issued to 90 medical shops in Hyderabad over drug sale violations",
+   "blurb": "The notices were issued following a special enforcement drive conducted by the drugs wing of TG SAFE, along with its enforcement wing and excise enforcement personnel",
    "source": "The Hindu",
-   "ts": "2026-11-19T19:33:47+00:00",
-   "url": "https://www.thehindu.com/news/national/kerala/kerala-high-court-disposes-of-pils-against-reconstitution-of-waqf-board/article71721176.ece"
+   "ts": "2026-11-20T02:15:33+00:00",
+   "url": "https://www.thehindu.com/news/cities/Hyderabad/show-cause-notice-issued-to-90-medical-shops-in-hyderabad-over-drug-sale-violations/article71720988.ece"
   },
   {
    "category": "AI",
-   "headline": "ChatGPT can transcribe as you speak now with Live Dictation",
-   "blurb": "ChatGPT can receive audio prompts from your microphone faster now with a Live Dictation feature that transcribes as you speak, rather than waiting until you finish recording. It's rolling out now globally on all ChatGPT plans on the web, desktop app, and iOS and Android apps. While using dictation in ChatGPT, you can tap or […]",
+   "headline": "Gemini on Mac can now use your computer",
+   "blurb": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the feature might be useful for things like speeding up workflows, filling in forms, making presentations, and listing items for sale. Users will […]",
    "source": "The Verge",
-   "ts": "2026-11-19T15:16:45+00:00",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation"
+   "ts": "2026-11-19T19:07:41+00:00",
+   "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use"
   },
   {
    "category": "Equities",
@@ -364,62 +420,6 @@
   },
   {
    "category": "Crypto",
-   "headline": "Trump Media wants to clear $884 million of debt without selling its bitcoin",
-   "blurb": "The Truth Social owner bought back $100 million of convertible notes this week. Holders of the rest can demand cash on Nov. 30, and its bitcoin is worth just under $1 billion.",
-   "source": "CoinDesk",
-   "ts": "2026-11-19T12:40:12+00:00",
-   "url": "https://www.coindesk.com/markets/2026/11/19/trump-media-wants-to-clear-usd884-million-of-debt-without-selling-its-bitcoin"
-  },
-  {
-   "category": "Geopolitics",
-   "headline": "Israeli military completes ground operation in Gaza beyond Yellow Line",
-   "blurb": "Hamas condemned the incursion, which the Israeli military said was to dismantle a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
-   "source": "BBC",
-   "ts": "2026-11-19T17:03:23+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "category": "Macro",
-   "headline": "Leftover pumpkins help deliver 1,000th free meal",
-   "blurb": "\"It's a really tough time for a lot of people,\" a sustainable food organisation says.",
-   "source": "BBC",
-   "ts": "2026-11-19T06:04:30+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c6x29jxgkjpno?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "category": "US Politics",
-   "headline": "Trump says he doesn't need help from Russia, China to end Iran war",
-   "blurb": "President Trump on Wednesday said he does not need Russia and China's help to conclude the Iran war, before meeting with the leaders of both countries for an unprecedented summit in China the following day. \"Well, you know, we don't need any help,\" Trump told Fox News's Jacqui Heinrich while in Shenzhen, China. \"We've defeated...",
-   "source": "The Hill",
-   "ts": "2026-11-19T20:07:42+00:00",
-   "url": "https://thehill.com/homenews/administration/6231130-trump-china-russia-summit-iran-war/"
-  },
-  {
-   "category": "India Politics",
-   "headline": "19-year-old B.Tech student found dead at hostel in VIT",
-   "blurb": "",
-   "source": "The Hindu",
-   "ts": "2026-11-19T19:32:30+00:00",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/19-year-old-btech-student-found-dead-at-hostel-in-vit/article71721316.ece"
-  },
-  {
-   "category": "AI",
-   "headline": "Canva adds an AI ‘off’ button",
-   "blurb": "Canva will now allow you to turn off its generative AI features. With this change, you can disable the graphic design platform's array of AI tools, such as its AI photo-extending Magic Expand feature, as well as turn off the ability to generate images with its Canva chatbot. This toggle doesn't turn off every AI-powered […]",
-   "source": "The Verge",
-   "ts": "2026-11-19T13:08:05+00:00",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button"
-  },
-  {
-   "category": "Equities",
-   "headline": "AI risks are the biggest threat to the financial system, Fed survey finds",
-   "blurb": "The report comes with Wall Street on edge over high-flying AI hyperscalers, while communities are on alert for the rapid spread of data centers.",
-   "source": "CNBC",
-   "ts": "2026-11-13T21:18:30+00:00",
-   "url": "https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html"
-  },
-  {
-   "category": "Crypto",
    "headline": "Bitcoin ETF outflows show waning crypto appetite ahead of Anthropic's Nasdaq debut",
    "blurb": "Your day-ahead look for Nov. 19, 2026",
    "source": "CoinDesk",
@@ -428,43 +428,43 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "Dozens missing after boat carrying migrants sinks off Senegal's coast",
-   "blurb": "At least four bodies have been recovered from the boat which was reportedly carrying between 50 and 100 people.",
+   "headline": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+   "blurb": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
    "source": "BBC",
-   "ts": "2026-11-19T15:52:26+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-19T23:33:51+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
-   "blurb": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
+   "headline": "Viagogo may have broken law on hidden fees, watchdog provisionally finds",
+   "blurb": "The UK's competition body says initial findings suggest the ticket-reselling website used drip pricing.",
    "source": "BBC",
-   "ts": "2026-11-19T02:59:06+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-19T13:35:52+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cmvg2ex7j30lo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Live updates: Trump, Xi, Putin issue peace declaration; Democrats' Iran war powers resolution fails again",
-   "blurb": "GOP senators again blocked a Democrat-backed resolution directing President Trump to withdraw U.S. troops from the conflict with Iran, despite the war contributing to Republicans' sweeping losses in November's midterms. Three Republicans voted with nearly the entire Senate Democratic caucus for the war powers resolution, which failed on a 48-51 vote after passing in the...",
+   "headline": "Intoxicating hemp could snarl government funding",
+   "blurb": "Presented by Coalition to Strengthen America’s Healthcare {beacon} Healthcare Healthcare The Big Story Intoxicating hemp could snarl government funding A pair of GOP senators say they won’t support any government funding bill if it includes language that delays or reverses the recriminalization of intoxicating hemp products. © AP Photo/Markus Schreiber After bipartisan legislation was introduced...",
    "source": "The Hill",
-   "ts": "2026-11-19T20:04:33+00:00",
-   "url": "https://thehill.com/homenews/administration/6229360-live-updates-trump-xi-putin-china-summit-crypto-alaska-tech-outages/"
+   "ts": "2026-11-19T23:42:08+00:00",
+   "url": "https://thehill.com/newsletters/healthcare/6231992-intoxicating-hemp-could-snarl-government-funding/"
   },
   {
    "category": "India Politics",
-   "headline": "Set aside differences and oppose Mekedatu dam, says TNCC president",
-   "blurb": "He also questions Prime Minister Narendra Modi’s silence when Karnataka Chief Minister D.K. Shivakumar spoke in favour of the project in his presence",
+   "headline": "Madhya Pradesh scraps two-child policy for Govt employees after 25 years",
+   "blurb": "The policy had been introduced in 2001 by the Congress government led by the then Chief Minister Digvijaya Singh as measure to check population rise",
    "source": "The Hindu",
-   "ts": "2026-11-19T19:16:32+00:00",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/set-aside-differences-and-oppose-mekedatu-dam-says-tncc-president/article71720861.ece"
+   "ts": "2026-11-20T01:47:45+00:00",
+   "url": "https://www.thehindu.com/news/national/madhya-pradesh/madhya-pradesh-scraps-two-child-policy-for-govt-employees-after-25-years/article71722904.ece"
   },
   {
    "category": "AI",
-   "headline": "The nation’s largest school districts consider ditching Google Search",
-   "blurb": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times. Starting next year, schools will not have the option to disable Gemini-powered features without also disabling Search. Chris Phillips, Google's vice […]",
+   "headline": "ChatGPT can transcribe as you speak now with Live Dictation",
+   "blurb": "ChatGPT can receive audio prompts from your microphone faster now with a Live Dictation feature that transcribes as you speak, rather than waiting until you finish recording. It's rolling out now globally on all ChatGPT plans on the web, desktop app, and iOS and Android apps. While using dictation in ChatGPT, you can tap or […]",
    "source": "The Verge",
-   "ts": "2026-11-18T23:18:35+00:00",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google"
+   "ts": "2026-11-19T15:16:45+00:00",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation"
   }
  ]
 }
