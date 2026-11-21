@@ -1,22 +1,22 @@
 {
- "updated": "2026-11-21T09:35:55+00:00",
+ "updated": "2026-11-21T17:19:49+00:00",
  "count": 58,
  "stories": [
   {
    "category": "Equities",
-   "headline": "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
-   "blurb": "Kevin Warsh sees AI at a turning point. He faces tough questions on jobs and interest rates.",
+   "headline": "Tech outages are fueling a new doomsday economy",
+   "blurb": "Recent technology outages have left some worried about AI cyberattacks and the U.S. electricity grid. The doomsday economy is heating up as a result.",
    "source": "CNBC",
-   "ts": "2026-11-20T21:07:08+00:00",
-   "url": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html"
+   "ts": "2026-11-21T15:04:56+00:00",
+   "url": "https://www.cnbc.com/2026/11/21/emergency-prep-spending-tech-outages.html"
   },
   {
    "category": "Crypto",
-   "headline": "Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
-   "blurb": "Bitcoin Core shipped fixes on Friday for a bug flagged by Loupe, an open-source scanner from Block’s Spiral that uses AI agents to examine bitcoin code.",
+   "headline": "Cross-chain protocol Chainflip's FLIP tanks 30% after suspected $4.86 million vault drain",
+   "blurb": "The withdrawal carried a valid signature, which Onchain Lens said points to a possible compromise of the key validators use to approve vault payouts.",
    "source": "CoinDesk",
-   "ts": "2026-11-21T06:16:42+00:00",
-   "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug"
+   "ts": "2026-11-21T16:41:00+00:00",
+   "url": "https://www.coindesk.com/business/2026/11/21/cross-chain-protocol-chainflip-s-flip-tanks-30-after-suspected-usd4-86-million-vault-drain"
   },
   {
    "category": "Gold",
@@ -28,11 +28,75 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "Deal with EU not dependent on tuition fees agreement, Miliband says",
-   "blurb": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
+   "headline": "FBI reportedly investigating apparent hack of its criminal database",
+   "blurb": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
    "source": "BBC",
-   "ts": "2026-11-21T09:27:51+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-21T16:35:15+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "category": "Macro",
+   "headline": "Sessions offer advice on rising energy costs",
+   "blurb": "A council is urging people to seek support with rising energy costs on heating this winter.",
+   "source": "BBC",
+   "ts": "2026-11-21T12:09:49+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cmy49l3x893jo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "category": "US Politics",
+   "headline": "Colom announces town hall in reddest county of Mississippi",
+   "blurb": "Sen.-elect Scott Colom (D-Miss.) will hold a town hall next Tuesday in the county where he received the lowest share of the vote in the midterms, he announced earlier this week, aligning with the Democrat's pledges to be “a senator for all Mississippi.” “Itawamba County is where I received my lowest percentage of the vote...",
+   "source": "The Hill",
+   "ts": "2026-11-21T16:41:07+00:00",
+   "url": "https://thehill.com/homenews/senate/6235221-colom-town-hall-red-itawamba-county/"
+  },
+  {
+   "category": "India Politics",
+   "headline": "‘Lathi haregi-Laptop jitega’: Akhilesh coins slogan aimed at youth, pushing development pitch",
+   "blurb": "SP says slogan echoes the popular sentiment of GenZ in U.P., which is fed up with the BJP’s ‘bulldozer raj’ and the unscientific agenda of the RSS being imposed over the Constitution and the rule of law",
+   "source": "The Hindu",
+   "ts": "2026-11-21T17:16:25+00:00",
+   "url": "https://www.thehindu.com/news/national/uttar-pradesh/lathi-haregi-laptop-jitega-akhilesh-coins-slogan-aimed-at-youth-pushing-development-pitch/article71728726.ece"
+  },
+  {
+   "category": "AI",
+   "headline": "Can Anthropic afford to put safety first?",
+   "blurb": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conversation, except to […]",
+   "source": "The Verge",
+   "ts": "2026-11-21T13:29:45+00:00",
+   "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure"
+  },
+  {
+   "category": "Equities",
+   "headline": "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+   "blurb": "Kevin Warsh sees AI at a turning point. He faces tough questions on jobs and interest rates.",
+   "source": "CNBC",
+   "ts": "2026-11-20T21:07:08+00:00",
+   "url": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html"
+  },
+  {
+   "category": "Crypto",
+   "headline": "Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
+   "blurb": "BTCS cut its reported Aave debt by about $10 million in ten days, but falling ether prices are keeping its collateral under pressure.",
+   "source": "CoinDesk",
+   "ts": "2026-11-21T12:30:00+00:00",
+   "url": "https://www.coindesk.com/markets/2026/11/21/ether-treasury-firm-btcs-warns-sec-its-usd54-million-aave-loan-could-be-liquidated"
+  },
+  {
+   "category": "Gold",
+   "headline": "Gold’s Three Black Crows Pattern Points to $3,231 if Trump Backs Netanyahu",
+   "blurb": "",
+   "source": "Investing.com",
+   "ts": "2026-11-20T18:02:00+00:00",
+   "url": "https://www.investing.com/analysis/golds-three-black-crows-pattern-points-to-3231-if-trump-backs-netanyahu-200692023"
+  },
+  {
+   "category": "Geopolitics",
+   "headline": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+   "blurb": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+   "source": "BBC",
+   "ts": "2026-11-21T14:54:24+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
@@ -44,19 +108,19 @@
   },
   {
    "category": "US Politics",
-   "headline": "Virginia reports first measles-related death of 2026",
-   "blurb": "A young child in Virginia died after testing positive for measles, the state's health department said Friday, marking the first death tied to the illness in the state this year. The department said the child was aged 0-4 but declined to share further identifying information, such as vaccination status or other details related to the...",
+   "headline": "The blue wave can fix America’s critical food safety and security gaps",
+   "blurb": "Preventing foodborne illness and providing food access for those in need will be a top focus of the next Congress.",
    "source": "The Hill",
-   "ts": "2026-11-21T04:20:20+00:00",
-   "url": "https://thehill.com/policy/healthcare/6234958-virginia-child-measles-death-elimination-status/"
+   "ts": "2026-11-21T16:00:00+00:00",
+   "url": "https://thehill.com/opinion/healthcare/6233880-congressional-food-safety-overhaul/"
   },
   {
    "category": "India Politics",
-   "headline": "Karnataka to make fresh bid for ST status for Kadugolla and Hattigolla communities",
-   "blurb": "The State Cabinet, chaired by CM D.K. Shivakumar on November 19, decided to renew its recommendation to the Union Government after obtaining fresh evidence through a comprehensive ethnographic study",
+   "headline": "Is forfeiting copies of a book the right way to handle ‘objectionable content’?",
+   "blurb": "The Constitution provides for a ban or forfeiture of a book on three grounds - national security, threat to public order and threat to public morality",
    "source": "The Hindu",
-   "ts": "2026-11-21T09:25:56+00:00",
-   "url": "https://www.thehindu.com/news/national/karnataka/karnataka-to-make-fresh-bid-for-st-status-for-kadugolla-and-hattigolla-communities/article71727749.ece"
+   "ts": "2026-11-21T17:15:55+00:00",
+   "url": "https://www.thehindu.com/news/national/karnataka/is-forfieting-copies-of-a-book-the-right-way-to-handle-objectionable-content/article71728747.ece"
   },
   {
    "category": "AI",
@@ -76,27 +140,19 @@
   },
   {
    "category": "Crypto",
-   "headline": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
-   "blurb": "The token broke its previous November lows during Saturday's crypto selloff, with long positions accounting for most XRP liquidations and technical indicators showing further weakness.",
+   "headline": "Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
+   "blurb": "Bitcoin Core shipped fixes on Friday for a bug flagged by Loupe, an open-source scanner from Block’s Spiral that uses AI agents to examine bitcoin code.",
    "source": "CoinDesk",
-   "ts": "2026-11-21T05:59:19+00:00",
-   "url": "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion"
-  },
-  {
-   "category": "Gold",
-   "headline": "Gold’s Three Black Crows Pattern Points to $3,231 if Trump Backs Netanyahu",
-   "blurb": "",
-   "source": "Investing.com",
-   "ts": "2026-11-20T18:02:00+00:00",
-   "url": "https://www.investing.com/analysis/golds-three-black-crows-pattern-points-to-3231-if-trump-backs-netanyahu-200692023"
+   "ts": "2026-11-21T06:16:42+00:00",
+   "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug"
   },
   {
    "category": "Geopolitics",
-   "headline": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
-   "blurb": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\".",
+   "headline": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+   "blurb": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
    "source": "BBC",
-   "ts": "2026-11-21T08:10:25+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-21T13:17:38+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
@@ -108,19 +164,19 @@
   },
   {
    "category": "US Politics",
-   "headline": "Democratic Sen.-elect Colom responds to Trump's praise",
-   "blurb": "Sen.-elect Scott Colom (D-Miss.) reacted in an interview Friday to President Trump’s recent praise of his midterm campaign strategy, saying his tactic of reaching out to Republicans during the election cycle shows how he plans to represent Mississippi. Colom went viral on the campaign trail for a video he shared in which he tried to...",
+   "headline": "Pelosi reflects on decades-long political career: 'They made me the villain'",
+   "blurb": "Rep. Nancy Pelosi (D-Calif.) reflected on her decades-long political journey this week as she gets ready to retire from Congress in 2027. “They made me the villain,” Pelosi said while discussing how her political career weighed on her family in an interview with “Tea&Vodka” hosted by Ebs Burnough. “You always have to have a villain;...",
    "source": "The Hill",
-   "ts": "2026-11-21T03:09:44+00:00",
-   "url": "https://thehill.com/homenews/campaign/6234930-scott-colom-trump-praise-response/"
+   "ts": "2026-11-21T15:58:12+00:00",
+   "url": "https://thehill.com/homenews/house/6235202-nancy-pelosi-congress-retirement/"
   },
   {
    "category": "India Politics",
-   "headline": "Karnataka Chief Minister to lead delegation to Japan for investment talks and urban-planning study",
-   "blurb": "The visit will focus on two areas: attracting fresh investments from Japanese companies and understanding Japan’s approach to urban planning, transport, waste management, and infrastructure development",
+   "headline": "Shivakumar challenges BJP to get ₹5,300 crore grant by Centre for Upper Bhadra Project",
+   "blurb": "",
    "source": "The Hindu",
-   "ts": "2026-11-21T09:25:47+00:00",
-   "url": "https://www.thehindu.com/news/national/karnataka/karnataka-chief-minister-to-lead-delegation-to-japan-for-investment-talks-and-urban-planning-study/article71727642.ece"
+   "ts": "2026-11-21T17:14:19+00:00",
+   "url": "https://www.thehindu.com/news/national/karnataka/shivakumar-challenges-bjp-to-get-5300-crore-grant-by-centre-for-upper-bhadra-project/article71728666.ece"
   },
   {
    "category": "AI",
@@ -140,19 +196,19 @@
   },
   {
    "category": "Crypto",
-   "headline": "Bitcoin tanks below $57,000 for the first time in two years, and its not alone",
-   "blurb": "BTC's sell-off deepened on Saturday, with prices hitting two-year lows under $57,000.",
+   "headline": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
+   "blurb": "The token broke its previous November lows during Saturday's crypto selloff, with long positions accounting for most XRP liquidations and technical indicators showing further weakness.",
    "source": "CoinDesk",
-   "ts": "2026-11-21T04:10:07+00:00",
-   "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone"
+   "ts": "2026-11-21T05:59:19+00:00",
+   "url": "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion"
   },
   {
    "category": "Geopolitics",
-   "headline": "Trafalgar Square Christmas tree felled in Norway",
-   "blurb": "The 21m tree is Oslo’s annual thank you for Britain’s support during World War Two.",
+   "headline": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+   "blurb": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
    "source": "BBC",
-   "ts": "2026-11-21T08:10:03+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cx8dv4327dnpo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-21T13:15:21+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
@@ -164,19 +220,19 @@
   },
   {
    "category": "US Politics",
-   "headline": "Former Jackson, Mississippi, mayor sentenced to federal prison for bribery",
-   "blurb": "The former mayor of Jackson, Miss., was sentenced to more than three years in federal prison after pleading guilty to bribery charges from his time in office. Former Mayor Chokwe Antar Lumumba (D) was indicted on charges related to a bribery scheme he admitted to engaging in alongside former Hinds County District Attorney Jody Owens...",
+   "headline": "Trump limits Congress's accesses to confidential agency, contractor information",
+   "blurb": "President Trump signed an executive order Friday seeking to block Congress from requesting certain information from federal agencies and their employees, an apparent response to Democrats' threats of sweeping probes into the administration when they take over Congress The order, titled \"Protecting the Executive's Privileges and Enhancing Efficiencies in Federal Contracting,\" says Congress cannot seek...",
    "source": "The Hill",
-   "ts": "2026-11-21T02:10:18+00:00",
-   "url": "https://thehill.com/homenews/state-watch/6234903-jackson-mayor-lumumba-sentenced/"
+   "ts": "2026-11-21T15:37:40+00:00",
+   "url": "https://thehill.com/homenews/administration/6235181-trump-executive-privilege-congress-investigations-order/"
   },
   {
    "category": "India Politics",
-   "headline": "Rajasthan panchayat polls: BJP's urban gains fail to translate into rural support",
-   "blurb": "The outcome is particularly significant as several BJP ministers faced electoral setbacks in their areas of influence",
+   "headline": "Will work to resolve fund crunch facing Edamalakudy: Minister",
+   "blurb": "Addressing the media, Local Self-Government Minister K.M. Shaji says that Edamalakudy, which has a predominantly tribal population, deserves special consideration from the government.",
    "source": "The Hindu",
-   "ts": "2026-11-21T09:25:16+00:00",
-   "url": "https://www.thehindu.com/news/national/rajasthan/bjps-urban-gains-fail-to-win-rural-support-in-rajasthan-panchayat-polls/article71727789.ece"
+   "ts": "2026-11-21T17:11:46+00:00",
+   "url": "https://www.thehindu.com/news/national/kerala/will-work-to-resolve-fund-crunch-facing-edamalakudy-minister/article71725562.ece"
   },
   {
    "category": "AI",
@@ -196,19 +252,19 @@
   },
   {
    "category": "Crypto",
-   "headline": "Kalshi races to get ahead of New York order that could shut down exchange",
-   "blurb": "The U.S. prediction market firm asked a New York court to give the company a chance to argue against a pending restraining order stemming from a new court loss.",
+   "headline": "Bitcoin tanks below $57,000 for the first time in two years, and its not alone",
+   "blurb": "BTC's sell-off deepened on Saturday, with prices hitting two-year lows under $57,000.",
    "source": "CoinDesk",
-   "ts": "2026-11-20T22:51:14+00:00",
-   "url": "https://www.coindesk.com/policy/2026/11/20/kalshi-races-to-get-ahead-of-new-york-order-that-could-shut-down-exchange"
+   "ts": "2026-11-21T04:10:07+00:00",
+   "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone"
   },
   {
    "category": "Geopolitics",
-   "headline": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-   "blurb": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+   "headline": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+   "blurb": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
    "source": "BBC",
-   "ts": "2026-11-21T07:31:05+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-21T10:26:36+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
@@ -220,19 +276,19 @@
   },
   {
    "category": "US Politics",
-   "headline": "California man found guilty of sparking blaze that became deadly Palisades Fire",
-   "blurb": "The Palisades Fire killed 12 people as it incinerated entire neighborhoods in Los Angeles and Malibu.",
+   "headline": "With two big wins in court, Trump may leave a lasting mark on defamation law",
+   "blurb": "Trump may now be close to achieving a meaningful clarification of the underlying standards in New York Times v. Sullivan.",
    "source": "The Hill",
-   "ts": "2026-11-21T01:30:51+00:00",
-   "url": "https://thehill.com/homenews/state-watch/6234829-uber-driver-palisades-fire-conviction/"
+   "ts": "2026-11-21T15:00:00+00:00",
+   "url": "https://thehill.com/opinion/white-house/6234303-nytimes-bbc-court-victories/"
   },
   {
    "category": "India Politics",
-   "headline": "Thousands of govt staff, teachers lay siege to Keralam Secretariat demanding service benefits, pay revision",
-   "blurb": "Protest organised by Action Council of State Employees and Teachers. Inaugurating the agitation, Opposition Leader Pinarayi Vijayan said the siege was a stern warning to State government against 'denying employees their legitimate rights’",
+   "headline": "Govt. will explore land allotment for tennis academy in Bengaluru: Deputy CM",
+   "blurb": "",
    "source": "The Hindu",
-   "ts": "2026-11-21T09:21:00+00:00",
-   "url": "https://www.thehindu.com/news/national/kerala/thousands-of-govt-staff-teachers-lay-siege-to-keralam-secretariat-demanding-service-benefits-pay-revision/article71727680.ece"
+   "ts": "2026-11-21T17:11:06+00:00",
+   "url": "https://www.thehindu.com/news/national/karnataka/govt-will-explore-land-allotment-for-tennis-academy-in-bengaluru-deputy-cm/article71729351.ece"
   },
   {
    "category": "AI",
@@ -252,19 +308,19 @@
   },
   {
    "category": "Crypto",
-   "headline": "Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment",
-   "blurb": "The firm is the latest to join in building blockchain-based stock markets under the agency’s five-year \"innovation exemption\" for tokenized trading.",
+   "headline": "Kalshi races to get ahead of New York order that could shut down exchange",
+   "blurb": "The U.S. prediction market firm asked a New York court to give the company a chance to argue against a pending restraining order stemming from a new court loss.",
    "source": "CoinDesk",
-   "ts": "2026-11-20T22:05:31+00:00",
-   "url": "https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment"
+   "ts": "2026-11-20T22:51:14+00:00",
+   "url": "https://www.coindesk.com/policy/2026/11/20/kalshi-races-to-get-ahead-of-new-york-order-that-could-shut-down-exchange"
   },
   {
    "category": "Geopolitics",
-   "headline": "Man convicted of starting Palisades fire in Los Angeles",
-   "blurb": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
+   "headline": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+   "blurb": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
    "source": "BBC",
-   "ts": "2026-11-21T04:34:00+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-21T09:40:55+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
@@ -276,19 +332,19 @@
   },
   {
    "category": "US Politics",
-   "headline": "Permitting reform bill clears major hurdle toward becoming law",
-   "blurb": "Presented by EQT {beacon} Energy & Environment Energy & Environment The Big Story Senate approves major permitting reform bill The Senate passed a major bill Thursday seeking to speed up the build-out of the nation’s energy production and infrastructure — taking a massive step toward the legislation becoming law. Greg Nash The bill was passed...",
+   "headline": "Cotton claims Lutnick ignored his 'many letters' warning of chip sales to China",
+   "blurb": "Sen. Tom Cotton (R-Ark.) said Commerce Secretary Howard Lutnick repeatedly ignored his warnings about U.S. AI chips being smuggled into China, long before reports surfaced about former Nvidia CEO Jensen Huang’s extramarital affair with an alleged Chinese spy. “If Howard Lutnick wanted my support, perhaps he should have responded to my many letters warning about...",
    "source": "The Hill",
-   "ts": "2026-11-21T01:16:29+00:00",
-   "url": "https://thehill.com/newsletters/energy-environment/6234873-senate-baaja-permitting-reform-energy-infrastructure/"
+   "ts": "2026-11-21T14:51:28+00:00",
+   "url": "https://thehill.com/policy/technology/6235143-senator-warned-commerce-lutnick-nvidia-chips/"
   },
   {
    "category": "India Politics",
-   "headline": "Watch: PM Modi to inaugurate ₹5,500-crore Nitish Setu in Bihar",
-   "blurb": "Prime Minister Narendra Modi is visiting Bihar on November 21 to inaugurate Nitish Setu, a 9.76-km-long, six-lane bridge across the Ganga built at a cost of ₹5,500 crore. Connecting Kacchi Dargah in Patna with Bidupur in Vaishali, the bridge is expected to improve connectivity between north and south Bihar, ease travel and boost regional transport.",
+   "headline": "World needs skilled youth, not merely degree-holders, says PM Modi",
+   "blurb": "ITI students deserve the same respect as IIT students, he says at ITIs convocation ceremony; the skills acquired at ITIs are not merely a means of securing employment but also an opportunity to participate directly in nation-building, PM Modi says",
    "source": "The Hindu",
-   "ts": "2026-11-21T09:07:33+00:00",
-   "url": "https://www.thehindu.com/videos/watch-pm-modi-to-inaugurate-5500-crore-nitish-setu-in-bihar/article71727803.ece"
+   "ts": "2026-11-21T17:04:44+00:00",
+   "url": "https://www.thehindu.com/news/national/uttar-pradesh/world-needs-skilled-youth-not-merely-degree-holders-says-pm-modi/article71729144.ece"
   },
   {
    "category": "AI",
@@ -308,19 +364,19 @@
   },
   {
    "category": "Crypto",
-   "headline": "Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play",
-   "blurb": "Bitcoin is closing in on its $57,700 summer low as Delphi Digital strategist warns the Fed could make matters worse and STS Digital sees cash as the place to hide.",
+   "headline": "Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment",
+   "blurb": "The firm is the latest to join in building blockchain-based stock markets under the agency’s five-year \"innovation exemption\" for tokenized trading.",
    "source": "CoinDesk",
-   "ts": "2026-11-20T18:13:52+00:00",
-   "url": "https://www.coindesk.com/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play"
+   "ts": "2026-11-20T22:05:31+00:00",
+   "url": "https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment"
   },
   {
    "category": "Geopolitics",
-   "headline": "They were fined $811m for conning detained migrants, but the scams didn't stop",
-   "blurb": "How convicted fraudsters made millions from detained immigrants, evaded efforts to shut down their bail business and left migrants behind bars.",
+   "headline": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+   "blurb": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\".",
    "source": "BBC",
-   "ts": "2026-11-21T01:02:39+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-21T08:10:25+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
@@ -332,19 +388,19 @@
   },
   {
    "category": "US Politics",
-   "headline": "Dem senators want ‘swift’ response to Russian airspace incursions",
-   "blurb": "Welcome to The Hill's Defense & NatSec newsletter {beacon} Defense &National Security Defense &National Security The Big Story Dem Senators want ‘swift’ response to Russian airspace incursions Multiple U.S. allies reporting Russian incursions into their airspace, has prompted two Democratic senators to press the Trump administration to respond immediately. © Greg Nash Sens. Jeanne Shaheen...",
+   "headline": "House to consider modified version of Protect College Sports Act",
+   "blurb": "The House will consider a slightly modified version of the Protect College Sports Act, a landmark bill governing college sports, as Congress aims to pass it into law before the end of the year. The bill already passed the Senate in a sweeping bipartisan vote in late September. After months of chaos surrounding player eligibility,...",
    "source": "The Hill",
-   "ts": "2026-11-21T01:05:56+00:00",
-   "url": "https://thehill.com/newsletters/defense-national-security/6234868-dem-senators-want-swift-response-to-russian-airspace-incursions/"
+   "ts": "2026-11-21T14:44:30+00:00",
+   "url": "https://thehill.com/homenews/house/6235147-house-protect-college-sports-act/"
   },
   {
    "category": "India Politics",
-   "headline": "U.S. court sentences Indian national Nikhil Gupta to 235 months in jail in Pannun murder plot",
-   "blurb": "Nikhil Gupta pleaded guilty earlier this year to charges of murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering, in connection with his efforts to murder Khalistani separatist Gurpatwant Singh Pannun in New York",
+   "headline": "Raichur is a treasure trove of Kannada literature, says Rajappa Dalawai",
+   "blurb": "",
    "source": "The Hindu",
-   "ts": "2026-11-21T09:01:11+00:00",
-   "url": "https://www.thehindu.com/news/national/us-court-sentences-indian-national-nikhil-gupta-to-235-months-in-jail-in-murder-for-hire-plot/article71725795.ece"
+   "ts": "2026-11-21T16:55:30+00:00",
+   "url": "https://www.thehindu.com/news/national/karnataka/raichur-is-a-treasure-trove-of-kannada-literature-says-rajappa-dalawai/article71728610.ece"
   },
   {
    "category": "AI",
@@ -364,19 +420,19 @@
   },
   {
    "category": "Crypto",
-   "headline": "Former Point72 head of proprietary research says AI could turn data into a new asset class for Wall Street",
-   "blurb": "A former Point72 executive says AI could reshape Wall Street's data market, turning once-exclusive information into a source of revenue and financing.",
+   "headline": "Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play",
+   "blurb": "Bitcoin is closing in on its $57,700 summer low as Delphi Digital strategist warns the Fed could make matters worse and STS Digital sees cash as the place to hide.",
    "source": "CoinDesk",
-   "ts": "2026-11-20T14:54:30+00:00",
-   "url": "https://www.coindesk.com/markets/2026/11/20/former-point72-head-of-proprietary-research-says-ai-could-turn-data-into-a-new-asset-class-for-wall-street"
+   "ts": "2026-11-20T18:13:52+00:00",
+   "url": "https://www.coindesk.com/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play"
   },
   {
    "category": "Geopolitics",
-   "headline": "ANC fights to keep control of South Africa's key cities after election setback",
-   "blurb": "The ANC appears reluctant to replicate its national power-sharing deal with the pro-business DA at the local level.",
+   "headline": "Trafalgar Square Christmas tree felled in Norway",
+   "blurb": "The 21m tree is Oslo’s annual thank you for Britain’s support during World War Two.",
    "source": "BBC",
-   "ts": "2026-11-21T00:34:51+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-21T08:10:03+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cx8dv4327dnpo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
@@ -388,83 +444,27 @@
   },
   {
    "category": "US Politics",
-   "headline": "Sotomayor suggests Supreme Court colleagues may applaud midterm results as safeguard",
-   "blurb": "Supreme Court Justice Sonia Sotomayor on Friday suggested her colleagues may view Democrats' sweeping victories in the midterm elections as a sign that their recent immunity decision has not eliminated checks on the president. Speaking in Philadelphia, the liberal justice replied \"absolutely\" when asked if her colleagues were counting on elections as an institutional safeguard...",
+   "headline": "Live updates: House races uncalled nearly 3 weeks post-election; Congress recesses",
+   "blurb": "Lawmakers are leaving Capitol Hill on Saturday after a jam-packed week of moving bills and confirming appointments, with the 119th Congress seeking to see through its legislative priorities before it permanently adjourns in January. Leaders on both sides of the aisle, including Speaker Mike Johnson (R-La.), expressed frustration this week with Congress members' low attendance...",
    "source": "The Hill",
-   "ts": "2026-11-21T00:27:39+00:00",
-   "url": "https://thehill.com/regulation/court-battles/6234774-justice-sotomayor-midterm-safeguards/"
+   "ts": "2026-11-21T14:01:34+00:00",
+   "url": "https://thehill.com/homenews/administration/6234849-live-congress-recess-midterm-results-trump/"
   },
   {
    "category": "India Politics",
-   "headline": "14 flights cancelled at Ranchi airport amid Cyclone 'Akvan' | LIVE",
-   "blurb": "Odisha Chief Minister said heavy rainfall was expected in Mayurbhanj and Balasore over the next 24 hours, with its impact likely to extend to neighbouring Jajpur, Bhadrak, Kendrapara and Jagatsinghpur districts",
+   "headline": "Dharwad to host State-level 10K cross-country run on Nov. 29",
+   "blurb": "The District Olympics Association is organising the event as part of the Rajyotsava celebrations",
    "source": "The Hindu",
-   "ts": "2026-11-21T08:56:59+00:00",
-   "url": "https://www.thehindu.com/news/national/cyclone-akvan-weakens-into-depression-imd-weather-news-live-updates-november-21-2026/article71727124.ece"
+   "ts": "2026-11-21T16:55:26+00:00",
+   "url": "https://www.thehindu.com/news/national/karnataka/dharwad-to-host-state-level-10k-cross-country-run-on-nov-29/article71720159.ece"
   },
   {
    "category": "AI",
-   "headline": "Anthropic starts trading on Wall Street",
-   "blurb": "Anthropic has officially gone public. It began trading on the Nasdaq under the ticker symbol \"ANT\" at $111.50 per share, up from its initial $83 per share price that put company's value at around $1.5 trillion. The listing comes nearly a month after Anthropic revealed its plans to go public. In its lengthy S-1 filing, […]",
+   "headline": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+   "blurb": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word. They're all part of Chess's new Classic Games platform, which is launching […]",
    "source": "The Verge",
-   "ts": "2026-11-19T21:22:34+00:00",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq"
-  },
-  {
-   "category": "Equities",
-   "headline": "Japan's economy unexpectedly contracts in third-quarter as elevated energy costs bite",
-   "blurb": "Energy subsidies for households had reportedly expired in September, exposing the economy to the higher energy prices brought about by the Iran war.",
-   "source": "CNBC",
-   "ts": "2026-11-16T02:56:24+00:00",
-   "url": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html"
-  },
-  {
-   "category": "Crypto",
-   "headline": "Hong Kong moves to extend crypto licensing rules to brokers, advisers and custodians",
-   "blurb": "Hong Kong wants to bring crypto brokers, advisers, asset managers and custodians under its existing regulatory framework.",
-   "source": "CoinDesk",
-   "ts": "2026-11-20T14:38:30+00:00",
-   "url": "https://www.coindesk.com/policy/2026/11/20/hong-kong-moves-to-extend-crypto-licensing-rules-to-brokers-advisers-and-custodians"
-  },
-  {
-   "category": "Geopolitics",
-   "headline": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
-   "blurb": "Plans to shutter the troubled facility date back to 2019, when the city council first voted to close it but delays arose over where to place inmates.",
-   "source": "BBC",
-   "ts": "2026-11-21T00:01:39+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "category": "Macro",
-   "headline": "The secret cyber scramble to protect UK fridge freezers",
-   "blurb": "A behind the scenes cyber-security operation has taken place to secure tens of thousands of refrigeration units from hackers, the BBC has learned.",
-   "source": "BBC",
-   "ts": "2026-11-20T15:08:16+00:00",
-   "url": "https://www.bbc.co.uk/news/videos/cqpv94x1zj89o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "category": "US Politics",
-   "headline": "Court formally approves $7.25B class settlement for cancer claims from Roundup weed killer",
-   "blurb": "A judge Friday formally approved a proposed $7.25 billion agreement to settle current and future cancer claims related to exposure of Monsanto’s Roundup weed killer. The decision, by Missouri Judge Timothy Boyer, wraps up years of litigation in which people alleged that their exposure to Roundup caused them to develop blood cancers known as non-Hodgkin...",
-   "source": "The Hill",
-   "ts": "2026-11-21T00:12:25+00:00",
-   "url": "https://thehill.com/policy/energy-environment/6234796-judge-approves-roundup-settlement/"
-  },
-  {
-   "category": "India Politics",
-   "headline": "Group of minors assault man, woman at Kurla garden; eight detained",
-   "blurb": "The attack took place at Pramod Mahajan Garden behind a mall in Kurla West, a police official said",
-   "source": "The Hindu",
-   "ts": "2026-11-21T08:55:40+00:00",
-   "url": "https://www.thehindu.com/news/cities/mumbai/group-of-minors-assault-man-woman-at-kurla-garden-eight-detained/article71727752.ece"
-  },
-  {
-   "category": "AI",
-   "headline": "Meta’s Muse Charm might cost $300",
-   "blurb": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the Charm \"in time for the holidays in December,\" but […]",
-   "source": "The Verge",
-   "ts": "2026-11-19T20:29:21+00:00",
-   "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price"
+   "ts": "2026-11-19T23:04:02+00:00",
+   "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai"
   }
  ]
 }
