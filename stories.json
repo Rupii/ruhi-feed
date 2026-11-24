@@ -1,7 +1,135 @@
 {
- "updated": "2026-11-24T05:53:28+00:00",
+ "updated": "2026-11-24T17:28:33+00:00",
  "count": 58,
  "stories": [
+  {
+   "category": "Equities",
+   "headline": "Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
+   "blurb": "The Conference Board survey released Tuesday showed improvement across the board, with the headline confidence index jumping to 103.3.",
+   "source": "CNBC",
+   "ts": "2026-11-24T16:06:07+00:00",
+   "url": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html"
+  },
+  {
+   "category": "Crypto",
+   "headline": "'AI trade never died': Traders see room for market recovery, but bitcoin's participation is another story",
+   "blurb": "Monday's tech enthusiasm is quickly fading on Tuesday, while bitcoin remains near bear-market lows.",
+   "source": "CoinDesk",
+   "ts": "2026-11-24T16:00:25+00:00",
+   "url": "https://www.coindesk.com/markets/2026/11/24/ai-trade-never-died-traders-see-room-for-market-recovery-despite-bitcoin-s-weakness"
+  },
+  {
+   "category": "Gold",
+   "headline": "Silver Price Forecast 2026: Is XAG/USD Set to Rally Above $43.95?",
+   "blurb": "",
+   "source": "Investing.com",
+   "ts": "2026-11-24T17:03:00+00:00",
+   "url": "https://www.investing.com/analysis/silver-price-forecast-2026-is-xagusd-set-to-rally-above-4395-200692179"
+  },
+  {
+   "category": "Geopolitics",
+   "headline": "Zimbabwean convicted in South Africa of trying to fight in Ukraine",
+   "blurb": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine.",
+   "source": "BBC",
+   "ts": "2026-11-24T17:04:00+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cmqj5qlj5yz9o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "category": "Macro",
+   "headline": "Nvidia shares slide as Trump's role in Jensen Huang's comeback questioned by US politicians",
+   "blurb": "Nvidia's stock market value surged on the annoucement of Huang's reappointment, but some of the gains reversed in Tuesday trading.",
+   "source": "BBC",
+   "ts": "2026-11-24T17:04:20+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "category": "US Politics",
+   "headline": "It's up to the Supreme Court to save academic freedom in the US",
+   "blurb": "Never in American history has academic freedom been under such pressure.",
+   "source": "The Hill",
+   "ts": "2026-11-24T17:00:00+00:00",
+   "url": "https://thehill.com/opinion/education/6234029-scotus-academic-freedom-first-amendment/"
+  },
+  {
+   "category": "India Politics",
+   "headline": "Thirupparankundram: Nainar Nagenthran detained, protests erupt over deepam",
+   "blurb": "High drama unfolded across Tamil Nadu as the Karthigai Maha Deepam was lit at the customary Deepa Mandapam near the Uchipillaiyar Temple instead of the disputed Deepathoon pillar, triggering protests and detentions of BJP leaders.",
+   "source": "The Hindu",
+   "ts": "2026-11-24T17:18:36+00:00",
+   "url": "https://www.thehindu.com/videos/thirupparankundram-nainar-nagenthran-detained-protests-erupt-over-deepam/article71739877.ece"
+  },
+  {
+   "category": "AI",
+   "headline": "Tidal will start banning AI-generated music next month",
+   "blurb": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per day, according to Tidal music lead Robert Andersen. The move comes just months after Tidal began labeling and demonetizing tracks identified as 100 […]",
+   "source": "The Verge",
+   "ts": "2026-11-24T17:17:09+00:00",
+   "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban"
+  },
+  {
+   "category": "Equities",
+   "headline": "Why France is at risk of recession — and what could keep it out of one",
+   "blurb": "Bank of France Governor Emmanuel Moulin told CNBC he still expects growth, pointing to resilience in sectors including defense, aerospace and electricity.",
+   "source": "CNBC",
+   "ts": "2026-11-24T11:15:30+00:00",
+   "url": "https://www.cnbc.com/2026/11/24/france-recession-risk-pmi.html"
+  },
+  {
+   "category": "Crypto",
+   "headline": "Anchorage Digital to unveil new asset-management subsidiary",
+   "blurb": "The crypto custody technology firm said it will unveil a separate subsidiary called 61st Parallel Asset Management.",
+   "source": "CoinDesk",
+   "ts": "2026-11-24T15:06:32+00:00",
+   "url": "https://www.coindesk.com/business/2026/11/24/anchorage-digital-to-unveil-new-asset-management-subsidiary"
+  },
+  {
+   "category": "Gold",
+   "headline": "Gold Futures Face Fresh Selling Pressure as $3,531 Resistance Holds Firm",
+   "blurb": "",
+   "source": "Investing.com",
+   "ts": "2026-11-24T15:07:00+00:00",
+   "url": "https://www.investing.com/analysis/gold-futures-face-fresh-selling-pressure-as-3531-resistance-holds-firm-200692228"
+  },
+  {
+   "category": "Geopolitics",
+   "headline": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
+   "blurb": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
+   "source": "BBC",
+   "ts": "2026-11-24T16:37:04+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "category": "Macro",
+   "headline": "Four generations of a family working in one factory",
+   "blurb": "Four generations of the Avis family have now worked at Sweetnam & Bradley in Malmesbury.",
+   "source": "BBC",
+   "ts": "2026-11-24T16:42:46+00:00",
+   "url": "https://www.bbc.co.uk/news/videos/ck7v2r6j1yl3o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "category": "US Politics",
+   "headline": "Top House Democrat calls for public hearing with Jensen Huang",
+   "blurb": "A ranking member of the House Foreign Affairs Committee on Tuesday called for a public hearing from recently reinstated Nvidia CEO Jensen Huang, who has been facing mounting scrutiny over reports of a relationship with an alleged Chinese spy. “The American People deserve to hear publicly from Mr. Huang about how potentially billions of dollars’...",
+   "source": "The Hill",
+   "ts": "2026-11-24T16:52:33+00:00",
+   "url": "https://thehill.com/policy/technology/6240078-top-house-democrat-calls-for-public-hearing-with-jensen-huang/"
+  },
+  {
+   "category": "India Politics",
+   "headline": "Samajwadi Party reveals 5 candidates for Uttar Pradesh Assembly elections",
+   "blurb": "Party president Akhilesh Yadav urged the Congress to understand public expectations and realities and engage in serious discussions to ensure victory for alliance in most seats",
+   "source": "The Hindu",
+   "ts": "2026-11-24T17:07:04+00:00",
+   "url": "https://www.thehindu.com/news/national/uttar-pradesh/samajwadi-party-reveals-5-candidates-for-uttar-pradesh-assembly-elections/article71739826.ece"
+  },
+  {
+   "category": "AI",
+   "headline": "The New York Times warns photographers not to update Photoshop over AI features",
+   "blurb": "The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI \"in ways that may not be apparent to users.\" In an email seen by The Verge and posted on Threads, two of the Times' photography leaders, Meaghan Looram and Josh […]",
+   "source": "The Verge",
+   "ts": "2026-11-24T16:52:41+00:00",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features"
+  },
   {
    "category": "Equities",
    "headline": "Peterson: Here’s what Bessent’s about-face on Jensen Huang reveals about Trump and China",
@@ -12,59 +140,51 @@
   },
   {
    "category": "Crypto",
-   "headline": "U.S. CFTC sets policies on event contract data, using crypto to check financial boxes",
-   "blurb": "The derivatives regulator issues a rule on data reporting for event contracts and new guidance for how crypto assets can be used to meet regulatory requirements.",
+   "headline": "South Korea proposes ending 2017 ICO ban to boost jobs and onshore crypto investment",
+   "blurb": "Token issuers would have to disclose how they plan to spend investors' money and could face criminal charges for misleading buyers.",
    "source": "CoinDesk",
-   "ts": "2026-11-24T00:25:04+00:00",
-   "url": "https://www.coindesk.com/policy/2026/11/23/u-s-cftc-sets-policies-on-event-contract-data-using-crypto-to-check-financial-boxes"
-  },
-  {
-   "category": "Gold",
-   "headline": "Oil Glut Pricing Pushes War Risk to the Edge of the Market",
-   "blurb": "",
-   "source": "Investing.com",
-   "ts": "2026-11-23T21:38:00+00:00",
-   "url": "https://www.investing.com/analysis/oil-glut-pricing-pushes-war-risk-to-the-edge-of-the-market-200692176"
+   "ts": "2026-11-24T14:40:53+00:00",
+   "url": "https://www.coindesk.com/policy/2026/11/24/south-korea-proposes-ending-2017-ico-ban-to-boost-jobs-and-onshore-crypto-investment"
   },
   {
    "category": "Geopolitics",
-   "headline": "India's 'cockroach' party leader says he was stopped from flying to UK",
-   "blurb": "Saurav Das said that immigration authorities at Delhi airport told him that his passport had been \"flagged\".",
+   "headline": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
+   "blurb": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
    "source": "BBC",
-   "ts": "2026-11-24T05:33:07+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-24T16:31:26+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "I pay £250 a month for someone else to do my life admin - it's worth it",
-   "blurb": "Busy mothers on both sides of the Atlantic are paying companies to handle their to-do lists.",
+   "headline": "World Cup drove profits surge, says Marston's",
+   "blurb": "The company says an \"excellent World Cup\" helped drive strong trading as annual profits rose by 18%.",
    "source": "BBC",
-   "ts": "2026-11-24T00:01:04+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c6zjr3g13zkno?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-24T13:03:20+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cm7523pyk75lo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Army proceeding with lead detonation on Wednesday",
-   "blurb": "The Army is going ahead with detonating lead-containing munitions in Iowa on Wednesday after President Trump threw additional uncertainty into the controversy on Monday. “We are proceeding with the controlled removal in full coordination with all state, local and federal authorities, because the safety of Iowa's citizens comes first,” said acting Army Secretary Adam Telle...",
+   "headline": "Live updates: Huang return to Nvidia faces resistance; Army sets Iowa lead detonation",
+   "blurb": "Nvidia co-founder Jensen Huang was reinstated as the company’s CEO on Monday in a dramatic reversal by the chipmaker’s board following his resignation after the tech mogul admitted to affairs, which reportedly were with a woman suspected of having ties to Chinese intelligence and a subordinate. Huang returned to the company’s headquarters Monday to cheers...",
    "source": "The Hill",
-   "ts": "2026-11-24T04:06:29+00:00",
-   "url": "https://thehill.com/policy/energy-environment/6239030-army-detonates-lead-munitions-iowa/"
+   "ts": "2026-11-24T16:32:00+00:00",
+   "url": "https://thehill.com/homenews/administration/6238916-live-updates-jensen-huang-nvidia-donald-trump-administration-reconciliation-spending-bill-debate/"
   },
   {
    "category": "India Politics",
-   "headline": "TNCC president Manickam Tagore demands legal action against TVK MLA",
-   "blurb": "The State government should immediately intervene and take action ensuring that the woman district Collector gets justice",
+   "headline": "APSSDC to organise overseas recruitment drive in Visakhapatnam",
+   "blurb": "",
    "source": "The Hindu",
-   "ts": "2026-11-24T05:48:55+00:00",
-   "url": "https://www.thehindu.com/news/cities/Madurai/tncc-president-manickam-tagore-demands-legal-action-against-tvk-mla/article71737123.ece"
+   "ts": "2026-11-24T17:06:34+00:00",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/apssdc-to-organise-overseas-recruitment-drive-in-visakhapatnam/article71739526.ece"
   },
   {
    "category": "AI",
-   "headline": "Tech leaders are celebrating Jensen Huang’s return",
-   "blurb": "Let's say you're Jensen Huang. You (allegedly) cheated on your wife with an alleged Chinese spy, allegedly had an affair with not one, but two subordinates, and (allegedly!) \"terrorized\" your employees, a series of indiscretions that led to your ouster from what was once the world's most valuable company. (The stock price has recently taken […]",
+   "headline": "Nvidia CEO Jensen Huang is back. What happens next?",
+   "blurb": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Times reported there was evidence of another affair, this time with an Nvidia executive who reported directly to him, a board meeting that night ended […]",
    "source": "The Verge",
-   "ts": "2026-11-23T22:35:30+00:00",
-   "url": "https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay"
+   "ts": "2026-11-24T16:21:52+00:00",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang"
   },
   {
    "category": "Equities",
@@ -76,59 +196,51 @@
   },
   {
    "category": "Crypto",
-   "headline": "New York judge declines to block Kalshi from operating in the state for now",
-   "blurb": "Judge Melissa Crane did not shut down Kalshi's operations in a hearing Monday, but did say she wanted both parties to present their full arguments in an expedited fashion.",
+   "headline": "Crypto trader Ansem says his wallet was hacked as $2 million in memecoins were sold",
+   "blurb": "Ansem suspects someone broke into his account on Bullpen, the trading terminal he co-founded, where the wallet's private key had been imported.",
    "source": "CoinDesk",
-   "ts": "2026-11-23T18:22:03+00:00",
-   "url": "https://www.coindesk.com/policy/2026/11/23/new-york-judge-declines-to-block-kalshi-from-operating-in-the-state-for-now"
-  },
-  {
-   "category": "Gold",
-   "headline": "Bargain Hunting: Why Off-Price Retail Is Winning",
-   "blurb": "",
-   "source": "Investing.com",
-   "ts": "2026-11-23T19:37:00+00:00",
-   "url": "https://www.investing.com/analysis/bargain-hunting-why-offprice-retail-is-winning-200692168"
+   "ts": "2026-11-24T12:47:49+00:00",
+   "url": "https://www.coindesk.com/markets/2026/11/24/a-wallet-linked-to-popular-crypto-trader-ansem-sold-usd2-million-in-memecoins-as-his-namesake-token-cratered"
   },
   {
    "category": "Geopolitics",
-   "headline": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
-   "blurb": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
+   "headline": "Israeli air strike kills Hamas internal security chief in Gaza",
+   "blurb": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday.",
    "source": "BBC",
-   "ts": "2026-11-24T04:36:31+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-24T15:35:53+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "A comeback for the ages: Trump's influence on Huang's return to Nvidia",
-   "blurb": "The BBC's business correspondent Michelle Fleury explains what role Trump's support played in Huang's comeback.",
+   "headline": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+   "blurb": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
    "source": "BBC",
-   "ts": "2026-11-23T21:40:30+00:00",
-   "url": "https://www.bbc.co.uk/news/videos/ckp80d5nl586o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-24T10:53:37+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Army wants to resume helicopter flights near Reagan National airport",
-   "blurb": "The Army is seeking federal approval to resume helicopter training flights near Ronald Reagan Washington National Airport, drawing safety concerns nearly two years after a deadly midair collision over the Potomac River killed 67 people. Rep. Don Beyer (D-Va.), whose district includes the airport, said Monday that Army officials informed his office during a briefing...",
+   "headline": "Trump shares meme of Jensen Huang raising red bra in air",
+   "blurb": "President Trump celebrated the return of Nvidia CEO Jensen Huang in a Truth Social post Monday, sharing a meme riffing off the famous image of then-candidate Trump after his attempted 2024 assassination in Butler, Pa. The photo, which appears to be AI-generated, shows Huang with blood on his face and a fist in the air...",
    "source": "The Hill",
-   "ts": "2026-11-24T04:02:29+00:00",
-   "url": "https://thehill.com/policy/transportation/6239029-army-seeks-reagan-national-flight-approval/"
+   "ts": "2026-11-24T16:31:38+00:00",
+   "url": "https://thehill.com/homenews/administration/6239971-trump-jensen-huang-ai-meme/"
   },
   {
    "category": "India Politics",
-   "headline": "Why has the Musafirkhana building linked to Dawood Ibrahim been in court for 23 years? | Explained",
-   "blurb": "Why is the Musafirkhana facing demolition? What is the dispute over its Waqf status? Why has the Bombay High Court ordered status quo?",
+   "headline": "Bullayya College to hold national seminar on microbiology",
+   "blurb": "",
    "source": "The Hindu",
-   "ts": "2026-11-24T05:48:47+00:00",
-   "url": "https://www.thehindu.com/news/national/why-has-the-musafirkhana-building-linked-to-dawood-ibrahim-been-in-court-for-23-years-explained/article71737348.ece"
+   "ts": "2026-11-24T17:04:58+00:00",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/bullayya-college-to-hold-national-seminar-on-microbiology/article71739498.ece"
   },
   {
    "category": "AI",
-   "headline": "Trump engineered a risky comeback for Jensen Huang",
-   "blurb": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A. Smith's radio show shortly after the news came out, Trump said that Huang would \"end up on his feet.\" […]",
+   "headline": "Jensen Huang deepfakes are the hot new AI slop",
+   "blurb": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket. Suddenly, from behind him, Alice Huang - the Chinese technology executive and suspected spy he […]",
    "source": "The Verge",
-   "ts": "2026-11-23T22:34:20+00:00",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated"
+   "ts": "2026-11-24T16:18:12+00:00",
+   "url": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes"
   },
   {
    "category": "Equities",
@@ -140,51 +252,51 @@
   },
   {
    "category": "Crypto",
-   "headline": "Nvidia's Jensen Huang faces Senate scrutiny despite Trump-backed return as CEO",
-   "blurb": "Congressional scrutiny will continue even as CEO returns to lead the company after his affair scandal and its national-security implications.",
+   "headline": "Live updates: Bitcoin pulls back below $60,000, stock rally fades, as tariffs re-enter the picture",
+   "blurb": "The Trump Administration could unveil tariff hikes against China, Japan, South Korea and other countries as soon as this week, according to a WSJ report.",
    "source": "CoinDesk",
-   "ts": "2026-11-23T18:12:05+00:00",
-   "url": "https://www.coindesk.com/business/2026/11/23/nvidia-s-jensen-huang-faces-senate-scrutiny-despite-trump-backed-return-as-ceo"
+   "ts": "2026-11-24T12:47:40+00:00",
+   "url": "https://www.coindesk.com/tech/2026/11/24/live-updates-bitcoin-pulls-back-to-usd60-000-as-stock-rally-fails-to-budge-crypto"
   },
   {
    "category": "Geopolitics",
-   "headline": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
-   "blurb": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
+   "headline": "Land mine casualties soar in Syria, two years after war",
+   "blurb": "Nearly 1,000 children are among those killed or injured by explosives left over from the conflict, figures show.",
    "source": "BBC",
-   "ts": "2026-11-24T02:15:59+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-24T15:17:28+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
-   "blurb": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5%.",
+   "headline": "The shake-up facing renters as a new kind of landlord emerges",
+   "blurb": "Companies building flats that they then rent out could usher in big changes for renters.",
    "source": "BBC",
-   "ts": "2026-11-23T21:23:42+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-24T00:28:48+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c6n90g2l82d1o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "White House sends Congress 'anomalies' request to keep federal agencies funded",
-   "blurb": "The White House is asking Congress to include billions of dollars in additional funding in a stopgap spending bill to fund federal agencies that lawmakers are expected to take up next month. The 12-page “anomalies” request sent Monday, reported by Politico, outlines a series of exceptions to current spending levels that would allow the Trump...",
+   "headline": "AI could make the economy grow yet still leave workers behind",
+   "blurb": "Business leaders must act now to help workers adapt, prepare those at risk of displacement and ensure that AI's economic benefits are broadly shared.",
    "source": "The Hill",
-   "ts": "2026-11-24T03:18:42+00:00",
-   "url": "https://thehill.com/homenews/administration/6238980-white-house-requests-stopgap-funding/"
+   "ts": "2026-11-24T16:30:00+00:00",
+   "url": "https://thehill.com/opinion/technology/6238353-preventing-ai-driven-job-displacement/"
   },
   {
    "category": "India Politics",
-   "headline": "Keralam Devaswom Minister cites booking system glitches, ‘bulk slot sales’ for dip in Sabarimala pilgrim numbers",
-   "blurb": "He said that in view of many pilgrims not turning up after booking through virtual queue, instructions have been given to increase spot booking slots, but it requires approval of Kerala High Court",
+   "headline": "No defence data breach, says Government, as security agencies asked to audit messaging groups",
+   "blurb": "A high-level meeting has been convened at the Ministry of Home Affairs on Wednesday to discuss issues related to data breaches and cyber safety",
    "source": "The Hindu",
-   "ts": "2026-11-24T05:44:47+00:00",
-   "url": "https://www.thehindu.com/news/national/kerala/keralam-devaswom-minister-cites-booking-system-glitches-bulk-slot-sales-for-dip-in-sabarimala-pilgrim-numbers/article71737285.ece"
+   "ts": "2026-11-24T17:02:11+00:00",
+   "url": "https://www.thehindu.com/news/national/no-defence-data-breach-says-government-as-security-agencies-asked-to-audit-messaging-groups/article71739323.ece"
   },
   {
    "category": "AI",
-   "headline": "Welcome to elite impunity, Jensen Huang",
-   "blurb": "I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened. Now, those of us who had some kind of basic education on what a \"free market\" is might […]",
+   "headline": "Trump engineered a risky comeback for Jensen Huang",
+   "blurb": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A. Smith's radio show shortly after the news came out, Trump said that Huang would \"end up on his feet.\" […]",
    "source": "The Verge",
-   "ts": "2026-11-23T22:21:36+00:00",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang"
+   "ts": "2026-11-23T22:34:20+00:00",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated"
   },
   {
    "category": "Equities",
@@ -196,51 +308,51 @@
   },
   {
    "category": "Crypto",
-   "headline": "Bitcoin rebound already losing steam as AI trade returns with a bang",
-   "blurb": "Nvidia jumped more than 30% and has recovered most of its losses since CEO Jensen Huang stepped down, but bitcoin is lagging as U.S. selling persists, traders said.",
+   "headline": "Bitcoin drops as November spot ETF outflows increase to record $4.71 billion",
+   "blurb": "Your day-ahead look for Nov. 24, 2026",
    "source": "CoinDesk",
-   "ts": "2026-11-23T17:31:27+00:00",
-   "url": "https://www.coindesk.com/markets/2026/11/23/bitcoin-rebound-already-losing-steam-as-ai-trade-returns-with-a-bank"
+   "ts": "2026-11-24T12:36:28+00:00",
+   "url": "https://www.coindesk.com/daybook-us/2026/11/24/bitcoin-drops-as-november-spot-etf-outflows-increase-to-record-usd4-71-billion"
   },
   {
    "category": "Geopolitics",
-   "headline": "How Nvidia is reacting to Jensen Huang's return as CEO",
-   "blurb": "BBC's Lily Jamali reports from Nvidia's headquarters, where she gauges the reaction to Huang's return after Trump says he brokered a deal.",
+   "headline": "Russian governor detained in rare criminal case against regional leader",
+   "blurb": "Andrei Chibis, head of Russia's northern Murmansk region, is the first governor to be detained for five years.",
    "source": "BBC",
-   "ts": "2026-11-24T01:21:41+00:00",
-   "url": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-24T12:45:43+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cmwy868v3nneo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "'Biggest U-turn in economic history': Experts react to Jensen Huang's return to Nvidia",
-   "blurb": "The Nvidia CEO was reinstated after weeks of controversy over his affair with an alleged Chinese spy.",
+   "headline": "BBC secret filming shows dog breeder selling sick puppies for £2k each",
+   "blurb": "The breeder's rating was downgraded but he continued to advertise as five-star, investigation finds.",
    "source": "BBC",
-   "ts": "2026-11-23T18:43:00+00:00",
-   "url": "https://www.bbc.co.uk/news/videos/cq8r7e35mkzlo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-24T00:11:08+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c8d36d43y8po?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Heavily redacted documents detailing raid on Omar's house unsealed",
-   "blurb": "A federal court on Monday released unsealed records related to the search of Rep. Ilhan Omar’s (D-Minn.) Washington, D.C., home last month after federal prosecutors made a last-minute attempt to block the release of the files. The heavily redacted documents reveal some information regarding the scope of the investigation, in which federal investigators sought evidence...",
+   "headline": "Giuliani 'very, very humbled' to be getting Presidential Medal of Freedom",
+   "blurb": "President Trump will award former New York City Mayor Rudy Giuliani (R) the Presidential Medal of Freedom on Tuesday, more than a year after he announced plans to bestow the nation’s highest civilian honor on his longtime ally. Giuliani, 82, revealed during a Monday appearance on Steve Bannon’s “War Room” podcast that Trump would present...",
    "source": "The Hill",
-   "ts": "2026-11-24T02:15:17+00:00",
-   "url": "https://thehill.com/regulation/court-battles/6238953-omar-search-records-unsealed/"
+   "ts": "2026-11-24T16:28:55+00:00",
+   "url": "https://thehill.com/homenews/administration/6240011-trump-to-award-giuliani-medal/"
   },
   {
    "category": "India Politics",
-   "headline": "Keralam actor Sreejith Ravi sentenced to 1-year imprisonment in POCSO case",
-   "blurb": "Sentence has been suspended for a month, and the actor has been granted bail to challenge the verdict before a higher court",
+   "headline": "Maharashtra panel recommends ₹10 crore fine, 10-year jail term for those guilty of exam paper leaks",
+   "blurb": "Panel, headed by TISS director, calls for task force and special courts to deal with leak cases, the creation of a body to manage exam venues, third-party audits, cyber security measures, and monitoring devices",
    "source": "The Hindu",
-   "ts": "2026-11-24T05:42:24+00:00",
-   "url": "https://www.thehindu.com/news/national/kerala/actor-sreejith-ravi-sentenced-to-one-year-imprisonment-in-pocso-case/article71735071.ece"
+   "ts": "2026-11-24T16:58:59+00:00",
+   "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-panel-recommends-10-crore-fine-life-imprisonment-for-those-guilty-of-exam-paper-leaks/article71739284.ece"
   },
   {
    "category": "AI",
-   "headline": "Nvidia CEO Jensen Huang is back. What happens next?",
-   "blurb": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Times reported there was evidence of another affair, this time with an Nvidia executive who reported directly to him, a board meeting that night ended […]",
+   "headline": "Welcome to elite impunity, Jensen Huang",
+   "blurb": "I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened. Now, those of us who had some kind of basic education on what a \"free market\" is might […]",
    "source": "The Verge",
-   "ts": "2026-11-23T22:18:13+00:00",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang"
+   "ts": "2026-11-23T22:21:36+00:00",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang"
   },
   {
    "category": "Equities",
@@ -252,43 +364,43 @@
   },
   {
    "category": "Crypto",
-   "headline": "Cathie Wood's ARK Invest pulls the plug on two planned crypto ETFs",
-   "blurb": "ProShares' rival CoinDesk 20 Crypto ETF (KRYP) holds $1.81 million in assets nearly 10 months post-launch.",
+   "headline": "JPMorgan, HSBC and StoneX complete first digital gold trades in London",
+   "blurb": "The banks tested a new way to trade fractions of physical gold bars and use the metal as collateral without moving it from vaults for the first time.",
    "source": "CoinDesk",
-   "ts": "2026-11-23T16:39:03+00:00",
-   "url": "https://www.coindesk.com/business/2026/11/23/cathie-wood-s-ark-invest-pulls-the-plug-on-two-planned-crypto-etfs"
+   "ts": "2026-11-24T12:04:39+00:00",
+   "url": "https://www.coindesk.com/business/2026/11/24/jpmorgan-hsbc-and-stonex-complete-first-digital-gold-trades-in-london"
   },
   {
    "category": "Geopolitics",
-   "headline": "King Charles and Elton John pay tribute to Australian music legend Molly Meldrum",
-   "blurb": "The promoter and broadcaster helped define the music tastes of Australians for decades.",
+   "headline": "Car bomb tears through Colombian city wounding more than 20",
+   "blurb": "The explosion is the latest in a string of attacks on buildings housing the security forces and government offices.",
    "source": "BBC",
-   "ts": "2026-11-24T00:23:25+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c3qj57rkd2k1o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-24T11:45:52+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Pip assessments need 'fundamental overhaul', report to say",
-   "blurb": "Disability Minister Sir Stephen Timms says he will recommend major reforms to the personal independence payment.",
+   "headline": "I pay £250 a month for someone else to do my life admin - it's worth it",
+   "blurb": "Busy mothers on both sides of the Atlantic are paying companies to handle their to-do lists.",
    "source": "BBC",
-   "ts": "2026-11-23T17:59:55+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-24T00:01:04+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c6zjr3g13zkno?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Trump, incoming Iowa governor, punt Army lead detonation back and forth",
-   "blurb": "Welcome to The Hill's Defense & NatSec newsletter {beacon} Defense &National Security Defense &National Security The Big Story Trump, incoming Iowa governor, punt Army lead detonation back and forth The Army’s plan to detonate tons of explosive lead material in Iowa is in limbo on Monday after Iowa Gov.-elect Rob Sand (D) passed the decision...",
+   "headline": "Nebraska senator announces husband's death: 'Our family is heartbroken'",
+   "blurb": "Sen. Deb Fischer (R-Neb.) said Monday that her husband had died, calling him her “greatest source of strength.” In a statement on the social platform X, Fischer said, “It is with a heavy heart that I share the passing of my beloved husband, Bruce.” “Bruce was my partner in life, my greatest source of strength,...",
    "source": "The Hill",
-   "ts": "2026-11-24T00:20:29+00:00",
-   "url": "https://thehill.com/newsletters/defense-national-security/6238857-trump-sand-iowa-lead-detonation/"
+   "ts": "2026-11-24T16:06:12+00:00",
+   "url": "https://thehill.com/homenews/senate/6239912-senator-deb-fischer-husband-dies/"
   },
   {
    "category": "India Politics",
-   "headline": "SUV-truck collision in Lakhisarai, Bihar: Five killed, three injured",
-   "blurb": "The accident took place near Gunsagar village in Tetarhat police station area on the Lakhisarai-Jamui main road",
+   "headline": "The first genocide conviction of a state: What it means | The Hindu Editorial",
+   "blurb": "The International Court of Justice has found Myanmar responsible for committing genocide against the Rohingya, marking the first time the world’s highest court has held a state liable for the crime.",
    "source": "The Hindu",
-   "ts": "2026-11-24T05:40:55+00:00",
-   "url": "https://www.thehindu.com/news/national/bihar/suv-truck-collision-in-lakhisarai-bihar-five-killed-three-injured/article71737269.ece"
+   "ts": "2026-11-24T16:51:54+00:00",
+   "url": "https://www.thehindu.com/videos/the-first-genocide-conviction-of-a-state-what-it-means-the-hindu-editorial/article71739738.ece"
   },
   {
    "category": "AI",
@@ -308,43 +420,43 @@
   },
   {
    "category": "Crypto",
-   "headline": "Binance hackers push $247 million through transactions designed to cloud the source",
-   "blurb": "Elliptic found that nearly all the mixing transactions, known as coinjoins, were coordinated by an entity called Kruw during fixed daily hours, suggesting potential handoffs to China-based money launderers.",
+   "headline": "Bitcoin hands back Monday's Nvidia-driven gains, liquidations triple",
+   "blurb": "Bitcoin (BTC) has dropped 2.2% since midnight UTC to around $59,900, giving back Monday's jump and lagging the stock market's rebound from last week's selloff.",
    "source": "CoinDesk",
-   "ts": "2026-11-23T15:29:01+00:00",
-   "url": "https://www.coindesk.com/business/2026/11/23/binance-hackers-push-usd247-million-through-transactions-designed-to-cloud-the-source"
+   "ts": "2026-11-24T11:31:56+00:00",
+   "url": "https://www.coindesk.com/markets/2026/11/24/bitcoin-hands-back-monday-s-nvidia-driven-gains-liquidations-triple"
   },
   {
    "category": "Geopolitics",
-   "headline": "Dad who discovered daughter's murder on Facebook feels ignored by South African police",
-   "blurb": "South African communities tell the BBC of measures they're taking to keep women safe after a wave of horrific killings.",
+   "headline": "Pope Francis' diary reveals claims he saw the devil three times",
+   "blurb": "Published extracts from the late pontiff's diary claim one of the visions happened \"in the choir loft\" during Mass.",
    "source": "BBC",
-   "ts": "2026-11-24T00:02:15+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cqglr0d5jejxo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-24T11:10:57+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cm78270l4z7no?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Faisal Islam: Why Jensen Huang proved too big to fire",
-   "blurb": "Huang's role at the centre of his company's journey to lynchpin of AI proved crucial.",
+   "headline": "A comeback for the ages: Trump's influence on Huang's return to Nvidia",
+   "blurb": "The BBC's business correspondent Michelle Fleury explains what role Trump's support played in Huang's comeback.",
    "source": "BBC",
-   "ts": "2026-11-23T17:11:58+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/ckr5g8edl94eo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-23T21:40:30+00:00",
+   "url": "https://www.bbc.co.uk/news/videos/ckp80d5nl586o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Trump says Iowa detonation will be up to Democrat",
-   "blurb": "{beacon} Energy & Environment Energy & Environment The Big Story Trump says Iowa detonation will be up to Democrat Neither President Trump nor Iowa Gov.-elect Rob Sand (D) appears to want ownership of a political hot potato as the Army considers detonating lead-containing munitions, stirring public outcry. © Scott Olson, Getty Images While the...",
+   "headline": "Education Department orders federal funding freeze for Virginia district beset by abuse, screening scandal",
+   "blurb": "The Department of Education has taken several steps, including withholding federal funds, from a Virginia school district that reportedly failed to vet about 500 staff members hired over the past three years over whether they had a history of child abuse or neglect. Albemarle County Public Schools previously said its schools will remain closed from Nov....",
    "source": "The Hill",
-   "ts": "2026-11-24T00:15:21+00:00",
-   "url": "https://thehill.com/newsletters/energy-environment/6238863-trump-says-iowa-detonation-will-be-up-to-democrat/"
+   "ts": "2026-11-24T16:06:07+00:00",
+   "url": "https://thehill.com/homenews/education/6239925-doe-withholds-virginia-school-funds/"
   },
   {
    "category": "India Politics",
-   "headline": "Stalin urges Tamil Nadu government to act against Kallakurichi TVK MLA over messages to Collector",
-   "blurb": "We The Leaders founder Annamalai, meanwhile, urged the State government to ensure a transparent investigation without political interference",
+   "headline": "BJP, Akali Dal reunite ahead of Punjab polls as Sukhbir Badal brings SAD back to NDA",
+   "blurb": "In a major political development ahead of the 2027 Punjab Assembly elections, the Shiromani Akali Dal has formally returned to the National Democratic Alliance (NDA), ending a six-year separation from the BJP.",
    "source": "The Hindu",
-   "ts": "2026-11-24T05:36:20+00:00",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/stalin-urges-tamil-nadu-government-to-act-against-kallakurichi-tvk-mla-over-messages-to-collector/article71737120.ece"
+   "ts": "2026-11-24T16:38:05+00:00",
+   "url": "https://www.thehindu.com/videos/bjp-akali-dal-reunite-ahead-of-punjab-polls-as-sukhbir-badal-brings-sad-back-to-nda/article71739747.ece"
   },
   {
    "category": "AI",
@@ -353,118 +465,6 @@
    "source": "The Verge",
    "ts": "2026-11-23T20:38:44+00:00",
    "url": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return"
-  },
-  {
-   "category": "Equities",
-   "headline": "Record diesel prices drive UK inflation to 1-year high of 3.6%",
-   "blurb": "It put the U.K.'s annual inflation rate at a 1-year high.",
-   "source": "CNBC",
-   "ts": "2026-11-18T07:57:37+00:00",
-   "url": "https://www.cnbc.com/2026/11/18/uk-inflation-cpi-fuel-prices.html"
-  },
-  {
-   "category": "Crypto",
-   "headline": "Eric Trump-backed American Bitcoin secures $150 million loan against its bitcoin",
-   "blurb": "The Nasdaq-listed crypto miner can borrow without selling its reserves or issuing new shares, but falling BTC prices could force it to pledge more collateral.",
-   "source": "CoinDesk",
-   "ts": "2026-11-23T15:02:32+00:00",
-   "url": "https://www.coindesk.com/business/2026/11/23/eric-trump-backed-american-bitcoin-secures-usd150-million-loan-against-its-bitcoin"
-  },
-  {
-   "category": "Geopolitics",
-   "headline": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
-   "blurb": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
-   "source": "BBC",
-   "ts": "2026-11-23T23:16:08+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "category": "Macro",
-   "headline": "How important are Nvidia and Jensen Huang to the US economy?",
-   "blurb": "The Nvidia chief executive has been at the centre of the artificial intelligence boom.",
-   "source": "BBC",
-   "ts": "2026-11-23T16:12:35+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "category": "US Politics",
-   "headline": "Pennsylvania confirms 9th measles-related death",
-   "blurb": "Pennsylvania health officials on Monday confirmed the state’s ninth measles-related death this year, less than a week after the U.S. lost its measles elimination status after more than 25 years. The Pennsylvania Department of Health said an unvaccinated Centre County resident died after testing positive for the virus. The state has recorded 1,638 measles cases...",
-   "source": "The Hill",
-   "ts": "2026-11-24T00:01:44+00:00",
-   "url": "https://thehill.com/policy/healthcare/6238800-pennsylvania-confirms-ninth-measles-death/"
-  },
-  {
-   "category": "India Politics",
-   "headline": "T.N. Chief Secretary did not receive complaint from woman IAS officer over Kallakurichi TVK MLA’s alleged misbehaviour, Madras HC told",
-   "blurb": "Justice V. Lakshminarayanan asks State Public Prosecutor R. John Sathyan to take instructions from the woman officer, too, and report to the court by November 24, 2026",
-   "source": "The Hindu",
-   "ts": "2026-11-24T05:26:08+00:00",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-chief-secretary-did-not-receive-complaint-from-woman-ias-officer-over-kallakurichi-tvk-mlas-alleged-misbehaviour-madras-hc-told/article71733781.ece"
-  },
-  {
-   "category": "AI",
-   "headline": "Nothing’s upcoming Ear Note is a pair of earbuds with AI transcription",
-   "blurb": "Nothing's new AI device is the Ear Note, a set of earbuds and their microphone-equipped charging case that can record and transcribe conversations, with a connected app to manage the recordings, transcriptions and AI-generated summaries, similar to Apple's new Watch feature and devices like Amazon's Bee wearable. Nothing CEO Carl Pei demonstrated the new device […]",
-   "source": "The Verge",
-   "ts": "2026-11-23T19:04:52+00:00",
-   "url": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording"
-  },
-  {
-   "category": "Equities",
-   "headline": "Japan exports in October surge 20.5%, beating estimates on robust chip shipments",
-   "blurb": "Semiconductor shipments spiked almost 50% year on year.",
-   "source": "CNBC",
-   "ts": "2026-11-18T00:35:31+00:00",
-   "url": "https://www.cnbc.com/2026/11/18/japan-exports-october-imports-chips.html"
-  },
-  {
-   "category": "Crypto",
-   "headline": "Bitcoin's 5-year return is nearly zero, great narratives are fading and what's left is the Fed",
-   "blurb": "",
-   "source": "CoinDesk",
-   "ts": "2026-11-23T14:43:18+00:00",
-   "url": "https://www.coindesk.com/opinion/2026/11/23/bitcoin-s-5-year-return-is-nearly-zero-great-narratives-are-fading-and-what-s-left-is-the-fed"
-  },
-  {
-   "category": "Geopolitics",
-   "headline": "Outrage after ICE arrest father and daughter at Seattle airport",
-   "blurb": "ICE officers arrested two passengers, a father and daughter, as they were boarding a flight in Seattle on Saturday.",
-   "source": "BBC",
-   "ts": "2026-11-23T22:59:07+00:00",
-   "url": "https://www.bbc.co.uk/news/videos/crd910g5x882o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "category": "Macro",
-   "headline": "The rise and fall and rise again of Jensen Huang",
-   "blurb": "Days after resigning while mired in scandal of extra-marital affairs, Nvidia's Jensen Huang is making a remarkable return.",
-   "source": "BBC",
-   "ts": "2026-11-23T15:49:52+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "category": "US Politics",
-   "headline": "Trump, Iowa's Sand play hot potato with lead detonation call",
-   "blurb": "Neither President Trump nor Iowa Gov.-elect Rob Sand (D) appears to want ownership of a political hot potato as the Army considers detonating lead-containing munitions, stirring public outcry. While the Army had been poised to move ahead with the controversial Iowa detonation on Wednesday, Trump on Monday said he would not move forward with the...",
-   "source": "The Hill",
-   "ts": "2026-11-23T23:46:27+00:00",
-   "url": "https://thehill.com/policy/energy-environment/6238814-trump-sand-iowa-lead-detonation-army-epa-munitions/"
-  },
-  {
-   "category": "India Politics",
-   "headline": "Collector files complaint against Kallakurichi TVK MLA",
-   "blurb": "It is learnt that the Collector had accused the Kallakurichi MLA of having made inappropriate advances and sent unwarranted messages",
-   "source": "The Hindu",
-   "ts": "2026-11-24T05:25:31+00:00",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/collector-files-complaint-against-kallakurichi-tvk-mla/article71736185.ece"
-  },
-  {
-   "category": "AI",
-   "headline": "White House brags that Trump was ‘totally involved’ in getting Jensen reinstated",
-   "blurb": "It sure looked like President Donald Trump played a role in Jensen Huang's reinstatement as Nvidia CEO - and now the White House is making sure everyone knows he was. \"President Trump was totally involved and this is a great decision by the NVIDIA board,\" White House communications director Steven Cheung said in a statement, […]",
-   "source": "The Verge",
-   "ts": "2026-11-23T18:48:59+00:00",
-   "url": "https://www.theverge.com/policy/1040096/trump-nvidia-jensen-huang-reinstated"
   }
  ]
 }
