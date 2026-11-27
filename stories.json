@@ -1,126 +1,62 @@
 {
- "updated": "2026-11-27T08:04:59+00:00",
+ "updated": "2026-11-27T18:06:08+00:00",
  "count": 58,
  "stories": [
   {
    "category": "Equities",
-   "headline": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
-   "blurb": "De Cos will lead the ECB into a period of political uncertainty and choppy growth, after winning the backing needed to succeed Christine Lagarde next year.",
+   "headline": "‘Ready for any storm’: UAE minister optimistic on economy as IMF lifts forecast",
+   "blurb": "The UAE is optimistic about achieving 7%-8% economic growth next year, banking on a \"different\" economic model.",
    "source": "CNBC",
-   "ts": "2026-11-27T06:50:38+00:00",
-   "url": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html"
+   "ts": "2026-11-27T08:47:36+00:00",
+   "url": "https://www.cnbc.com/2026/11/25/uae-iran-war-economy-oil.html"
   },
   {
    "category": "Crypto",
-   "headline": "Monero suffers biggest single-day slide in over 5 months. Here’s why",
-   "blurb": "Monero (XMR) crashed over 11% on Thursday, its biggest drop since early June. Back-to-back exchange delistings seem to have catalyzed the price slide.",
+   "headline": "Kalshi turns to small businesses as legal battles threaten forecasts on sports",
+   "blurb": "The prediction market is pitching protection against tariffs, weather and other business risks as courts challenge its ability to offer sports wagers.",
    "source": "CoinDesk",
-   "ts": "2026-11-27T07:33:01+00:00",
-   "url": "https://www.coindesk.com/markets/2026/11/27/monero-suffers-biggest-single-day-slide-in-over-5-months-here-s-why"
+   "ts": "2026-11-27T13:19:10+00:00",
+   "url": "https://www.coindesk.com/business/2026/11/27/kalshi-turns-to-small-businesses-as-legal-battles-threaten-forecasts-on-sports"
   },
   {
    "category": "Gold",
-   "headline": "Gold Faces Weekend Risk as Fed Rate Bets and Iran Tensions Rattle Markets",
+   "headline": "Gold’s 15% Slide Raises Rebound Hopes After Waller’s Rate Hike Warnings",
    "blurb": "",
    "source": "Investing.com",
-   "ts": "2026-11-27T06:06:00+00:00",
-   "url": "https://www.investing.com/analysis/gold-faces-weekend-risk-as-fed-rate-bets-and-iran-tensions-rattle-markets-200692396"
+   "ts": "2026-11-27T17:40:00+00:00",
+   "url": "https://www.investing.com/analysis/golds-15-slide-raises-rebound-hopes-after-wallers-rate-hike-warnings-200692459"
   },
   {
    "category": "Geopolitics",
-   "headline": "Could housing decide Spain's general election?",
-   "blurb": "Europe correspondent Nick Beake speaks to one couple kept apart by high rents in Valencia.",
+   "headline": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+   "blurb": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
    "source": "BBC",
-   "ts": "2026-11-27T06:09:31+00:00",
-   "url": "https://www.bbc.co.uk/news/videos/cm9w9y8947xqo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-27T18:00:40+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "My self-care ritual is a meal at a fancy restaurant - on my own",
-   "blurb": "Solo-dining is being embraced as a self-care trend and it's reshaping the restaurant industry.",
+   "headline": "Will new energy fixes cost more in January?",
+   "blurb": "Energy bills will soar by 26% for millions of households in January after a surge in gas prices sparked by the Iran war.",
    "source": "BBC",
-   "ts": "2026-11-27T07:46:02+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-27T16:05:32+00:00",
+   "url": "https://www.bbc.co.uk/news/videos/cwjd7y4jk581o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Zelensky on Trump calling Putin 'friend': 'Same as somebody saying about Hitler' in WWII",
-   "blurb": "Ukrainian President Volodymyr Zelensky said President Trump calling Russian President Vladimir Putin a “friend” was the “same as somebody saying about Hitler” in World War II. When asked during a BBC interview how he felt about Trump’s comment about Putin, Zelensky stated “it's up to the President of the United States, but it's strange.” Putin...",
+   "headline": "Military says it disabled vessel that 'attempted to run the U.S. naval blockade' against Iran",
+   "blurb": "American forces on Thursday disabled a commercial vessel attempting to bypass the U.S. naval blockade of Iranian ports, U.S. Central Command (Centcom) said Friday. The crew of the bulk carrier “attempted to run the U.S. naval blockade, despite multiple warnings” after departing the southern port city of Bandar Abbas, Iran, Centcom said in a release....",
    "source": "The Hill",
-   "ts": "2026-11-27T03:51:11+00:00",
-   "url": "https://thehill.com/policy/international/6245089-zelensky-calls-for-us-peace-progress/"
+   "ts": "2026-11-27T17:39:02+00:00",
+   "url": "https://thehill.com/policy/defense/6245428-us-naval-blockade-iran-ship-disabled/"
   },
   {
    "category": "India Politics",
-   "headline": "Thirupparankundram 'deepathoon' row LIVE: Supreme Court to pass interim orders over failure to light Karthigai Deepam lamp",
-   "blurb": "Contempt petitioners allege at the apex court that the State had already decided to not comply with the order",
+   "headline": "Congress reaches out to DMK, other Opposition parties to stall passage of delimitation Bill",
+   "blurb": "The party may urge CMs of southern States to hold press conferences, and may hold a nationwide campaign against ‘divisive’ delimitation exercise",
    "source": "The Hindu",
-   "ts": "2026-11-27T07:59:16+00:00",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/thiruparankundram-deepam-issue-supreme-court-contempt-tamil-nadu-karthigai-deepam-deepathoon-row-live-updates-november-27-2026/article71749336.ece"
-  },
-  {
-   "category": "AI",
-   "headline": "Jensen Huang deepfakes are the hot new AI slop",
-   "blurb": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket. Suddenly, from behind him, Alice Huang - the Chinese technology executive and suspected spy he […]",
-   "source": "The Verge",
-   "ts": "2026-11-26T12:29:18+00:00",
-   "url": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes"
-  },
-  {
-   "category": "Equities",
-   "headline": "China’s factories are growing profits again, but the AI boom is picking the winners",
-   "blurb": "China's economy has been running at two speeds, with AI-related manufacturing and exports powering growth while consumption, real estate investment lag.",
-   "source": "CNBC",
-   "ts": "2026-11-27T06:09:51+00:00",
-   "url": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html"
-  },
-  {
-   "category": "Crypto",
-   "headline": "Ripple's lending plan moves closer to tapping XRP Ledger's $800 million in stablecoins",
-   "blurb": "The vaults that would hold lenders' money are on track to switch on Dec. 9. The loan system that draws from them still needs one more validator to start its own two-week clock.",
-   "source": "CoinDesk",
-   "ts": "2026-11-27T05:06:32+00:00",
-   "url": "https://www.coindesk.com/markets/2026/11/27/ripple-s-lending-plan-moves-closer-to-tapping-xrp-ledger-s-usd950-million-in-stablecoins"
-  },
-  {
-   "category": "Gold",
-   "headline": "Oil Prices Climb as Middle East Supply Risks Overshadow Glut Fears",
-   "blurb": "",
-   "source": "Investing.com",
-   "ts": "2026-11-27T05:54:00+00:00",
-   "url": "https://www.investing.com/analysis/oil-prices-climb-as-middle-east-supply-risks-overshadow-glut-fears-200692402"
-  },
-  {
-   "category": "Geopolitics",
-   "headline": "Major Thanksgiving storm brings flooding, flight delays across US",
-   "blurb": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding.",
-   "source": "BBC",
-   "ts": "2026-11-27T05:15:26+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "category": "Macro",
-   "headline": "How much is your rent in Birmingham?",
-   "blurb": "We ask people in the UK's second biggest how much they pay for their homes.",
-   "source": "BBC",
-   "ts": "2026-11-27T06:11:32+00:00",
-   "url": "https://www.bbc.co.uk/news/videos/ckg5r02mqp4no?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "category": "US Politics",
-   "headline": "Trump: Iran war will be over 'sort of whenever I want it to be'",
-   "blurb": "President Trump said the Iran war will be over “sort of whenever I want it to be” as the conflict stretches into its ninth month and pushback against it grows. The president called soldiers at Mar-a-Lago on Thursday alongside first lady Melania Trump, saying they “joined millions of Americans this holiday to pray for your...",
-   "source": "The Hill",
-   "ts": "2026-11-27T01:41:40+00:00",
-   "url": "https://thehill.com/homenews/administration/6245034-trump-says-iran-war-ends-whenever/"
-  },
-  {
-   "category": "India Politics",
-   "headline": "KTR condemns Congress supporters’ attack on BRS leaders at hotel in Hyderabad’s RTC X roads",
-   "blurb": "BRS working president sought to know how arranging a dinner to commemorate Rahul Gandhi’s promise was a crime",
-   "source": "The Hindu",
-   "ts": "2026-11-27T07:58:21+00:00",
-   "url": "https://www.thehindu.com/news/national/telangana/ktr-condemns-congress-supporters-attack-on-brs-leaders-at-hotel-in-hyderabads-rtc-x-roads/article71747940.ece"
+   "ts": "2026-11-27T18:03:20+00:00",
+   "url": "https://www.thehindu.com/news/national/congress-reaches-out-to-dmk-other-opposition-parties-to-stall-passage-of-delimitation-bill/article71751727.ece"
   },
   {
    "category": "AI",
@@ -132,51 +68,59 @@
   },
   {
    "category": "Equities",
-   "headline": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
-   "blurb": "The U.S. planned a fresh tariff salvo on 14 trading partners, while offering some countries lower rates if they secure trade deals with Washington.",
+   "headline": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
+   "blurb": "De Cos will lead the ECB into a period of political uncertainty and choppy growth, after winning the backing needed to succeed Christine Lagarde next year.",
    "source": "CNBC",
-   "ts": "2026-11-26T12:46:55+00:00",
-   "url": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html"
+   "ts": "2026-11-27T06:50:38+00:00",
+   "url": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html"
   },
   {
    "category": "Crypto",
-   "headline": "Binance says customer withdrawals are fully restored, four weeks after the $6.3 billion hack",
-   "blurb": "Binance says it has fully lifted withdrawal suspensions imposed after October’s $6.3 billion hack, though a small number of networks remain paused for unrelated maintenance.",
+   "headline": "Bitcoin 'death cross' is coming. Here's what happened after previous 13.",
+   "blurb": "Your day-ahead look for Nov. 27, 2026",
    "source": "CoinDesk",
-   "ts": "2026-11-27T04:45:47+00:00",
-   "url": "https://www.coindesk.com/markets/2026/11/27/binance-says-its-withdrawal-suspension-is-over-four-weeks-after-a-usd6-3-billion-hack"
+   "ts": "2026-11-27T12:16:07+00:00",
+   "url": "https://www.coindesk.com/daybook-us/2026/11/27/bitcoin-death-cross-is-coming-here-s-what-happened-after-previous-13"
+  },
+  {
+   "category": "Gold",
+   "headline": "Silver Takes the Lead After the Miners’ Reversal",
+   "blurb": "",
+   "source": "Investing.com",
+   "ts": "2026-11-27T17:20:00+00:00",
+   "url": "https://www.investing.com/analysis/silver-takes-the-lead-after-the-miners-reversal-200692458"
   },
   {
    "category": "Geopolitics",
-   "headline": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
-   "blurb": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
+   "headline": "Kenyan doomsday cult leader convicted over further 123 deaths",
+   "blurb": "Paul Mackenzie is found guilty of killing his followers, weeks after being jailed for the mass murder of children.",
    "source": "BBC",
-   "ts": "2026-11-27T03:28:15+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-27T17:19:31+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "The food bank helping pet owners with rising bills",
-   "blurb": "RSPCA hands out food, vet vouchers, cat litter and toys to pet owners struggling with bills.",
+   "headline": "My self-care ritual is a meal at a fancy restaurant - on my own",
+   "blurb": "Solo-dining is being embraced as a self-care trend and it's reshaping the restaurant industry.",
    "source": "BBC",
-   "ts": "2026-11-27T06:11:13+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c623jgz7zmg8o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-27T10:10:36+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Trump signals further openness to working with Democrats on healthcare",
-   "blurb": "President Trump signaled an increased openness to working with Democrats on healthcare after the party’s sweeping victories in the midterms, taking control of the House and Senate. “I have a feeling we’re going to end up with a very bipartisan relationship with the Democrats,” Trump told reporters Thursday while at Mar-a-Lago. “I hope so, where...",
+   "headline": "Portnoy says Vance 'done' as 2028 presidential contender",
+   "blurb": "Barstool Sports founder Dave Portnoy, who has used his large social media following to promote President Trump, said Vice President Vance has no chance of winning the White House in 2028. During an interview on “The Scott Jennings Show” on Tuesday, Portnoy told the conservative commentator that he favored Florida Gov. Ron DeSantis (R) as...",
    "source": "The Hill",
-   "ts": "2026-11-27T00:33:50+00:00",
-   "url": "https://thehill.com/homenews/administration/6245011-trump-democrats-healthcare-bipartisanship/"
+   "ts": "2026-11-27T17:01:09+00:00",
+   "url": "https://thehill.com/homenews/media/6245312-portnoy-says-vance-done-as-2028-presidential-contender/"
   },
   {
    "category": "India Politics",
-   "headline": "Telangana Waqf Board set to convene meeting after two years; discussion on properties likely",
-   "blurb": "",
+   "headline": "Supreme Court orders Karthigai Deepam to be lit at ‘deepathoon’ on November 28; issues contempt notice",
+   "blurb": "Bench directs Tamil Nadu Chief Secretary, DGP, Madurai District Collector, temple authorities to be present for next hearing on Dec. 15; court sees ‘pre-meditated conspiracy' between State and temple trustees",
    "source": "The Hindu",
-   "ts": "2026-11-27T07:58:21+00:00",
-   "url": "https://www.thehindu.com/news/national/telangana/telangana-waqf-board-set-to-convene-meeting-after-two-years-discussion-on-properties-likely/article71746923.ece"
+   "ts": "2026-11-27T18:03:20+00:00",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/supreme-court-orders-karthigai-deepam-to-be-lit-on-deepathoon-on-november-28-issues-contempt-notice/article71751465.ece"
   },
   {
    "category": "AI",
@@ -188,51 +132,107 @@
   },
   {
    "category": "Equities",
-   "headline": "Liesman: Why Greenspan could bet on productivity — and Warsh needs to hike",
-   "blurb": "Alan Greenspan famously held the line on interest rates because he believed in the productivity promise of the internet boom. Why can't Kevin Warsh do the same?",
+   "headline": "China’s factories are growing profits again, but the AI boom is picking the winners",
+   "blurb": "China's economy has been running at two speeds, with AI-related manufacturing and exports powering growth while consumption, real estate investment lag.",
    "source": "CNBC",
-   "ts": "2026-11-25T21:56:43+00:00",
-   "url": "https://www.cnbc.com/2026/11/25/kevin-warsh-greenspan-fed-rates-ai-inflation.html"
+   "ts": "2026-11-27T06:09:51+00:00",
+   "url": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html"
   },
   {
    "category": "Crypto",
-   "headline": "Ethereum's much-awaited Glamsterdam upgrade cleared for December test. Here's what to know",
-   "blurb": "Developers have agreed to keep the planned storage charges despite concerns about some existing smart contracts, ending seven weeks of delays to the next major test.",
+   "headline": "Bitcoin on course to end seven-week losing streak while trailing stock rebound",
+   "blurb": "Bitcoin (BTC) has risen 1.8% since midnight UTC to around $61,600 and is on course to end seven straight weekly losses.",
    "source": "CoinDesk",
-   "ts": "2026-11-27T04:29:47+00:00",
-   "url": "https://www.coindesk.com/tech/2026/11/27/ethereum-s-much-awaited-glamsterdam-upgrade-cleared-for-december-test-here-s-what-to-know"
+   "ts": "2026-11-27T11:45:47+00:00",
+   "url": "https://www.coindesk.com/markets/2026/11/27/bitcoin-on-course-to-end-seven-week-losing-streak-while-trailing-stock-rebound"
   },
   {
    "category": "Geopolitics",
-   "headline": "Met Police ruined my life, says Kenyan man wrongly convicted over attack on UK couple",
-   "blurb": "Evidence from a British police officer helped convict Ali Kololo over a 2011 attack in the Kenyan resort of Lamu.",
+   "headline": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
+   "blurb": "The law faced legal challenges from a range of groups, including female Muslim, Sikh and Catholic teachers, who argued it violated their funadamental rights.",
    "source": "BBC",
-   "ts": "2026-11-27T00:48:11+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cqvg2nlr8kd8o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-27T16:53:46+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "From £250 job to £9,000 bill: Inside the rogue trader networks scamming customers at scale",
-   "blurb": "Networks of plumbers and electricians are scamming people on a large scale, the BBC reveals.",
+   "headline": "'We're scared to turn our heating on'",
+   "blurb": "Energy bills will soar by 26% for millions of households in January after a surge in gas prices sparked by the Iran war.",
    "source": "BBC",
-   "ts": "2026-11-27T00:58:49+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c65yme31k7m2o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-27T08:47:00+00:00",
+   "url": "https://www.bbc.co.uk/news/videos/c6jd7yj4ve9xo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "El-Sayed shares how to navigate 'spicier' Thanksgiving conversations",
-   "blurb": "Sen.-elect Abdul El-Sayed (D-Mich.) shared a video to social media Wednesday on how to navigate “spicier” Thanksgiving conversations. “Hey friends, I know Thursday is Thanksgiving, and it’s an opportunity to come together and break bread with people with whom you might not have had a lot of conversations in the past,” he said in the...",
+   "headline": "5 big questions for Democrats this Thanksgiving",
+   "blurb": "Democrats are entering the last month of the year on a high. The midterm election results surpassed all but the most optimistic expectations for the party. Even six months ago, the idea of the Democrats racking up a net gain of nine seats in the Senate would have seemed implausible. Their final House majority will...",
    "source": "The Hill",
-   "ts": "2026-11-26T23:45:44+00:00",
-   "url": "https://thehill.com/homenews/senate/6244988-el-sayed-thanksgiving-advice/"
+   "ts": "2026-11-27T17:00:00+00:00",
+   "url": "https://thehill.com/homenews/analysis/6243525-questions-democrats-thanksgiving-midterms-majority/"
   },
   {
    "category": "India Politics",
-   "headline": "‘SAD-BJP re-alliance is to rescue Punjab from collapse,’ says the State’s BJP chief",
-   "blurb": "Kewal Singh Dhillon said the BJP-SAD alliance has been forged not for the pursuit of power, but with a singular commitment to ‘Punjab First’",
+   "headline": "CBI organises national conference on human trafficking",
+   "blurb": "",
    "source": "The Hindu",
-   "ts": "2026-11-27T07:57:45+00:00",
-   "url": "https://www.thehindu.com/news/national/punjab/sad-bjp-re-alliance-is-to-rescue-punjab-from-collapse-says-the-states-bjp-chief/article71746351.ece"
+   "ts": "2026-11-27T18:02:33+00:00",
+   "url": "https://www.thehindu.com/news/national/cbi-organises-national-conference-on-human-trafficking/article71751745.ece"
+  },
+  {
+   "category": "AI",
+   "headline": "Android’s DIY widgets are a bit of vibe-coding fun",
+   "blurb": "Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget. It needs to tell me real-time arrivals for the bus stop near my house. Tapping around on my phone screen to open the right app and […]",
+   "source": "The Verge",
+   "ts": "2026-11-25T21:43:14+00:00",
+   "url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini"
+  },
+  {
+   "category": "Equities",
+   "headline": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
+   "blurb": "The U.S. planned a fresh tariff salvo on 14 trading partners, while offering some countries lower rates if they secure trade deals with Washington.",
+   "source": "CNBC",
+   "ts": "2026-11-26T12:46:55+00:00",
+   "url": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html"
+  },
+  {
+   "category": "Crypto",
+   "headline": "Live updates: Bitcoin's Thanksgiving gains prove fleeting",
+   "blurb": "Stocks are broadly higher, but bitcoin has slipped back near $60,000, reversing a turkey day advance.",
+   "source": "CoinDesk",
+   "ts": "2026-11-27T11:34:37+00:00",
+   "url": "https://www.coindesk.com/tech/2026/11/27/live-news-bitcoin-rebounds-above-usd61-000-as-ai-stocks-lead-premarket-gains"
+  },
+  {
+   "category": "Geopolitics",
+   "headline": "Brazil pushes back on Macron calling its meat 'doped'",
+   "blurb": "France's president made the comment while speaking to French farming representatives, months after the EU banned Brazil beef and poultry products.",
+   "source": "BBC",
+   "ts": "2026-11-27T15:54:15+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c6rrg28npvzeo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "category": "Macro",
+   "headline": "How much is your rent in Birmingham?",
+   "blurb": "We ask people in the UK's second biggest how much they pay for their homes.",
+   "source": "BBC",
+   "ts": "2026-11-27T06:11:32+00:00",
+   "url": "https://www.bbc.co.uk/news/videos/ckg5r02mqp4no?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "category": "US Politics",
+   "headline": "America deserves answers and accountability for the measles outbreak",
+   "blurb": "We need to understand how we ended up in this growing American tragedy, for which losing vaccine elimination status is a harbinger of worse to come.",
+   "source": "The Hill",
+   "ts": "2026-11-27T16:00:00+00:00",
+   "url": "https://thehill.com/opinion/healthcare/6242717-us-loses-measles-elimination-status/"
+  },
+  {
+   "category": "India Politics",
+   "headline": "Modi invokes Lord Murugan; BJP says Tamil Nadu Government acted against Hindus",
+   "blurb": "Supreme Court has exposed Tamil Nadu Government’s anti-Sanatan mindset, says Nitin Nabin",
+   "source": "The Hindu",
+   "ts": "2026-11-27T18:00:48+00:00",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-acted-against-hindus-says-bjp/article71751066.ece"
   },
   {
    "category": "AI",
@@ -244,51 +244,51 @@
   },
   {
    "category": "Equities",
-   "headline": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
-   "blurb": "U.S. consumers face higher food, travel and gift costs in 2026 as inflation and Iran-war energy shocks pressure holiday budgets.",
+   "headline": "Liesman: Why Greenspan could bet on productivity — and Warsh needs to hike",
+   "blurb": "Alan Greenspan famously held the line on interest rates because he believed in the productivity promise of the internet boom. Why can't Kevin Warsh do the same?",
    "source": "CNBC",
-   "ts": "2026-11-25T16:17:13+00:00",
-   "url": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html"
+   "ts": "2026-11-25T21:56:43+00:00",
+   "url": "https://www.cnbc.com/2026/11/25/kevin-warsh-greenspan-fed-rates-ai-inflation.html"
   },
   {
    "category": "Crypto",
-   "headline": "A tiny payment can expose the IP address behind a bitcoin wallet, developer finds",
-   "blurb": "A Bitcoin Core contributor found that the wallet's habit of resending stuck payments lets anyone link an address to the computer watching it, for under 35 cents.",
+   "headline": "Next ECB chief favors tokenized bank deposits over stablecoins and bitcoin",
+   "blurb": "Pablo Hernández de Cos, chosen to succeed Christine Lagarde, favors blockchain-based banking and has warned against private digital currencies and banks holding bitcoin.",
    "source": "CoinDesk",
-   "ts": "2026-11-26T17:30:00+00:00",
-   "url": "https://www.coindesk.com/tech/2026/11/26/a-tiny-payment-can-expose-the-ip-address-behind-a-bitcoin-wallet-developer-finds"
+   "ts": "2026-11-27T11:22:42+00:00",
+   "url": "https://www.coindesk.com/policy/2026/11/27/next-ecb-chief-favors-tokenized-bank-deposits-over-stablecoins-and-bitcoin"
   },
   {
    "category": "Geopolitics",
-   "headline": "Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind",
-   "blurb": "The ousted prime minister's December homecoming plan deepens Dhaka-Delhi tensions and risks fresh unrest.",
+   "headline": "John Simpson: Ukraine is bowed but still unbroken as freezing weather sets in",
+   "blurb": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?",
    "source": "BBC",
-   "ts": "2026-11-27T00:47:43+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cx30g71rev23o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-27T15:18:51+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Why is there a shortage of 'wizard' elevator mechanics?",
-   "blurb": "The pay is good and there's lots of work, so what's behind the shortage of elevator mechanics?",
+   "headline": "The food bank helping pet owners with rising bills",
+   "blurb": "RSPCA hands out food, vet vouchers, cat litter and toys to pet owners struggling with bills.",
    "source": "BBC",
-   "ts": "2026-11-27T00:02:19+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c52e8k19y94mo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-27T06:11:13+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c623jgz7zmg8o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Mexican leader rebukes US over DEA tip line, claims 'interference'",
-   "blurb": "Mexican President Claudia Sheinbaum rebuked U.S. Drug Enforcement Administration (DEA) officials over its tip line, claiming it interfered with her country’s work. “The DEA has plenty of work to do in its own country. A lot,” Sheinbaum stated, according to The Associated Press. “The first thing it should do is investigate corruption in the United...",
+   "headline": "Trump demands GDP data probe as chances of rate hike rise: What to know",
+   "blurb": "President Trump on Thursday pressed for an investigation into gross domestic product (GDP) figures released by the Commerce Department prior to the midterms. \"It was just revealed that the REAL Numbers on the Economy, published before the Election, were FAKE, and a correction was issued yesterday by the people in the Government Agency that does...",
    "source": "The Hill",
-   "ts": "2026-11-26T22:58:54+00:00",
-   "url": "https://thehill.com/policy/international/6244966-sheinbaum-rebukes-dea-tip-line/"
+   "ts": "2026-11-27T15:46:09+00:00",
+   "url": "https://thehill.com/business/6245247-trump-demands-gdp-investigation-inflation/"
   },
   {
    "category": "India Politics",
-   "headline": "CM Vijay honours former Ministers V.V. Swaminathan, H.V. Hande on their centenaries",
-   "blurb": "Dr. Hande said he considered it a matter of pride that he and Mr. Swaminathan had been invited and honoured by the Tamil Nadu government and the Legislative Assembly",
+   "headline": "Gnanabhutti to offer free coaching for government recruitment exams",
+   "blurb": "",
    "source": "The Hindu",
-   "ts": "2026-11-27T07:56:31+00:00",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/cm-vijay-honours-former-ministers-vv-swaminathan-hv-hande-on-their-centenaries/article71749883.ece"
+   "ts": "2026-11-27T18:00:27+00:00",
+   "url": "https://www.thehindu.com/news/national/karnataka/gnanabhutti-to-offer-free-coaching-for-government-recruitment-exams/article71751768.ece"
   },
   {
    "category": "AI",
@@ -300,51 +300,51 @@
   },
   {
    "category": "Equities",
-   "headline": "Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
-   "blurb": "The personal consumption expenditures price index was expected to show an annual inflation rate of 3.8% in October, according to the Dow Jones consensus.",
+   "headline": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
+   "blurb": "U.S. consumers face higher food, travel and gift costs in 2026 as inflation and Iran-war energy shocks pressure holiday budgets.",
    "source": "CNBC",
-   "ts": "2026-11-25T14:18:45+00:00",
-   "url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html"
+   "ts": "2026-11-25T16:17:13+00:00",
+   "url": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html"
   },
   {
    "category": "Crypto",
-   "headline": "Bitcoin’s dormant supply rises, a behavior seen during previous bear-market bottoming phases",
-   "blurb": "More bitcoin is sitting untouched onchain as the price holds around $60,000, some 50% below its peak,",
+   "headline": "Injective asks SEC to allow order books for tokenized stock trading",
+   "blurb": "The regulator's rules favor one type of blockchain trading system, leaving platforms built on Injective out, the developer said. It wants the SEC to open stock trading to order-book systems.",
    "source": "CoinDesk",
-   "ts": "2026-11-26T16:50:23+00:00",
-   "url": "https://www.coindesk.com/markets/2026/11/26/bitcoin-s-dormant-supply-rises-a-behavior-seen-during-previous-bear-market-bottoming-phases"
+   "ts": "2026-11-27T11:07:17+00:00",
+   "url": "https://www.coindesk.com/markets/2026/11/27/injective-asks-sec-to-allow-order-books-for-tokenized-stock-trading"
   },
   {
    "category": "Geopolitics",
-   "headline": "My dad's watch stopped the moment he died - I found it in the ashes of Hong Kong tower fire",
-   "blurb": "The city marks a year since a huge blaze tore through seven apartment blocks, killing 168 people.",
+   "headline": "Marching bands scramble to cover costs after Thanksgiving parade rearranged",
+   "blurb": "Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck.",
    "source": "BBC",
-   "ts": "2026-11-26T23:03:16+00:00",
-   "url": "https://www.bbc.co.uk/news/videos/c6evr2y40v0jo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-27T15:15:19+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "UK to pay 'participation' fee to deliver EU deals",
-   "blurb": "Details of the contribution towards EU running costs have been revealed in new legal documents.",
+   "headline": "From £250 job to £9,000 bill: Inside the rogue trader networks scamming customers at scale",
+   "blurb": "Networks of plumbers and electricians are scamming people on a large scale, the BBC reveals.",
    "source": "BBC",
-   "ts": "2026-11-26T23:17:12+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-27T00:58:49+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c65yme31k7m2o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Petition to oust US ambassador reaches Canadian Parliament",
-   "blurb": "A petition signed by nearly 290,000 Canadians calling on Prime Minister Mark Carney’s government to expel U.S. Ambassador Pete Hoekstra was formally presented to Canada’s House of Commons on Thursday. Canadian Green Party leader Elizabeth May introduced the nonbinding petition, which urged the government to declare President Trump’s ambassador “persona non grata” and revoke his...",
+   "headline": "Democrats, forget the Voting Rights Act: Fix Rucho",
+   "blurb": "Rucho, not Callais, is why Black political representation is disappearing in some states.",
    "source": "The Hill",
-   "ts": "2026-11-26T22:55:57+00:00",
-   "url": "https://thehill.com/homenews/administration/6244968-petition-expel-us-ambassador-hoekstra/"
+   "ts": "2026-11-27T15:00:00+00:00",
+   "url": "https://thehill.com/opinion/judiciary/supreme-court/6242874-voting-rights-act-rucho-callais/"
   },
   {
    "category": "India Politics",
-   "headline": "No change in DMK’s stand on delimitation, says Stalin; party to hold meeting of MPs on November 28",
-   "blurb": "He brushed aside speculations about the party’s stand on delimitation",
+   "headline": "Bar council initiates action against a host of lawyers in T.N.",
+   "blurb": "It cancels the enrolment of 21 lawyers, suspends one lawyer for indulging in a scuffle with fellow advocates inside a court premises and permanently removes from its rolls the names of two lawyers convicted in a murder case",
    "source": "The Hindu",
-   "ts": "2026-11-27T07:54:05+00:00",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/no-change-in-dmks-stand-on-delimitation-says-stalin-reiterates-partys-two-demands/article71749852.ece"
+   "ts": "2026-11-27T18:00:24+00:00",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/bar-council-initiates-action-against-a-host-of-lawyers-in-tn/article71751985.ece"
   },
   {
    "category": "AI",
@@ -356,51 +356,51 @@
   },
   {
    "category": "Equities",
-   "headline": "‘Ready for any storm’: UAE minister optimistic on economy as IMF lifts forecast",
-   "blurb": "The UAE is optimistic about achieving 7%-8% economic growth next year, banking on a \"different\" economic model.",
+   "headline": "Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
+   "blurb": "The personal consumption expenditures price index was expected to show an annual inflation rate of 3.8% in October, according to the Dow Jones consensus.",
    "source": "CNBC",
-   "ts": "2026-11-25T04:06:01+00:00",
-   "url": "https://www.cnbc.com/2026/11/25/uae-iran-war-economy-oil.html"
+   "ts": "2026-11-25T14:18:45+00:00",
+   "url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html"
   },
   {
    "category": "Crypto",
-   "headline": "Crypto for Advisors: Four questions to ask before trusting a crypto exchange",
-   "blurb": "",
+   "headline": "Brazil’s stock exchange teams up with major banks to launch real-pegged stablecoin",
+   "blurb": "Banco B3 will issue the token, backed one-to-one by reais, and other financial institutions can join from launch.",
    "source": "CoinDesk",
-   "ts": "2026-11-26T15:42:43+00:00",
-   "url": "https://www.coindesk.com/coindesk-indices/2026/11/26/crypto-for-advisors-four-questions-to-ask-before-trusting-a-crypto-exchange"
+   "ts": "2026-11-27T10:51:27+00:00",
+   "url": "https://www.coindesk.com/business/2026/11/27/brazil-s-stock-exchange-teams-up-with-major-banks-to-launch-real-pegged-stablecoin"
   },
   {
    "category": "Geopolitics",
-   "headline": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
-   "blurb": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
+   "headline": "Rare turtles found inside baggage at Amsterdam airport",
+   "blurb": "The endangered reptiles were bound with duct tape to prevent them moving, officials say.",
    "source": "BBC",
-   "ts": "2026-11-26T22:49:27+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-27T13:38:07+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cm5y1380q3vgo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Asia made a big AI bet on Nvidia. What happens now?",
-   "blurb": "Asian stocks have been on a rollercoaster ride after Jensen Huang's shock return as Nvidia CEO.",
+   "headline": "Why is there a shortage of 'wizard' elevator mechanics?",
+   "blurb": "The pay is good and there's lots of work, so what's behind the shortage of elevator mechanics?",
    "source": "BBC",
-   "ts": "2026-11-26T23:08:12+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-27T00:02:19+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/c52e8k19y94mo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Thanksgiving storms ground DC flights, knock out power for more than 850K",
-   "blurb": "A powerful coastal storm disrupted Thanksgiving travel in the Washington, D.C., area on Thursday as heavy rain and winds stopped flights at Ronald Reagan Washington National Airport (DCA). Along the East Coast, hundreds and thousands of homes and businesses lost power, along with more in the Midwest. The Federal Aviation Administration (FAA) issued a ground...",
+   "headline": "Chamberlain appeased Hitler — Zelensky will not and should not appease Putin",
+   "blurb": "In pandering to Putin, Steve Witkoff is effectively echoing Chamberlain’s assessment of the Sudetenland crisis.",
    "source": "The Hill",
-   "ts": "2026-11-26T22:01:20+00:00",
-   "url": "https://thehill.com/policy/energy-environment/6244928-thanksgiving-storm-flight-delays-power-outages/"
+   "ts": "2026-11-27T15:00:00+00:00",
+   "url": "https://thehill.com/opinion/national-security/6241558-witkoff-courtship-russia-ukraine-war/"
   },
   {
    "category": "India Politics",
-   "headline": "Supreme Court refuses urgent listing of plea against Ranbir Kapoor-starrer Ramayana",
-   "blurb": "A Bench headed by CJI Surya Kant said anyone with a different view of the epic is free to make a film of their own, as the film is already running in theatres",
+   "headline": "Navy Project 17A programme completed as GRSE hands over final stealth frigate Vindhyagir",
+   "blurb": "Vindhyagiri (Yard 3024) is the third and final Project 17A frigate built by GRSE",
    "source": "The Hindu",
-   "ts": "2026-11-27T07:53:35+00:00",
-   "url": "https://www.thehindu.com/entertainment/movies/supreme-court-refuses-urgent-listing-of-plea-against-ranbir-kapoor-starrer-ramayana/article71749619.ece"
+   "ts": "2026-11-27T17:59:42+00:00",
+   "url": "https://www.thehindu.com/news/national/navy-project-17a-programme-completed-as-grse-hands-over-final-stealth-frigate-vindhyagir/article71751558.ece"
   },
   {
    "category": "AI",
@@ -420,43 +420,43 @@
   },
   {
    "category": "Crypto",
-   "headline": "Spain gives anti-laundering unit power to freeze crypto accounts without a judge",
-   "blurb": "Under existing rules, Sepblac could only suspend accounts when requested by a foreign financial intelligence unit.",
+   "headline": "Tether can freeze stolen crypto in minutes. Getting it back can take years.",
+   "blurb": "Tether says it has returned $1.28 billion in frozen USDT, but victims can wait years to recover their money and face fees of up to 20%.",
    "source": "CoinDesk",
-   "ts": "2026-11-26T14:05:58+00:00",
-   "url": "https://www.coindesk.com/business/2026/11/26/spain-gives-anti-laundering-unit-power-to-freeze-crypto-accounts-without-a-judge"
+   "ts": "2026-11-27T10:00:00+00:00",
+   "url": "https://www.coindesk.com/business/2026/11/27/tether-can-freeze-stolen-crypto-in-minutes-getting-it-back-can-take-years"
   },
   {
    "category": "Geopolitics",
-   "headline": "Zelensky questions 'strange' Trump-Putin friendship in BBC interview",
-   "blurb": "The Ukrainian president tells the BBC that Russia's Vladimir Putin should not be treated as a friend.",
+   "headline": "Ex-media executive admits saying Australian child sex abuse survivor 'looking to be raped again'",
+   "blurb": "The former Murdoch media executive was overheard at an event referring to the way Grace Tame was dressed.",
    "source": "BBC",
-   "ts": "2026-11-26T22:06:20+00:00",
-   "url": "https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-27T11:44:40+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/ckr5grlq78n9o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
-   "headline": "Faisal Islam: Why Trump's new tariffs are less of a threat",
-   "blurb": "Other countries have rerouted trade in response to his first tariff salvo, now they are looking beyond Trump's tenure.",
+   "headline": "UK to pay 'participation' fee to deliver EU deals",
+   "blurb": "Details of the contribution towards EU running costs have been revealed in new legal documents.",
    "source": "BBC",
-   "ts": "2026-11-26T19:55:58+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-26T23:17:12+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "US Politics",
-   "headline": "Democrats’ plan to end funding for Iran war leaves open what comes next",
-   "blurb": "One of the top priorities for the incoming Democratic majorities is cutting off funding for the U.S. war with Iran, which was launched by President Trump nine months ago with no input from Congress. What happens after that — and whether Democrats can force Trump to end the war without jeopardizing U.S. forces in the...",
+   "headline": "What would net-zero by 2050 cost, and what would it buy? We have the numbers.",
+   "blurb": "Earlier this week, the United Nations Climate Summit in Turkey, collapsed without a final agreement after two days of overtime. More than 130 countries as well as a large number of U.S. states have pledged to reach net zero, most by 2050. Yet through two weeks of talks, the most basic question went unasked: what...",
    "source": "The Hill",
-   "ts": "2026-11-26T22:00:00+00:00",
-   "url": "https://thehill.com/policy/international/6243997-democrats-seek-end-iran-war-questions/"
+   "ts": "2026-11-27T14:00:00+00:00",
+   "url": "https://thehill.com/opinion/energy-environment/6245046-what-would-net-zero-by-2050-cost-and-what-would-it-buy-we-have-the-numbers/"
   },
   {
    "category": "India Politics",
-   "headline": "Srikakulam farmers own the land but not the manganese Vedanta wants beneath it",
-   "blurb": "In two Srikakulam gram panchayats where maize grows on land handed down through generations, farmers say no one told them their fields had been auctioned for mining. They have since stopped a survey of the 375-acre block, writes T. Appalanaidu",
+   "headline": "25 workers, including nine children, rescued from bonded labour in Hanumakonda",
+   "blurb": "Officials say some workers were so isolated from the outside world that they struggled to recall their names, ages and even the current date, year or day of the week during preliminary interaction",
    "source": "The Hindu",
-   "ts": "2026-11-27T07:49:42+00:00",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/srikakulam-farmers-own-the-land-but-not-the-manganese-vedanta-wants-beneath-it/article71746821.ece"
+   "ts": "2026-11-27T17:55:49+00:00",
+   "url": "https://www.thehindu.com/news/national/telangana/25-workers-including-nine-children-rescued-from-bonded-labour-in-hanumakonda/article71751874.ece"
   },
   {
    "category": "AI",
