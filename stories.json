@@ -1,7 +1,71 @@
 {
- "updated": "2026-11-28T01:24:22+00:00",
+ "updated": "2026-11-28T10:10:08+00:00",
  "count": 58,
  "stories": [
+  {
+   "category": "Equities",
+   "headline": "Saudi Arabia shifts Vision 2030 spending amid economic and security pressure",
+   "blurb": "The Kingdom is moving from \"spending and delivery at any cost\" to \"spending and delivery at the right cost,\" Economic Minister Faisal Alibrahim told CNBC.",
+   "source": "CNBC",
+   "ts": "2026-11-28T06:00:01+00:00",
+   "url": "https://www.cnbc.com/2026/11/28/saudi-arabia-vision-2030-spending.html"
+  },
+  {
+   "category": "Crypto",
+   "headline": "Trump-linked crypto token WLFI plunges 50% to record lows",
+   "blurb": "As prices tanked, blockchain trackers flagged a large outflow of ether from a wallet linked to World Liberty Financial.",
+   "source": "CoinDesk",
+   "ts": "2026-11-28T09:32:51+00:00",
+   "url": "https://www.coindesk.com/markets/2026/11/28/trump-linked-crypto-token-wlfi-plunges-over-50"
+  },
+  {
+   "category": "Gold",
+   "headline": "Oil Prices Face a 2027 Supply Glut Despite Rising Middle East War Risks",
+   "blurb": "",
+   "source": "Investing.com",
+   "ts": "2026-11-27T20:44:00+00:00",
+   "url": "https://www.investing.com/analysis/oil-prices-face-a-2027-supply-glut-despite-rising-middle-east-war-risks-200692469"
+  },
+  {
+   "category": "Geopolitics",
+   "headline": "Australian wrestler Bronson Reed dies aged 38, WWE says",
+   "blurb": "Tributes have flooded in for the 38-year-old Australian who is survived by his pregnant wife, Paige, their daughter.",
+   "source": "BBC",
+   "ts": "2026-11-28T07:31:14+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cvwy08g70ldko?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "category": "Macro",
+   "headline": "Butcher blames costs for closure after 127 years",
+   "blurb": "Bennett Butchers in Spalding says rises in National Insurance and energy have made it \"unviable\".",
+   "source": "BBC",
+   "ts": "2026-11-28T07:18:47+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cqe9k3m9mvexo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "category": "US Politics",
+   "headline": "Texas AG-elect won't defend Ten Commandments classroom law",
+   "blurb": "Texas Attorney General-elect Nathan Johnson (D) said he won’t defend a state law that directs public schools to put the Ten Commandments in classrooms when he takes office in January. Johnson told The Dallas Morning News that in his jurisprudential opinion, the “law is unconstitutional.” \"The court will have the ultimate say as to what's...",
+   "source": "The Hill",
+   "ts": "2026-11-28T03:44:48+00:00",
+   "url": "https://thehill.com/homenews/state-watch/6245846-texas-ag-johnson-ten-commandments/"
+  },
+  {
+   "category": "India Politics",
+   "headline": "Thirupparankundram row: 'Deepathoon' lamp lighting likely at 5:00 p.m.; SC-appointed receivers climb hill",
+   "blurb": "Supreme Court declared that Executive authorities had wilfully disobeyed the orders of the court over the failure to light the ceremonial Karthigai Deepam at the disputed stone pillar on Thirupparankundram",
+   "source": "The Hindu",
+   "ts": "2026-11-28T10:05:06+00:00",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/thiruparankundram-deepam-issue-supreme-court-contempt-tamil-nadu-karthigai-deepam-deepathoon-row-live-updates-november-28-2026/article71753437.ece"
+  },
+  {
+   "category": "AI",
+   "headline": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+   "blurb": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction off \"the private chat histories of more than 21 million U.S. accounts - […]",
+   "source": "The Verge",
+   "ts": "2026-11-26T09:54:40+00:00",
+   "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats"
+  },
   {
    "category": "Equities",
    "headline": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
@@ -20,19 +84,19 @@
   },
   {
    "category": "Gold",
-   "headline": "Oil Prices Face a 2027 Supply Glut Despite Rising Middle East War Risks",
+   "headline": "Gold Remains Under Pressure as the Weekly Close Fails to Reclaim $3,618",
    "blurb": "",
    "source": "Investing.com",
-   "ts": "2026-11-27T20:44:00+00:00",
-   "url": "https://www.investing.com/analysis/oil-prices-face-a-2027-supply-glut-despite-rising-middle-east-war-risks-200692469"
+   "ts": "2026-11-27T19:52:00+00:00",
+   "url": "https://www.investing.com/analysis/gold-remains-under-pressure-as-the-weekly-close-fails-to-reclaim-3618-200692467"
   },
   {
    "category": "Geopolitics",
-   "headline": "'Poison seller' Kenneth Law apologises in court to the families of his victims",
-   "blurb": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, said he was remorseful for his actions.",
+   "headline": "Eight killed in Peruvian military helicopter crash",
+   "blurb": "The pilot was the sole survivor of the crash during a rescue mission in a remote area known for drug trafficking.",
    "source": "BBC",
-   "ts": "2026-11-28T00:56:55+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-28T04:19:16+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cwp9d85mlp88o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
@@ -44,27 +108,27 @@
   },
   {
    "category": "US Politics",
-   "headline": "Mamdani recovering after 'successful' Achilles surgery",
-   "blurb": "New York City Mayor Zohran Mamdani is recovering at Gracie Mansion—the mayor's official residence—following a “successful” surgery on his injured Achilles, which was caused by a recreational soccer game earlier this month. “Today, Mayor Zohran Kwame Mamdani underwent a surgical procedure to repair his Achilles tendon,” Joe Calvello, Mamdani’s press secretary, said in a statement. ...",
+   "headline": "Dean says 'Pennsylvania deserves better' as she mulls challenging Fetterman",
+   "blurb": "Rep. Madeleine Dean (D-Pa.) said she believed “Pennsylvania deserves better” amid speculation that she may launch a Senate bid in 2028 for Sen. John Fetterman's (D-Pa.) seat. She stated Sunday on NBC’s “Meet the Press” that she was taking her time to “seriously consider” the possibility of running. “I've known John a long time, and...",
    "source": "The Hill",
-   "ts": "2026-11-28T00:33:21+00:00",
-   "url": "https://thehill.com/homenews/state-watch/6245795-nyc-mayor-achilles-surgery-success/"
+   "ts": "2026-11-28T01:27:03+00:00",
+   "url": "https://thehill.com/homenews/house/6245814-madeleine-dean-senate-bid-fetterman/"
   },
   {
    "category": "India Politics",
-   "headline": "INLD leader alleges Haryana universities saddled with ₹16,052 crore debt",
-   "blurb": "The State government has pushed 22 public universities into a debt burden over the past four years by converting grants-in-aid into perpetual loans.",
+   "headline": "Tamil Nadu library scam: Every reader of a spurious book becomes an invisible victim of an unpardonable crime, says Special Court",
+   "blurb": "Special Judge L.S. Sathiyamurthy also states that filling the shelves of a library with fake books containing misleading content by fictitious authors is a grave offence against civilization and culture",
    "source": "The Hindu",
-   "ts": "2026-11-27T23:43:39+00:00",
-   "url": "https://www.thehindu.com/news/cities/Delhi/inld-leader-alleges-haryana-universities-saddled-with-16052-crore-debt/article71750972.ece"
+   "ts": "2026-11-28T10:03:23+00:00",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-library-scam-every-reader-of-a-spurious-book-becomes-an-invisible-victim-of-an-unpardonable-crime-says-special-court/article71753901.ece"
   },
   {
    "category": "AI",
-   "headline": "42 state AGs are trying to stop Character.AI from selling users’ chats",
-   "blurb": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction off \"the private chat histories of more than 21 million U.S. accounts - […]",
+   "headline": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+   "blurb": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but unfortunately, Google might appeal or resubmit an amended version, and we could see this monstrosity come […]",
    "source": "The Verge",
-   "ts": "2026-11-26T09:54:40+00:00",
-   "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats"
+   "ts": "2026-11-25T21:51:26+00:00",
+   "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent"
   },
   {
    "category": "Equities",
@@ -83,20 +147,12 @@
    "url": "https://www.coindesk.com/daybook-us/2026/11/27/bitcoin-death-cross-is-coming-here-s-what-happened-after-previous-13"
   },
   {
-   "category": "Gold",
-   "headline": "Gold Remains Under Pressure as the Weekly Close Fails to Reclaim $3,618",
-   "blurb": "",
-   "source": "Investing.com",
-   "ts": "2026-11-27T19:52:00+00:00",
-   "url": "https://www.investing.com/analysis/gold-remains-under-pressure-as-the-weekly-close-fails-to-reclaim-3618-200692467"
-  },
-  {
    "category": "Geopolitics",
-   "headline": "The Indian 'Tamasha queen' whose fans paid for a show that never happened",
-   "blurb": "A new Bollywood flim spotlights the remarkable life of dancer and singer Vithabhai Narayangaonkar.",
+   "headline": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
+   "blurb": "The headquarters of Halk TV were raided last month, the latest in a series of crackdowns on news sources deemed critical of the government.",
    "source": "BBC",
-   "ts": "2026-11-28T00:50:11+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cj20q9pw0116o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-28T04:13:45+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cq36gk151xkdo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
@@ -108,27 +164,27 @@
   },
   {
    "category": "US Politics",
-   "headline": "15 hospitalized in potential Thanksgiving food poisoning at Florida medical center",
-   "blurb": "Fifteen people were hospitalized due to possible food poisoning from Leon Medical Center headquarters' Thanksgiving event, according to Miami-Dade Fire Rescue officials. Miami-Dade Fire Rescue told a local NBC affiliate that crews responded to reports of potential food poisoning before the call was shifted to a Level 1 mass casualty incident. The agency continued that...",
+   "headline": "Mamdani recovering after 'successful' Achilles surgery",
+   "blurb": "New York City Mayor Zohran Mamdani is recovering at Gracie Mansion—the mayor's official residence—following a “successful” surgery on his injured Achilles, which was caused by a recreational soccer game earlier this month. “Today, Mayor Zohran Kwame Mamdani underwent a surgical procedure to repair his Achilles tendon,” Joe Calvello, Mamdani’s press secretary, said in a statement. ...",
    "source": "The Hill",
-   "ts": "2026-11-27T23:47:03+00:00",
-   "url": "https://thehill.com/homenews/state-watch/6245776-leon-medical-center-food-poisoning/"
+   "ts": "2026-11-28T00:33:21+00:00",
+   "url": "https://thehill.com/homenews/state-watch/6245795-nyc-mayor-achilles-surgery-success/"
   },
   {
    "category": "India Politics",
-   "headline": "Centre proposes freeze on Lok Sabha seat proportions for States until 2051",
-   "blurb": "The new Constitutional Amendment Bill, accompanied by a fresh Delimitation Bill, proposes to increase the number of Lok Sabha seats in each State by 50%; they also bring into force the 33% reservation for women in the Lok Sabha",
+   "headline": "Supreme Court refuses to entertain plea to reduce minimum age for contesting elections",
+   "blurb": "When the bench observed that it was not an appropriate petition, the counsel said, ‘The respondent can just inform the petitioner what is the outcome of his representation’",
    "source": "The Hindu",
-   "ts": "2026-11-27T22:38:22+00:00",
-   "url": "https://www.thehindu.com/news/national/centre-proposes-freeze-on-lok-sabha-seat-proportions-for-states-until-2051/article71752150.ece"
+   "ts": "2026-11-28T10:02:51+00:00",
+   "url": "https://www.thehindu.com/news/national/supreme-court-refuses-to-entertain-plea-to-reduce-minimum-age-for-contesting-elections/article71753945.ece"
   },
   {
    "category": "AI",
-   "headline": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
-   "blurb": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but unfortunately, Google might appeal or resubmit an amended version, and we could see this monstrosity come […]",
+   "headline": "Android’s DIY widgets are a bit of vibe-coding fun",
+   "blurb": "Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget. It needs to tell me real-time arrivals for the bus stop near my house. Tapping around on my phone screen to open the right app and […]",
    "source": "The Verge",
-   "ts": "2026-11-25T21:51:26+00:00",
-   "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent"
+   "ts": "2026-11-25T21:43:14+00:00",
+   "url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini"
   },
   {
    "category": "Equities",
@@ -148,11 +204,11 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "A clinic is reassessing people with ADHD and autism diagnoses - but critics fear it could deepen stigma",
-   "blurb": "While many people find a diagnosis for ADHD or autism affirming, a government-funded clinic in Sweden is re-assessing people who feel it does not reflect them.",
+   "headline": "Nigeria's acting legend who was loved across Africa and beyond",
+   "blurb": "Before becoming a household name in the Nigerian film industry, Edochie built a career in broadcasting.",
    "source": "BBC",
-   "ts": "2026-11-28T00:05:17+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cr9309nyg2vno?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-28T01:20:35+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cm3vg3lkrk03o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
@@ -164,27 +220,27 @@
   },
   {
    "category": "US Politics",
-   "headline": "Meta whistleblower says gag order reminiscent of '1984'",
-   "blurb": "Sarah Wynn-Williams, a former Facebook employee whose book warned about the company’s power, said a gag order preventing her from speaking about the tech giant was akin to the reality in George Orwell’s “1984” novel. “Control what people are allowed to remember or what they are allowed to know, and you control what they are...",
+   "headline": "15 hospitalized in potential Thanksgiving food poisoning at Florida medical center",
+   "blurb": "Fifteen people were hospitalized due to possible food poisoning from Leon Medical Center headquarters' Thanksgiving event, according to Miami-Dade Fire Rescue officials. Miami-Dade Fire Rescue told a local NBC affiliate that crews responded to reports of potential food poisoning before the call was shifted to a Level 1 mass casualty incident. The agency continued that...",
    "source": "The Hill",
-   "ts": "2026-11-27T23:08:04+00:00",
-   "url": "https://thehill.com/policy/technology/6245761-sarah-wynn-williams-meta-gag-order/"
+   "ts": "2026-11-27T23:47:03+00:00",
+   "url": "https://thehill.com/homenews/state-watch/6245776-leon-medical-center-food-poisoning/"
   },
   {
    "category": "India Politics",
-   "headline": "In Kolkata, the BJP redraws power lines",
-   "blurb": "The BJP government in West Bengal has taken up a delimitation exercise of civic bodies of the twin cities of Kolkata and Howrah, increasing the number of wards in both municipal corporations. Opposition parties have claimed there has been gerrymandering. Elections will impact over seven million people. Shrabana Chatterjee and Shiv Sahay Singh examine the delimitation exercise and the related legal challenges",
+   "headline": "Delimitation is about gerrymandering, nothing to do with women’s reservation: Arundhati Roy",
+   "blurb": "Full text of Arundhati Roy’s speech delivered at the National Conclave of Writers & Artists",
    "source": "The Hindu",
-   "ts": "2026-11-27T21:27:04+00:00",
-   "url": "https://www.thehindu.com/news/cities/kolkata/in-kolkata-the-bjp-redraws-power-lines/article71749683.ece"
+   "ts": "2026-11-28T09:59:48+00:00",
+   "url": "https://www.thehindu.com/news/national/delimitation-is-about-gerrymandering-nothing-to-do-with-womens-reservation-arundhati-roy/article71754110.ece"
   },
   {
    "category": "AI",
-   "headline": "Android’s DIY widgets are a bit of vibe-coding fun",
-   "blurb": "Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget. It needs to tell me real-time arrivals for the bus stop near my house. Tapping around on my phone screen to open the right app and […]",
+   "headline": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+   "blurb": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several others also pursuing the idea of putting AI data centers in space, including Google and Blue Origin, this is the first approval the agency […]",
    "source": "The Verge",
-   "ts": "2026-11-25T21:43:14+00:00",
-   "url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini"
+   "ts": "2026-11-25T17:44:57+00:00",
+   "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers"
   },
   {
    "category": "Equities",
@@ -204,11 +260,11 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "Behind China's spectacular rise, voices who defied it say they are being drowned out",
-   "blurb": "China's immense clout now also has the flex of soft power. Critics and dissidents say their voices are being drowned out.",
+   "headline": "'Poison seller' Kenneth Law apologises in court to the families of his victims",
+   "blurb": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, said he was remorseful for his actions.",
    "source": "BBC",
-   "ts": "2026-11-27T23:02:35+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cme3d4y094x7o?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-28T00:56:55+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
@@ -220,27 +276,27 @@
   },
   {
    "category": "US Politics",
-   "headline": "Employees at GTA 6 developer Rockstar Games reject union",
-   "blurb": "Employees at Rockstar Games, the developer behind “Grand Theft Auto VI,” overwhelmingly voted against recognizing a union this week. In a Thursday vote, 75.3 percent of employees, or 1,163 team members, voted against recognizing the Rockstar Game Workers Union with the Independent Workers of Great Britain (IWGB), while 24.7 percent, or 381 members, voted in...",
+   "headline": "Meta whistleblower says gag order reminiscent of '1984'",
+   "blurb": "Sarah Wynn-Williams, a former Facebook employee whose book warned about the company’s power, said a gag order preventing her from speaking about the tech giant was akin to the reality in George Orwell’s “1984” novel. “Control what people are allowed to remember or what they are allowed to know, and you control what they are...",
    "source": "The Hill",
-   "ts": "2026-11-27T22:56:41+00:00",
-   "url": "https://thehill.com/blogs/in-the-know/6245743-rockstar-employees-reject-union/"
+   "ts": "2026-11-27T23:08:04+00:00",
+   "url": "https://thehill.com/policy/technology/6245761-sarah-wynn-williams-meta-gag-order/"
   },
   {
    "category": "India Politics",
-   "headline": "Uttar Pradesh Khadi Mahotsav begins in Lucknow",
-   "blurb": "‘Based on the theme ‘Culture in Threads, Progress through Khadi’, a total of 150 stalls have been set up at the festival by Khadi and Village Industries entrepreneurs and artisans from various districts of the State,’ said Rakesh Sachan",
+   "headline": "Delimitation Bill a bid to reduce political representation of south Indian States: Chennithala",
+   "blurb": "The Minister, in a statement on Saturday (November 28, 2026), said the Bharatiya Janata Party (BJP) was implementing its agenda of political interests and cementing power.",
    "source": "The Hindu",
-   "ts": "2026-11-27T21:24:17+00:00",
-   "url": "https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-khadi-mahotsav-begins-in-lucknow/article71752403.ece"
+   "ts": "2026-11-28T09:59:43+00:00",
+   "url": "https://www.thehindu.com/news/national/kerala/delimitation-bill-a-bid-to-reduce-political-representation-of-south-indian-states-chennithala/article71754017.ece"
   },
   {
    "category": "AI",
-   "headline": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
-   "blurb": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several others also pursuing the idea of putting AI data centers in space, including Google and Blue Origin, this is the first approval the agency […]",
+   "headline": "Nothing offers a full look at its AI earbuds and charging case",
+   "blurb": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcribe, and summarize your conversations. Like the Ear 3, the Ear Note's microphone-equipped case comes with a \"Talk\" button that you […]",
    "source": "The Verge",
-   "ts": "2026-11-25T17:44:57+00:00",
-   "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers"
+   "ts": "2026-11-25T16:00:59+00:00",
+   "url": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal"
   },
   {
    "category": "Equities",
@@ -260,11 +316,11 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "Spanish PM and rivals rally supporters in final pitch for votes",
-   "blurb": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
+   "headline": "The Indian 'Tamasha queen' whose fans paid for a show that never happened",
+   "blurb": "A new Bollywood flim spotlights the remarkable life of dancer and singer Vithabhai Narayangaonkar.",
    "source": "BBC",
-   "ts": "2026-11-27T21:55:53+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-28T00:50:11+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cj20q9pw0116o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
@@ -276,27 +332,27 @@
   },
   {
    "category": "US Politics",
-   "headline": "Russian sabotage spikes in Europe, including 'risk of mass-casualty incident': Analysis",
-   "blurb": "Incidents of sabotage blamed on Russia in Europe were up 16 percent year-over-year in September, according to a new report, which warns about the potential for a future “mass-casualty” event by Moscow. The report from the International Institute for Strategic Studies (IISS) said the Kremlin's “unconventional war” on Europe has included attacks on critical infrastructure...",
+   "headline": "Employees at GTA 6 developer Rockstar Games reject union",
+   "blurb": "Employees at Rockstar Games, the developer behind “Grand Theft Auto VI,” overwhelmingly voted against recognizing a union this week. In a Thursday vote, 75.3 percent of employees, or 1,163 team members, voted against recognizing the Rockstar Game Workers Union with the Independent Workers of Great Britain (IWGB), while 24.7 percent, or 381 members, voted in...",
    "source": "The Hill",
-   "ts": "2026-11-27T22:39:50+00:00",
-   "url": "https://thehill.com/policy/international/6245694-russian-sabotage-ukraine-war-zelensky-trump-putin-friend/"
+   "ts": "2026-11-27T22:56:41+00:00",
+   "url": "https://thehill.com/blogs/in-the-know/6245743-rockstar-employees-reject-union/"
   },
   {
    "category": "India Politics",
-   "headline": "Cultural values of language remain irreplaceable in AI era: Arabic meet",
-   "blurb": "",
+   "headline": "Rahul, Akhilesh, Mamata to participate in ‘Constitution Protection March’ in Bhopal",
+   "blurb": "The Madhya Pradesh Congress says the December 12 march could draw 1 lakh to 1.5 lakh people, though the venue permission is still pending with the administration",
    "source": "The Hindu",
-   "ts": "2026-11-27T20:54:40+00:00",
-   "url": "https://www.thehindu.com/news/national/kerala/cultural-values-of-language-remain-irreplaceable-in-ai-era-arabic-meet/article71746962.ece"
+   "ts": "2026-11-28T09:59:17+00:00",
+   "url": "https://www.thehindu.com/news/national/rahul-akhilesh-mamata-to-participate-in-constitution-protection-march-in-bhopal/article71754029.ece"
   },
   {
    "category": "AI",
-   "headline": "Nothing offers a full look at its AI earbuds and charging case",
-   "blurb": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcribe, and summarize your conversations. Like the Ear 3, the Ear Note's microphone-equipped case comes with a \"Talk\" button that you […]",
+   "headline": "Amazon is reportedly in talks to end Muse AI shopping block",
+   "blurb": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center on the kinds of products the AI agent recommends and the potential impact on the ecommerce giant's advertising revenue. As reported by Fortune, […]",
    "source": "The Verge",
-   "ts": "2026-11-25T16:00:59+00:00",
-   "url": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal"
+   "ts": "2026-11-25T14:12:33+00:00",
+   "url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions"
   },
   {
    "category": "Equities",
@@ -316,11 +372,11 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "Capsized tanker carrying 7,000 tonnes of diesel to be towed away from Ibiza",
-   "blurb": "There are fears of a major oil spillage off Ibiza but the ship's fuel tanks are so far intact.",
+   "headline": "A clinic is reassessing people with ADHD and autism diagnoses - but critics fear it could deepen stigma",
+   "blurb": "While many people find a diagnosis for ADHD or autism affirming, a government-funded clinic in Sweden is re-assessing people who feel it does not reflect them.",
    "source": "BBC",
-   "ts": "2026-11-27T20:34:45+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-28T00:05:17+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cr9309nyg2vno?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
@@ -332,27 +388,27 @@
   },
   {
    "category": "US Politics",
-   "headline": "'SNL' caregiving sketch gives new momentum to bipartisan push in Congress",
-   "blurb": "A legislative push to support people who provide out-of-pocket care for their aging parents got a boost from a viral “Saturday Night Live” (\"SNL\") sketch that sparked renewed conversation about the reality of gender disparities in unpaid caregiving networks. The comedy sketch “Sister” drew laughter when it aired Nov. 14, but its truth has...",
+   "headline": "Russian sabotage spikes in Europe, including 'risk of mass-casualty incident': Analysis",
+   "blurb": "Incidents of sabotage blamed on Russia in Europe were up 16 percent year-over-year in September, according to a new report, which warns about the potential for a future “mass-casualty” event by Moscow. The report from the International Institute for Strategic Studies (IISS) said the Kremlin's “unconventional war” on Europe has included attacks on critical infrastructure...",
    "source": "The Hill",
-   "ts": "2026-11-27T22:00:00+00:00",
-   "url": "https://thehill.com/homenews/6243704-snl-skit-boosts-caregiver-legislation/"
+   "ts": "2026-11-27T22:39:50+00:00",
+   "url": "https://thehill.com/policy/international/6245694-russian-sabotage-ukraine-war-zelensky-trump-putin-friend/"
   },
   {
    "category": "India Politics",
-   "headline": "Accused shot during exchange of fire with police West Bengal’s Asansol",
-   "blurb": "The dramatic operation unfolded in the congested neighbourhood, with armed police personnel in plain clothes searching narrow lanes and houses, and climbing boundary walls to trace the accused",
+   "headline": "Former High Court judges review arrangements at Thirupparankundram ahead of ‘deepathoon’ lamp lighting",
+   "blurb": "Temple administrators and the District Collector apprised the judges of the logistical measures currently in place to regulate crowd movement and maintain public order",
    "source": "The Hindu",
-   "ts": "2026-11-27T20:48:22+00:00",
-   "url": "https://www.thehindu.com/news/national/west-bengal/accused-shot-during-exchange-of-fire-with-police-west-bengals-asansol/article71751700.ece"
+   "ts": "2026-11-28T09:56:00+00:00",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/former-high-court-judges-review-arrangements-at-thirupparankundram-ahead-of-deepathoon-lamp-lighting-crpf-takes-over-security/article71753979.ece"
   },
   {
    "category": "AI",
-   "headline": "Amazon is reportedly in talks to end Muse AI shopping block",
-   "blurb": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center on the kinds of products the AI agent recommends and the potential impact on the ecommerce giant's advertising revenue. As reported by Fortune, […]",
+   "headline": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
+   "blurb": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomberg, The New York Times, and The Handbasket's Marisa Kabas. During the meeting, Huang […]",
    "source": "The Verge",
-   "ts": "2026-11-25T14:12:33+00:00",
-   "url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions"
+   "ts": "2026-11-24T20:52:19+00:00",
+   "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology"
   },
   {
    "category": "Equities",
@@ -372,11 +428,11 @@
   },
   {
    "category": "Geopolitics",
-   "headline": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
-   "blurb": "Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck.",
+   "headline": "Behind China's spectacular rise, voices who defied it say they are being drowned out",
+   "blurb": "China's immense clout now also has the flex of soft power. Critics and dissidents say their voices are being drowned out.",
    "source": "BBC",
-   "ts": "2026-11-27T20:06:31+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss"
+   "ts": "2026-11-27T23:02:35+00:00",
+   "url": "https://www.bbc.co.uk/news/articles/cme3d4y094x7o?at_medium=RSS&at_campaign=rss"
   },
   {
    "category": "Macro",
@@ -388,75 +444,19 @@
   },
   {
    "category": "US Politics",
-   "headline": "Prince William responds after the Diana Award says it can't meet financial obligations",
-   "blurb": "Prince William praised the impact of the Diana Award on Thursday after the charity named for his late mother announced it could no longer meet its financial obligations. \"The Diana Award has recognised and encouraged thousands of young people who are changing the world for the better,\" the Prince of Wales told ABC News. \"I...",
+   "headline": "'SNL' caregiving sketch gives new momentum to bipartisan push in Congress",
+   "blurb": "A legislative push to support people who provide out-of-pocket care for their aging parents got a boost from a viral “Saturday Night Live” (\"SNL\") sketch that sparked renewed conversation about the reality of gender disparities in unpaid caregiving networks. The comedy sketch “Sister” drew laughter when it aired Nov. 14, but its truth has...",
    "source": "The Hill",
-   "ts": "2026-11-27T21:32:21+00:00",
-   "url": "https://thehill.com/blogs/in-the-know/6245656-prince-william-diana-award-administration/"
+   "ts": "2026-11-27T22:00:00+00:00",
+   "url": "https://thehill.com/homenews/6243704-snl-skit-boosts-caregiver-legislation/"
   },
   {
    "category": "India Politics",
-   "headline": "Not a single foot of blacktopping done on Amarnath route, PDP-BJP stoking Hindu-Muslim discord: Omar Abdullah",
-   "blurb": "‘The BJP and those carrying the symbol of pen and inkpot are again trying to foment Hindu-Muslim discord over the Amarnath route,’ said Omar Abdullah",
+   "headline": "Methil Radhakrishnan receives Ezhuthachan Award, Keralam’s highest literary honour",
+   "blurb": "Methil Radhakrishnan is an original writer, says Keralam CM Satheesan while presenting Ezhuthachan Award to Radhakrishnan in Kozhikode",
    "source": "The Hindu",
-   "ts": "2026-11-27T20:38:46+00:00",
-   "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/not-a-single-foot-of-blacktopping-done-on-amarnath-route-pdp-bjp-stoking-hindu-muslim-discord-omar-abdullah/article71751958.ece"
-  },
-  {
-   "category": "AI",
-   "headline": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
-   "blurb": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomberg, The New York Times, and The Handbasket's Marisa Kabas. During the meeting, Huang […]",
-   "source": "The Verge",
-   "ts": "2026-11-24T20:52:19+00:00",
-   "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology"
-  },
-  {
-   "category": "Equities",
-   "headline": "Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
-   "blurb": "The Conference Board survey released Tuesday showed improvement across the board, with the headline confidence index jumping to 103.3.",
-   "source": "CNBC",
-   "ts": "2026-11-24T18:34:43+00:00",
-   "url": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html"
-  },
-  {
-   "category": "Crypto",
-   "headline": "Tether can freeze stolen crypto in minutes. Getting it back can take years.",
-   "blurb": "Tether says it has returned $1.28 billion in frozen USDT, but victims can wait years to recover their money and face fees of up to 20%.",
-   "source": "CoinDesk",
-   "ts": "2026-11-27T10:00:00+00:00",
-   "url": "https://www.coindesk.com/business/2026/11/27/tether-can-freeze-stolen-crypto-in-minutes-getting-it-back-can-take-years"
-  },
-  {
-   "category": "Geopolitics",
-   "headline": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
-   "blurb": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?",
-   "source": "BBC",
-   "ts": "2026-11-27T18:42:50+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "category": "Macro",
-   "headline": "UK to pay 'participation' fee to deliver EU deals",
-   "blurb": "Details of the contribution towards EU running costs have been revealed in new legal documents.",
-   "source": "BBC",
-   "ts": "2026-11-26T23:17:12+00:00",
-   "url": "https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "category": "US Politics",
-   "headline": "Weather delay will cost $700,000 for Hawaii All-Star band performing at Macy's Thanksgiving Day parade",
-   "blurb": "A Hawaii-based all-star band and hula halau face significant costs and logistical challenges after the centennial Macy's Thanksgiving Day parade was postponed to Saturday due to severe weather.",
-   "source": "The Hill",
-   "ts": "2026-11-27T21:16:41+00:00",
-   "url": "https://thehill.com/homenews/state-watch/6245658-macys-thanksgiving-day-parade-weather-delay-hawaii-band/"
-  },
-  {
-   "category": "India Politics",
-   "headline": "Kallakurichi TVK MLA Arul Vignesh arrested on charges of harassing IAS officer",
-   "blurb": "The TVK MLA was subsequently brought to the Circuit House in Kallakurichi on the Salem-Ulundurpet highway for questioning, where a large posse of police personnel has been deployed",
-   "source": "The Hindu",
-   "ts": "2026-11-27T20:26:39+00:00",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/kallakurichi-tvk-mla-arul-vignesh-arrested-on-charges-of-harassing-ias-officer/article71751055.ece"
+   "ts": "2026-11-28T09:43:21+00:00",
+   "url": "https://www.thehindu.com/news/national/kerala/methil-radhakrishnan-receives-ezhuthachan-award-keralams-highest-literary-honour/article71753774.ece"
   },
   {
    "category": "AI",
